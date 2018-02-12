@@ -23,29 +23,29 @@ Mahāyāna: Great vehicle
 Sangha: order of monks
 
 Five Hindrances (nīrvaraņa)
-# Sensuous lust
-# Ill-will
-# Physical and menal torpor and languor
-# Restlessness and worry
-# Doubt
+1. Sensuous lust
+1. Ill-will
+1. Physical and menal torpor and languor
+1. Restlessness and worry
+1. Doubt
 
 Evil is form ignorance (avijjā) and false views (micchā ditthi)
 
 Saddhā (Sanskrit, śraddhā, sometimes translated as faith, belief, or
 confidence)
 Three aspects
-# Full and firm conviction that a thing is
-# Serene joy at good qualities, and
-# Aspiration or wish to achieve an object in view
+1. Full and firm conviction that a thing is
+1. Serene joy at good qualities, and
+1. Aspiration or wish to achieve an object in view
 
 Buddhism is not something to hold on to, but an instrument to use in aiding
 people on their way.
 
 Four Noble Truths (Cattāri Ariyasaccāni)
-# Dukkha
-# Samudaya: the arising of Dukkha
-# Nirodha: the cessation of Dukkha
-# Magga: the path
+1. Dukkha
+1. Samudaya: the arising of Dukkha
+1. Nirodha: the cessation of Dukkha
+1. Magga: the path
 
 Dukkha
 Neither pessemistic/optimistic — objective, realist.
@@ -53,26 +53,26 @@ Word connotes suffering, imperfection, *impermanence*, emptiness,
 insubstatiality.
 
 With regards to all pleasures (all things), one must consider
-# attraction or enjoyment
-# evil consequences or danger or unsatisfactoriness, and
-# freedom o liberation
+1. attraction or enjoyment
+1. evil consequences or danger or unsatisfactoriness, and
+1. freedom o liberation
 
 Dukkha — viewed from three aspects
-# as ordinary suffering
-# as produced by change, and
-# as conditioned states.
+1. as ordinary suffering
+1. as produced by change, and
+1. as conditioned states.
 
 The five aggregates (are Dukkha)
-# aggregate of matter — physical/sensual world
-# aggregate of sensations — all sensations from contact from physical world
+1. aggregate of matter — physical/sensual world
+1. aggregate of sensations — all sensations from contact from physical world
   (happy, sad, etc.)
   note: the mind is treated like a sixth sense organ in Buddhism, it is not a
   spirit as in most religions.
   - the world of ideas/thought exists as does the physical
-# aggregate of perceptions
-# aggregate of mental formations — all volitional activities (includes Karma,
+1. aggregate of perceptions
+1. aggregate of mental formations — all volitional activities (includes Karma,
   the Buddha defined it as volition)
-# aggregate of consciousness — for example, visual consciousness is seeing,
+1. aggregate of consciousness — for example, visual consciousness is seeing,
   but doesn't include recognizing.
 
 There is no Self, Soul, or Ego as opposed to matter.
