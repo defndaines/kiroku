@@ -29,7 +29,7 @@ Five Hindrances (nīrvaraņa)
 1. Restlessness and worry
 1. Doubt
 
-Evil is form ignorance (avijjā) and false views (micchā ditthi)
+Evil is from ignorance (avijjā) and false views (micchā ditthi)
 
 Saddhā (Sanskrit, śraddhā, sometimes translated as faith, belief, or
 confidence)
@@ -66,9 +66,8 @@ The five aggregates (are Dukkha)
 1. aggregate of matter — physical/sensual world
 1. aggregate of sensations — all sensations from contact from physical world
   (happy, sad, etc.)
-  note: the mind is treated like a sixth sense organ in Buddhism, it is not a
-  spirit as in most religions.
-  - the world of ideas/thought exists as does the physical
+  Note: the mind is treated like a sixth sense organ in Buddhism, it is not a
+  spirit as in most religions. The world of ideas/thought exists as does the physical
 1. aggregate of perceptions
 1. aggregate of mental formations — all volitional activities (includes Karma,
   the Buddha defined it as volition)
@@ -80,10 +79,46 @@ There is no Self, Soul, or Ego as opposed to matter.
   The "I" is only a convenient name for the combination of the five
   aggregates.
 
-The self is like a line in math. It is a series of points, but when viewed
-together is called a line.
+> The self is like a line in math. It is a series of points, but when viewed
+> together is called a line.
 
 The arising of Dukkha (Samudaya)
 The most immediate cause is tanhā (thirst ... desires)
 - Not the singular cause, however.
 - Arises from ignorant conception of self, cause to all problems.
+
+Four Nutriments (āhāra) necessary for existence
+1. ordinary material food
+1. contact of our sense organs (including mind) with the eternal world
+1. consciousness, and
+1. mental olition or will (to exist, re-exist, continue, become more and more)
+
+A being has within its nature the nature of arising and of cessation /
+destruction.
+
+Karma (kamma) is volitional action, not its effects as it is commonly
+misconceived.
+- it produces effects, good or bad
+- not to be confused with "moral justice" or "reward and punishment" which are
+ideas of a one-god religion
+- karma is cause and effect, inertia of actions (good or bad)
+
+Rebirth is a continuance of the series (of change)
+- idea that action one moment affects action the next moment, perpetually.
+(samsāra)
+- can only be cut off through wisdom which sees Reality, Truth, Nirvāna
+
+The Cessation of Dukkha (Nirodha)
+- to elmiinate dukkha one has to eliminate the main root—thirst (tanhā)
+- reach Nirvāna—cannot be expressed in words.
+ - human language is developed to deal with sensory experience. Absolute Truth
+   is beyond that—Super Mundane.
+ - neither positive or negative
+
+Nirvāna is not the natural result of cessation of dukkha—a result would imply
+cause and karma
+
+parinirvāna (parinibbuto): denotes that the Buddha or an Arahant who has
+realized nirvāna has died.
+- Nirvāna is not a state
+- "to enter Nirvāna" doesn't make sense and doesn't appear in original texts.
