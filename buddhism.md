@@ -109,7 +109,7 @@ Rebirth is a continuance of the series (of change)
 - can only be cut off through wisdom which sees Reality, Truth, Nirvāna
 
 The Cessation of Dukkha (Nirodha)
-- to elmiinate dukkha one has to eliminate the main root—thirst (tanhā)
+- to eliminate dukkha one has to eliminate the main root—thirst (tanhā)
 - reach Nirvāna—cannot be expressed in words.
  - human language is developed to deal with sensory experience. Absolute Truth
    is beyond that—Super Mundane.
@@ -122,3 +122,72 @@ parinirvāna (parinibbuto): denotes that the Buddha or an Arahant who has
 realized nirvāna has died.
 - Nirvāna is not a state
 - "to enter Nirvāna" doesn't make sense and doesn't appear in original texts.
+
+The Path: Magga
+
+Middle Path—because avoids two extremes—search for happiness through pleasures
+of the senses and through self-mortification in different forms of asceticism.
+
+Noble Eightfold Path
+1. Right Understanding (Sammā ditthi)
+1. Right Thought (Sammā sańkappa)
+1. Right Speech (Sammā vācā)
+1. Right Action (Sammā kammanta)
+1. Right Livelihood (Sammā ājīva)
+1. Right Effort (Sammā vāyāma)
+1. Right Mindfulness (Sammā sati)
+1. Right Concentration (Sammā samādhi)
+
+Three essentials of Buddhist training and discipline:
+1. Ethical Conduct (Sīla)
+1. Mental Discipline (Samādhi)
+1. Wisdom (Paññā)
+
+Anatta (no soul or ātman)
+- concept of self is responsible for all evil in world
+- self-protection (idea of god) and self-preservation (immortal soul) develop
+from this.
+
+Conditioned Genesis—nothing in _the world_ is absolute.
+- every thing is conditioned and conditioning. "free will"—how? will is
+conditioned ...
+
+Conventional truth and ultimate truth
+- dhamma: everything, conditioned or unconditioned, including Nirvāna (=
+Truth).
+- saṃkhāra: everything conditioned—dukkha
+
+Bhāvanā (Meditation or Mental Culture)
+- it is not an escape as is commonly miscoceived
+- aims at cleansing the mind of impurities and disturbances and cultivating
+such qualities as concentration, awareness, intelligence, will, energy, the
+analytical faculty, confidence, joy, tranquility, leading finally to the
+attainment of highest wisdom.
+
+Two kinds
+1. Development of mental concentration (samatha/samādhi). Of one-pointedness
+   of mind (existed pre-Buddha)
+1. Vipassanā—true Buddhist meditation. Analytical method based on mindfulness,
+   awareness, vigilance, observation.
+
+Basic: breathing in-and-out, sitting erect and concentrating on only your
+breathing.
+
+Also: just being mindful of everything you do during the day.
+
+Also: "meditation" on ethical, spiritual, and intellectual subjects.
+
+Also: "meditation" on factors of enlightenment or questions about the
+aggregates.
+
+Buddhists
+- Traditionally takes the "Triple-Gem" as one's refuge. The Buddha, the Dhamma
+(teaching), and the Sangha (order of monks)
+- Five precepts or minimal moral obligations
+ 1. Not to destroy life
+ 1. not to steal
+ 1. not to commit adultery
+ 1. not to tell lies, and
+ 1. not to take intoxicating drink
+
+People should be well off financially, poverty breeds crime.
