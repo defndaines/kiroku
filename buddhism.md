@@ -22,17 +22,19 @@ Mahāyāna: Great vehicle
 
 Sangha: order of monks
 
-Five Hindrances (nīrvaraņa)
+### Five Hindrances (nīrvaraņa)
+
 1. Sensuous lust
 1. Ill-will
-1. Physical and menal torpor and languor
+1. Physical and mental torpor and languor
 1. Restlessness and worry
 1. Doubt
 
 Evil is from ignorance (avijjā) and false views (micchā ditthi)
 
-Saddhā (Sanskrit, śraddhā, sometimes translated as faith, belief, or
+### Saddhā (Sanskrit, śraddhā, sometimes translated as faith, belief, or
 confidence)
+
 Three aspects
 1. Full and firm conviction that a thing is
 1. Serene joy at good qualities, and
@@ -41,21 +43,24 @@ Three aspects
 Buddhism is not something to hold on to, but an instrument to use in aiding
 people on their way.
 
-Four Noble Truths (Cattāri Ariyasaccāni)
+### Four Noble Truths (Cattāri Ariyasaccāni)
+
 1. Dukkha
 1. Samudaya: the arising of Dukkha
 1. Nirodha: the cessation of Dukkha
 1. Magga: the path
 
-Dukkha
-Neither pessemistic/optimistic — objective, realist.
+### Dukkha
+
+Neither pessimistic / optimistic — objective, realist.
+
 Word connotes suffering, imperfection, *impermanence*, emptiness,
-insubstatiality.
+insubstantiality.
 
 With regards to all pleasures (all things), one must consider
 1. attraction or enjoyment
 1. evil consequences or danger or unsatisfactoriness, and
-1. freedom o liberation
+1. freedom of liberation
 
 Dukkha — viewed from three aspects
 1. as ordinary suffering
@@ -91,7 +96,7 @@ Four Nutriments (āhāra) necessary for existence
 1. ordinary material food
 1. contact of our sense organs (including mind) with the eternal world
 1. consciousness, and
-1. mental olition or will (to exist, re-exist, continue, become more and more)
+1. mental volition or will (to exist, re-exist, continue, become more and more)
 
 A being has within its nature the nature of arising and of cessation /
 destruction.
@@ -108,12 +113,13 @@ Rebirth is a continuance of the series (of change)
 (samsāra)
 - can only be cut off through wisdom which sees Reality, Truth, Nirvāna
 
-The Cessation of Dukkha (Nirodha)
+### The Cessation of Dukkha (Nirodha)
+
 - to eliminate dukkha one has to eliminate the main root—thirst (tanhā)
 - reach Nirvāna—cannot be expressed in words.
- - human language is developed to deal with sensory experience. Absolute Truth
-   is beyond that—Super Mundane.
- - neither positive or negative
+  - human language is developed to deal with sensory experience. Absolute Truth
+    is beyond that—Super Mundane.
+  - neither positive or negative
 
 Nirvāna is not the natural result of cessation of dukkha—a result would imply
 cause and karma
@@ -123,12 +129,14 @@ realized nirvāna has died.
 - Nirvāna is not a state
 - "to enter Nirvāna" doesn't make sense and doesn't appear in original texts.
 
-The Path: Magga
+### The Path: Magga
 
-Middle Path—because avoids two extremes—search for happiness through pleasures
-of the senses and through self-mortification in different forms of asceticism.
+#### Middle Path
 
-Noble Eightfold Path
+Because avoids two extremes—search for happiness through pleasures of the
+senses and through self-mortification in different forms of asceticism.
+
+#### Noble Eightfold Path
 1. Right Understanding (Sammā ditthi)
 1. Right Thought (Sammā sańkappa)
 1. Right Speech (Sammā vācā)
@@ -143,7 +151,8 @@ Three essentials of Buddhist training and discipline:
 1. Mental Discipline (Samādhi)
 1. Wisdom (Paññā)
 
-Anatta (no soul or ātman)
+### Anatta (no soul or ātman)
+
 - concept of self is responsible for all evil in world
 - self-protection (idea of god) and self-preservation (immortal soul) develop
 from this.
@@ -157,8 +166,9 @@ Conventional truth and ultimate truth
 Truth).
 - saṃkhāra: everything conditioned—dukkha
 
-Bhāvanā (Meditation or Mental Culture)
-- it is not an escape as is commonly miscoceived
+### Bhāvanā (Meditation or Mental Culture)
+
+- it is not an escape as is commonly misconceived
 - aims at cleansing the mind of impurities and disturbances and cultivating
 such qualities as concentration, awareness, intelligence, will, energy, the
 analytical faculty, confidence, joy, tranquility, leading finally to the
@@ -180,7 +190,8 @@ Also: "meditation" on ethical, spiritual, and intellectual subjects.
 Also: "meditation" on factors of enlightenment or questions about the
 aggregates.
 
-Buddhists
+### Buddhists
+
 - Traditionally takes the "Triple-Gem" as one's refuge. The Buddha, the Dhamma
 (teaching), and the Sangha (order of monks)
 - Five precepts or minimal moral obligations
