@@ -1,0 +1,44 @@
+# Locus Award
+
+List of Locus Award winners, identified by whether I've read them.
+
+- [ ] 1978: J. R. R. Tolkien _The Silmarillion_
+- [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
+- [ ] 1981: Robert Silverberg _Lord Valentine's Castle_
+- [ ] 1982: Gene Wolfe _The Claw of the Conciliator_
+- [ ] 1983: Gene Wolfe _The Sword of the Lictor_
+- [ ] 1984: Marion Zimmer Bradley _The Mists of Avalon_
+- [ ] 1985: Robert A. Heinlein _Job: A Comedy of Justice_
+- [ ] 1986: Roger Zelazny _Trumps of Doom_
+- [ ] 1987: Gene Wolfe _Soldier of the Mist_
+- [ ] 1988: Orson Scott Card _Seventh Son_
+- [ ] 1989: Orson Scott Card _Red Prophet_
+- [ ] 1990: Orson Scott Card _Prentice Alvin_
+- [ ] 1991: Ursula K. Le Guin _Tehanu: The Last Book of Earthsea_
+- [ ] 1992: Sheri S. Tepper _Beauty_
+- [ ] 1993: Tim Powers _Last Call_
+- [ ] 1994: Peter S. Beagle _The Innkeeper's Song_
+- [ ] 1995: Michael Bishop _Brittle Innings_
+- [ ] 1996: Orson Scott Card _Alvin Journeyman_
+- [X] 1997: George R. R. Martin _A Game of Thrones_
+- [ ] 1998: Tim Powers _Earthquake Weather_
+- [ ] 1999: George R. R. Martin _A Clash of Kings_
+- [X] 2000: J. K. Rowling _Harry Potter and the Prisoner of Azkaban_
+- [ ] 2001: George R. R. Martin _A Storm of Swords_
+- [X] 2002: Neil Gaiman _American Gods_
+- [ ] 2003: China Mi&eacute;ville _The Scar_
+- [ ] 2004: Lois McMaster Bujold _Paladin of Souls_
+- [ ] 2005: China Mi&eacute;ville _Iron Council_
+- [ ] 2006: Neil Gaiman _Anansi Boys_
+- [ ] 2007: Ellen Kushner _The Privilege of the Sword_
+- [ ] 2008: Terry Pratchett _Making Money_
+- [ ] 2009: Ursula K. Le Guin _Lavinia_
+- [X] 2010: China Mi&eacute;ville _The City &amp; the City_
+- [ ] 2011: China Mi&eacute;ville _Kraken_
+- [ ] 2012: George R. R. Martin _A Dance with Dragons_
+- [ ] 2013: Charles Stross _The Apocalypse Codex_
+- [ ] 2014: Neil Gaiman _The Ocean at the End of the Lane_
+- [ ] 2015: Katherine Addison _The Goblin Emperor_
+- [ ] 2016: Naomi Novik _Uprooted_
+- [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
+- [X] 2018: N.K. Jemisin _The Stone Sky_
