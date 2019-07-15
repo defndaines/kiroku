@@ -1,0 +1,59 @@
+# Nebula Award
+
+List of Nebula Award winners identified by whether I've read them.
+
+- [X] 1966: Frank Herbert _Dune_
+- [X] 1967: Samuel R. Delany _Babel-17_
+- [X] 1967: Daniel Keyes _Flowers for Algernon_
+- [ ] 1968: Samuel R. Delany _The Einstein Intersection_
+- [ ] 1969: Alexei Panshin _Rite of Passage_
+- [X] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
+- [ ] 1971: Larry Niven _Ringworld_
+- [ ] 1972: Robert Silverberg _A Time of Changes_
+- [ ] 1973: Isaac Asimov _The Gods Themselves_
+- [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
+- [ ] 1975: Ursula K. Le Guin _The Dispossessed_
+- [X] 1976: Joe Haldeman _The Forever War_
+- [ ] 1977: Frederik Pohl _Man Plus_
+- [X] 1978: Frederik Pohl _Gateway_
+- [ ] 1979: Vonda N. McIntyre _Dreamsnake_
+- [ ] 1980: Arthur C. Clarke _The Fountains of Paradise_
+- [ ] 1981: Gregory Benford _Timescape_
+- [ ] 1982: Gene Wolfe _The Claw of the Conciliator_
+- [ ] 1983: Michael Bishop _No Enemy But Time_
+- [ ] 1984: David Brin _Startide Rising_
+- [ ] 1985: William Gibson _Neuromancer_
+- [X] 1986: Orson Scott Card _Ender's Game_
+- [ ] 1987: Orson Scott Card _Speaker for the Dead_
+- [ ] 1988: Pat Murphy _The Falling Woman_
+- [ ] 1989: Lois McMaster Bujold _Falling Free_
+- [ ] 1990: Elizabeth Ann Scarborough _The Healer's War_
+- [ ] 1991: Ursula K. Le Guin _Tehanu: The Last Book of Earthsea_
+- [ ] 1992: Michael Swanwick _Stations of the Tide_
+- [ ] 1993: Connie Willis _Doomsday Book_
+- [ ] 1994: Kim Stanley Robinson _Red Mars_
+- [ ] 1995: Greg Bear _Moving Mars_
+- [ ] 1996: Robert J. Sawyer _The Terminal Experiment_
+- [ ] 1997: Nicola Griffith _Slow River_
+- [ ] 1998: Vonda N. McIntyre _The Moon and the Sun_
+- [ ] 1999: Joe Haldeman _Forever Peace_
+- [ ] 2000: Octavia E. Butler _Parable of the Talents_
+- [ ] 2001: Greg Bear _Darwin's Radio_
+- [ ] 2002: Catherine Asaro _The Quantum Rose_
+- [X] 2003: Neil Gaiman _American Gods_
+- [ ] 2004: Elizabeth Moon _The Speed of Dark_
+- [ ] 2005: Lois McMaster Bujold _Paladin of Souls_
+- [ ] 2006: Joe Haldeman _Camouflage_
+- [ ] 2007: Jack McDevitt _Seeker_
+- [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
+- [ ] 2009: Ursula K. Le Guin _Powers_
+- [ ] 2010: Paolo Bacigalupi _The Windup Girl_
+- [ ] 2011: Connie Willis _Blackout/All Clear_
+- [ ] 2012: Jo Walton _Among Others_
+- [ ] 2013: Kim Stanley Robinson _2312_
+- [ ] 2014: Ann Leckie _Ancillary Justice_
+- [ ] 2015: Jeff VanderMeer _Annihilation_
+- [ ] 2016: Naomi Novik _Uprooted_
+- [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
+- [X] 2018: N. K. Jemisin _The Stone Sky_
+- [ ] 2019: Mary Robinette Kowal _The Calculating Stars_
