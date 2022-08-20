@@ -56,4 +56,4 @@ List of Nebula Award winners identified by whether I've read them.
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
 - [X] 2018: N. K. Jemisin _The Stone Sky_
-- [ ] 2019: Mary Robinette Kowal _The Calculating Stars_
+- [X] 2019: Mary Robinette Kowal _The Calculating Stars_
