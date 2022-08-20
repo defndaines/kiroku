@@ -44,7 +44,7 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: David Brin _The Uplift War_
 - [ ] 1989: C.J. Cherryh _Cyteen_
-- [ ] 1990: Dan Simmons _Hyperion_
+- [X] 1990: Dan Simmons _Hyperion_
 - [ ] 1991: Lois McMaster Bujold _The Vor Game_
 - [ ] 1992: Lois McMaster Bujold _Barrayar_
 - [ ] 1993: Connie Willis _Doomsday Book_
@@ -75,3 +75,6 @@ List of Hugo Award winners, identified by whether I've read them.
 - [X] 2016: N.K. Jemisin _The Fifth Season_
 - [X] 2017: N.K. Jemisin _The Obelisk Gate_
 - [X] 2018: N.K. Jemisin _The Stone Sky_
+- [X] 2019: Mary Robinette Kowal _The Calculating Stars_
+- [ ] 2020: Arkady Martine _A Memory Called Empire_
+- [ ] 2021: Martha Wells _Network Effect_
