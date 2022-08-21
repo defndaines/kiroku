@@ -57,3 +57,6 @@ List of Nebula Award winners identified by whether I've read them.
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
 - [X] 2018: N. K. Jemisin _The Stone Sky_
 - [X] 2019: Mary Robinette Kowal _The Calculating Stars_
+- [ ] 2020: Sarah Pinsker _A Song for a New Day_
+- [ ] 2021: Martha Wells _Network Effect_
+- [ ] 2022: P. Djèlí Clark _A Master of Djinn_
