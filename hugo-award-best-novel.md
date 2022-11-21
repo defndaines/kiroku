@@ -23,7 +23,7 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 1966: Roger Zelazny _...And Call Me Conrad_
 - [X] 1967: Robert A. Heinlein _The Moon Is a Harsh Mistress_
 - [ ] 1968: Roger Zelazny _Lord of Light_
-- [ ] 1969: John Brunner _Stand on Zanzibar_
+- [X] 1969: John Brunner _Stand on Zanzibar_
 - [X] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
 - [ ] 1971: Larry Niven _Ringworld_
 - [ ] 1972: Philip Jos&eacute; Farmer _To Your Scattered Bodies Go_
@@ -76,5 +76,5 @@ List of Hugo Award winners, identified by whether I've read them.
 - [X] 2017: N.K. Jemisin _The Obelisk Gate_
 - [X] 2018: N.K. Jemisin _The Stone Sky_
 - [X] 2019: Mary Robinette Kowal _The Calculating Stars_
-- [ ] 2020: Arkady Martine _A Memory Called Empire_
+- [X] 2020: Arkady Martine _A Memory Called Empire_
 - [ ] 2021: Martha Wells _Network Effect_
