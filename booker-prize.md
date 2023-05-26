@@ -56,3 +56,8 @@ by whether I've read them or not.
 - [ ] 2016: Paul Beatty _The Sellout_
 - [ ] 2017: George Saunders _Lincoln in the Bardo_
 - [ ] 2018: Anna Burns _Milkman_
+- [ ] 2019: Margaret Atwood _The Testaments_
+- [ ] 2019: Bernardine Evaristo _Girl, Woman, Other_
+- [ ] 2020: Douglas Stuart _Shuggie Bain_
+- [ ] 2021: Damon Galgut _The Promise Novel_
+- [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_

@@ -5,6 +5,8 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
 - [ ] 1943: Robert A. Heinlein _Beyond This Horizon_
+- [ ] 1944: Fritz Leiber _Conjure Wife_
+- [ ] 1945: Leigh Brackett _Shadow Over Mars (The Nemesis from Terra)_
 - [ ] 1946: Isaac Asimov _The Mule_
 - [ ] 1951: Robert A. Heinlein _Farmer in the Sky_
 - [ ] 1953: Alfred Bester _The Demolished Man_
@@ -78,3 +80,4 @@ List of Hugo Award winners, identified by whether I've read them.
 - [X] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [X] 2020: Arkady Martine _A Memory Called Empire_
 - [ ] 2021: Martha Wells _Network Effect_
+- [ ] 2022: Arkady Martine _A Desolation Called Peace_
