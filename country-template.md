@@ -1,0 +1,243 @@
+# Countries
+
+- [ ] Abkhazia
+- [ ] Afghanistan
+- [ ] Albania
+- [ ] Algeria
+- [ ] American Samoa
+- [ ] Andorra
+- [ ] Angola
+- [ ] Anguilla
+- [ ] Antigua and Barbuda
+- [ ] Argentina
+- [ ] Armenia
+- [ ] Artsakh
+- [ ] Aruba
+- [ ] Australia
+- [ ] Austria
+- [ ] Azerbaijan
+- [ ] Bahamas
+- [ ] Bahrain
+- [ ] Bangladesh
+- [ ] Barbados
+- [ ] Belarus
+- [ ] Belgium
+- [ ] Belize
+- [ ] Benin
+- [ ] Bermuda
+- [ ] Bhutan
+- [ ] Bissau
+- [ ] Bolivia
+- [ ] Bonaire
+- [ ] Bosnia and Herzegovina
+- [ ] Botswana
+- [ ] Brazil
+- [ ] British Virgin Islands
+- [ ] Brunei
+- [ ] Bulgaria
+- [ ] Burkina Faso
+- [ ] Burundi
+- [ ] Cambodia
+- [ ] Cameroon
+- [ ] Canada
+- [ ] Cape Verde
+- [ ] Cayman Islands
+- [ ] Central African Republic
+- [ ] Chad
+- [ ] Chile
+- [ ] China
+- [ ] Colombia
+- [ ] Comoros
+- [ ] Democratic Republic of the Congo
+- [ ] Republic of the Congo
+- [ ] Cook Islands
+- [ ] Costa Rica
+- [ ] Côte d'Ivoire
+- [ ] Croatia
+- [ ] Cuba
+- [ ] Curaçao
+- [ ] Cyprus
+- [ ] Czech Republic
+- [ ] Denmark
+- [ ] Djibouti
+- [ ] Dominica
+- [ ] Dominican Republic
+- [ ] East Timor
+- [ ] Ecuador
+- [ ] Egypt
+- [ ] El Salvador
+- [ ] England
+- [ ] Equatorial Guinea
+- [ ] Eritrea
+- [ ] Estonia
+- [ ] Eswatini
+- [ ] Ethiopia
+- [ ] Faroe Islands
+- [ ] Fiji
+- [ ] Finland
+- [ ] France
+- [ ] French Guiana
+- [ ] Gabon
+- [ ] Gambia
+- [ ] Georgia
+- [ ] Germany
+- [ ] Ghana
+- [ ] Gibraltar
+- [ ] Greece
+- [ ] Grenada
+- [ ] Guadeloupe
+- [ ] Guam
+- [ ] Guatemala
+- [ ] Guinea
+- [ ] Guinea-Bissau
+- [ ] Guyana
+- [ ] Haiti
+- [ ] Honduras
+- [ ] Hong Kong
+- [ ] Hungary
+- [ ] Iceland
+- [ ] India
+- [ ] Indonesia
+- [ ] Iran
+- [ ] Iraq
+- [ ] Ireland
+- [ ] Israel
+- [ ] Italy
+- [ ] Ivory Coast
+- [ ] Jamaica
+- [ ] Japan
+- [ ] Jordan
+- [ ] Kazakhstan
+- [ ] Kenya
+- [ ] Kiribati
+- [ ] North Korea
+- [ ] South Korea
+- [ ] Kosovo
+- [ ] Kuwait
+- [ ] Kyrgyzstan
+- [ ] Laos
+- [ ] Latvia
+- [ ] Lebanon
+- [ ] Lesotho
+- [ ] Liberia
+- [ ] Libya
+- [ ] Liechtenstein
+- [ ] Lithuania
+- [ ] Luxembourg
+- [ ] Macau
+- [ ] Madagascar
+- [ ] Malawi
+- [ ] Malaysia
+- [ ] Maldives
+- [ ] Mali
+- [ ] Malta
+- [ ] Marshall Islands
+- [ ] Martinique
+- [ ] Mauritania
+- [ ] Mauritius
+- [ ] Mexico
+- [ ] Micronesia
+- [ ] Moldova
+- [ ] Monaco
+- [ ] Mongolia
+- [ ] Montenegro
+- [ ] Montserrat
+- [ ] Morocco
+- [ ] Mozambique
+- [ ] Myanmar
+- [ ] Namibia
+- [ ] Nauru
+- [ ] Nepal
+- [ ] Netherlands
+- [ ] New Caledonia
+- [ ] New Zealand
+- [ ] Nicaragua
+- [ ] Niger
+- [ ] Nigeria
+- [ ] Niue
+- [ ] North Macedonia
+- [ ] Northern Cyprus
+- [ ] Northern Ireland
+- [ ] Northern Mariana Islands
+- [ ] Norway
+- [ ] Oman
+- [ ] Pakistan
+- [ ] Palau
+- [ ] Palestine
+- [ ] Panama
+- [ ] Papua New Guinea
+- [ ] Paraguay
+- [ ] Peru
+- [ ] Philippines
+- [ ] Poland
+- [ ] Portugal
+- [ ] Puerto Rico
+- [ ] Qatar
+- [ ] Réunion
+- [ ] Romania
+- [ ] Russia
+- [ ] Rwanda
+- [ ] Sahrawi Arab Democratic Republic
+- [ ] Saint Kitts and Nevis
+- [ ] Saint Lucia
+- [ ] Saint Martin
+- [ ] Saint Vincent and the Grenadines
+- [ ] Samoa
+- [ ] San Marino
+- [ ] São Tomé and Príncipe
+- [ ] Saudi Arabia
+- [ ] Scotland
+- [ ] Senegal
+- [ ] Serbia
+- [ ] Seychelles
+- [ ] Sierra Leone
+- [ ] Singapore
+- [ ] Sint Maarten
+- [ ] Slovakia
+- [ ] Slovenia
+- [ ] Solomon Islands
+- [ ] Somalia
+- [ ] Somaliland
+- [ ] South Africa
+- [ ] South Ossetia
+- [ ] South Sudan
+- [ ] Spain
+- [ ] Sri Lanka
+- [ ] Sudan
+- [ ] Suriname
+- [ ] Sweden
+- [ ] Switzerland
+- [ ] Syria
+- [ ] Tahiti
+- [ ] Taiwan
+- [ ] Tajikistan
+- [ ] Tanzania
+- [ ] Thailand
+- [ ] Timor-Leste
+- [ ] Togo
+- [ ] Tonga
+- [ ] Transnistria
+- [ ] Trinidad and Tobago
+- [ ] Tunisia
+- [ ] Türkiye
+- [ ] Turkmenistan
+- [ ] Turks and Caicos Islands
+- [ ] Tuvalu
+- [ ] US Virgin Islands
+- [ ] Uganda
+- [ ] Ukraine
+- [ ] United Arab Emirates
+- [ ] United Kingdom
+- [ ] United States
+- [ ] Uruguay
+- [ ] Uzbekistan
+- [ ] Vanuatu
+- [ ] Vatican City
+- [ ] Venezuela
+- [ ] Vietnam
+- [ ] Wales
+- [ ] Western Sahara
+- [ ] Yemen
+- [ ] Zambia
+- [ ] Zanzibar
+- [ ] Zimbabwe
