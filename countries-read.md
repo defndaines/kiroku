@@ -8,6 +8,10 @@ Where possible, I want the author to be from the country in question, but the
 work doesn't have to be translated to qualify. When not born in the country,
 ideally the book should take place in the country in question.
 
+For inspiration on completing the list, can check out resources like [Every
+Country’s Highest-Rated Book by a Local
+Author](https://wordfinderx.com/blog/highest-rated-book-map/)
+
 - [ ] Abkhazia:
 - [x] Afghanistan: [_A Woman Among Warlords: The Extraordinary Story of an Afghan Who Dared to Raise Her Voice_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord://www.goodreads.com/book/show/6588979-a-woman-among-warlords) Malalai Joya
 - [ ] Albania:
@@ -22,21 +26,20 @@ ideally the book should take place in the country in question.
 - [ ] Artsakh:
 - [ ] Aruba:
 - [x] Australia: [_True History of the Kelly Gang_](https://www.goodreads.com/book/show/110090.True_History_of_the_Kelly_Gang) Peter Carey; [_Sabriel_](https://www.goodreads.com/book/show/518848.Sabriel) Garth Nix
-- [ ] Austria:
+- [x] Austria: Sigmund Freud; Stefan Zweig
 - [ ] Azerbaijan:
 - [ ] Bahamas:
 - [ ] Bahrain:
 - [x] Bangladesh: [_Bright Lines_](https://www.goodreads.com/book/show/23398905-bright-lines) Tanwi Nandini Islam
 - [x] Barbados: [_The Best of All Possible Worlds_](https://www.goodreads.com/book/show/15743440-the-best-of-all-possible-worlds) Karen Lord
-- [ ] Belarus:
+- [ ] Belarus: Planning to read Svetlana Alexievich
 - [x] Belgium: [_King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild
 - [ ] Belize:
 - [ ] Benin:
 - [ ] Bermuda:
 - [ ] Bhutan:
 - [ ] Bissau:
-- [x] Bolivia: [_Let Me Speak! Testimony of Domitila, a Woman of the Bolivian
-Mines_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara
+- [x] Bolivia: [_Let Me Speak! Testimony of Domitila, a Woman of the Bolivian Mines_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
 - [ ] Bonaire:
 - [ ] Bosnia and Herzegovina:
 - [ ] Botswana: [_The No. 1 Ladies' Detective Agency_](https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency) Alexander McCall Smith
@@ -53,7 +56,7 @@ Mines_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domi
 - [ ] Cayman Islands:
 - [ ] Central African Republic:
 - [ ] Chad:
-- [ ] Chile:
+- [ ] Chile: Planning to read Isabel Allende
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] Colombia: [_Killing Pablo: The Hunt for the World's Greatest
 Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
@@ -71,7 +74,7 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Djibouti:
 - [ ] Dominica:
-- [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa (author Peruvian)
+- [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [ ] East Timor:
 - [ ] Ecuador:
 - [ ] Egypt:
@@ -102,7 +105,7 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Guinea-Bissau:
 - [ ] Guyana:
 - [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
-- [ ] Honduras:
+- [ ] Honduras: Planning to read Acker
 - [ ] Hong Kong:
 - [ ] Hungary:
 - [x] Iceland: [_The Prose Edda_](https://www.goodreads.com/book/show/24658.The_Prose_Edda) Snorri Sturluson
@@ -144,8 +147,7 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Martinique:
 - [ ] Mauritania:
 - [ ] Mauritius:
-- [x] Mexico: [_The Rebellion of the
-Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
+- [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
 - [ ] Micronesia:
 - [ ] Moldova:
 - [ ] Monaco:
@@ -158,7 +160,7 @@ Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) 
 - [ ] Namibia:
 - [ ] Nauru:
 - [ ] Nepal:
-- [ ] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
+- [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
 - [ ] New Caledonia:
 - [ ] New Zealand:
 - [ ] Nicaragua:
@@ -169,7 +171,7 @@ Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) 
 - [ ] Northern Cyprus:
 - [ ] Northern Ireland:
 - [ ] Northern Mariana Islands:
-- [ ] Norway:
+- [ ] Norway: Maybe read long time ago [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [ ] Oman:
 - [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
 - [ ] Palau:
@@ -177,7 +179,7 @@ Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) 
 - [ ] Panama:
 - [ ] Papua New Guinea:
 - [ ] Paraguay:
-- [ ] Peru:
+- [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay
 - [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale: My Father Bleeds History_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman
 - [ ] Portugal:
@@ -196,7 +198,7 @@ Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) 
 - [ ] San Marino:
 - [ ] São Tomé and Príncipe:
 - [ ] Saudi Arabia:
-- [ ] Scotland:
+- [x] Scotland\*: Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
 - [x] Senegal: [_God's Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
 - [ ] Serbia:
 - [ ] Seychelles:
@@ -211,12 +213,12 @@ Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) 
 - [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes
 - [ ] South Ossetia:
 - [ ] South Sudan:
-- [ ] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway
+- [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
 - [x] Sri Lanka: [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
 - [ ] Sudan:
 - [ ] Suriname:
 - [x] Sweden: [_The Girl with the Dragon Tattoo_](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) Stieg Larsson
-- [ ] Switzerland:
+- [x] Switzerland: Hermann Hesse; Jean-Jacques Rousseau
 - [ ] Syria:
 - [ ] Tahiti:
 - [ ] Taiwan:
@@ -238,7 +240,7 @@ Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) 
 - [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
 - [ ] United Arab Emirates:
 - [x] United Kingdom\*: [_Spear_](https://www.goodreads.com/book/show/57693308-spear) Nicola Griffith
-- [x] United States\*: many
+- [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy's Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
 - [ ] Uruguay:
 - [ ] Uzbekistan:
 - [ ] Vanuatu:
