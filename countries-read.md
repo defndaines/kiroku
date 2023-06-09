@@ -181,7 +181,7 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Paraguay:
 - [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay
-- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale: My Father Bleeds History_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman
+- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale: My Father Bleeds History_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner
 - [ ] Portugal:
 - [ ] Puerto Rico:
 - [ ] Qatar:
