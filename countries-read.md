@@ -13,7 +13,7 @@ Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
 - [ ] Abkhazia:
-- [x] Afghanistan: [_A Woman Among Warlords: The Extraordinary Story of an Afghan Who Dared to Raise Her Voice_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord://www.goodreads.com/book/show/6588979-a-woman-among-warlords) Malalai Joya
+- [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord://www.goodreads.com/book/show/6588979-a-woman-among-warlords) Malalai Joya
 - [ ] Albania:
 - [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus
 - [ ] American Samoa:
@@ -33,13 +33,13 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [x] Bangladesh: [_Bright Lines_](https://www.goodreads.com/book/show/23398905-bright-lines) Tanwi Nandini Islam
 - [x] Barbados: [_The Best of All Possible Worlds_](https://www.goodreads.com/book/show/15743440-the-best-of-all-possible-worlds) Karen Lord
 - [ ] Belarus: Planning to read Svetlana Alexievich
-- [x] Belgium: [_King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild
+- [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild
 - [ ] Belize:
 - [ ] Benin:
 - [ ] Bermuda:
 - [ ] Bhutan:
 - [ ] Bissau:
-- [x] Bolivia: [_Let Me Speak! Testimony of Domitila, a Woman of the Bolivian Mines_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
+- [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
 - [ ] Bonaire:
 - [ ] Bosnia and Herzegovina:
 - [ ] Botswana: [_The No. 1 Ladies' Detective Agency_](https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency) Alexander McCall Smith
@@ -58,8 +58,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Chad:
 - [ ] Chile: Planning to read Isabel Allende
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
-- [x] Colombia: [_Killing Pablo: The Hunt for the World's Greatest
-Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
+- [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Comoros:
 - [ ] Democratic Republic of the Congo:
 - [ ] Republic of the Congo:
@@ -100,18 +99,18 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Grenada:
 - [ ] Guadeloupe:
 - [ ] Guam:
-- [x] Guatemala: [_Bitter Fruit: The Story of the American Coup in Guatemala_](https://www.goodreads.com/book/show/102729.Bitter_Fruit) Stephen C. Schlesinger, Stephen Kinzer
+- [x] Guatemala: [_Bitter Fruit_](https://www.goodreads.com/book/show/102729.Bitter_Fruit) Stephen C. Schlesinger, Stephen Kinzer
 - [ ] Guinea:
 - [ ] Guinea-Bissau:
 - [ ] Guyana:
-- [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
+- [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
 - [ ] Honduras: Planning to read Acker
 - [ ] Hong Kong:
 - [ ] Hungary:
 - [x] Iceland: [_The Prose Edda_](https://www.goodreads.com/book/show/24658.The_Prose_Edda) Snorri Sturluson
-- [x] India\*: [_Inglorious Empire: What the British Did to India_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
+- [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
 - [ ] Indonesia:
-- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men: An American Coup and the Roots of Middle East Terror_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
+- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
 - [ ] Iraq:
 - [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan
 - [ ] Israel:
@@ -123,7 +122,7 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham
 - [ ] Kiribati:
 - [ ] North Korea:
-- [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang (and many others)
+- [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang
 - [ ] Kosovo:
 - [ ] Kuwait:
 - [ ] Kyrgyzstan:
@@ -180,8 +179,8 @@ Outlaw_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
 - [ ] Papua New Guinea:
 - [ ] Paraguay:
 - [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
-- [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay
-- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale: My Father Bleeds History_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner
+- [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr is heavily about the Philippines.
+- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner
 - [ ] Portugal:
 - [ ] Puerto Rico:
 - [ ] Qatar:
