@@ -21,7 +21,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Angola:
 - [ ] Anguilla:
 - [ ] Antigua and Barbuda:
-- [ ] Argentina:
+- [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
 - [ ] Armenia:
 - [ ] Artsakh:
 - [ ] Aruba:
