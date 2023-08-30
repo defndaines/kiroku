@@ -119,7 +119,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
 - [ ] Jordan:
 - [ ] Kazakhstan:
-- [ ] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham
+- [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
 - [ ] Kiribati:
 - [ ] North Korea:
 - [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang
