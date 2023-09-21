@@ -45,7 +45,7 @@
 | Something Is Killing the Children, Vol. 3 | James Tynion IV | 2021 | U.S. | true | graphic novel, horror, fantasy | male |
 | Something Is Killing the Children, Vol. 2 | James Tynion IV | 2020 | U.S. | true | graphic novel, horror, fantasy | male |
 | Debt: The First 5,000 Years | David Graeber | 2011 | U.S. | false | history, economics | male |
-| The Least of Us: True Tales of America and Hope in the Time of Fentanyl and Meth | Sam Quinones | 2021 | U,S. | false | history | male |
+| The Least of Us: True Tales of America and Hope in the Time of Fentanyl and Meth | Sam Quinones | 2021 | U.S. | false | history | male |
 | The Fourteenth Goldfish | Jennifer L. Holm | 2014 | U.S. | true | YA, sci-fi | female |
 | Something Is Killing the Children, Vol. 1 | James Tynion IV | 2020 | U.S. | true | graphic novel, horror, fantasy | male |
 | Treasury of Egyptian Mythology: Classic Stories of Gods, Goddesses, Monsters & Mortals | Donna Jo Napoli | 2013 | U.S. | false | mythology, Egypt, childrens | female |
