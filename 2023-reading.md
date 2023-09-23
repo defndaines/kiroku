@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender |
 | --- | --- | :---: | --- | :---: | --- | :---: |
+| Norse Mythology | Neil Gaiman | 2017 | U.K. | true | mythology | male |
 | How Do You Live? | Genzaburo Yoshino | 1937 | Japan | true | YA, slice of life | male |
 | Clark and Division | Naomi Hirahara | 2021 | U.S. | true | historical fiction, Japanese American | female |
 | Black Cloak Volume 1 | Kelly Thompson | 2023 | U.S. | true | graphic novel, fantasy | female |
