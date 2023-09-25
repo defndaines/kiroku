@@ -2,16 +2,17 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender |
 | --- | --- | :---: | --- | :---: | --- | :---: |
+| My Soul Looks Back | Jessica B. Harris | 2017 | U.S. | false | memoir | female |
 | Norse Mythology | Neil Gaiman | 2017 | U.K. | true | mythology | male |
-| How Do You Live? | Genzaburo Yoshino | 1937 | Japan | true | YA, slice of life | male |
+| How Do You Live? | Genzaburo Yoshino | 1937 | Japan | true | YA, slice of life, translation | male |
 | Clark and Division | Naomi Hirahara | 2021 | U.S. | true | historical fiction, Japanese American | female |
 | Black Cloak Volume 1 | Kelly Thompson | 2023 | U.S. | true | graphic novel, fantasy | female |
 | Murder on the Red River | Marcie R. Rendon | 2017 | U.S. | true | mystery, historical fiction, Native American | female |
 | Appendix N: The Eldritch Roots of Dungeons and Dragons | Peter Bebergal (editor) | 2021 | U.S. | true | fantasy, anthology | mixed |
 | This Is How You Lose the Time War | Amal El-Mohtar, Max Gladstone | 2019 | U.S. | true | sci-fi, LGBT | mixed |
 | The House of Rust | Khadija Abdalla Bajaber | 2021 | Kenya | true | YA, fantasy | female |
-| Seven Empty Houses | Samanta Schweblin | 2015 | Argentina | true | short stories | female |
-| All Quiet on the Western Front | Erich Maria Remarque | 1929 | Germany | true | war | male |
+| Seven Empty Houses | Samanta Schweblin | 2015 | Argentina | true | short stories, translation | female |
+| All Quiet on the Western Front | Erich Maria Remarque | 1929 | Germany | true | war, translation | male |
 | Carmageddon: How Cars Make Life Worse and What to Do About It | Daniel Knowles | 2023 | U.S. | false | urbanism, history, environment | male |
 | The Factory Witches of Lowell | C.S. Malerich | 2020 | U.S. | true | fantasy, historical fiction, LGBT | female |
 | Something Is Killing the Children, Vol. 6 | James Tynion IV | 2023 | U.S. | true | graphic novel, horror, fantasy | male |
@@ -19,7 +20,7 @@
 | Blood Meridian, or, the Evening Redness in the West | Cormac McCarthy | 1992 | U.S. | true | historical fiction, western | male |
 | The Cold Millions | Jess Walter | 2020 | U.S. | true | historical fiction | male |
 | City of Inmates: Conquest, Rebellion, and the Rise of Human Caging in Los Angeles, 1771-1965 | Kelly Lytle Hernández | 2017 | U.S. | false | Los Angeles, history, prison | female |
-| The Leopard | Giuseppe Tomasi di Lampedusa | 1958 | Italy | true | historical fiction | male |
+| The Leopard | Giuseppe Tomasi di Lampedusa | 1958 | Italy | true | historical fiction, translation | male |
 | Even Though I Knew the End | C.L. Polk | 2022 | U.S. | true | fantasy, historical ficiton, LGBT | non-binary |
 | The Southern Book Club's Guide to Slaying Vampires | Grady Hendrix | 2020 | U.S. | true | horror | male |
 | Vanish, Volume One | Donny Cates | 2023 | U.S. | true | graphic novel | male |
@@ -33,7 +34,7 @@
 | Half Bad | Sally Green | 2014 | U.K. | true | fantasy, LGBT, YA | female |
 | Reynard's Tale: A Story of Love and Mischief | Ben Hatke | 2023 | U.S. | true | graphic novel, fantasy | male |
 | Crying in H Mart | Michelle Zauner | 2021 | U.S. | false | memoir | female |
-| Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short stories, magical realism | male |
+| Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short stories, magical realism, translation | male |
 | Deathstroke R.I.P. | Christopher J. Priest | 2020 | U.S. | true | graphic novel | male |
 | The Last Fallen Star | Graci Kim | 2021 | U.S. | true | YA, fantasy, Korean American | female |
 | Something Is Killing the Children, Vol. 5 | James Tynion IV | 2022 | U.S. | true | graphic novel, horror, fantasy | male |
@@ -54,12 +55,12 @@
 | The Blue Sword | Robin McKinley | 1982 | U.S. | true | fantasy, YA | female |
 | Waste of Space | Stuart Gibbs | 2018 | U.S. | true | YA, sci-fi | male |
 | Demon Days | Peach Momoko | 2023 | U.S. | true | graphic novel, fantasy, mythology, Japanese | female |
-| A Hero Born | Jin Yong | 1957 | China | true | fantasy, historical fiction, China | male |
+| A Hero Born | Jin Yong | 1957 | China | true | fantasy, historical fiction, China, translation | male |
 | Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity | Charles L. Marohn Jr. | 2019 | U.S. | false | urban planning | male |
 | Norse Tales. Stories from Across the Rainbow Bridge | Kevin Crossley-Holland | 2020 | U.K. | false | mythology | male |
 | Spaced Out | Stuart Gibbs | 2016 | U.S. | true | YA, sci-fi | male |
 | The Women of the Copper Country | Mary Doria Russell | 2019 | U.S. | true | historical fiction | female |
-| Beowulf | Seamus Heaney (Translator) | ~900, 2001 | U.K. | true | poetry, fantasy, mythology | unknown |
+| Beowulf | Seamus Heaney (Translator) | ~900, 2001 | U.K. | true | poetry, fantasy, mythology, translation | unknown |
 | The Black Ghost | Alex Segura, Monica Gallagher | 2020 | U.S. | true | graphic novel | mixed |
 | Wonder | R.J. Palacio | 2012 | U.S. | true | YA | female |
 | Women Talking | Miriam Toews | 2018 | Canada | true | historical fiction | female |
