@@ -138,7 +138,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Macau:
 - [ ] Madagascar:
 - [ ] Malawi:
-- [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho
+- [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; read several works as part of undergrad anthropology class on Malaysia
 - [ ] Maldives:
 - [ ] Mali:
 - [ ] Malta:
