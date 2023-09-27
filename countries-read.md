@@ -76,7 +76,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [ ] East Timor:
 - [ ] Ecuador:
-- [ ] Egypt:
+- [x] Egypt: [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
 - [ ] El Salvador:
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
 - [ ] Equatorial Guinea:

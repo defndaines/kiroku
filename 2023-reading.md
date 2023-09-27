@@ -2,6 +2,8 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender |
 | --- | --- | :---: | --- | :---: | --- | :---: |
+| If an Egyptian Cannot Speak English | Noor Naga | 2022 | Egypt | true | romance | female |
+| Blue Beetle: Jaime Reyes, Book One | Keith Giffen | 2022 | U.S. | true | graphic novel, superhero | male |
 | My Soul Looks Back | Jessica B. Harris | 2017 | U.S. | false | memoir | female |
 | Norse Mythology | Neil Gaiman | 2017 | U.K. | true | mythology | male |
 | How Do You Live? | Genzaburo Yoshino | 1937 | Japan | true | YA, slice of life, translation | male |
