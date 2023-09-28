@@ -1,31 +1,31 @@
 # Countries I've Watches Movies From or About
 
-For several of these countries, I've read watched multiple things, but I'm
-only listing a recent or best selection to keep things simple. Any country
-where I've watched more than ten movies or shows I'll mark with a star (\*).
+For several of these countries, I've watched multiple things, but I'm only
+listing a recent or best selection to keep things simple. Any country where
+I've watched more than ten movies or shows I'll mark with a star (\*).
 
 - [ ] Abkhazia
-- [ ] Afghanistan
+- [x] Afghanistan: [The Breadwinner](https://www.imdb.com/title/tt3901826/)
 - [ ] Albania
-- [x] Algeria: [The Battle of Algiers](https://www.imdb.com/title/tt0058946/)
+- [x] Algeria: [The Battle of Algiers](https://www.imdb.com/title/tt0058946/) _La battaglia di Algeri_
 - [ ] American Samoa
 - [ ] Andorra
 - [ ] Angola
 - [ ] Anguilla
 - [ ] Antigua and Barbuda
-- [ ] Argentina
+- [x] Argentina: [The Official Story](https://www.imdb.com/title/tt0089276/) _La historia oficial_
 - [ ] Armenia
 - [ ] Artsakh
 - [ ] Aruba
-- [x] Australia
-- [ ] Austria
+- [x] Australia\*: [Wrong Kind of Black](https://www.imdb.com/title/tt8660874/)
+- [x] Austria: [Before Sunrise](https://www.imdb.com/title/tt0112471/)
 - [ ] Azerbaijan
 - [ ] Bahamas
 - [ ] Bahrain
-- [ ] Bangladesh
+- [x] Bangladesh: [Extraction](https://www.imdb.com/title/tt8936646/)
 - [ ] Barbados
 - [ ] Belarus
-- [x] Belgium
+- [x] Belgium:
 - [ ] Belize
 - [ ] Benin
 - [ ] Bermuda
@@ -33,9 +33,9 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Bissau
 - [ ] Bolivia
 - [ ] Bonaire
-- [x] Bosnia and Herzegovina
-- [x] Botswana
-- [x] Brazil
+- [x] Bosnia and Herzegovina: [No Man's Land](https://www.imdb.com/title/tt0283509/)
+- [x] Botswana: [The Gods Must Be Crazy](https://www.imdb.com/title/tt0080801/)
+- [x] Brazil: [City of God](https://www.imdb.com/title/tt0317248/) _Cidade de Deus_
 - [ ] British Virgin Islands
 - [ ] Brunei
 - [ ] Bulgaria
@@ -43,34 +43,34 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Burundi
 - [ ] Cambodia
 - [ ] Cameroon
-- [x] Canada
+- [x] Canada\*: [Indian Horse](https://www.imdb.com/title/tt5672286/); [Kim's Convenience](https://www.imdb.com/title/tt5912064/)
 - [ ] Cape Verde
 - [ ] Cayman Islands
 - [ ] Central African Republic
 - [ ] Chad
-- [x] Chile: [The Battle](https://www.imdb.com/title/tt0072685/)[ of ](https://www.imdb.com/title/tt0074187/)[Chile](https://www.imdb.com/title/tt0078831/)
-- [x] China\*:
-- [x] Colombia
+- [x] Chile: [The Battle](https://www.imdb.com/title/tt0072685/)[ of ](https://www.imdb.com/title/tt0074187/)[Chile](https://www.imdb.com/title/tt0078831/) _La batalla de Chile_
+- [x] China\*: [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/) _臥虎藏龍_
+- [x] Colombia: [Our Lady of the Assassins](https://www.imdb.com/title/tt0250809/) _La Virgen de los Sicarios_
 - [ ] Comoros
-- [ ] Democratic Republic of the Congo
-- [ ] Republic of the Congo
+- [x] Democratic Republic of the Congo: [Lumumba](https://www.imdb.com/title/tt0246765/)
+- [x] Republic of the Congo: [Home Game: Catch Fétiche](https://www.imdb.com/title/tt12595610/?ref_=ttep_ep6)
 - [ ] Cook Islands
-- [ ] Costa Rica
-- [ ] Côte d'Ivoire
+- [x] Costa Rica: [Down to Earth with Zac Efron: Costa Rica](https://www.imdb.com/title/tt12683320/?ref_=ttep_ep3)
+- [x] Côte d'Ivoire: [Rotten: Bitter Chocolate](https://www.imdb.com/title/tt11064630/?ref_=ttep_ep5)
 - [ ] Croatia
-- [ ] Cuba
+- [x] Cuba: [Strawberry and Chocolate](https://www.imdb.com/title/tt0106966/) _Fresa y chocolate_
 - [ ] Curaçao
 - [ ] Cyprus
-- [ ] Czech Republic
-- [x] Denmark
+- [ ] Czech Republic: [ANIMA](https://www.imdb.com/title/tt10516984/)
+- [x] Denmark: [Babette’s Feast](https://www.imdb.com/title/tt0092603/) _Babettes gæstebud_
 - [ ] Djibouti
 - [ ] Dominica
 - [ ] Dominican Republic
 - [ ] East Timor
 - [ ] Ecuador
-- [ ] Egypt
+- [ ] Egypt: [Raiders of the Lost Ark](https://www.imdb.com/title/tt0082971://www.imdb.com/title/tt0082971/)
 - [ ] El Salvador
-- [ ] England
+- [x] England: [Sorry We Missed You](https://www.imdb.com/title/tt8359816/)
 - [ ] Equatorial Guinea
 - [ ] Eritrea
 - [ ] Estonia
@@ -79,47 +79,46 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Faroe Islands
 - [ ] Fiji
 - [ ] Finland
-- [x] France\*:
+- [x] France\*: [Rififi](https://www.imdb.com/title/tt0048021/) _Du rififi chez les hommes_
 - [ ] French Guiana
 - [ ] Gabon
 - [ ] Gambia
 - [ ] Georgia
-- [x] Germany
-- [ ] Ghana
+- [x] Germany: [Das Boot](https://www.imdb.com/title/tt0082096/); [Blood Red Sky](https://www.imdb.com/title/tt6402468/)
+- [x] Ghana: [Sankofa](https://www.imdb.com/title/tt0108041/) _ሳንኮፋ_
 - [ ] Gibraltar
-- [ ] Greece
+- [x] Greece: [Z](https://www.imdb.com/title/tt0065234/)
 - [ ] Grenada
 - [ ] Guadeloupe
 - [ ] Guam
-- [ ] Guatemala
+- [x] Guatemala: [El Norte](https://www.imdb.com/title/tt0085482/)
 - [ ] Guinea
 - [ ] Guinea-Bissau
 - [ ] Guyana
 - [ ] Haiti
 - [ ] Honduras
-- [x] Hong Kong\*:
+- [x] Hong Kong\*: [Come Drink with Me](https://www.imdb.com/title/tt0059079/) _大醉俠_
 - [ ] Hungary
-- [ ] Iceland
-- [x] India
-- [x] Indonesia
-- [x] Iran
-- [ ] Iraq
-- [x] Ireland
-- [x] Israel
-- [x] Italy
-- [ ] Ivory Coast
+- [x] Iceland: [Sense8](https://www.imdb.com/title/tt2431438/); [Down to Earth with Zac Efron: Iceland](https://www.imdb.com/title/tt12625752/?ref_=ttep_ep1)
+- [x] India: [The White Tiger](https://www.imdb.com/title/tt6571548/); [Lagaan: Once Upon a Time in India](https://www.imdb.com/title/tt0169102/); [Pagglait](https://www.imdb.com/title/tt11142762/)
+- [x] Indonesia: [Merantau](https://www.imdb.com/title/tt1368116/); [3 Heroines](https://www.imdb.com/title/tt5946974/) _3 Srikandi_
+- [x] Iran: [The Circle](https://www.imdb.com/title/tt0255094/) _Dayereh_
+- [x] Iraq: [Three Kings](https://www.imdb.com/title/tt0120188/)
+- [x] Ireland\*: [The Wonder](https://www.imdb.com/title/tt9288822/)
+- [x] Israel: [Kippur](https://www.imdb.com/title/tt0218379/) _כיפור_
+- [x] Italy\*: [Investigation of a Citizen Above Suspicion](https://www.imdb.com/title/tt0065889/) _Indagine su un cittadino al di sopra di ogni sospetto_
 - [ ] Jamaica
-- [x] Japan\*: [ゴジラ](https://www.imdb.com/title/tt0047034/)
+- [x] Japan\*: [Godzilla](https://www.imdb.com/title/tt0047034/) _ゴジラ_
 - [ ] Jordan
 - [ ] Kazakhstan
-- [ ] Kenya
+- [ ] Kenya: [Sense8](https://www.imdb.com/title/tt2431438/)
 - [ ] Kiribati
-- [ ] North Korea
-- [x] South Korea\*: [Old Boy](https://www.imdb.com/title/tt0364569/)
+- [x] North Korea: Documentary, but cannot remember name
+- [x] South Korea\*: [Old Boy](https://www.imdb.com/title/tt0364569/) _올드보이_
 - [ ] Kosovo
 - [ ] Kuwait
-- [ ] Kyrgyzstan
-- [ ] Laos
+- [x] Kyrgyzstan: [Home Game: Kok Boru](https://www.imdb.com/title/tt12595580/?ref_=ttep_ep5)
+- [x] Laos: [Air America](https://www.imdb.com/title/tt0099005/)
 - [ ] Latvia
 - [ ] Lebanon
 - [ ] Lesotho
@@ -130,8 +129,8 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Luxembourg
 - [ ] Macau
 - [ ] Madagascar
-- [ ] Malawi
-- [ ] Malaysia
+- [x] Malawi: [The Boy Who Harnessed the Wind](https://www.imdb.com/title/tt7533152/)
+- [x] Malaysia: [Wira](https://www.imdb.com/title/tt11194492/); [Police Story 3: Supercop](https://www.imdb.com/title/tt0104558/) _警察故事３超級警察_
 - [ ] Maldives
 - [ ] Mali
 - [ ] Malta
@@ -139,48 +138,48 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Martinique
 - [ ] Mauritania
 - [ ] Mauritius
-- [x] Mexico
+- [x] Mexico: [Amores Perros](https://www.imdb.com/title/tt0245712/)
 - [ ] Micronesia
 - [ ] Moldova
 - [ ] Monaco
-- [x] Mongolia
+- [x] Mongolia: [The Story of the Weeping Camel](https://www.imdb.com/title/tt0373861/) _Die Geschichte vom weinenden Kamel_; [The Eagle Huntress](https://www.imdb.com/title/tt3882074/)
 - [ ] Montenegro
 - [ ] Montserrat
 - [ ] Morocco
 - [ ] Mozambique
-- [ ] Myanmar
+- [x] Myanmar: [The Bridge on the River Kwai](https://www.imdb.com/title/tt0050212/)
 - [ ] Namibia
 - [ ] Nauru
 - [ ] Nepal
 - [ ] Netherlands
 - [ ] New Caledonia
-- [x] New Zealand
+- [x] New Zealand: [Cousins](https://www.imdb.com/title/tt10483044/)
 - [ ] Nicaragua
 - [ ] Niger
-- [ ] Nigeria
+- [x] Nigeria: [Amina](https://www.imdb.com/title/tt15847872/)
 - [ ] Niue
 - [ ] North Macedonia
 - [ ] Northern Cyprus
-- [ ] Northern Ireland
+- [x] Northern Ireland: [Derry Girls](https://www.imdb.com/title/tt7120662/)
 - [ ] Northern Mariana Islands
-- [ ] Norway
+- [x] Norway: [Troll](https://www.imdb.com/title/tt11116912/); [Ragnarok](https://www.imdb.com/title/tt9251798/)
 - [ ] Oman
 - [ ] Pakistan
 - [ ] Palau
-- [ ] Palestine
-- [ ] Panama
+- [x] Palestine: [Paradise Now](https://www.imdb.com/title/tt0445620/)
+- [ ] Panama: [The Laundromat](https://www.imdb.com/title/tt5865326/)
 - [ ] Papua New Guinea
 - [ ] Paraguay
-- [ ] Peru
-- [ ] Philippines
-- [x] Poland
+- [x] Peru: [The Motorcycle Diaries](https://www.imdb.com/title/tt0318462/) _Diarios de motocicleta_
+- [x] Philippines: [Amigo](https://www.imdb.com/title/tt1562847/); [Maria](https://www.imdb.com/title/tt7594584/)
+- [x] Poland: [The Pianist](https://www.imdb.com/title/tt0253474/)
 - [ ] Portugal
-- [ ] Puerto Rico
+- [x] Puerto Rico: [Down to Earth with Zac Efron: Puerto Rico](https://www.imdb.com/title/tt12683328/?ref_=ttep_ep6)
 - [ ] Qatar
 - [ ] Réunion
-- [ ] Romania
-- [ ] Russia
-- [ ] Rwanda
+- [x] Romania: [Untamed Romania](https://www.imdb.com/title/tt8076222/)
+- [x] Russia: [Solaris](https://www.imdb.com/title/tt0069293/) _Солярис_
+- [x] Rwanda: [Hotel Rwanda](https://www.imdb.com/title/tt0395169/)
 - [ ] Sahrawi Arab Democratic Republic
 - [ ] Saint Kitts and Nevis
 - [ ] Saint Lucia
@@ -190,33 +189,33 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] San Marino
 - [ ] São Tomé and Príncipe
 - [ ] Saudi Arabia
-- [ ] Scotland
-- [x] Senegal
+- [x] Scotland: [Trainspotting](https://www.imdb.com/title/tt0117951/)
+- [x] Senegal: [Faat Kiné](https://www.imdb.com/title/tt0276951/); [Wrestling Grounds](https://www.imdb.com/title/tt0823412/) _L'appel des arènes_
 - [ ] Serbia
 - [ ] Seychelles
 - [ ] Sierra Leone
-- [ ] Singapore
+- [x] Singapore: [Shirkers](https://www.imdb.com/title/tt7472352/)
 - [ ] Sint Maarten
 - [ ] Slovakia
 - [ ] Slovenia
 - [ ] Solomon Islands
 - [ ] Somalia
 - [ ] Somaliland
-- [x] South Africa
+- [x] South Africa: [Tsotsi](https://www.imdb.com/title/tt0468565/)
 - [ ] South Ossetia
 - [ ] South Sudan
-- [x] Spain
+- [x] Spain: [Land and Freedom](https://www.imdb.com/title/tt0114671/); [Volver](https://www.imdb.com/title/tt0441909/)
 - [ ] Sri Lanka
 - [ ] Sudan
 - [ ] Suriname
-- [ ] Sweden
+- [x] Sweden: [One More Time](https://www.imdb.com/title/tt21216870/)
 - [ ] Switzerland
-- [ ] Syria
+- [x] Syria: [The Swimmers](https://www.imdb.com/title/tt8745676/)
 - [ ] Tahiti
-- [x] Taiwan
+- [x] Taiwan: [A Touch of Zen](https://www.imdb.com/title/tt0064451/) _俠女_
 - [ ] Tajikistan
 - [ ] Tanzania
-- [x] Thailand
+- [x] Thailand: [Ong-Bak](https://www.imdb.com/title/tt0368909/)
 - [ ] Timor-Leste
 - [ ] Togo
 - [ ] Tonga
@@ -228,18 +227,18 @@ where I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Turks and Caicos Islands
 - [ ] Tuvalu
 - [ ] US Virgin Islands
-- [ ] Uganda
+- [x] Uganda: [The Last King of Scotland](https://www.imdb.com/title/tt0455590/)
 - [ ] Ukraine
 - [ ] United Arab Emirates
-- [x] United Kingdom\*:
-- [x] United States\*:
-- [ ] Uruguay
+- [x] United Kingdom\*: [The Navigators](https://www.imdb.com/title/tt0279977/)
+- [x] United States\*: [Lone Star](https://www.imdb.com/title/tt0116905/)
+- [x] Uruguay: [State of Siege](https://www.imdb.com/title/tt0070959/)
 - [ ] Uzbekistan
 - [ ] Vanuatu
 - [ ] Vatican City
 - [ ] Venezuela
-- [ ] Vietnam
-- [ ] Wales
+- [x] Vietnam: [The Scent of Green Papaya](https://www.imdb.com/title/tt0107617/) _Mùi đu đủ xanh_; [Furie](https://www.imdb.com/title/tt9412268/) _Hai Phượng_; [Full Metal Jacket](https://www.imdb.com/title/tt0093058/)
+- [ ] Wales: [The Black Cauldron](https://www.imdb.com/title/tt0088814/)
 - [ ] Western Sahara
 - [ ] Yemen
 - [ ] Zambia
