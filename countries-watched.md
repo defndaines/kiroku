@@ -1,0 +1,247 @@
+# Countries I've Watches Movies From or About
+
+For several of these countries, I've read watched multiple things, but I'm
+only listing a recent or best selection to keep things simple. Any country
+where I've watched more than ten movies or shows I'll mark with a star (\*).
+
+- [ ] Abkhazia
+- [ ] Afghanistan
+- [ ] Albania
+- [x] Algeria: [The Battle of Algiers](https://www.imdb.com/title/tt0058946/)
+- [ ] American Samoa
+- [ ] Andorra
+- [ ] Angola
+- [ ] Anguilla
+- [ ] Antigua and Barbuda
+- [ ] Argentina
+- [ ] Armenia
+- [ ] Artsakh
+- [ ] Aruba
+- [x] Australia
+- [ ] Austria
+- [ ] Azerbaijan
+- [ ] Bahamas
+- [ ] Bahrain
+- [ ] Bangladesh
+- [ ] Barbados
+- [ ] Belarus
+- [x] Belgium
+- [ ] Belize
+- [ ] Benin
+- [ ] Bermuda
+- [ ] Bhutan
+- [ ] Bissau
+- [ ] Bolivia
+- [ ] Bonaire
+- [x] Bosnia and Herzegovina
+- [x] Botswana
+- [x] Brazil
+- [ ] British Virgin Islands
+- [ ] Brunei
+- [ ] Bulgaria
+- [ ] Burkina Faso
+- [ ] Burundi
+- [ ] Cambodia
+- [ ] Cameroon
+- [x] Canada
+- [ ] Cape Verde
+- [ ] Cayman Islands
+- [ ] Central African Republic
+- [ ] Chad
+- [x] Chile: [The Battle](https://www.imdb.com/title/tt0072685/)[ of ](https://www.imdb.com/title/tt0074187/)[Chile](https://www.imdb.com/title/tt0078831/)
+- [x] China\*:
+- [x] Colombia
+- [ ] Comoros
+- [ ] Democratic Republic of the Congo
+- [ ] Republic of the Congo
+- [ ] Cook Islands
+- [ ] Costa Rica
+- [ ] Côte d'Ivoire
+- [ ] Croatia
+- [ ] Cuba
+- [ ] Curaçao
+- [ ] Cyprus
+- [ ] Czech Republic
+- [x] Denmark
+- [ ] Djibouti
+- [ ] Dominica
+- [ ] Dominican Republic
+- [ ] East Timor
+- [ ] Ecuador
+- [ ] Egypt
+- [ ] El Salvador
+- [ ] England
+- [ ] Equatorial Guinea
+- [ ] Eritrea
+- [ ] Estonia
+- [ ] Eswatini
+- [ ] Ethiopia
+- [ ] Faroe Islands
+- [ ] Fiji
+- [ ] Finland
+- [x] France\*:
+- [ ] French Guiana
+- [ ] Gabon
+- [ ] Gambia
+- [ ] Georgia
+- [x] Germany
+- [ ] Ghana
+- [ ] Gibraltar
+- [ ] Greece
+- [ ] Grenada
+- [ ] Guadeloupe
+- [ ] Guam
+- [ ] Guatemala
+- [ ] Guinea
+- [ ] Guinea-Bissau
+- [ ] Guyana
+- [ ] Haiti
+- [ ] Honduras
+- [x] Hong Kong\*:
+- [ ] Hungary
+- [ ] Iceland
+- [x] India
+- [x] Indonesia
+- [x] Iran
+- [ ] Iraq
+- [x] Ireland
+- [x] Israel
+- [x] Italy
+- [ ] Ivory Coast
+- [ ] Jamaica
+- [x] Japan\*: [ゴジラ](https://www.imdb.com/title/tt0047034/)
+- [ ] Jordan
+- [ ] Kazakhstan
+- [ ] Kenya
+- [ ] Kiribati
+- [ ] North Korea
+- [x] South Korea\*: [Old Boy](https://www.imdb.com/title/tt0364569/)
+- [ ] Kosovo
+- [ ] Kuwait
+- [ ] Kyrgyzstan
+- [ ] Laos
+- [ ] Latvia
+- [ ] Lebanon
+- [ ] Lesotho
+- [ ] Liberia
+- [ ] Libya
+- [ ] Liechtenstein
+- [ ] Lithuania
+- [ ] Luxembourg
+- [ ] Macau
+- [ ] Madagascar
+- [ ] Malawi
+- [ ] Malaysia
+- [ ] Maldives
+- [ ] Mali
+- [ ] Malta
+- [ ] Marshall Islands
+- [ ] Martinique
+- [ ] Mauritania
+- [ ] Mauritius
+- [x] Mexico
+- [ ] Micronesia
+- [ ] Moldova
+- [ ] Monaco
+- [x] Mongolia
+- [ ] Montenegro
+- [ ] Montserrat
+- [ ] Morocco
+- [ ] Mozambique
+- [ ] Myanmar
+- [ ] Namibia
+- [ ] Nauru
+- [ ] Nepal
+- [ ] Netherlands
+- [ ] New Caledonia
+- [x] New Zealand
+- [ ] Nicaragua
+- [ ] Niger
+- [ ] Nigeria
+- [ ] Niue
+- [ ] North Macedonia
+- [ ] Northern Cyprus
+- [ ] Northern Ireland
+- [ ] Northern Mariana Islands
+- [ ] Norway
+- [ ] Oman
+- [ ] Pakistan
+- [ ] Palau
+- [ ] Palestine
+- [ ] Panama
+- [ ] Papua New Guinea
+- [ ] Paraguay
+- [ ] Peru
+- [ ] Philippines
+- [x] Poland
+- [ ] Portugal
+- [ ] Puerto Rico
+- [ ] Qatar
+- [ ] Réunion
+- [ ] Romania
+- [ ] Russia
+- [ ] Rwanda
+- [ ] Sahrawi Arab Democratic Republic
+- [ ] Saint Kitts and Nevis
+- [ ] Saint Lucia
+- [ ] Saint Martin
+- [ ] Saint Vincent and the Grenadines
+- [ ] Samoa
+- [ ] San Marino
+- [ ] São Tomé and Príncipe
+- [ ] Saudi Arabia
+- [ ] Scotland
+- [x] Senegal
+- [ ] Serbia
+- [ ] Seychelles
+- [ ] Sierra Leone
+- [ ] Singapore
+- [ ] Sint Maarten
+- [ ] Slovakia
+- [ ] Slovenia
+- [ ] Solomon Islands
+- [ ] Somalia
+- [ ] Somaliland
+- [x] South Africa
+- [ ] South Ossetia
+- [ ] South Sudan
+- [x] Spain
+- [ ] Sri Lanka
+- [ ] Sudan
+- [ ] Suriname
+- [ ] Sweden
+- [ ] Switzerland
+- [ ] Syria
+- [ ] Tahiti
+- [x] Taiwan
+- [ ] Tajikistan
+- [ ] Tanzania
+- [x] Thailand
+- [ ] Timor-Leste
+- [ ] Togo
+- [ ] Tonga
+- [ ] Transnistria
+- [ ] Trinidad and Tobago
+- [ ] Tunisia
+- [ ] Türkiye
+- [ ] Turkmenistan
+- [ ] Turks and Caicos Islands
+- [ ] Tuvalu
+- [ ] US Virgin Islands
+- [ ] Uganda
+- [ ] Ukraine
+- [ ] United Arab Emirates
+- [x] United Kingdom\*:
+- [x] United States\*:
+- [ ] Uruguay
+- [ ] Uzbekistan
+- [ ] Vanuatu
+- [ ] Vatican City
+- [ ] Venezuela
+- [ ] Vietnam
+- [ ] Wales
+- [ ] Western Sahara
+- [ ] Yemen
+- [ ] Zambia
+- [ ] Zanzibar
+- [ ] Zimbabwe
