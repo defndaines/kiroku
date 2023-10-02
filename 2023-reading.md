@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender |
 | --- | --- | :---: | --- | :---: | --- | :---: |
+| The Cabinet | Kim, Un-su | 2006 | South Korea | true | magic realism, sci-fi, translation | male |
 | If an Egyptian Cannot Speak English | Noor Naga | 2022 | Egypt | true | romance | female |
 | Blue Beetle: Jaime Reyes, Book One | Keith Giffen | 2022 | U.S. | true | graphic novel, superhero | male |
 | My Soul Looks Back | Jessica B. Harris | 2017 | U.S. | false | memoir | female |
