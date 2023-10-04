@@ -12,215 +12,220 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-- [ ] Abkhazia:
-- [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord://www.goodreads.com/book/show/6588979-a-woman-among-warlords) Malalai Joya
-- [ ] Albania:
-- [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus
-- [ ] American Samoa:
-- [ ] Andorra:
-- [ ] Angola:
-- [ ] Antigua and Barbuda:
-- [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
-- [ ] Armenia:
-- [ ] Artsakh:
-- [x] Australia: [_True History of the Kelly Gang_](https://www.goodreads.com/book/show/110090.True_History_of_the_Kelly_Gang) Peter Carey; [_Sabriel_](https://www.goodreads.com/book/show/518848.Sabriel) Garth Nix
-- [x] Austria: Sigmund Freud; Stefan Zweig
-- [ ] Azerbaijan:
-- [ ] Bahamas:
-- [ ] Bahrain:
-- [x] Bangladesh: [_Bright Lines_](https://www.goodreads.com/book/show/23398905-bright-lines) Tanwi Nandini Islam
-- [x] Barbados: [_The Best of All Possible Worlds_](https://www.goodreads.com/book/show/15743440-the-best-of-all-possible-worlds) Karen Lord
-- [ ] Belarus: Planning to read Svetlana Alexievich
-- [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild
-- [ ] Belize:
-- [ ] Benin:
-- [ ] Bhutan:
-- [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
-- [ ] Bosnia and Herzegovina:
-- [ ] Botswana: [_The No. 1 Ladies' Detective Agency_](https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency) Alexander McCall Smith
-- [ ] Brazil:
-- [ ] Brunei:
-- [ ] Bulgaria:
-- [ ] Burkina Faso:
-- [ ] Burundi:
-- [ ] Cambodia:
-- [x] Cameroon: [_Behold the Dreamers_](https://www.goodreads.com/book/show/35259724-behold-the-dreamers) Imbolo Mbue
-- [x] Canada: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
-- [ ] Cape Verde:
-- [ ] Central African Republic:
-- [ ] Chad:
-- [ ] Chile: Planning to read Isabel Allende
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
-- [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
-- [ ] Comoros:
-- [ ] Democratic Republic of the Congo:
-- [ ] Republic of the Congo:
-- [ ] Cook Islands:
-- [ ] Costa Rica:
-- [ ] Côte d'Ivoire:
-- [ ] Croatia:
-- [ ] Cuba:
-- [ ] Cyprus:
-- [x] Czech Republic: [_The Trial_](https://www.goodreads.com/book/show/17690.The_Trial) Franz Kafka
-- [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
-- [ ] Djibouti:
-- [ ] Dominica:
-- [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
-- [ ] East Timor:
-- [ ] Ecuador:
-- [x] Egypt: [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
-- [ ] El Salvador:
-- [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
-- [ ] Equatorial Guinea:
-- [ ] Eritrea:
-- [ ] Estonia:
-- [ ] Eswatini:
+- [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
+- [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy's Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
+- [ ] Indonesia:
+- [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
+- [x] Nigeria\*: [_Binti_](https://www.goodreads.com/book/show/25667918-binti) Nnedi Okorafor
+- [ ] Brazil:
+- [x] Bangladesh: [_Bright Lines_](https://www.goodreads.com/book/show/23398905-bright-lines) Tanwi Nandini Islam
+- [x] Russia\*: [_The Autobiography of a Sexually Emancipated Communist Woman_](https://www.goodreads.com/book/show/13025259-the-autobiography-of-a-sexually-emancipated-communist-woman) Aleksandra Kollontai; [_Cement_](https://www.goodreads.com/book/show/143523.Cement) Feodor Gladkov
+- [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
+- [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
+- [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr is heavily about the Philippines.
 - [ ] Ethiopia:
-- [ ] Fiji:
-- [ ] Finland:
-- [x] France\*: [_Planet of the Apes_](https://www.goodreads.com/book/show/414895.Planet_of_the_Apes) Pierre Boulle
-- [ ] Gabon:
-- [ ] Gambia:
-- [ ] Georgia:
+- [x] Egypt: [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
+- [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
+- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
+- [ ] Türkiye:
 - [x] Germany\*: [_All Quiet on the Western Front_](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front) Erich Maria Remarque
+- [ ] Thailand:
+- [x] France\*: [_Planet of the Apes_](https://www.goodreads.com/book/show/414895.Planet_of_the_Apes) Pierre Boulle
+- [x] United Kingdom\*: [_Spear_](https://www.goodreads.com/book/show/57693308-spear) Nicola Griffith
+- [ ] Tanzania:
+- [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes
+- [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa
+- [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
+- [ ] Myanmar:
+- [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
+- [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
+- [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang
+- [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
+- [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
+- [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus
+- [ ] Iraq:
+- [ ] Uganda:
+- [ ] South Sudan:
+- [ ] Sudan:
+- [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
+- [x] Canada: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
+- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner
+- [ ] Morocco:
+- [ ] Uzbekistan:
+- [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord://www.goodreads.com/book/show/6588979-a-woman-among-warlords) Malalai Joya
+- [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
+- [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; read several works as part of undergrad anthropology class on Malaysia
+- [ ] Angola:
+- [ ] Mozambique:
+- [ ] Saudi Arabia:
+- [ ] Yemen:
 - [x] Ghana: [_Homegoing_](https://www.goodreads.com/book/show/27071490-homegoing) Yaa Gyasi
-- [x] Greece: _The Odyssey_ Homer
-- [ ] Grenada:
+- [ ] Côte d'Ivoire:
+- [ ] Nepal:
+- [ ] Venezuela:
+- [x] Cameroon: [_Behold the Dreamers_](https://www.goodreads.com/book/show/35259724-behold-the-dreamers) Imbolo Mbue
+- [ ] Madagascar:
+- [x] Australia: [_True History of the Kelly Gang_](https://www.goodreads.com/book/show/110090.True_History_of_the_Kelly_Gang) Peter Carey; [_Sabriel_](https://www.goodreads.com/book/show/518848.Sabriel) Garth Nix
+- [ ] North Korea:
+- [ ] Niger:
+- [ ] Taiwan:
+- [ ] Syria:
+- [ ] Mali:
+- [ ] Burkina Faso:
+- [x] Sri Lanka: [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
+- [ ] Malawi:
+- [ ] Chile: Planning to read Isabel Allende
+- [ ] Kazakhstan:
+- [ ] Zambia:
+- [ ] Romania:
+- [ ] Ecuador:
+- [x] Senegal: [_God's Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
+- [ ] Somalia:
+- [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
 - [x] Guatemala: [_Bitter Fruit_](https://www.goodreads.com/book/show/102729.Bitter_Fruit) Stephen C. Schlesinger, Stephen Kinzer
+- [ ] Chad:
+- [ ] Cambodia:
+- [ ] Zimbabwe:
+- [ ] Equatorial Guinea:
 - [ ] Guinea:
 - [ ] Guinea-Bissau:
-- [ ] Guyana:
-- [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
-- [ ] Honduras: Planning to read Acker
-- [ ] Hong Kong:
-- [ ] Hungary:
-- [x] Iceland: [_The Prose Edda_](https://www.goodreads.com/book/show/24658.The_Prose_Edda) Snorri Sturluson
-- [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
-- [ ] Indonesia:
-- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
-- [ ] Iraq:
-- [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan
-- [ ] Israel:
-- [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa
-- [x] Jamaica: [_Black Leopard, Red Wolf_](https://www.goodreads.com/book/show/50608676-black-leopard-red-wolf) Marlon James
-- [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
-- [ ] Jordan:
-- [ ] Kazakhstan:
-- [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
-- [ ] Kiribati:
-- [ ] North Korea:
-- [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang
-- [ ] Kosovo:
-- [ ] Kuwait:
-- [ ] Kyrgyzstan:
-- [ ] Laos:
-- [ ] Latvia:
-- [ ] Lebanon:
-- [ ] Lesotho:
-- [ ] Liberia:
-- [ ] Libya:
-- [ ] Liechtenstein:
-- [ ] Lithuania:
-- [ ] Luxembourg:
-- [ ] Madagascar:
-- [ ] Malawi:
-- [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; read several works as part of undergrad anthropology class on Malaysia
-- [ ] Maldives:
-- [ ] Mali:
-- [ ] Malta:
-- [ ] Marshall Islands:
-- [ ] Mauritania:
-- [ ] Mauritius:
-- [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
-- [ ] Micronesia:
-- [ ] Moldova:
-- [ ] Monaco:
-- [ ] Mongolia:
-- [ ] Montenegro:
-- [ ] Morocco:
-- [ ] Mozambique:
-- [ ] Myanmar:
-- [ ] Namibia:
-- [ ] Nauru:
-- [ ] Nepal:
-- [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
-- [ ] New Zealand:
-- [ ] Nicaragua:
-- [ ] Niger:
-- [x] Nigeria\*: [_Binti_](https://www.goodreads.com/book/show/25667918-binti) Nnedi Okorafor
-- [ ] Niue:
-- [ ] North Macedonia:
-- [ ] Northern Cyprus:
-- [ ] Northern Ireland:
-- [ ] Norway: Maybe read long time ago [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
-- [ ] Oman:
-- [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
-- [ ] Palau:
-- [ ] Palestine:
-- [ ] Panama:
 - [ ] Papua New Guinea:
-- [ ] Paraguay:
-- [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
-- [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr is heavily about the Philippines.
-- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner
-- [ ] Portugal:
-- [ ] Puerto Rico:
-- [ ] Qatar:
-- [ ] Romania:
-- [x] Russia\*: [_The Autobiography of a Sexually Emancipated Communist Woman_](https://www.goodreads.com/book/show/13025259-the-autobiography-of-a-sexually-emancipated-communist-woman) Aleksandra Kollontai; [_Cement_](https://www.goodreads.com/book/show/143523.Cement) Feodor Gladkov
-- [ ] Rwanda:
-- [ ] Saint Kitts and Nevis:
-- [ ] Saint Lucia:
-- [ ] Saint Vincent and the Grenadines:
-- [ ] Samoa:
-- [ ] San Marino:
-- [ ] São Tomé and Príncipe:
-- [ ] Saudi Arabia:
-- [x] Scotland\*: Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
-- [x] Senegal: [_God's Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
-- [ ] Serbia:
-- [ ] Seychelles:
-- [ ] Sierra Leone:
-- [ ] Singapore:
-- [ ] Slovakia:
-- [ ] Slovenia:
-- [ ] Solomon Islands:
-- [ ] Somalia:
-- [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes
-- [ ] South Ossetia:
 - [ ] South Sudan:
-- [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
-- [x] Sri Lanka: [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
-- [ ] Sudan:
-- [ ] Suriname:
-- [x] Sweden: [_The Girl with the Dragon Tattoo_](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) Stieg Larsson
-- [x] Switzerland: Hermann Hesse; Jean-Jacques Rousseau
-- [ ] Syria:
-- [ ] Taiwan:
-- [ ] Tajikistan:
-- [ ] Tanzania:
-- [ ] Thailand:
-- [ ] Togo:
-- [ ] Tonga:
-- [ ] Transnistria:
-- [x] Trinidad and Tobago: [_The Jumbies_](https://www.goodreads.com/book/show/22859559-the-jumbies) Tracey Baptiste; also C.L.R. James
+- [ ] Rwanda:
+- [ ] Burundi:
+- [ ] Benin:
+- [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
 - [ ] Tunisia:
-- [ ] Türkiye:
-- [ ] Turkmenistan:
-- [ ] Tuvalu:
-- [ ] Uganda:
-- [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
+- [ ] Papua New Guinea:
+- [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild
+- [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
+- [ ] Jordan:
+- [ ] Cuba:
+- [x] Czech Republic: [_The Trial_](https://www.goodreads.com/book/show/17690.The_Trial) Franz Kafka
+- [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
+- [x] Sweden: [_The Girl with the Dragon Tattoo_](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) Stieg Larsson
+- [x] Greece: _The Odyssey_ Homer
+- [ ] Portugal:
+- [ ] Azerbaijan:
+- [ ] Tajikistan:
+- [ ] Israel:
+- [ ] Honduras: Planning to read Acker
+- [ ] Hungary:
 - [ ] United Arab Emirates:
-- [x] United Kingdom\*: [_Spear_](https://www.goodreads.com/book/show/57693308-spear) Nicola Griffith
-- [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy's Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
+- [ ] Belarus: Planning to read Svetlana Alexievich
+- [x] Austria: Sigmund Freud; Stefan Zweig
+- [x] Switzerland: Hermann Hesse; Jean-Jacques Rousseau
+- [ ] Sierra Leone:
+- [ ] Togo:
+- [ ] Hong Kong:
+- [ ] Laos:
+- [ ] Kyrgyzstan:
+- [ ] Turkmenistan:
+- [ ] Libya:
+- [ ] El Salvador:
+- [ ] Nicaragua:
+- [ ] Serbia:
+- [ ] Bulgaria:
+- [ ] Paraguay:
+- [ ] Democratic Republic of the Congo:
+- [ ] Republic of the Congo:
+- [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
+- [ ] Singapore:
+- [ ] Central African Republic:
+- [ ] Finland:
+- [ ] Norway: Maybe read long time ago [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
+- [ ] Lebanon:
+- [ ] Palestine:
+- [x] Scotland\*: Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
+- [ ] Slovakia:
+- [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan
+- [ ] Northern Ireland:
+- [ ] Costa Rica:
+- [ ] New Zealand:
+- [ ] Oman:
+- [ ] Kuwait:
+- [ ] Liberia:
+- [ ] Mauritania:
+- [ ] Panama:
+- [ ] Croatia:
+- [ ] Eritrea:
+- [ ] Georgia:
 - [ ] Uruguay:
-- [ ] Uzbekistan:
-- [ ] Vanuatu:
-- [ ] Vatican City:
-- [ ] Venezuela:
-- [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
+- [ ] Mongolia:
+- [ ] Bosnia and Herzegovina:
+- [ ] Puerto Rico:
 - [x] Wales: [_The Mabinogion_](https://www.goodreads.com/book/show/455219.The_Mabinogion); [_Fantastic Mr. Fox_](https://www.goodreads.com/book/show/6693.Fantastic_Mr_Fox) Roald Dahl
+- [ ] Armenia:
+- [ ] Lithuania:
+- [x] Jamaica: [_Black Leopard, Red Wolf_](https://www.goodreads.com/book/show/50608676-black-leopard-red-wolf) Marlon James
+- [ ] Albania:
+- [ ] Qatar:
+- [ ] Namibia:
+- [ ] Moldova:
+- [ ] Gambia:
+- [ ] Botswana: [_The No. 1 Ladies' Detective Agency_](https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency) Alexander McCall Smith
+- [ ] Lesotho:
+- [ ] Gabon:
+- [ ] Slovenia:
+- [ ] Latvia:
+- [ ] North Macedonia:
+- [ ] Guinea-Bissau:
+- [ ] Kosovo:
+- [ ] Bahrain:
+- [ ] Equatorial Guinea:
+- [ ] Estonia:
+- [x] Trinidad and Tobago: [_The Jumbies_](https://www.goodreads.com/book/show/22859559-the-jumbies) Tracey Baptiste; also C.L.R. James
+- [ ] East Timor:
+- [ ] Mauritius:
+- [ ] Eswatini:
+- [ ] Djibouti:
+- [ ] Cyprus:
+- [ ] Northern Cyprus:
+- [ ] Fiji:
+- [ ] Bhutan:
+- [ ] Comoros:
+- [ ] Guyana:
+- [ ] Solomon Islands:
+- [ ] Luxembourg:
+- [ ] Montenegro:
+- [ ] Suriname:
 - [ ] Western Sahara:
-- [ ] Yemen:
-- [ ] Zambia:
-- [ ] Zimbabwe:
+- [ ] Malta:
+- [ ] Cape Verde:
+- [ ] Brunei:
+- [ ] Belize:
+- [ ] Bahamas:
+- [x] Iceland: [_The Prose Edda_](https://www.goodreads.com/book/show/24658.The_Prose_Edda) Snorri Sturluson
+- [ ] Northern Cyprus:
+- [ ] Maldives:
+- [ ] Transnistria:
+- [ ] Vanuatu:
+- [x] Barbados: [_The Best of All Possible Worlds_](https://www.goodreads.com/book/show/15743440-the-best-of-all-possible-worlds) Karen Lord
+- [ ] Abkhazia:
+- [ ] São Tomé and Príncipe:
+- [ ] American Samoa:
+- [ ] Samoa:
+- [ ] Saint Lucia:
+- [ ] Artsakh:
+- [ ] Kiribati:
+- [ ] Grenada:
+- [ ] Saint Vincent and the Grenadines:
+- [ ] Micronesia:
+- [ ] Antigua and Barbuda:
+- [ ] Seychelles:
+- [ ] Tonga:
+- [ ] Andorra:
+- [ ] Dominica:
+- [ ] South Ossetia:
+- [ ] Saint Kitts and Nevis:
+- [ ] Marshall Islands:
+- [ ] Liechtenstein:
+- [ ] Monaco:
+- [ ] San Marino:
+- [ ] Palau:
+- [ ] Cook Islands:
+- [ ] Nauru:
+- [ ] Tuvalu:
+- [ ] Niue:
+- [ ] Vatican City:
