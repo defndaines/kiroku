@@ -128,7 +128,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Serbia:
 - [ ] Bulgaria:
 - [ ] Paraguay:
-- [ ] Democratic Republic of the Congo:
+- [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible)
 - [ ] Republic of the Congo:
 - [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Singapore:
