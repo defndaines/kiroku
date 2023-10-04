@@ -1,0 +1,212 @@
+# Countries
+
+- [ ] China
+- [ ] India
+- [ ] United States
+- [ ] Indonesia
+- [ ] Pakistan
+- [ ] Nigeria
+- [ ] Brazil
+- [ ] Bangladesh
+- [ ] Russia
+- [ ] Mexico
+- [ ] Japan
+- [ ] Philippines
+- [ ] Ethiopia
+- [ ] Egypt
+- [ ] Vietnam
+- [ ] DR Congo
+- [ ] Iran
+- [ ] Türkiye
+- [ ] Germany
+- [ ] Thailand
+- [ ] France
+- [ ] United Kingdom
+- [ ] Tanzania
+- [ ] South Africa
+- [ ] Italy
+- [ ] England
+- [ ] Myanmar
+- [ ] Colombia
+- [ ] Kenya
+- [ ] South Korea
+- [ ] Spain
+- [ ] Argentina
+- [ ] Algeria
+- [ ] Iraq
+- [ ] Uganda
+- [ ] Sudan
+- [ ] Ukraine
+- [ ] Canada
+- [ ] Poland
+- [ ] Morocco
+- [ ] Uzbekistan
+- [ ] Afghanistan
+- [ ] Peru
+- [ ] Malaysia
+- [ ] Angola
+- [ ] Mozambique
+- [ ] Saudi Arabia
+- [ ] Yemen
+- [ ] Ghana
+- [ ] Côte d'Ivoire
+- [ ] Nepal
+- [ ] Venezuela
+- [ ] Cameroon
+- [ ] Madagascar
+- [ ] Australia
+- [ ] North Korea
+- [ ] Niger
+- [ ] Taiwan
+- [ ] Syria
+- [ ] Mali
+- [ ] Burkina Faso
+- [ ] Sri Lanka
+- [ ] Malawi
+- [ ] Chile
+- [ ] Kazakhstan
+- [ ] Zambia
+- [ ] Romania
+- [ ] Ecuador
+- [ ] Senegal
+- [ ] Somalia
+- [ ] Netherlands
+- [ ] Guatemala
+- [ ] Chad
+- [ ] Cambodia
+- [ ] Zimbabwe
+- [ ] Guinea
+- [ ] South Sudan
+- [ ] Rwanda
+- [ ] Burundi
+- [ ] Benin
+- [ ] Bolivia
+- [ ] Tunisia
+- [ ] Papua New Guinea
+- [ ] Belgium
+- [ ] Haiti
+- [ ] Jordan
+- [ ] Cuba
+- [ ] Czech Republic
+- [ ] Dominican Republic
+- [ ] Sweden
+- [ ] Greece
+- [ ] Portugal
+- [ ] Azerbaijan
+- [ ] Tajikistan
+- [ ] Israel
+- [ ] Honduras
+- [ ] Hungary
+- [ ] United Arab Emirates
+- [ ] Belarus
+- [ ] Austria
+- [ ] Switzerland
+- [ ] Sierra Leone
+- [ ] Togo
+- [ ] Hong Kong
+- [ ] Laos
+- [ ] Kyrgyzstan
+- [ ] Turkmenistan
+- [ ] Libya
+- [ ] El Salvador
+- [ ] Nicaragua
+- [ ] Serbia
+- [ ] Bulgaria
+- [ ] Paraguay
+- [ ] Congo
+- [ ] Denmark
+- [ ] Singapore
+- [ ] Central African Republic
+- [ ] Finland
+- [ ] Norway
+- [ ] Lebanon
+- [ ] Palestine
+- [ ] Scotland
+- [ ] Slovakia
+- [ ] Ireland
+- [ ] Costa Rica
+- [ ] New Zealand
+- [ ] Oman
+- [ ] Kuwait
+- [ ] Liberia
+- [ ] Mauritania
+- [ ] Panama
+- [ ] Croatia
+- [ ] Eritrea
+- [ ] Georgia
+- [ ] Uruguay
+- [ ] Mongolia
+- [ ] Bosnia and Herzegovina
+- [ ] Puerto Rico
+- [ ] Wales
+- [ ] Armenia
+- [ ] Lithuania
+- [ ] Jamaica
+- [ ] Albania
+- [ ] Qatar
+- [ ] Namibia
+- [ ] Moldova
+- [ ] Gambia
+- [ ] Botswana
+- [ ] Lesotho
+- [ ] Gabon
+- [ ] Slovenia
+- [ ] Latvia
+- [ ] North Macedonia
+- [ ] Guinea-Bissau
+- [ ] Kosovo
+- [ ] Bahrain
+- [ ] Equatorial Guinea
+- [ ] Estonia
+- [ ] Trinidad and Tobago
+- [ ] East Timor
+- [ ] Mauritius
+- [ ] Eswatini
+- [ ] Djibouti
+- [ ] Cyprus
+- [ ] Fiji
+- [ ] Bhutan
+- [ ] Comoros
+- [ ] Guyana
+- [ ] Solomon Islands
+- [ ] Luxembourg
+- [ ] Montenegro
+- [ ] Suriname
+- [ ] Western Sahara
+- [ ] Malta
+- [ ] Cape Verde
+- [ ] Brunei
+- [ ] Belize
+- [ ] Bahamas
+- [ ] Iceland
+- [ ] Northern Cyprus
+- [ ] Maldives
+- [ ] Transnistria
+- [ ] Vanuatu
+- [ ] Barbados
+- [ ] Abkhazia
+- [ ] São Tomé and Príncipe
+- [ ] Samoa
+- [ ] Saint Lucia
+- [ ] Artsakh
+- [ ] Kiribati
+- [ ] Grenada
+- [ ] Saint Vincent and the Grenadines
+- [ ] Micronesia
+- [ ] Antigua and Barbuda
+- [ ] Seychelles
+- [ ] Tonga
+- [ ] Andorra
+- [ ] Dominica
+- [ ] South Ossetia
+- [ ] Saint Kitts and Nevis
+- [ ] Marshall Islands
+- [ ] Liechtenstein
+- [ ] Monaco
+- [ ] San Marino
+- [ ] Palau
+- [ ] Cook Islands
+- [ ] Nauru
+- [ ] Tuvalu
+- [ ] Niue
+- [ ] Vatican City
