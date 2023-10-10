@@ -2,8 +2,9 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- |
-| Private Government: How Employers Rule Our Lives | Anderson, Elizabeth | 2017 | U.S. | false | philosophy, politics, economy | female | audio |
-| The Cabinet | Kim, Un-su | 2006 | South Korea | true | magic realism, sci-fi, translation | male | audio |
+| Hula | Jasmin Iolani Hakes | 2023 | Hawai'i | true | historical fiction | female | audio |
+| Private Government: How Employers Rule Our Lives | Elizabeth Anderson | 2017 | U.S. | false | philosophy, politics, economy | female | audio |
+| The Cabinet | Kim Un-su | 2006 | South Korea | true | magic realism, sci-fi, translation | male | audio |
 | If an Egyptian Cannot Speak English | Noor Naga | 2022 | Egypt | true | romance | female | audio |
 | Blue Beetle: Jaime Reyes, Book One | Keith Giffen | 2022 | U.S. | true | graphic novel, superhero | male | print |
 | My Soul Looks Back | Jessica B. Harris | 2017 | U.S. | false | memoir | female | audio |
