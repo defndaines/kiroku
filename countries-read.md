@@ -46,7 +46,6 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus
 - [ ] Iraq:
 - [ ] Uganda:
-- [ ] South Sudan:
 - [ ] Sudan:
 - [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
 - [x] Canada: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
