@@ -2,6 +2,8 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- |
+| The Mysteries | Bill Watterson | 2023 | U.S. | true | graphic novel | male |
+print |
 | Hula | Jasmin Iolani Hakes | 2023 | Hawai'i | true | historical fiction | female | audio |
 | Private Government: How Employers Rule Our Lives | Elizabeth Anderson | 2017 | U.S. | false | philosophy, politics, economy | female | audio |
 | The Cabinet | Kim Un-su | 2006 | South Korea | true | magic realism, sci-fi, translation | male | audio |

@@ -38,7 +38,6 @@ I've watched more than ten movies or shows I'll mark with a star (\*).
 - [x] Algeria: [The Battle of Algiers](https://www.imdb.com/title/tt0058946/) _La battaglia di Algeri_
 - [x] Iraq: [Three Kings](https://www.imdb.com/title/tt0120188/)
 - [x] Uganda: [The Last King of Scotland](https://www.imdb.com/title/tt0455590/)
-- [ ] South Sudan
 - [ ] Sudan
 - [ ] Ukraine
 - [x] Canada\*: [Indian Horse](https://www.imdb.com/title/tt5672286/); [Kim's Convenience](https://www.imdb.com/title/tt5912064/)
