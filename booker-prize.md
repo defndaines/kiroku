@@ -38,14 +38,14 @@ by whether I've read them or not.
 - [ ] 1998: Ian McEwan _Amsterdam_
 - [ ] 1999: J. M. Coetzee _Disgrace_
 - [ ] 2000: Margaret Atwood _The Blind Assassin_
-- [X] 2001: Peter Carey _True History of the Kelly Gang_
+- [x] 2001: Peter Carey _True History of the Kelly Gang_
 - [ ] 2002: Yann Martel _Life of Pi_
 - [ ] 2003: DBC Pierre _Vernon God Little_
 - [ ] 2004: Alan Hollinghurst _The Line of Beauty_
 - [ ] 2005: John Banville _The Sea_
 - [ ] 2006: Kiran Desai _The Inheritance of Loss_
 - [ ] 2007: Anne Enright _The Gathering_
-- [X] 2008: Aravind Adiga _The White Tiger_
+- [x] 2008: Aravind Adiga _The White Tiger_
 - [ ] 2009: Hilary Mantel _Wolf Hall_
 - [ ] 2010: Howard Jacobson _The Finkler Question_
 - [ ] 2011: Julian Barnes _The Sense of an Ending_

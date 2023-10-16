@@ -2,20 +2,20 @@
 
 List of Nebula Award winners identified by whether I've read them.
 
-- [X] 1966: Frank Herbert _Dune_
-- [X] 1967: Samuel R. Delany _Babel-17_
-- [X] 1967: Daniel Keyes _Flowers for Algernon_
+- [x] 1966: Frank Herbert _Dune_
+- [x] 1967: Samuel R. Delany _Babel-17_
+- [x] 1967: Daniel Keyes _Flowers for Algernon_
 - [ ] 1968: Samuel R. Delany _The Einstein Intersection_
 - [ ] 1969: Alexei Panshin _Rite of Passage_
-- [X] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
+- [x] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
 - [ ] 1971: Larry Niven _Ringworld_
 - [ ] 1972: Robert Silverberg _A Time of Changes_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
 - [ ] 1975: Ursula K. Le Guin _The Dispossessed_
-- [X] 1976: Joe Haldeman _The Forever War_
+- [x] 1976: Joe Haldeman _The Forever War_
 - [ ] 1977: Frederik Pohl _Man Plus_
-- [X] 1978: Frederik Pohl _Gateway_
+- [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 - [ ] 1980: Arthur C. Clarke _The Fountains of Paradise_
 - [ ] 1981: Gregory Benford _Timescape_
@@ -23,7 +23,7 @@ List of Nebula Award winners identified by whether I've read them.
 - [ ] 1983: Michael Bishop _No Enemy But Time_
 - [ ] 1984: David Brin _Startide Rising_
 - [ ] 1985: William Gibson _Neuromancer_
-- [X] 1986: Orson Scott Card _Ender's Game_
+- [x] 1986: Orson Scott Card _Ender's Game_
 - [ ] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: Pat Murphy _The Falling Woman_
 - [ ] 1989: Lois McMaster Bujold _Falling Free_
@@ -40,7 +40,7 @@ List of Nebula Award winners identified by whether I've read them.
 - [ ] 2000: Octavia E. Butler _Parable of the Talents_
 - [ ] 2001: Greg Bear _Darwin's Radio_
 - [ ] 2002: Catherine Asaro _The Quantum Rose_
-- [X] 2003: Neil Gaiman _American Gods_
+- [x] 2003: Neil Gaiman _American Gods_
 - [ ] 2004: Elizabeth Moon _The Speed of Dark_
 - [ ] 2005: Lois McMaster Bujold _Paladin of Souls_
 - [ ] 2006: Joe Haldeman _Camouflage_
@@ -55,8 +55,8 @@ List of Nebula Award winners identified by whether I've read them.
 - [ ] 2015: Jeff VanderMeer _Annihilation_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
-- [X] 2018: N.K. Jemisin _The Stone Sky_
-- [X] 2019: Mary Robinette Kowal _The Calculating Stars_
+- [x] 2018: N.K. Jemisin _The Stone Sky_
+- [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [ ] 2020: Sarah Pinsker _A Song for a New Day_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_

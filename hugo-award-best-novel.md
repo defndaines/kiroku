@@ -10,31 +10,31 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 1946: Isaac Asimov _The Mule_
 - [ ] 1951: Robert A. Heinlein _Farmer in the Sky_
 - [ ] 1953: Alfred Bester _The Demolished Man_
-- [X] 1954: Ray Bradbury _Fahrenheit 451_
+- [x] 1954: Ray Bradbury _Fahrenheit 451_
 - [ ] 1955: Mark Clifton and Frank Riley _They'd Rather Be Right_
 - [ ] 1956: Robert A. Heinlein _Double Star_
 - [ ] 1958: Fritz Leiber _The Big Time_
 - [ ] 1959: James Blish _A Case of Conscience_
 - [ ] 1960: Robert A. Heinlein _Starship Troopers_
 - [ ] 1961: Walter M. Miller, Jr._A Canticle for Leibowitz_
-- [X] 1962: Robert A. Heinlein _Stranger in a Strange Land_
+- [x] 1962: Robert A. Heinlein _Stranger in a Strange Land_
 - [ ] 1963: Philip K. Dick _The Man in the High Castle_
 - [ ] 1964: Clifford D. Simak _Here Gather the Stars_
 - [ ] 1965: Fritz Leiber _The Wanderer_
-- [X] 1966: Frank Herbert _Dune_
+- [x] 1966: Frank Herbert _Dune_
 - [ ] 1966: Roger Zelazny _...And Call Me Conrad_
-- [X] 1967: Robert A. Heinlein _The Moon Is a Harsh Mistress_
+- [x] 1967: Robert A. Heinlein _The Moon Is a Harsh Mistress_
 - [ ] 1968: Roger Zelazny _Lord of Light_
-- [X] 1969: John Brunner _Stand on Zanzibar_
-- [X] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
+- [x] 1969: John Brunner _Stand on Zanzibar_
+- [x] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
 - [ ] 1971: Larry Niven _Ringworld_
 - [ ] 1972: Philip Jos&eacute; Farmer _To Your Scattered Bodies Go_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
 - [ ] 1975: Ursula K. Le Guin _The Dispossessed_
-- [X] 1976: Joe Haldeman _The Forever War_
+- [x] 1976: Joe Haldeman _The Forever War_
 - [ ] 1977: Kate Wilhelm _Where Late the Sweet Birds Sang_
-- [X] 1978: Frederik Pohl _Gateway_
+- [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 - [ ] 1980: Arthur C. Clarke _The Fountains of Paradise_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
@@ -42,11 +42,11 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 1983: Isaac Asimov _Foundation's Edge_
 - [ ] 1984: David Brin _Startide Rising_
 - [ ] 1985: William Gibson _Neuromancer_
-- [X] 1986: Orson Scott Card _Ender's Game_
+- [x] 1986: Orson Scott Card _Ender's Game_
 - [ ] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: David Brin _The Uplift War_
 - [ ] 1989: C.J. Cherryh _Cyteen_
-- [X] 1990: Dan Simmons _Hyperion_
+- [x] 1990: Dan Simmons _Hyperion_
 - [ ] 1991: Lois McMaster Bujold _The Vor Game_
 - [ ] 1992: Lois McMaster Bujold _Barrayar_
 - [ ] 1993: Connie Willis _Doomsday Book_
@@ -58,8 +58,8 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 1998: Joe Haldeman _Forever Peace_
 - [ ] 1999: Connie Willis _To Say Nothing of the Dog_
 - [ ] 2000: Vernor Vinge _A Deepness in the Sky_
-- [X] 2001: J.K. Rowling _Harry Potter and the Goblet of Fire_
-- [X] 2002: Neil Gaiman _American Gods_
+- [x] 2001: J.K. Rowling _Harry Potter and the Goblet of Fire_
+- [x] 2002: Neil Gaiman _American Gods_
 - [ ] 2003: Robert J. Sawyer _Hominids_
 - [ ] 2004: Lois McMaster Bujold _Paladin of Souls_
 - [ ] 2005: Susanna Clarke _Jonathan Strange &amp; Mr Norrell_
@@ -67,17 +67,17 @@ List of Hugo Award winners, identified by whether I've read them.
 - [ ] 2007: Vernor Vinge _Rainbows End_
 - [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
 - [ ] 2009: Neil Gaiman _The Graveyard Book_
-- [X] 2010: China Mi&eacute;ville _The City &amp; the City_
+- [x] 2010: China Mi&eacute;ville _The City &amp; the City_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
 - [ ] 2011: Connie Willis _Blackout/All Clear_
 - [ ] 2012: Jo Walton _Among Others_
 - [ ] 2013: John Scalzi _Redshirts_
 - [ ] 2014: Ann Leckie _Ancillary Justice_
-- [X] 2015: Cixin Liu, Ken Liu (translator) _The Three-Body Problem_
-- [X] 2016: N.K. Jemisin _The Fifth Season_
-- [X] 2017: N.K. Jemisin _The Obelisk Gate_
-- [X] 2018: N.K. Jemisin _The Stone Sky_
-- [X] 2019: Mary Robinette Kowal _The Calculating Stars_
-- [X] 2020: Arkady Martine _A Memory Called Empire_
+- [x] 2015: Cixin Liu, Ken Liu (translator) _The Three-Body Problem_
+- [x] 2016: N.K. Jemisin _The Fifth Season_
+- [x] 2017: N.K. Jemisin _The Obelisk Gate_
+- [x] 2018: N.K. Jemisin _The Stone Sky_
+- [x] 2019: Mary Robinette Kowal _The Calculating Stars_
+- [x] 2020: Arkady Martine _A Memory Called Empire_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
