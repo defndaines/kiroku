@@ -112,7 +112,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Honduras: Planning to read Acker
 - [ ] Hungary:
 - [ ] United Arab Emirates:
-- [ ] Belarus: Planning to read Svetlana Alexievich
+- [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
 - [x] Austria: Sigmund Freud; Stefan Zweig
 - [x] Switzerland: Hermann Hesse; Jean-Jacques Rousseau
 - [ ] Sierra Leone:

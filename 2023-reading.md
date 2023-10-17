@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
+| The Unwomanly Face of War: An Oral History of Women in World War II | Svetlana Alexievich | 1983 | Belarus; Ukraine | false | oral history, war | female | print | 5.0 |
 | The Accusation: Forbidden Stories from Inside North Korea | Bandi | 2014 | North Korea | true | historical fiction | male | audio | 0.0 |
 | Blood in the Machine: The Origins of the Rebellion Against Big Tech | Brian Merchant | 2023 | U.S. | false | history, technology | male | audio | 4.5 |
 | The Mysteries | Bill Watterson | 2023 | U.S. | true | graphic novel | male | print | 3.5 |
