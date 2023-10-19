@@ -122,4 +122,4 @@ in the case of plays.
 - [ ] 2020, Louise Glück:
 - [ ] 2021, Abdulrazak Gurnah:
 - [x] 2022, Annie Ernaux: A Woman's Story; La place
-- [ ] 2023, Jon Fosse: The Other Name
+- [x] 2023, Jon Fosse: The Other Name

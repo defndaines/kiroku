@@ -133,7 +133,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [ ] Singapore:
 - [ ] Central African Republic:
 - [ ] Finland:
-- [ ] Norway: Maybe read long time ago [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
+- [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [ ] Lebanon:
 - [ ] Palestine:
 - [x] Scotland\*: Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
