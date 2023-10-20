@@ -95,7 +95,7 @@ I've watched more than ten movies or shows I'll mark with a star (\*).
 - [x] Cuba: [Strawberry and Chocolate](https://www.imdb.com/title/tt0106966/) _Fresa y chocolate_
 - [ ] Czech Republic: [ANIMA](https://www.imdb.com/title/tt10516984/)
 - [ ] Dominican Republic
-- [x] Sweden: [One More Time](https://www.imdb.com/title/tt21216870/)
+- [x] Sweden: [Ådalen 31](https://www.imdb.com/title/tt0065261/); [One More Time](https://www.imdb.com/title/tt21216870/)
 - [x] Greece: [Z](https://www.imdb.com/title/tt0065234/)
 - [ ] Portugal
 - [ ] Azerbaijan
