@@ -61,3 +61,20 @@ by whether I've read them or not.
 - [ ] 2020: Douglas Stuart _Shuggie Bain_
 - [ ] 2021: Damon Galgut _The Promise Novel_
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
+
+## International Booker Prize
+
+- [ ] 2005: Ismail Kadare (Albania)
+- [x] 2007: Chinua Achebe (Nigeria)
+- [ ] 2009: Alice Munro (Canada)
+- [ ] 2011: Philip Roth (United States)
+- [ ] 2013: Lydia Davis (United States)
+- [ ] 2015: László Krasznahorkai (Hungary)
+- [x] 2016: Han Kang (South Korea) _The Vegetarian_
+- [ ] 2017: David Grossman (Israel) _Horse Walks Into a Bar_
+- [ ] 2018: Olga Tokarczuk (Poland) _Flights_
+- [ ] 2019: Jokha al-Harthi (Oman) _Celestial Bodies_
+- [ ] 2020: Marieke Lucas Rijneveld (Netherlands) _The Discomfort of Evening_
+- [ ] 2021: David Diop (France) _At Night All Blood Is Black_
+- [ ] 2022: Geetanjali Shree (India) _Tomb of Sand_
+- [ ] 2023: Georgi Gospodinov (Bulgaria) _Time Shelter_
