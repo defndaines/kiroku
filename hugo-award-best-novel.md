@@ -81,3 +81,4 @@ List of Hugo Award winners, identified by whether I've read them.
 - [x] 2020: Arkady Martine _A Memory Called Empire_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
+- [ ] 2023: T. Kingfisher _Nettle & Bone_
