@@ -14,7 +14,7 @@
 | If an Egyptian Cannot Speak English | Noor Naga | 2022 | Egypt | true | romance | female | audio | 4.0 |
 | Blue Beetle: Jaime Reyes, Book One | Keith Giffen | 2022 | U.S. | true | graphic novel, superhero | male | print | 2.5 |
 | My Soul Looks Back | Jessica B. Harris | 2017 | U.S. | false | memoir | female | audio | 2.5 |
-| Norse Mythology | Neil Gaiman | 2017 | U.K. | true | mythology | male | print | audio | 4.5 |
+| Norse Mythology | Neil Gaiman | 2017 | U.K. | true | mythology | male | audio | 4.5 |
 | How Do You Live? | Genzaburo Yoshino | 1937 | Japan | true | YA, slice of life, translation | male | audio | 4.0 |
 | Clark and Division | Naomi Hirahara | 2021 | U.S. | true | historical fiction, Japanese American | female | audio | 4.5 |
 | Black Cloak Volume 1 | Kelly Thompson | 2023 | U.S. | true | graphic novel, fantasy | female | print | 4.0 |
@@ -38,11 +38,11 @@
 | The Last Fallen Moon | Graci Kim | 2022 | U.S. | true | YA, fantasy, Korean American | female | audio | 3.5 |
 | Vampires in the Lemon Grove: Stories | Karen Russell | 2013 | U.S. | true | short stories, fantasy | female | audio | 3.5 |
 | Teen Titans/Deathstroke: The Terminus Agenda | Christopher J. Priest, Adam Glass | 2020 | U.S. | true | graphic novel | male | print | 2.5 |
-| Half Lost | Sally Green | 2016 | U.K. | true | fantasy, LGBT, YA | female | print | audio | 4.5 |
-| Half Wild | Sally Green | 2015 | U.K. | true | fantasy, LGBT, YA | female | print | audio | 4.5 |
+| Half Lost | Sally Green | 2016 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 |
+| Half Wild | Sally Green | 2015 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 |
 | Canto: Tales of the Unnamed World | David M. Booher | 2023 | U.S. | true | graphic novel | male | print | 4.0 |
 | Dungeons & Dragons: Honor Among Thieves: The Druid's Call | E.K. Johnston | 2023 | U.S. | true | fantasy, YA | female | audio | 4.0 |
-| Half Bad | Sally Green | 2014 | U.K. | true | fantasy, LGBT, YA | female | print | audio | 4.5 |
+| Half Bad | Sally Green | 2014 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 |
 | Reynard's Tale: A Story of Love and Mischief | Ben Hatke | 2023 | U.S. | true | graphic novel, fantasy | male | print | 4.5 |
 | Crying in H Mart | Michelle Zauner | 2021 | U.S. | false | memoir | female | print | 4.5 |
 | Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short stories, magical realism, translation | male | audio | 3.0 |
@@ -52,7 +52,7 @@
 | Something Is Killing the Children, Vol. 4 | James Tynion IV | 2022 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 |
 | Fledgling | Octavia E. Butler | 2005 | U.S. | true | fantasy, horror, sci-fi | female | audio | 4.0 |
 | If I Stay | Gayle Forman | 2009 | U.S. | true | YA, romance | female | print | 4.0 |
-| The Chill | Ross Macdonald | 1964 | U.S. | true | mystery, noir | male | print | audio | 4.5 |
+| The Chill | Ross Macdonald | 1964 | U.S. | true | mystery, noir | male | audio | 4.5 |
 | The Hero and the Crown | Robin McKinley | 1984 | U.S. | true | YA, fantasy | female | audio | 4.0 |
 | The Third Mushroom | Jennifer L. Holm | 2018 | U.S. | true | YA, sci-fi | female | audio | 3.5 |
 | Something Is Killing the Children, Vol. 3 | James Tynion IV | 2021 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 |
@@ -64,7 +64,7 @@
 | Treasury of Egyptian Mythology: Classic Stories of Gods, Goddesses, Monsters & Mortals | Donna Jo Napoli | 2013 | U.S. | false | mythology, Egypt, childrens | female | audio | 3.0 |
 | Norse Mythology, Vol. 3 | Neil Gaiman | 2023 | U.K. | true | graphic novel, mythology | male | print | 4.5 |
 | The Blue Sword | Robin McKinley | 1982 | U.S. | true | fantasy, YA | female | audio | 4.0 |
-| Waste of Space | Stuart Gibbs | 2018 | U.S. | true | YA, sci-fi | male | print | audio | 4.0 |
+| Waste of Space | Stuart Gibbs | 2018 | U.S. | true | YA, sci-fi | male | audio | 4.0 |
 | Demon Days | Peach Momoko | 2023 | U.S. | true | graphic novel, fantasy, mythology, Japanese | female | print | 4.0 |
 | A Hero Born | Jin Yong | 1957 | China | true | fantasy, historical fiction, China, translation | male | audio | 4.0 |
 | Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity | Charles L. Marohn Jr. | 2019 | U.S. | false | urban planning | male | audio | 4.0 |
