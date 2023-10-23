@@ -23,9 +23,9 @@
 | This Is How You Lose the Time War | Amal El-Mohtar, Max Gladstone | 2019 | U.S. | true | sci-fi, LGBT | mixed | audio | 4.0 |
 | The House of Rust | Khadija Abdalla Bajaber | 2021 | Kenya | true | YA, fantasy | female | audio | 4.0 |
 | Seven Empty Houses | Samanta Schweblin | 2015 | Argentina | true | short stories, translation | female | audio | 4.0 |
-| All Quiet on the Western Front | Erich Maria Remarque | 1929 | Germany | true | war, translation | male | audio | 5.0 |
 | Carmageddon: How Cars Make Life Worse and What to Do About It | Daniel Knowles | 2023 | U.S. | false | urbanism, history, environment | male | audio | 5.0 |
 | The Factory Witches of Lowell | C.S. Malerich | 2020 | U.S. | true | fantasy, historical fiction, LGBT | female | audio | 3.5 |
+| All Quiet on the Western Front | Erich Maria Remarque | 1929 | Germany | true | war, translation | male | audio | 5.0 |
 | Something Is Killing the Children, Vol. 6 | James Tynion IV | 2023 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 |
 | These Women | Ivy Pochoda | 2020 | U.S. | true | mystery | female | audio | 4.5 |
 | Blood Meridian, or, the Evening Redness in the West | Cormac McCarthy | 1992 | U.S. | true | historical fiction, western | male | audio | 3.5 |
