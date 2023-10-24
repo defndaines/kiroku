@@ -85,7 +85,7 @@ those lists are not goals I'm looking to fill in.
 
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
-- [ ] 2023: Samantha Mills _Rabbit Test_
+- [x] 2023: Samantha Mills _Rabbit Test_
 
 ## Andre Norton Award
 
