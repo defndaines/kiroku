@@ -2,6 +2,8 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
+| Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi | female | audio | 5.0 |
+| Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi | female | 4.0 |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 |
 | The Other Name | Jon Fosse | 2019 | Norway | true | literature | male | audio | 3.0 |
