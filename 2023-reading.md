@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
+| Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 |
 | The Other Name | Jon Fosse | 2019 | Norway | true | literature | male | audio | 3.0 |
 | The Unwomanly Face of War: An Oral History of Women in World War II | Svetlana Alexievich | 1983 | Belarus; Ukraine | false | oral history, war | female | print | 5.0 |
