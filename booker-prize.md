@@ -5,7 +5,7 @@ by whether I've read them or not.
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
-- [ ] 1970 (retrospective award): J. G. Farrell _Troubles_
+- [ ] 1970: J. G. Farrell _Troubles_
 - [ ] 1971: V. S. Naipaul _In a Free State_
 - [ ] 1972: John Berger _G._
 - [ ] 1973: J. G. Farrell _The Siege of Krishnapur_
