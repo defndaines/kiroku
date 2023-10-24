@@ -2,8 +2,8 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
-| Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi | female | audio | 5.0 |
-| Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi | female | audio | 4.0 |
+| Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short stories | female | audio | 5.0 |
+| Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi, short stories | female | audio | 4.0 |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 |
 | The Other Name | Jon Fosse | 2019 | Norway | true | literature | male | audio | 3.0 |
@@ -35,7 +35,7 @@
 | The Cold Millions | Jess Walter | 2020 | U.S. | true | historical fiction | male | audio | 4.5 |
 | City of Inmates: Conquest, Rebellion, and the Rise of Human Caging in Los Angeles, 1771-1965 | Kelly Lytle Hernández | 2017 | U.S. | false | Los Angeles, history, prison | female | audio | 4.5 |
 | The Leopard | Giuseppe Tomasi di Lampedusa | 1958 | Italy | true | historical fiction, translation | male | audio | 2.5 |
-| Even Though I Knew the End | C.L. Polk | 2022 | U.S. | true | fantasy, historical ficiton, LGBT | non-binary | audio | 4.0 |
+| Even Though I Knew the End | C.L. Polk | 2022 | U.S. | true | fantasy, historical fiction, LGBT | non-binary | audio | 4.0 |
 | The Southern Book Club's Guide to Slaying Vampires | Grady Hendrix | 2020 | U.S. | true | horror | male | audio | 4.0 |
 | Vanish, Volume One | Donny Cates | 2023 | U.S. | true | graphic novel | male | print | 2.5 |
 | The Last Fallen Moon | Graci Kim | 2022 | U.S. | true | YA, fantasy, Korean American | female | audio | 3.5 |
