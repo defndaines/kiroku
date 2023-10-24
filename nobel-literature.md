@@ -10,7 +10,7 @@ in the case of plays.
 - [ ] 1904, José Echegaray y Eizaguirre:
 - [ ] 1905, Henryk Sienkiewicz:
 - [ ] 1906, Giosuè Carducci:
-- [x] 1907, Rudyard Kipling: several including short stories.
+- [x] 1907, Rudyard Kipling: several including short stories
 - [ ] 1908, Rudolf Christoph Eucken:
 - [ ] 1909, Selma Ottilia Lovisa Lagerlöf:
 - [ ] 1910, Paul Johann Ludwig Heyse:
@@ -27,7 +27,7 @@ in the case of plays.
 - [ ] 1922, Jacinto Benavente:
 - [ ] 1923, William Butler Yeats:
 - [ ] 1924, Wladyslaw Stanislaw Reymont:
-- [x] 1925, George Bernard Shaw: Pygmalion; Mrs. Warren's Profession
+- [x] 1925, George Bernard Shaw: _Pygmalion_; _Mrs. Warren's Profession_
 - [ ] 1926, Grazia Deledda:
 - [ ] 1927, Henri Bergson:
 - [ ] 1928, Sigrid Undset:
@@ -39,35 +39,35 @@ in the case of plays.
 - [ ] 1934, Luigi Pirandello:
 - [ ] 1936, Eugene Gladstone O’Neill:
 - [ ] 1937, Roger Martin du Gard:
-- [x] 1938, Pearl Buck: The Good Earth
+- [x] 1938, Pearl Buck: _The Good Earth_
 - [ ] 1939, Frans Eemil Sillanpää:
 - [ ] 1944, Johannes Vilhelm Jensen:
 - [ ] 1945, Gabriela Mistral:
-- [x] 1946, Hermann Hesse: Siddhartha; Steppenwolf
+- [x] 1946, Hermann Hesse: _Siddhartha_; _Steppenwolf_
 - [ ] 1947, André Paul Guillaume Gide:
 - [x] 1948, Thomas Stearns Eliot: several poems
-- [x] 1949, William Faulkner: The Sound and the Fury
+- [x] 1949, William Faulkner: _The Sound and the Fury_
 - [ ] 1950, Earl (Bertrand Arthur William) Russell:
 - [ ] 1951, Pär Fabian Lagerkvist:
 - [ ] 1952, François Mauriac:
 - [ ] 1953, Sir Winston Leonard Spencer Churchill:
-- [x] 1954, Ernest Miller Hemingway: For Whom the Bell Tolls; A Farewell to Arms; The Old Man and the Sea
+- [x] 1954, Ernest Miller Hemingway: _For Whom the Bell Tolls_; _A Farewell to Arms_; _The Old Man and the Sea_
 - [ ] 1955, Halldór Kiljan Laxness:
 - [ ] 1956, Juan Ramón Jiménez:
-- [x] 1957, Albert Camus: The Stranger
-- [x] 1958, Boris Leonidovich Pasternak: Doctor Zhivago
+- [x] 1957, Albert Camus: _The Stranger_
+- [x] 1958, Boris Leonidovich Pasternak: _Doctor Zhivago_
 - [ ] 1959, Salvatore Quasimodo:
 - [ ] 1960, Saint-John Perse:
 - [ ] 1961, Ivo Andric:
-- [x] 1962, John Steinbeck: The Grapes of Wrath; Of Mice and Men; Cannery Row; East of Eden
+- [x] 1962, John Steinbeck: _The Grapes of Wrath_; _Of Mice and Men_; _Cannery Row_; _East of Eden_
 - [ ] 1963, Giorgos Seferis:
-- [x] 1964, Jean-Paul Sartre: No Exit
+- [x] 1964, Jean-Paul Sartre: _No Exit_
 - [ ] 1965, Mikhail Aleksandrovich Sholokhov:
 - [ ] 1966, Nelly Sachs:
 - [ ] 1966, Shmuel Yosef Agnon:
 - [ ] 1967, Miguel Angel Asturias:
-- [x] 1968, Yasunari Kawabata: Thousand Cranes
-- [x] 1969, Samuel Beckett: Waiting for Godot
+- [x] 1968, Yasunari Kawabata: _Thousand Cranes_
+- [x] 1969, Samuel Beckett: _Waiting for Godot_
 - [ ] 1970, Aleksandr Isayevich Solzhenitsyn:
 - [ ] 1971, Pablo Neruda:
 - [ ] 1972, Heinrich Böll:
@@ -82,7 +82,7 @@ in the case of plays.
 - [ ] 1980, Czeslaw Milosz:
 - [ ] 1981, Elias Canetti:
 - [ ] 1982, Gabriel García Márquez:
-- [x] 1983, William Golding: Lord of the Flies
+- [x] 1983, William Golding: _Lord of the Flies_
 - [ ] 1984, Jaroslav Seifert:
 - [ ] 1985, Claude Simon:
 - [ ] 1986, Wole Soyinka:
@@ -92,9 +92,9 @@ in the case of plays.
 - [ ] 1990, Octavio Paz:
 - [ ] 1991, Nadine Gordimer:
 - [ ] 1992, Derek Walcott:
-- [x] 1993, Toni Morrison: Beloved; The Source of Self-Regard
-- [x] 1994, Kenzaburo Oe: A Personal Matter
-- [x] 1995, Seamus Heaney: Beowulf
+- [x] 1993, Toni Morrison: _Beloved_; _The Source of Self-Regard_
+- [x] 1994, Kenzaburo Oe: _A Personal Matter_
+- [x] 1995, Seamus Heaney: _Beowulf_
 - [ ] 1996, Wislawa Szymborska:
 - [ ] 1997, Dario Fo:
 - [ ] 1998, José Saramago:
@@ -109,17 +109,17 @@ in the case of plays.
 - [ ] 2007, Doris Lessing:
 - [ ] 2008, Jean-Marie Gustave Le Clézio:
 - [ ] 2009, Herta Müller:
-- [x] 2010, Mario Vargas Llosa: The Feast of the Goat
+- [x] 2010, Mario Vargas Llosa: _The Feast of the Goat_
 - [ ] 2011, Tomas Tranströmer:
 - [ ] 2012, Mo Yan:
 - [ ] 2013, Alice Munro:
 - [ ] 2014, Patrick Modiano:
-- [x] 2015, Svetlana Alexievich: The Unwomanly Face of War
-- [x] 2016, Bob Dylan: The Freewheelin' Bob Dylan
-- [x] 2017, Kazuo Ishiguro: The Buried Giant
+- [x] 2015, Svetlana Alexievich: _The Unwomanly Face of War_
+- [x] 2016, Bob Dylan: _The Freewheelin' Bob Dylan_
+- [x] 2017, Kazuo Ishiguro: _The Buried Giant_
 - [ ] 2018, Olga Tokarczuk:
 - [ ] 2019, Peter Handke:
 - [ ] 2020, Louise Glück:
 - [ ] 2021, Abdulrazak Gurnah:
-- [x] 2022, Annie Ernaux: A Woman's Story; La place
-- [x] 2023, Jon Fosse: The Other Name
+- [x] 2022, Annie Ernaux: _A Woman's Story_; _La place_
+- [x] 2023, Jon Fosse: _The Other Name_
