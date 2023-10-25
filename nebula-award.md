@@ -79,7 +79,7 @@ those lists are not goals I'm looking to fill in.
 ## Best Novelette
 
 - [ ] 1985: Octavia E. Butler _Bloodchild_
-- [ ] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
+- [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 
 ## Best Short Story
 
