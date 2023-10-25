@@ -3,7 +3,7 @@
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
 | We Built This City | Marie Vibbert | 2022 | U.S. | true | sci-fi, workers, novelette | female | audio | 4.5 |
-| If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, super hero, novelette | male | audio | 4.5 |
+| If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, superhero, novelette | male | audio | 4.5 |
 | Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short stories | female | audio | 5.0 |
 | Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi, novelette | female | audio | 4.0 |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 |
@@ -50,7 +50,7 @@
 | Half Bad | Sally Green | 2014 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 |
 | Reynard's Tale: A Story of Love and Mischief | Ben Hatke | 2023 | U.S. | true | graphic novel, fantasy | male | print | 4.5 |
 | Crying in H Mart | Michelle Zauner | 2021 | U.S. | false | memoir | female | print | 4.5 |
-| Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short stories, magical realism, translation | male | audio | 3.0 |
+| Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short stories, magic realism, translation | male | audio | 3.0 |
 | Deathstroke R.I.P. | Christopher J. Priest | 2020 | U.S. | true | graphic novel | male | print | 2.0 |
 | The Last Fallen Star | Graci Kim | 2021 | U.S. | true | YA, fantasy, Korean American | female | audio | 3.5 |
 | Something Is Killing the Children, Vol. 5 | James Tynion IV | 2022 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 |
