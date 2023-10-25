@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
+| If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, super hero | male | audio | 4.5 |
 | Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short stories | female | audio | 5.0 |
 | Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi, short stories | female | audio | 4.0 |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 |
