@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- | ---: |
+| Jujutsu Kaisen, Vol. 01 | Gege Akutami | 2018 | Japan | true | graphic novel, manga, fantasy, horror, translation | unknown | print | 4.5 |
 | We Built This City | Marie Vibbert | 2022 | U.S. | true | sci-fi, workers, novelette | female | audio | 4.5 |
 | If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, superhero, novelette | male | audio | 4.5 |
 | Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short stories | female | audio | 5.0 |
