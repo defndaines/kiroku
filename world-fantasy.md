@@ -2,6 +2,8 @@
 
 List of World Fantasy Award winners identified by whether I've read them.
 
+Count: 4
+
 - [ ] 1975: Patricia A. McKillip "The Forgotten Beasts of Eld" (Novel)
 - [ ] 1975: Robert Aickman "Pages From a Young Girl's Journal" (Short Fiction)
 - [ ] 1976: Richard Matheson "Bid Time Return" (Novel)

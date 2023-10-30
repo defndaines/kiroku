@@ -7,6 +7,8 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
+Count: 19
+
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
 - [ ] 1943: Robert A. Heinlein _Beyond This Horizon_

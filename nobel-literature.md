@@ -3,6 +3,8 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
+Count: 23
+
 - [ ] 1901, Sully Prudhomme:
 - [ ] 1902, Christian Matthias Theodor Mommsen:
 - [ ] 1903, Bjørnstjerne Martinus Bjørnson:

@@ -2,6 +2,8 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
+Count: 12
+
 ## Best Novel
 
 - [ ] 1971: Larry Niven _Ringworld_

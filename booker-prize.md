@@ -3,6 +3,8 @@
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
 by whether I've read them or not.
 
+Count: 4
+
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
 - [ ] 1970: J. G. Farrell _Troubles_

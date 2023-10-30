@@ -7,6 +7,8 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
+Count: 10
+
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
 - [x] 1967: Daniel Keyes _Flowers for Algernon_
