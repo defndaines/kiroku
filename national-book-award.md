@@ -1,5 +1,7 @@
 # National Book Award
 
+Count: 12
+
 ## Fiction
 
 - [ ] 1950, Nelson Algren _The Man with the Golden Arm_
