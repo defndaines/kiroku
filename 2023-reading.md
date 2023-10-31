@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| A Wish in the Dark | Christina Soontornvat | 2020 | Thailand | true | YA, fantasy | female | print | 5.0 | 384 |
 | Abbott | Saladin Ahmed | 2018 | U.S. | true | graphic novel, horror, historical fiction | male | print | 4.5 | 128 |
 | Jujutsu Kaisen, Vol. 01 | Gege Akutami | 2018 | Japan | true | graphic novel, manga, fantasy, horror, translation | unknown | print | 4.5 | 192 |
 | We Built This City | Marie Vibbert | 2022 | U.S. | true | sci-fi, workers, novelette | female | audio | 4.5 | - |

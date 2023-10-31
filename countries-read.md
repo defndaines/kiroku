@@ -12,6 +12,8 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
+Count: 59
+
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
 - [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy's Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
@@ -30,7 +32,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 - [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
 - [ ] Türkiye:
 - [x] Germany\*: [_All Quiet on the Western Front_](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front) Erich Maria Remarque
-- [ ] Thailand:
+- [x] Thailand: [_A Wish in the Dark_](https://www.goodreads.com/book/show/56733560-a-wish-in-the-dark) Christina Soontornvat
 - [x] France\*: [_Planet of the Apes_](https://www.goodreads.com/book/show/414895.Planet_of_the_Apes) Pierre Boulle
 - [x] United Kingdom\*: [_Spear_](https://www.goodreads.com/book/show/57693308-spear) Nicola Griffith
 - [ ] Tanzania:
