@@ -2,6 +2,8 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Full Throttle | Joe Hill | 2019 | U.S. | true | horror, short stories | male | audio | 4.0 | 480 |
+| Greek Myths: A New Retelling | Charlotte Higgins | 2021 | Greece | true | mythology, Greek | female | audio | 4.0 | 336 |
 | A Wish in the Dark | Christina Soontornvat | 2020 | Thailand | true | YA, fantasy | female | print | 5.0 | 384 |
 | Abbott | Saladin Ahmed | 2018 | U.S. | true | graphic novel, horror, historical fiction | male | print | 4.5 | 128 |
 | Jujutsu Kaisen, Vol. 01 | Gege Akutami | 2018 | Japan | true | graphic novel, manga, fantasy, horror, translation | unknown | print | 4.5 | 192 |
