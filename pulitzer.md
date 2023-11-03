@@ -1,5 +1,8 @@
 # Pulitzer Prize
 
+Tracking for fiction and nonfiction. Removed older entries from the list which
+I have no intent of ever reading.
+
 Count: 17
 
 ## Fiction
@@ -104,26 +107,6 @@ Count: 17
 
 ## Nonfiction
 
-- [ ] 1962: Theodore H. White, _The Making of the President 1960_
-- [ ] 1963: Barbara W. Tuchman, _The Guns of August_
-- [ ] 1964: Richard Hofstadter, _Anti-intellectualism in American Life_
-- [ ] 1965: Howard Mumford Jones, _O Strange New World: American Culture: The Formative Years_
-- [ ] 1966: Edwin Way Teale, _Wandering Through Winter: A Naturalist's Record of a 20, _000-Mile Journey Through the North American Winter_
-- [ ] 1967: David Brion Davis, _The Problem of Slavery in Western Culture_
-- [ ] 1968: Will Durant and Ariel Durant, _The Story of Civilization: Rousseau and Revolution_
-- [ ] 1969: René Jules Dubos, _So Human an Anima: How We Are Shaped by Surroundings and Events_
-- [ ] 1969: Norman Mailer, _The Armies of the Night: History as a Novel,The Novel as History_
-- [ ] 1970: Erik H. Erikson, _Gandhi's Truth: On the Origins of Militant Nonviolence_
-- [ ] 1971: John Toland, _The Rising Sun: The Decline and Fall of the Japanese Empire, 1936–1945_
-- [ ] 1972: Barbara W. Tuchman, _Stilwell and the American Experience in China, 1911–45_
-- [ ] 1973: Robert Coles, _Children of Crisis, Volumes II and III_
-- [ ] 1973: Frances FitzGerald, _Fire in the Lake: The Vietnamese and the Americans in Vietnam_
-- [ ] 1974: Ernest Becker, _The Denial of Death_
-- [ ] 1975: Annie Dillard, _Pilgrim at Tinker Creek_
-- [ ] 1976: Robert N. Butler, _Why Survive? Being Old in America_
-- [ ] 1977: William W. Warner, _Beautiful Swimmers: Watermen, Crabs and the Chesapeake Bay_
-- [ ] 1978: Carl Sagan, _The Dragons of Eden: Speculations on the Evolution of Human Intelligence_
-- [ ] 1979: Edward O. Wilson, _On Human Nature_
 - [ ] 1980: Douglas R. Hofstadter, _Gödel, Escher, Bach: an Eternal Golden Braid_
 - [ ] 1981: Carl E. Schorske, _Fin-de-Siècle Vienna: Politics and Culture_
 - [ ] 1982: Tracy Kidder, _The Soul of a New Machine_
@@ -173,68 +156,6 @@ Count: 17
 
 ## History
 
-- [ ] 1917: Jean Jules Jusserand, _With Americans of Past and Present Days_
-- [ ] 1918: James Ford Rhodes, _A History of the Civil War, 1861-1865_
-- [ ] 1920: Justin H. Smith, _The War with Mexico_
-- [ ] 1921: William Sowden Sims and Burton J. Hendrick, _The Victory at Sea_
-- [ ] 1922: James Truslow Adams, _The Founding of New England_
-- [ ] 1923: Charles Warren, _The Supreme Court in United States History_
-- [ ] 1924: Charles Howard McIlwain, _The American Revolution: A Constitutional Interpretation_
-- [ ] 1925: Frederic L. Paxson, _History of the American Frontier_
-- [ ] 1926: Edward Channing, _A History of the United States, Vol. VI: The War for Southern Independence (1849–1865)_
-- [ ] 1927: Samuel Flagg Bemis, _Pinckney's Treaty_
-- [ ] 1928: Vernon Louis Parrington, _Main Currents in American Thought_
-- [ ] 1929: Fred Albert Shannon, _The Organization and Administration of the Union Army, 1861–1865_
-- [ ] 1930: Claude H. Van Tyne, _The War of Independence_
-- [ ] 1931: Bernadotte E. Schmitt, _The Coming of the War, 1914_
-- [ ] 1932: John J. Pershing, _My Experiences in the World War_
-- [ ] 1933: Frederick J. Turner, _The Significance of Sections in American History_
-- [ ] 1934: Herbert Agar, _The People's Choice_
-- [ ] 1935: Charles McLean Andrews, _The Colonial Period of American History_
-- [ ] 1936: Andrew C. McLaughlin, _A Constitutional History of the United States_
-- [ ] 1937: Van Wyck Brooks, _The Flowering of New England, 1815–1865_
-- [ ] 1938: Paul Herman Buck, _The Road to Reunion, 1865–1900_
-- [ ] 1939: Frank Luther Mott, _A History of American Magazines_
-- [ ] 1940: Carl Sandburg, _Abraham Lincoln: The War Years_
-- [ ] 1941: Marcus Lee Hansen, _The Atlantic Migration, 1607–1860_
-- [ ] 1942: Margaret Leech, _Reveille in Washington, 1860–1865_
-- [ ] 1943: Esther Forbes, _Paul Revere and the World He Lived In_
-- [ ] 1944: Merle Curti, _The Growth of American Thought_
-- [ ] 1945: Stephen Bonsal, _Unfinished Business_
-- [ ] 1946: Arthur M. Schlesinger, Jr., _The Age of Jackson_
-- [ ] 1947: James Phinney Baxter III, _Scientists Against Time_
-- [ ] 1948: Bernard DeVoto, _Across the Wide Missouri_
-- [ ] 1949: Roy Franklin Nichols, _The Disruption of American Democracy_
-- [ ] 1950: Oliver W. Larkin, _Art and Life in America_
-- [ ] 1951: R. Carlyle Buley, _The Old Northwest, Pioneer Period 1815–1840_
-- [ ] 1952: Oscar Handlin, _The Uprooted_
-- [ ] 1953: George Dangerfield, _The Era of Good Feelings_
-- [ ] 1954: Bruce Catton, _A Stillness at Appomattox_
-- [ ] 1955: Paul Horgan, _Great River: The Rio Grande in North American History_
-- [ ] 1956: Richard Hofstadter, _The Age of Reform_
-- [ ] 1957: George F. Kennan, _Russia Leaves the War: Soviet-American Relations, 1917–1920_
-- [ ] 1958: Bray Hammond, _Banks and Politics in America_
-- [ ] 1959: Leonard D. White and Jean Schneider, _The Republican Era: 1869–1901_
-- [ ] 1960: Margaret Leech, _In the Days of McKinley_
-- [ ] 1961: Herbert Feis, _Between War and Peace: The Potsdam Conference_
-- [ ] 1962: Lawrence H. Gipson, _The Triumphant Empire: Thunder-Clouds Gather in the West, 1763–1766_
-- [ ] 1963: Constance McLaughlin Green, _Washington: Village and Capital, 1800–1878_
-- [ ] 1964: Sumner Chilton Powell, _Puritan Village: The Formation of a New England Town_
-- [ ] 1965: Irwin Unger, _The Greenback Era: A Social and Political History of American Finance, 1865–1879_
-- [ ] 1966: Perry Miller, _The Life of the Mind in America_
-- [ ] 1967: William H. Goetzmann, _Exploration and Empire: The Explorer and the Scientist in the Winning of the American West_
-- [ ] 1968: Bernard Bailyn, _The Ideological Origins of the American Revolution_
-- [ ] 1969: Leonard W. Levy, _Origins of the Fifth Amendment: The Right Against Self-Incrimination_
-- [ ] 1970: Dean Acheson, _Present at the Creation: My Years in the State Department_
-- [ ] 1971: James MacGregor Burns, _Roosevelt: The Soldier Of Freedom_
-- [ ] 1972: Carl N. Degler, _Neither Black nor White: Slavery and Race Relations in Brazil and the United States_
-- [ ] 1973: Michael Kammen, _People of Paradox: An Inquiry Concerning the Origins of American Civilization_
-- [ ] 1974: Daniel J. Boorstin, _The Americans: The Democratic Experience_
-- [ ] 1975: Dumas Malone, _Jefferson and His Time_
-- [ ] 1976: Paul Horgan, _Lamy of Santa Fe_
-- [ ] 1977: David M. Potter (Completed and edited by Don E. Fehrenbacher), _The Impending Crisis, 1848–1861_
-- [ ] 1978: Alfred D. Chandler, Jr., _The Visible Hand: The Managerial Revolution in American Business_
-- [ ] 1979: Don E. Fehrenbacher, _The Dred Scott Case: Its Significance in American Law and Politics_
 - [ ] 1980: Leon F. Litwack, _Been in the Storm So Long: The Aftermath of Slavery_
 - [ ] 1981: Lawrence A. Cremin, _American Education: The National Experience, 1783–1876_
 - [ ] 1982: C. Vann Woodward, _Mary Chesnut's Civil War_
