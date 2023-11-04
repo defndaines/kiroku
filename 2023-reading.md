@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Celestial Bodies | Jokha al-Harthi | 2010 | Oman | true | historical fiction | female | audio | 3.0 | 256 |
 | In on the Kill Taker | Joe Gross | 2018 | U.S. | false | music | male | print | 4.5 | 184 |
 | Azula in the Spirit Temple | Faith Erin Hicks | 2023 | U.S. | true | graphic novel, fantasy, YA | female | print | 3.5 | 80 |
 | Full Throttle | Joe Hill | 2019 | U.S. | true | horror, short stories | male | audio | 4.0 | 480 |

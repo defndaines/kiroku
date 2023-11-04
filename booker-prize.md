@@ -3,7 +3,7 @@
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
 by whether I've read them or not.
 
-Count: 4
+Count: 5
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -75,7 +75,7 @@ Count: 4
 - [x] 2016: Han Kang (South Korea) _The Vegetarian_
 - [ ] 2017: David Grossman (Israel) _Horse Walks Into a Bar_
 - [ ] 2018: Olga Tokarczuk (Poland) _Flights_
-- [ ] 2019: Jokha al-Harthi (Oman) _Celestial Bodies_
+- [x] 2019: Jokha al-Harthi (Oman) _Celestial Bodies_
 - [ ] 2020: Marieke Lucas Rijneveld (Netherlands) _The Discomfort of Evening_
 - [ ] 2021: David Diop (France) _At Night All Blood Is Black_
 - [ ] 2022: Geetanjali Shree (India) _Tomb of Sand_
