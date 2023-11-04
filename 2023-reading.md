@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| In on the Kill Taker | Joe Gross | 2018 | U.S. | false | music | male | print | 4.5 | 184 |
 | Azula in the Spirit Temple | Faith Erin Hicks | 2023 | U.S. | true | graphic novel, fantasy, YA | female | print | 3.5 | 80 |
 | Full Throttle | Joe Hill | 2019 | U.S. | true | horror, short stories | male | audio | 4.0 | 480 |
 | Greek Myths: A New Retelling | Charlotte Higgins | 2021 | Greece | true | mythology, Greek | female | audio | 4.0 | 336 |
