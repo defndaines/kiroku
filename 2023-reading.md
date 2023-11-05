@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Abbott: 1973 | Saladin Ahmed | 2021 | U.S. | true | graphic novel, horror, historical fiction | male | print | 4.0 | 128 |
 | New Kid | Jerry Craft | 2019 | U.S. | true | graphic novel, YA | male | print | 4.5 | 256 |
 | Celestial Bodies | Jokha al-Harthi | 2010 | Oman | true | historical fiction | female | audio | 3.0 | 256 |
 | In on the Kill Taker | Joe Gross | 2018 | U.S. | false | music | male | print | 4.5 | 184 |
