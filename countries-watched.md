@@ -127,7 +127,7 @@ I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Finland
 - [x] Norway: [Troll](https://www.imdb.com/title/tt11116912/); [Ragnarok](https://www.imdb.com/title/tt9251798/)
 - [ ] Lebanon
-- [x] Palestine: [Paradise Now](https://www.imdb.com/title/tt0445620/)
+- [x] Palestine: [Paradise Now](https://www.imdb.com/title/tt0445620/); [Born in Gaza](https://www.imdb.com/title/tt4205416/)
 - [x] Scotland: [Trainspotting](https://www.imdb.com/title/tt0117951/)
 - [x] Uganda: [The Last King of Scotland](https://www.imdb.com/title/tt0455590/)
 - [ ] Slovakia
