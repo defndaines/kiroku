@@ -1,6 +1,6 @@
 # Women's Prize for Fiction
 
-Count: 1
+Count: 2
 
 - [ ] 1996: Helen Dunmore _A Spell of Winter_
 - [ ] 1997: Anne Michaels _Fugitive Pieces_
@@ -27,6 +27,6 @@ Count: 1
 - [ ] 2018: Kamila Shamsie _Home Fire_
 - [ ] 2019: Tayari Jones _An American Marriage_
 - [ ] 2020: Maggie O'Farrell _Hamnet_
-- [ ] 2021: Susanna Clarke _Piranesi_
+- [x] 2021: Susanna Clarke _Piranesi_
 - [ ] 2022: Ruth Ozeki _The Book of Form and Emptiness_
 - [ ] 2023: Barbara Kingsolver _Demon Copperhead_
