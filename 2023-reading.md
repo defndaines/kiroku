@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Nettle & Bone | T. Kingfisher | 2022 | U.S. | true | fantasy | female | audio | 4.5 | 245 |
 | Piranesi | Susanna Clarke | 2020 | U.K. | true | fantasy, mythology, mystery | female | print | 5.0 | 272 |
 | The Posthumous Memoirs of Brás Cubas | Machado de Assis | 1881 | Brazil | true | literature | male | audio | 3.5 | 240 |
 | Abbott: 1973 | Saladin Ahmed | 2021 | U.S. | true | graphic novel, horror, historical fiction | male | print | 4.0 | 128 |

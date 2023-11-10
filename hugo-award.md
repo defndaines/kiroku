@@ -7,7 +7,7 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
-Count: 19
+Count: 20
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -88,7 +88,7 @@ Count: 19
 - [x] 2020: Arkady Martine _A Memory Called Empire_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
-- [ ] 2023: T. Kingfisher _Nettle & Bone_
+- [x] 2023: T. Kingfisher _Nettle & Bone_
 
 ## Best Novella
 
