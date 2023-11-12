@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| The Power | Naomi Alderman | 2016 | U.K. | true | sci-fi, feminism | female | print | 4.5 | 385 |
 | The Year Without Sunshine | Naomi Kritzer | 2023 | U.S. | true | short stories, sci-fi | female | audio | 4.5 | 54 |
 | Nettle & Bone | T. Kingfisher | 2022 | U.S. | true | fantasy | female | audio | 4.5 | 245 |
 | Piranesi | Susanna Clarke | 2020 | U.K. | true | fantasy, mythology, mystery | female | print | 5.0 | 272 |
