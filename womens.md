@@ -1,6 +1,6 @@
 # Women's Prize for Fiction
 
-Count: 2
+Count: 3
 
 - [ ] 1996: Helen Dunmore _A Spell of Winter_
 - [ ] 1997: Anne Michaels _Fugitive Pieces_
@@ -23,7 +23,7 @@ Count: 2
 - [ ] 2014: Eimear McBride _A Girl Is a Half-formed Thing_
 - [ ] 2015: Ali Smith _How to Be Both_
 - [ ] 2016: Lisa McInerney _The Glorious Heresies_
-- [ ] 2017: Naomi Alderman _The Power_
+- [x] 2017: Naomi Alderman _The Power_
 - [ ] 2018: Kamila Shamsie _Home Fire_
 - [ ] 2019: Tayari Jones _An American Marriage_
 - [ ] 2020: Maggie O'Farrell _Hamnet_
