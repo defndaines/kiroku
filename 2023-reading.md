@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K.  | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
 | The Power | Naomi Alderman | 2016 | U.K. | true | sci-fi, feminism | female | print | 4.5 | 385 |
 | The Year Without Sunshine | Naomi Kritzer | 2023 | U.S. | true | short stories, sci-fi | female | audio | 4.5 | 54 |
 | Nettle & Bone | T. Kingfisher | 2022 | U.S. | true | fantasy | female | audio | 4.5 | 245 |
