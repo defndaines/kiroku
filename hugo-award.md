@@ -7,7 +7,7 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
-Count: 20
+Count: 21
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -73,7 +73,7 @@ Count: 20
 - [ ] 2006: Robert Charles Wilson _Spin_
 - [ ] 2007: Vernor Vinge _Rainbows End_
 - [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
-- [ ] 2009: Neil Gaiman _The Graveyard Book_
+- [x] 2009: Neil Gaiman _The Graveyard Book_
 - [x] 2010: China Mi&eacute;ville _The City &amp; the City_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
 - [ ] 2011: Connie Willis _Blackout/All Clear_

@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| The Graveyard Book | Neil Gaiman | 2008 | U.K. | true | fantasy, YA | male | audio | 4.5 | 312 |
 | Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K.  | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
 | The Power | Naomi Alderman | 2016 | U.K. | true | sci-fi, feminism | female | print | 4.5 | 385 |
 | The Year Without Sunshine | Naomi Kritzer | 2023 | U.S. | true | short stories, sci-fi | female | audio | 4.5 | 54 |
