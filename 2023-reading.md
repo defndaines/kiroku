@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Ogres | Adrian Tchaikovsky | 2022 | U.K. | true | sci-fi, fantasy, novella | male | audio | 4.0 | 159 |
 | The Graveyard Book | Neil Gaiman | 2008 | U.K. | true | fantasy, YA | male | audio | 4.5 | 312 |
 | Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K.  | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
 | The Power | Naomi Alderman | 2016 | U.K. | true | sci-fi, feminism | female | print | 4.5 | 385 |
