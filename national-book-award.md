@@ -84,6 +84,7 @@ Count: 12
 - [ ] 2020: Charles Yu _Interior Chinatown_
 - [ ] 2021: Jason Mott _Hell of a Book_
 - [ ] 2022: Tess Gunty _The Rabbit Hutch_
+- [ ] 2023: Justin Torres _Blackouts_
 
 ## Nonfiction
 
@@ -136,6 +137,7 @@ Count: 12
 - [ ] 2020: Les Payne and Tamara Payne _The Dead Are Arising: The Life of Malcolm X_
 - [ ] 2021: Tiya Miles _All That She Carried: The Journey of Ashley’s Sack, a Black Family Keepsake_
 - [ ] 2022: Imani Perry _South to America: A Journey Below the Mason-Dixon To Understand the Soul of a Nation_
+- [ ] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History)
 
 ## Young People's Literature
 
@@ -166,6 +168,7 @@ Count: 12
 - [ ] 2020: Kacen Callender _King and the Dragonflies_
 - [ ] 2021: Malinda Lo _Last Night at the Telegraph Club_
 - [ ] 2022: Sabaa Tahir _All My Rage_
+- [ ] 2023: Dan Santat _A First Time for Everything_
 
 ## Translated Literature
 
@@ -197,3 +200,4 @@ Count: 12
 - [x] 2020: Morgan Giles, Miri Yu, _Tokyo Ueno Station_
 - [ ] 2021: Aneesa Abbass Higgins, Elisa Shua Dusapin, _Winter in Sokcho_
 - [x] 2022: Megan McDowell, Samanta Schweblin, _Seven Empty Houses_
+- [ ] 2023: Stênio Gardel, Bruna Dantas Lobato, _The Words that Remain_
