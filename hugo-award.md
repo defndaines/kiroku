@@ -126,7 +126,7 @@ Count: 21
 - [x] 2013: _Saga, Volume 1_ Brian K. Vaughan, Fiona Staples
 - [x] 2015: _Ms. Marvel, Volume 1: No Normal_ G. Willow Wilson, Adrian Alphona, Jake Wyatt
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
-- [ ] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
+- [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
 
 ## Best Related Work
 
