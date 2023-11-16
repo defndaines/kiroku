@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Cyberpunk 2077: Big City Dreams | Bartosz Sztybor | 2022 | U.S. | true | sci-fi, graphic novel | male | print | 3.0 | 64 |
 | Ogres | Adrian Tchaikovsky | 2022 | U.K. | true | sci-fi, fantasy, novella | male | audio | 4.0 | 159 |
 | The Graveyard Book | Neil Gaiman | 2008 | U.K. | true | fantasy, YA | male | audio | 4.5 | 312 |
 | Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K.  | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
