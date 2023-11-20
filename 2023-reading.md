@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Poverty, by America | Matthew Desmond | 2023 | U.S. | false | economics | male | audio | 3.5 | 284 |
 | Artie and the Wolf Moon | Olivia Stephens | 2021 | U.S. | true | graphic novel, fantasy, YA | female | audio | 2.0 | 256 |
 | Cyberpunk 2077: Big City Dreams | Bartosz Sztybor | 2022 | U.S. | true | sci-fi, graphic novel | male | print | 3.0 | 64 |
 | Ogres | Adrian Tchaikovsky | 2022 | U.K. | true | sci-fi, fantasy, novella | male | audio | 4.0 | 159 |
