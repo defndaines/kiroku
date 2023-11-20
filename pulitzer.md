@@ -107,7 +107,7 @@ Count: 17
 
 ## Nonfiction
 
-- [ ] 1980: Douglas R. Hofstadter, _Gödel, Escher, Bach: an Eternal Golden Braid_
+- [ ] 1980: Douglas R. Hofstadter, _Gödel, Escher, Bach: An Eternal Golden Braid_
 - [ ] 1981: Carl E. Schorske, _Fin-de-Siècle Vienna: Politics and Culture_
 - [ ] 1982: Tracy Kidder, _The Soul of a New Machine_
 - [ ] 1983: Susan Sheehan, _Is There No Place on Earth for Me?_
