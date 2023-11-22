@@ -8,7 +8,7 @@
 | Cyberpunk 2077: Big City Dreams | Bartosz Sztybor | 2022 | U.S. | true | sci-fi, graphic novel | male | print | 3.0 | 64 |
 | Ogres | Adrian Tchaikovsky | 2022 | U.K. | true | sci-fi, fantasy, novella | male | audio | 4.0 | 159 |
 | The Graveyard Book | Neil Gaiman | 2008 | U.K. | true | fantasy, YA | male | audio | 4.5 | 312 |
-| Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K.  | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
+| Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K. | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
 | The Power | Naomi Alderman | 2016 | U.K. | true | sci-fi, feminism | female | print | 4.5 | 385 |
 | The Year Without Sunshine | Naomi Kritzer | 2023 | U.S. | true | short stories, sci-fi | female | audio | 4.5 | 54 |
 | Nettle & Bone | T. Kingfisher | 2022 | U.S. | true | fantasy | female | audio | 4.5 | 245 |
