@@ -3,7 +3,7 @@
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 17
+Count: 18
 
 ## Fiction
 
@@ -52,7 +52,7 @@ Count: 17
 - [ ] 1966: Katherine Anne Porter, _Collected Stories_
 - [ ] 1967: Bernard Malamud, _The Fixer_
 - [ ] 1968: William Styron, _The Confessions of Nat Turner_
-- [ ] 1969: N. Scott Momaday, _House Made of Dawn_
+- [x] 1969: N. Scott Momaday, _House Made of Dawn_
 - [ ] 1970: Jean Stafford, _Collected Stories_
 - [ ] 1972: Wallace Stegner, _Angle of Repose_
 - [ ] 1973: Eudora Welty, _The Optimist's Daughter_
