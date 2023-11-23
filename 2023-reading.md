@@ -2,15 +2,26 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Such Is My Idea of Happiness | David Goodman | 2023 | U.K. | true | sci-fi, novelette | male | audio | 2.0 | 47 |
+| De Profundis, a Space Love Letter | Bella Han | 2023 | China | true | sci-fi, novelette | female | audio | 2.5 | 37 |
 | House Made of Dawn | N. Scott Momaday | 1968 | U.S. | true | historical fiction, literature, Native American | male | audio | 3.5 | 195 |
 | Poverty, by America | Matthew Desmond | 2023 | U.S. | false | economics | male | audio | 3.5 | 284 |
 | Artie and the Wolf Moon | Olivia Stephens | 2021 | U.S. | true | graphic novel, fantasy, YA | female | audio | 2.0 | 256 |
+| The People from the Dead Whale | Djuna | 2023 | South Korea | true | sci-fi, short story | unknown | audio | 3.5 | 23 |
+| Down to the Root | Lisa Papademetriou | 2023 | U.S. | true | sci-fi, novelette | female | audio | 3.5 | 39 |
+| Possibly Just About a Couch | Suzanne Palmer | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.5 | 10 |
+| A Guide to Matchmaking on Station 9 | Nika Murphy | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.0 | 20 |
+| Upgrade Day | RJ Taylor | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.0 | 20 |
+| The Five Remembrances, According to STE-319 | R. L. Meza | 2023 | U.S. | true | sci-fi, short story | female | audio | 2.5 | 9 |
+| Axiom of Dreams | Arula Ratnakar | 2023 | U.S. | true | sci-fi, novella | female | audio | 2.5 | 112 |
+| The Queen of Calligraphic Susurrations | D.A. Xiaolin Spires | 2023 | U.S. | true | sci-fi, short story | female | audio | 2.0 | 19 |
+| The Blaumilch | Lavie Tidhar | 2023 | U.K. | true | sci-fi, short story | male | audio | 2.0 | 20 |
 | Cyberpunk 2077: Big City Dreams | Bartosz Sztybor | 2022 | U.S. | true | sci-fi, graphic novel | male | print | 3.0 | 64 |
 | Ogres | Adrian Tchaikovsky | 2022 | U.K. | true | sci-fi, fantasy, novella | male | audio | 4.0 | 159 |
 | The Graveyard Book | Neil Gaiman | 2008 | U.K. | true | fantasy, YA | male | audio | 4.5 | 312 |
 | Sir Gawain and the Green Knight | Simon Armitage (translator) | 1350 | U.K. | true | classics, poetry, fantasy, Authurian | unknown | audio | 4.0 | 208 |
 | The Power | Naomi Alderman | 2016 | U.K. | true | sci-fi, feminism | female | print | 4.5 | 385 |
-| The Year Without Sunshine | Naomi Kritzer | 2023 | U.S. | true | short stories, sci-fi | female | audio | 4.5 | 54 |
+| The Year Without Sunshine | Naomi Kritzer | 2023 | U.S. | true | short story, sci-fi | female | audio | 4.5 | 54 |
 | Nettle & Bone | T. Kingfisher | 2022 | U.S. | true | fantasy | female | audio | 4.5 | 245 |
 | Piranesi | Susanna Clarke | 2020 | U.K. | true | fantasy, mythology, mystery | female | print | 5.0 | 272 |
 | The Posthumous Memoirs of Brás Cubas | Machado de Assis | 1881 | Brazil | true | literature | male | audio | 3.5 | 240 |
@@ -19,14 +30,14 @@
 | Celestial Bodies | Jokha al-Harthi | 2010 | Oman | true | historical fiction | female | audio | 3.0 | 256 |
 | In on the Kill Taker | Joe Gross | 2018 | U.S. | false | music | male | print | 4.5 | 184 |
 | Azula in the Spirit Temple | Faith Erin Hicks | 2023 | U.S. | true | graphic novel, fantasy, YA | female | print | 3.5 | 80 |
-| Full Throttle | Joe Hill | 2019 | U.S. | true | horror, short stories | male | audio | 4.0 | 480 |
+| Full Throttle | Joe Hill | 2019 | U.S. | true | horror, short story | male | audio | 4.0 | 480 |
 | Greek Myths: A New Retelling | Charlotte Higgins | 2021 | Greece | true | mythology, Greek | female | audio | 4.0 | 336 |
 | A Wish in the Dark | Christina Soontornvat | 2020 | Thailand | true | YA, fantasy | female | print | 5.0 | 384 |
 | Abbott | Saladin Ahmed | 2018 | U.S. | true | graphic novel, horror, historical fiction | male | print | 4.5 | 128 |
 | Jujutsu Kaisen, Vol. 01 | Gege Akutami | 2018 | Japan | true | graphic novel, manga, fantasy, horror, translation | unknown | print | 4.5 | 192 |
 | We Built This City | Marie Vibbert | 2022 | U.S. | true | sci-fi, workers, novelette | female | audio | 4.5 | 42 |
 | If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, superhero, novelette | male | audio | 4.5 | 49 |
-| Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short stories | female | audio | 5.0 | 35 |
+| Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short story | female | audio | 5.0 | 35 |
 | Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi, novelette | female | audio | 4.0 | 39 |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 | 308 |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 | 176 |
@@ -49,7 +60,7 @@
 | Appendix N: The Eldritch Roots of Dungeons and Dragons | Peter Bebergal (editor) | 2021 | U.S. | true | fantasy, anthology | mixed | print | 3.0 | 337 |
 | This Is How You Lose the Time War | Amal El-Mohtar, Max Gladstone | 2019 | U.S. | true | sci-fi, LGBT | mixed | audio | 4.0 | 209 |
 | The House of Rust | Khadija Abdalla Bajaber | 2021 | Kenya | true | YA, fantasy | female | audio | 4.0 | 272 |
-| Seven Empty Houses | Samanta Schweblin | 2015 | Argentina | true | short stories, translation | female | audio | 4.0 | 208 |
+| Seven Empty Houses | Samanta Schweblin | 2015 | Argentina | true | short story, translation | female | audio | 4.0 | 208 |
 | Carmageddon: How Cars Make Life Worse and What to Do About It | Daniel Knowles | 2023 | U.S. | false | urbanism, history, environment | male | audio | 5.0 | 256 |
 | The Factory Witches of Lowell | C.S. Malerich | 2020 | U.S. | true | fantasy, historical fiction, LGBT | female | audio | 3.5 | 127 |
 | All Quiet on the Western Front | Erich Maria Remarque | 1929 | Germany | true | war, translation | male | audio | 5.0 | 296 |
@@ -63,7 +74,7 @@
 | The Southern Book Club's Guide to Slaying Vampires | Grady Hendrix | 2020 | U.S. | true | horror | male | audio | 4.0 | 404 |
 | Vanish, Volume One | Donny Cates | 2023 | U.S. | true | graphic novel | male | print | 2.5 | 112 |
 | The Last Fallen Moon | Graci Kim | 2022 | U.S. | true | YA, fantasy, Korean American | female | audio | 3.5 | 384 |
-| Vampires in the Lemon Grove: Stories | Karen Russell | 2013 | U.S. | true | short stories, fantasy | female | audio | 3.5 | 243 |
+| Vampires in the Lemon Grove: Stories | Karen Russell | 2013 | U.S. | true | short story, fantasy | female | audio | 3.5 | 243 |
 | Teen Titans/Deathstroke: The Terminus Agenda | Christopher J. Priest, Adam Glass | 2020 | U.S. | true | graphic novel | male | print | 2.5 | 160 |
 | Half Lost | Sally Green | 2016 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 | 340 |
 | Half Wild | Sally Green | 2015 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 | 432 |
@@ -72,7 +83,7 @@
 | Half Bad | Sally Green | 2014 | U.K. | true | fantasy, LGBT, YA | female | audio | 4.5 | 394 |
 | Reynard's Tale: A Story of Love and Mischief | Ben Hatke | 2023 | U.S. | true | graphic novel, fantasy | male | print | 4.5 | 80 |
 | Crying in H Mart | Michelle Zauner | 2021 | U.S. | false | memoir | female | print | 4.5 | 256 |
-| Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short stories, magic realism, translation | male | audio | 3.0 | 420 |
+| Whale | Cheon Myeong-Kwan | 2004 | South Korea | true | short story, magic realism, translation | male | audio | 3.0 | 420 |
 | Deathstroke R.I.P. | Christopher J. Priest | 2020 | U.S. | true | graphic novel | male | print | 2.0 | 200 |
 | The Last Fallen Star | Graci Kim | 2021 | U.S. | true | YA, fantasy, Korean American | female | audio | 3.5 | 336 |
 | Something Is Killing the Children, Vol. 5 | James Tynion IV | 2022 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 | 144 |
