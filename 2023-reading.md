@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Palestine | Joe Sacco | 1995 | Palestine | false | graphic novel, war | male | ebook | 5.0 | 288 |
 | Such Is My Idea of Happiness | David Goodman | 2023 | U.K. | true | sci-fi, novelette | male | audio | 2.0 | 47 |
 | De Profundis, a Space Love Letter | Bella Han | 2023 | China | true | sci-fi, novelette | female | audio | 2.5 | 37 |
 | House Made of Dawn | N. Scott Momaday | 1968 | U.S. | true | historical fiction, literature, Native American | male | audio | 3.5 | 195 |

@@ -137,7 +137,7 @@ Count: 60
 - [ ] Finland:
 - [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [ ] Lebanon:
-- [ ] Palestine:
+- [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
 - [x] Scotland\*: Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
 - [ ] Slovakia:
 - [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan
