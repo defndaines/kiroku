@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Pathfinder: Goblins! | Adam Warren, Erik Mona, Carlos Soule | 2014 | U.S. | true | fantasy, graphic novel | male | ebook | 3.0 | 168 |
 | Stones | Nnedi Okorafor | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
 | Palestine | Joe Sacco | 1995 | Palestine | false | graphic novel, war | male | ebook | 5.0 | 288 |
 | Such Is My Idea of Happiness | David Goodman | 2023 | U.K. | true | sci-fi, novelette | male | audio | 2.0 | 47 |
@@ -40,7 +41,7 @@
 | We Built This City | Marie Vibbert | 2022 | U.S. | true | sci-fi, workers, novelette | female | audio | 4.5 | 42 |
 | If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, superhero, novelette | male | audio | 4.5 | 49 |
 | Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short story | female | audio | 5.0 | 35 |
-| Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L.  Huang | 2022 | U.S. | true | sci-fi, novelette | female | audio | 4.0 | 39 |
+| Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L. Huang | 2022 | U.S. | true | sci-fi, novelette | female | audio | 4.0 | 39 |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 | 308 |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 | 176 |
 | The Other Name | Jon Fosse | 2019 | Norway | true | literature | male | audio | 3.0 | 351 |
