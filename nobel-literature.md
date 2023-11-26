@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 23
+Count: 24
 
 - [ ] 1901: Sully Prudhomme:
 - [ ] 1902: Christian Matthias Theodor Mommsen:
@@ -33,7 +33,7 @@ Count: 23
 - [ ] 1926: Grazia Deledda:
 - [ ] 1927: Henri Bergson:
 - [ ] 1928: Sigrid Undset:
-- [ ] 1929: Thomas Mann:
+- [x] 1929: Thomas Mann: _Death in Venice_
 - [ ] 1930: Sinclair Lewis:
 - [ ] 1931: Erik Axel Karlfeldt:
 - [ ] 1932: John Galsworthy:
