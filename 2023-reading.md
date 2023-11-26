@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Birdking Volume 1 | Daniel Freedman | 2022 | U.S. | true | fantasy, graphic novel, YA | male | ebook | 4.0 | 160 |
 | Death in Venice | Thomas Mann | 1912 | Germany | true | literature | male | audio | 4.0 | 142 |
 | Pathfinder: Goblins! | Adam Warren, Erik Mona, Carlos Soule | 2014 | U.S. | true | fantasy, graphic novel | male | ebook | 3.0 | 168 |
 | Stones | Nnedi Okorafor | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
