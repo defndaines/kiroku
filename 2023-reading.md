@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| The Legend of Korra: Turf Wars | Michael Dante DiMartino | 2019 | U.S. | true | graphic novel, YA, LGBT, fantasy | ebook | 4.5 | 240 |
 | Island of a Thousand Mirrors | Nayomi Munaweera | 2012 | Sri Lanka | true | historical fiction, literature | female | audio | 4.5 | 242 |
 | How to Pronounce Knife: Stories | Souvankham Thammavongsa | 2020 | Laos; Canada | true | short story | female | audio | 5.0 | 192 |
 | Birdking Volume 1 | Daniel Freedman | 2022 | U.S. | true | fantasy, graphic novel, YA | male | ebook | 4.0 | 160 |
