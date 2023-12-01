@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| The Legend of Korra: Patterns in Time | Michael Dante DiMartino, et al. | 2022 | U.S. | true | graphic novel, YA, fantasy | male; female | ebook | 4.0 | 72 |
 | The Long Mural | James van Pelt | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 35 |
 | The Parts That Make Me | Louise Hughes | 2023 | U.K. | true | sci-fi, short story | female | audio | 2.5 | 6 |
 | Bird-Girl Builds a Machine | Hannah Yang | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 14 |
