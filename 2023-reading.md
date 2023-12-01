@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Rafi | Amal Singh | 2023 | India | true | sci-fi, short story | male | audio | 4.0 | 30 |
 | The Legend of Korra: Ruins of the Empire | Michael Dante DiMartino | 2020 | U.S. | true | graphic novel, YA, fantasy | male | ebook | 4.5 | 232 |
 | The Legend of Korra: Turf Wars | Michael Dante DiMartino | 2019 | U.S. | true | graphic novel, YA, LGBT, fantasy | male | ebook | 4.5 | 240 |
 | Island of a Thousand Mirrors | Nayomi Munaweera | 2012 | Sri Lanka | true | historical fiction, literature | female | audio | 4.5 | 242 |
