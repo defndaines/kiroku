@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 63
+Count: 64
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -46,7 +46,7 @@ Count: 63
 - [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
 - [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
 - [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus
-- [ ] Iraq:
+- [x] Iraq: [_Yasmeen_](https://www.goodreads.com/book/show/56348200-yasmeen) Saif A. Ahmed
 - [ ] Uganda:
 - [ ] Sudan:
 - [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
