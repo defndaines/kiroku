@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Bird-Girl Builds a Machine | Hannah Yang | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 14 |
 | Rafi | Amal Singh | 2023 | India | true | sci-fi, short story | male | audio | 4.0 | 30 |
 | The Legend of Korra: Ruins of the Empire | Michael Dante DiMartino | 2020 | U.S. | true | graphic novel, YA, fantasy | male | ebook | 4.5 | 232 |
 | The Legend of Korra: Turf Wars | Michael Dante DiMartino | 2019 | U.S. | true | graphic novel, YA, LGBT, fantasy | male | ebook | 4.5 | 240 |
