@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Minor Detail | Adania Shibli | 2017 | Palestine; Israel | true | historical fiction, literature, war | female | audio | 4.5 | 112 |
 | Post Hacking for the Uninitiated | Grace Chan | 2023 | Malaysia; Australia | true | sci-fi, short story | female | audio | 4.0 | 35 |
 | Timothy: An Oral History | Michael Swanwick | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 |
 | Eddies are the Worst | Bo Balder | 2023 | Netherlands | true | sci-fi, short story | female | audio | 4.0 | 24 |
