@@ -2,6 +2,9 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Post Hacking for the Uninitiated | Grace Chan | 2023 | Malaysia; Australia | true | sci-fi, short story | female | audio | 4.0 | 35 |
+| Timothy: An Oral History | Michael Swanwick | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 |
+| Eddies are the Worst | Bo Balder | 2023 | Netherlands | true | sci-fi, short story | female | audio | 4.0 | 24 |
 | Yasmeen | Saif A. Ahmed | 2021 | Iraq | true | graphic novel, war, historical fiction | male | ebook | 4.5 | 130 |
 | The Legend of Korra: Patterns in Time | Michael Dante DiMartino, et al. | 2022 | U.S. | true | graphic novel, YA, fantasy | male; female | ebook | 4.0 | 72 |
 | The Long Mural | James van Pelt | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 35 |
