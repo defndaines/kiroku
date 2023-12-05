@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Life Under Occupation | José Pablo García | 2017 | Spain; Palestine; Israel | false | graphic novel, agriculture | male | ebook | 4.0 | 130 |
 | Dungeons & Dragons: The Legend of Drizzt - Neverwinter Tales | R.A. Salvatore, Geno Salvatore | 2016 | U.S. | true | graphic novel, fantasy | male | ebook | 2.5 | 136 |
 | Minor Detail | Adania Shibli | 2017 | Palestine; Israel | true | historical fiction, literature, war | female | audio | 4.5 | 112 |
 | Post Hacking for the Uninitiated | Grace Chan | 2023 | Malaysia; Australia | true | sci-fi, short story | female | audio | 4.0 | 35 |
