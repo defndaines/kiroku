@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S.; Brazil; Egypt; Chile; Tunisia; Hong Kong; Türkiye; Indonesia; South Korea; Ukraine; Bahrain; Yemen | false | politics, history, protest | male | audio | 4.5 | 337 |
 | Cook Like Your Ancestors | Mariah-Rose Marie | 2023 | U.S. | false | cookbook, graphic novel | female | ebook | 3.5 | 96 |
 | Life Under Occupation | José Pablo García | 2017 | Spain; Palestine; Israel | false | graphic novel, agriculture | male | ebook | 4.0 | 130 |
 | Dungeons & Dragons: The Legend of Drizzt - Neverwinter Tales | R.A. Salvatore, Geno Salvatore | 2016 | U.S. | true | graphic novel, fantasy | male | ebook | 2.5 | 136 |
