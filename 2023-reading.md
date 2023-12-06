@@ -2,29 +2,29 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
-| If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S.; Brazil; Egypt; Chile; Tunisia; Hong Kong; Türkiye; Indonesia; South Korea; Ukraine; Bahrain; Yemen | false | politics, history, protest | male | audio | 4.5 | 337 |
+| If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S., Brazil, Egypt, Chile, Tunisia, Hong Kong, Türkiye, Indonesia, South Korea, Ukraine, Bahrain, Yemen | false | politics, history, protest | male | audio | 4.5 | 337 |
 | Cook Like Your Ancestors | Mariah-Rose Marie | 2023 | U.S. | false | cookbook, graphic novel | female | ebook | 3.5 | 96 |
-| Life Under Occupation | José Pablo García | 2017 | Spain; Palestine; Israel | false | graphic novel, agriculture | male | ebook | 4.0 | 130 |
+| Life Under Occupation | José Pablo García | 2017 | Spain, Palestine, Israel | false | graphic novel, agriculture | male | ebook | 4.0 | 130 |
 | Dungeons & Dragons: The Legend of Drizzt - Neverwinter Tales | R.A. Salvatore, Geno Salvatore | 2016 | U.S. | true | graphic novel, fantasy | male | ebook | 2.5 | 136 |
-| Minor Detail | Adania Shibli | 2017 | Palestine; Israel | true | historical fiction, literature, war | female | audio | 4.5 | 112 |
-| Post Hacking for the Uninitiated | Grace Chan | 2023 | Malaysia; Australia | true | sci-fi, short story | female | audio | 4.0 | 35 |
+| Minor Detail | Adania Shibli | 2017 | Palestine, Israel | true | historical fiction, literature, war | female | audio | 4.5 | 112 |
+| Post Hacking for the Uninitiated | Grace Chan | 2023 | Malaysia, Australia | true | sci-fi, short story | female | audio | 4.0 | 35 |
 | Timothy: An Oral History | Michael Swanwick | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 |
 | Eddies are the Worst | Bo Balder | 2023 | Netherlands | true | sci-fi, short story | female | audio | 4.0 | 24 |
-| Yasmeen | Saif A. Ahmed | 2021 | Iraq; U.S. | true | graphic novel, war, historical fiction | male | ebook | 4.5 | 130 |
-| The Legend of Korra: Patterns in Time | Michael Dante DiMartino, et al. | 2022 | U.S. | true | graphic novel, YA, fantasy | male; female | ebook | 4.0 | 72 |
+| Yasmeen | Saif A. Ahmed | 2021 | Iraq, U.S. | true | graphic novel, war, historical fiction | male | ebook | 4.5 | 130 |
+| The Legend of Korra: Patterns in Time | Michael Dante DiMartino, et al. | 2022 | U.S. | true | graphic novel, YA, fantasy | male, female | ebook | 4.0 | 72 |
 | The Long Mural | James van Pelt | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 35 |
 | The Parts That Make Me | Louise Hughes | 2023 | U.K. | true | sci-fi, short story | female | audio | 2.5 | 6 |
 | Bird-Girl Builds a Machine | Hannah Yang | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 14 |
 | Rafi | Amal Singh | 2023 | India | true | sci-fi, short story | male | audio | 4.0 | 30 |
 | The Legend of Korra: Ruins of the Empire | Michael Dante DiMartino | 2020 | U.S. | true | graphic novel, YA, fantasy | male | ebook | 4.5 | 232 |
 | The Legend of Korra: Turf Wars | Michael Dante DiMartino | 2019 | U.S. | true | graphic novel, YA, LGBT, fantasy | male | ebook | 4.5 | 240 |
-| Island of a Thousand Mirrors | Nayomi Munaweera | 2012 | Sri Lanka; U.S. | true | historical fiction, literature | female | audio | 4.5 | 242 |
-| How to Pronounce Knife: Stories | Souvankham Thammavongsa | 2020 | Laos; Canada | true | short story | female | audio | 5.0 | 192 |
+| Island of a Thousand Mirrors | Nayomi Munaweera | 2012 | Sri Lanka, U.S. | true | historical fiction, literature | female | audio | 4.5 | 242 |
+| How to Pronounce Knife: Stories | Souvankham Thammavongsa | 2020 | Laos, Canada | true | short story | female | audio | 5.0 | 192 |
 | Birdking Volume 1 | Daniel Freedman | 2022 | U.S. | true | fantasy, graphic novel, YA | male | ebook | 4.0 | 160 |
-| Death in Venice | Thomas Mann | 1912 | Germany; Italy | true | literature | male | audio | 4.0 | 142 |
+| Death in Venice | Thomas Mann | 1912 | Germany, Italy | true | literature | male | audio | 4.0 | 142 |
 | Pathfinder: Goblins! | Adam Warren, Erik Mona, Carlos Soule | 2014 | U.S. | true | fantasy, graphic novel | male | ebook | 3.0 | 168 |
 | Stones | Nnedi Okorafor | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
-| Palestine | Joe Sacco | 1995 | Palestine; Israel | false | graphic novel, war | male | ebook | 5.0 | 288 |
+| Palestine | Joe Sacco | 1995 | Palestine, Israel | false | graphic novel, war | male | ebook | 5.0 | 288 |
 | Such Is My Idea of Happiness | David Goodman | 2023 | U.K. | true | sci-fi, novelette | male | audio | 2.0 | 47 |
 | De Profundis, a Space Love Letter | Bella Han | 2023 | China | true | sci-fi, novelette | female | audio | 2.5 | 37 |
 | House Made of Dawn | N. Scott Momaday | 1968 | U.S. | true | historical fiction, literature, Native American | male | audio | 3.5 | 195 |
@@ -65,14 +65,14 @@
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 | 308 |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 | 176 |
 | The Other Name | Jon Fosse | 2019 | Norway | true | literature | male | audio | 3.0 | 351 |
-| The Unwomanly Face of War: An Oral History of Women in World War II | Svetlana Alexievich | 1983 | Belarus; Ukraine | false | oral history, war | female | print | 5.0 | 331 |
+| The Unwomanly Face of War: An Oral History of Women in World War II | Svetlana Alexievich | 1983 | Belarus, Ukraine | false | oral history, war | female | print | 5.0 | 331 |
 | The Accusation: Forbidden Stories from Inside North Korea | Bandi | 2014 | North Korea | true | historical fiction | male | audio | 0.0 | 247 |
 | Blood in the Machine: The Origins of the Rebellion Against Big Tech | Brian Merchant | 2023 | U.S. | false | history, technology | male | audio | 4.5 | 496 |
 | The Mysteries | Bill Watterson | 2023 | U.S. | true | graphic novel | male | print | 3.5 | 72 |
-| Hula | Jasmin Iolani Hakes | 2023 | Hawai'i; U.S. | true | historical fiction | female | audio | 4.5 | 400 |
+| Hula | Jasmin Iolani Hakes | 2023 | Hawai'i, U.S. | true | historical fiction | female | audio | 4.5 | 400 |
 | Private Government: How Employers Rule Our Lives | Elizabeth Anderson | 2017 | U.S. | false | philosophy, politics, economy | female | audio | 1.5 | 196 |
 | The Cabinet | Kim Un-su | 2006 | South Korea | true | magic realism, sci-fi, translation | male | audio | 3.5 | 304 |
-| If an Egyptian Cannot Speak English | Noor Naga | 2022 | Egypt; U.S. | true | romance | female | audio | 4.0 | 186 |
+| If an Egyptian Cannot Speak English | Noor Naga | 2022 | Egypt, U.S. | true | romance | female | audio | 4.0 | 186 |
 | Blue Beetle: Jaime Reyes, Book One | Keith Giffen | 2022 | U.S. | true | graphic novel, superhero | male | print | 2.5 | 297 |
 | My Soul Looks Back | Jessica B. Harris | 2017 | U.S. | false | memoir | female | audio | 2.5 | 272 |
 | Norse Mythology | Neil Gaiman | 2017 | U.K. | true | mythology | male | audio | 4.5 | 299 |
@@ -119,7 +119,7 @@
 | Something Is Killing the Children, Vol. 3 | James Tynion IV | 2021 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 | 144 |
 | Something Is Killing the Children, Vol. 2 | James Tynion IV | 2020 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 | 144 |
 | Debt: The First 5,000 Years | David Graeber | 2011 | U.S. | false | history, economics | male | audio | 5.0 | 534 |
-| The Least of Us: True Tales of America and Hope in the Time of Fentanyl and Meth | Sam Quinones | 2021 | U.S.; Mexico | false | history | male | print | 4.5 | 432 |
+| The Least of Us: True Tales of America and Hope in the Time of Fentanyl and Meth | Sam Quinones | 2021 | U.S., Mexico | false | history | male | print | 4.5 | 432 |
 | The Fourteenth Goldfish | Jennifer L. Holm | 2014 | U.S. | true | YA, sci-fi | female | audio | 3.5 | 208 |
 | Something Is Killing the Children, Vol. 1 | James Tynion IV | 2020 | U.S. | true | graphic novel, horror, fantasy | male | print | 4.5 | 144 |
 | Treasury of Egyptian Mythology: Classic Stories of Gods, Goddesses, Monsters & Mortals | Donna Jo Napoli | 2013 | U.S. | false | mythology, Egypt, childrens | female | audio | 3.0 | 192 |
@@ -135,9 +135,9 @@
 | Beowulf | Seamus Heaney (Translator) | ~900, 2001 | U.K. | true | poetry, fantasy, mythology, translation | unknown | audio | 4.5 | 245 |
 | The Black Ghost | Alex Segura, Monica Gallagher | 2020 | U.S. | true | graphic novel | mixed | print | 3.0 | 136 |
 | Wonder | R.J. Palacio | 2012 | U.S. | true | YA | female | ebook | 4.0 | 316 |
-| Women Talking | Miriam Toews | 2018 | Canada; Bolivia | true | historical fiction | female | audio | 5.0 | 216 |
+| Women Talking | Miriam Toews | 2018 | Canada, Bolivia | true | historical fiction | female | audio | 5.0 | 216 |
 | Space Case | Stuart Gibbs | 2014 | U.S. | true | YA, sci-fi | male | audio | 4.0 | 352 |
-| Nothing But Blackened Teeth | Cassandra Khaw | 2021 | Malaysia; Japan | true | horror, Japanese folklore | female | audio | 2.0 | 128 |
+| Nothing But Blackened Teeth | Cassandra Khaw | 2021 | Malaysia, Japan | true | horror, Japanese folklore | female | audio | 2.0 | 128 |
 | Imbalance | Faith Erin Hicks, Bryan Konietzko, Michael Dante DiMartino | 2020 | U.S. | true | graphic novel, fantasy, YA | mixed | print | 4.0 | 240 |
 | Small Things Like These | Claire Keegan | 2021 | Ireland | true | historical fiction | female | audio | 4.0 | 118 |
 | Anthem | Ayn Rand | 1938 | U.S. | true | sci-fi | female | audio | 0.0 | 105 |
