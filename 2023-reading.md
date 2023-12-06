@@ -137,7 +137,7 @@
 | Wonder | R.J. Palacio | 2012 | U.S. | true | YA | female | ebook | 4.0 | 316 |
 | Women Talking | Miriam Toews | 2018 | Canada, Bolivia | true | historical fiction | female | audio | 5.0 | 216 |
 | Space Case | Stuart Gibbs | 2014 | U.S. | true | YA, sci-fi | male | audio | 4.0 | 352 |
-| Nothing But Blackened Teeth | Cassandra Khaw | 2021 | Malaysia, Japan | true | horror, Japanese folklore | female | audio | 2.0 | 128 |
+| Nothing But Blackened Teeth | Cassandra Khaw | 2021 | Malaysia, Japan | true | horror, Japanese, folklore | female | audio | 2.0 | 128 |
 | Imbalance | Faith Erin Hicks, Bryan Konietzko, Michael Dante DiMartino | 2020 | U.S. | true | graphic novel, fantasy, YA | mixed | print | 4.0 | 240 |
 | Small Things Like These | Claire Keegan | 2021 | Ireland | true | historical fiction | female | audio | 4.0 | 118 |
 | Anthem | Ayn Rand | 1938 | U.S. | true | sci-fi | female | audio | 0.0 | 105 |
