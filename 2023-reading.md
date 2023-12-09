@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| 赤ずきん、旅の途中で死体と出会う。 | 青柳碧人 | 2022 | Japan | true | mystery, folklore, fantasy | male | print | 4.0 | 281 |
 | If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S., Brazil, Egypt, Chile, Tunisia, Hong Kong, Türkiye, Indonesia, South Korea, Ukraine, Bahrain, Yemen | false | politics, history, protest | male | audio | 4.5 | 337 |
 | Cook Like Your Ancestors | Mariah-Rose Marie | 2023 | U.S. | false | cookbook, graphic novel | female | ebook | 3.5 | 96 |
 | Life Under Occupation | José Pablo García | 2017 | Spain, Palestine, Israel | false | graphic novel, agriculture | male | ebook | 4.0 | 130 |
