@@ -2,6 +2,9 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| We’re Looking for the Best | Cecil Castellucci | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
+| The Mub | Thomas Ha | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 |
+| The Woman They Could Not Silence: One Woman, Her Incredible Fight for Freedom, and the Men Who Tried to Make Her Disappear | Kate Moore | 2021 | U.S., U.K. | false | history, biography, feminism, mental health | female | audio | 5.0 | 560 |
 | 赤ずきん、旅の途中で死体と出会う。 | 青柳碧人 | 2022 | Japan | true | mystery, folklore, fantasy | male | print | 4.0 | 281 |
 | If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S., Brazil, Egypt, Chile, Tunisia, Hong Kong, Türkiye, Indonesia, South Korea, Ukraine, Bahrain, Yemen | false | politics, history, protest | male | audio | 4.5 | 337 |
 | Cook Like Your Ancestors | Mariah-Rose Marie | 2023 | U.S. | false | cookbook, graphic novel | female | ebook | 3.5 | 96 |
