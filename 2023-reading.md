@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Lone Wolf and Cub Volume 1: The Assassin's Road | Kazuo Koike | 1970 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 303 |
 | We’re Looking for the Best | Cecil Castellucci | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
 | The Mub | Thomas Ha | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 |
 | The Woman They Could Not Silence: One Woman, Her Incredible Fight for Freedom, and the Men Who Tried to Make Her Disappear | Kate Moore | 2021 | U.S., U.K. | false | history, biography, feminism, mental health | female | audio | 5.0 | 560 |
