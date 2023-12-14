@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Lone Wolf and Cub, Vol. 2: The Gateless Barrier | Kazuo Koike | 1971 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 304 |
 | Zorro | Isabel Allende | 2005 | Chile, Spain, California | true | historical fiction | female | print | 4.0 | 382 |
 | Lone Wolf and Cub Volume 1: The Assassin's Road | Kazuo Koike | 1970 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 303 |
 | We’re Looking for the Best | Cecil Castellucci | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
