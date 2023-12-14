@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Zorro | Isabel Allende | 2005 | Chile, Spain, California | true | historical fiction | female | print | 4.0 | 382 |
 | Lone Wolf and Cub Volume 1: The Assassin's Road | Kazuo Koike | 1970 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 303 |
 | We’re Looking for the Best | Cecil Castellucci | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 |
 | The Mub | Thomas Ha | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 |

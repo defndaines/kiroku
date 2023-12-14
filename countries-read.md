@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 65
+Count: 66
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -76,7 +76,7 @@ Count: 65
 - [ ] Burkina Faso:
 - [x] Sri Lanka: [_Island of a Thousand Mirrors_](https://www.goodreads.com/book/show/19286587-island-of-a-thousand-mirrors) Nayomi Munaweera; [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
 - [ ] Malawi:
-- [ ] Chile: Planning to read Isabel Allende
+- [x] Chile: [_Zorro_](https://www.goodreads.com/book/show/24796.Zorro) Isabel Allende
 - [ ] Kazakhstan:
 - [ ] Zambia:
 - [ ] Romania:
