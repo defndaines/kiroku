@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Lone Wolf and Cub, Vol. 3: The Flute of the Fallen Tiger | Kazuo Koike | 1995 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 314 |
 | The Hospital: Life, Death, and Dollars in a Small American Town | Brian Alexander | 2021 | U.S. | false | medicine, history, politics | male | audio | 4.0 | 320 |
 | Thin Ice | Kemi Ashing-Giwa | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.5 | 10 |
 | The Heaven & Earth Grocery Store | James McBride | 2023 | U.S. | true | historical fiction, literature | male | audio | 4.5 | 385 |
