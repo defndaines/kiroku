@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| The House in the Cerulean Sea | T.J. Klune | 2020 | U.S. | true | fantasy, LGBT | male | print | 5.0 | 396 |
 | Lone Wolf and Cub, Vol. 3: The Flute of the Fallen Tiger | Kazuo Koike | 1995 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 314 |
 | The Hospital: Life, Death, and Dollars in a Small American Town | Brian Alexander | 2021 | U.S. | false | medicine, history, politics | male | audio | 4.0 | 320 |
 | Thin Ice | Kemi Ashing-Giwa | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.5 | 10 |
