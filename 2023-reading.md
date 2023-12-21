@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: |
+| Glitch, Vol. 1 | Shima Shinya | 2023 | Japan | true | manga, graphic novel, sci-fi | female | ebook | 3.5 | 200 |
 | Silent House | Orhan Pamuk | 1983 | Türkiye | true | historical fiction, literature | male | audio | 4.0 | 352 |
 | A Game for Swallows: To Die, To Leave, To Return | Zeina Abirached | 2007 | Lebanon | false | graphic novel, memoir, war | female | ebook | 4.0 | 192 |
 | The House in the Cerulean Sea | T.J. Klune | 2020 | U.S. | true | fantasy, LGBT | male | print | 5.0 | 396 |
