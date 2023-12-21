@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 24
+Count: 25
 
 - [ ] 1901: Sully Prudhomme:
 - [ ] 1902: Christian Matthias Theodor Mommsen:
@@ -107,7 +107,7 @@ Count: 24
 - [ ] 2003: John M. Coetzee:
 - [ ] 2004: Elfriede Jelinek:
 - [ ] 2005: Harold Pinter:
-- [ ] 2006: Orhan Pamuk:
+- [x] 2006: Orhan Pamuk: _Silent House_
 - [ ] 2007: Doris Lessing:
 - [ ] 2008: Jean-Marie Gustave Le Clézio:
 - [ ] 2009: Herta Müller:

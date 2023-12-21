@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 67
+Count: 68
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -30,7 +30,7 @@ Count: 67
 - [x] Egypt: [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
 - [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
 - [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
-- [ ] Türkiye:
+- [x] Türkiye: [_Silent House_](https://www.goodreads.com/book/show/13531059-silent-house) Orhan Pamuk
 - [x] Germany\*: [_All Quiet on the Western Front_](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front) Erich Maria Remarque
 - [x] Thailand: [_A Wish in the Dark_](https://www.goodreads.com/book/show/56733560-a-wish-in-the-dark) Christina Soontornvat
 - [x] France\*: [_Planet of the Apes_](https://www.goodreads.com/book/show/414895.Planet_of_the_Apes) Pierre Boulle
