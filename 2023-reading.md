@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages | Awards |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: | --- |
+| A Psalm for the Wild-Built | Becky Chambers | 2021 | U.S. | true | sci-fi, novella, fantasy | female | print | 5.0 | 147 | Hugo Award - Novella (2022) |
 | To Carry You Inside You | Tia Tashiro | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 36 | |
 | Glitch, Vol. 1 | Shima Shinya | 2023 | Japan | true | manga, graphic novel, sci-fi | female | ebook | 3.5 | 200 | |
 | Silent House | Orhan Pamuk | 1983 | Türkiye | true | historical fiction, literature | male | audio | 4.0 | 352 | Nobel (2006) |

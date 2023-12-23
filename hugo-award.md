@@ -97,7 +97,7 @@ Count: 21
 - [x] 2016: Nnedi Okorafor _Binti_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [ ] 2021: Nghi Vo _The Empress of Salt and Fortune_
-- [ ] 2022: Becky Chambers _A Psalm for the Wild-Built_
+- [x] 2022: Becky Chambers _A Psalm for the Wild-Built_
 
 ## Best Novelette
 
