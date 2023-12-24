@@ -92,7 +92,7 @@ Count: 21
 
 ## Best Novella
 
-- [ ] 1944: Antoine de Saint-Exupéry _The Little Prince_
+- [x] 1944: Antoine de Saint-Exupéry _The Little Prince_
 - [x] 1946: George Orwell _Animal Farm_
 - [x] 2016: Nnedi Okorafor _Binti_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
