@@ -5,20 +5,16 @@
 | The Heat Will Kill You First: Life and Death on a Scorched Planet | Jeff Goodell | 2023 | U.S. | false | environment, climate change, science | male | audio | 4.0 | 400 | |
 | The Little Prince | Antoine de Saint-Exupéry | 1943 | France | true | YA, fantasy | male | print | 4.0 | 97 | Hugo Award - Novella (2019) |
 | A Psalm for the Wild-Built | Becky Chambers | 2021 | U.S. | true | sci-fi, novella, fantasy | female | print | 5.0 | 147 | Hugo Award - Novella (2022) |
-| To Carry You Inside You | Tia Tashiro | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 36 | |
 | Glitch, Vol. 1 | Shima Shinya | 2023 | Japan | true | manga, graphic novel, sci-fi | female | ebook | 3.5 | 200 | |
 | Silent House | Orhan Pamuk | 1983 | Türkiye | true | historical fiction, literature | male | audio | 4.0 | 352 | Nobel (2006) |
 | A Game for Swallows: To Die, To Leave, To Return | Zeina Abirached | 2007 | Lebanon | false | graphic novel, memoir, war | female | ebook | 4.0 | 192 | |
 | The House in the Cerulean Sea | T.J. Klune | 2020 | U.S. | true | fantasy, LGBT | male | print | 5.0 | 396 | Mythopoeic - Adult Literature (2021) |
 | Lone Wolf and Cub, Vol. 3: The Flute of the Fallen Tiger | Kazuo Koike | 1995 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 314 | |
 | The Hospital: Life, Death, and Dollars in a Small American Town | Brian Alexander | 2021 | U.S. | false | medicine, history, politics | male | audio | 4.0 | 320 | Ohioana Award - About Ohio (2022) |
-| Thin Ice | Kemi Ashing-Giwa | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.5 | 10 | |
 | The Heaven & Earth Grocery Store | James McBride | 2023 | U.S. | true | historical fiction, literature | male | audio | 4.5 | 385 | |
 | Lone Wolf and Cub, Vol. 2: The Gateless Barrier | Kazuo Koike | 1971 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 304 | |
 | Zorro | Isabel Allende | 2005 | Chile, Spain, California | true | historical fiction | female | print | 4.0 | 382 | |
 | Lone Wolf and Cub Volume 1: The Assassin's Road | Kazuo Koike | 1970 | Japan | true | graphic novel, manga, historical fiction, fantasy | male | ebook | 4.5 | 303 | |
-| We’re Looking for the Best | Cecil Castellucci | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 | |
-| The Mub | Thomas Ha | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 | |
 | The Woman They Could Not Silence: One Woman, Her Incredible Fight for Freedom, and the Men Who Tried to Make Her Disappear | Kate Moore | 2021 | U.S., U.K. | false | history, biography, feminism, mental health | female | audio | 5.0 | 560 | |
 | 赤ずきん、旅の途中で死体と出会う。 | 青柳碧人 | 2022 | Japan | true | mystery, folklore, fantasy | male | print | 4.0 | 281 | |
 | If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S., Brazil, Egypt, Chile, Tunisia, Hong Kong, Türkiye, Indonesia, South Korea, Ukraine, Bahrain, Yemen | false | politics, history, protest | male | audio | 4.5 | 337 | |
@@ -26,15 +22,8 @@
 | Life Under Occupation | José Pablo García | 2017 | Spain, Palestine, Israel | false | graphic novel, agriculture | male | ebook | 4.0 | 130 | |
 | Dungeons & Dragons: The Legend of Drizzt - Neverwinter Tales | R.A. Salvatore, Geno Salvatore | 2016 | U.S. | true | graphic novel, fantasy | male | ebook | 2.5 | 136 | |
 | Minor Detail | Adania Shibli | 2017 | Palestine, Israel | true | historical fiction, literature, war | female | audio | 4.5 | 112 | |
-| Post Hacking for the Uninitiated | Grace Chan | 2023 | Malaysia, Australia | true | sci-fi, short story | female | audio | 4.0 | 35 | |
-| Timothy: An Oral History | Michael Swanwick | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 18 | |
-| Eddies are the Worst | Bo Balder | 2023 | Netherlands | true | sci-fi, short story | female | audio | 4.0 | 24 | |
 | Yasmeen | Saif A. Ahmed | 2021 | Iraq, U.S. | true | graphic novel, war, historical fiction | male | ebook | 4.5 | 130 | |
 | The Legend of Korra: Patterns in Time | Michael Dante DiMartino, et al. | 2022 | U.S. | true | graphic novel, YA, fantasy | male, female | ebook | 4.0 | 72 | |
-| The Long Mural | James van Pelt | 2023 | U.S. | true | sci-fi, short story | male | audio | 4.0 | 35 | |
-| The Parts That Make Me | Louise Hughes | 2023 | U.K. | true | sci-fi, short story | female | audio | 2.5 | 6 | |
-| Bird-Girl Builds a Machine | Hannah Yang | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 14 | |
-| Rafi | Amal Singh | 2023 | India | true | sci-fi, short story | male | audio | 4.0 | 30 | |
 | The Legend of Korra: Ruins of the Empire | Michael Dante DiMartino | 2020 | U.S. | true | graphic novel, YA, fantasy | male | ebook | 4.5 | 232 | |
 | The Legend of Korra: Turf Wars | Michael Dante DiMartino | 2019 | U.S. | true | graphic novel, YA, LGBT, fantasy | male | ebook | 4.5 | 240 | |
 | Island of a Thousand Mirrors | Nayomi Munaweera | 2012 | Sri Lanka, U.S. | true | historical fiction, literature | female | audio | 4.5 | 242 | Commonwealth Writers' Prize - Asia (2013) |
@@ -42,22 +31,10 @@
 | Birdking Volume 1 | Daniel Freedman | 2022 | U.S. | true | fantasy, graphic novel, YA | male | ebook | 4.0 | 160 | |
 | Death in Venice | Thomas Mann | 1912 | Germany, Italy | true | literature | male | audio | 4.0 | 142 | Nobel (1929) |
 | Pathfinder: Goblins! | Adam Warren, Erik Mona, Carlos Soule | 2014 | U.S. | true | fantasy, graphic novel | male | ebook | 3.0 | 168 | |
-| Stones | Nnedi Okorafor | 2023 | U.S. | true | sci-fi, short story | female | audio | 4.0 | 29 | |
 | Palestine | Joe Sacco | 1995 | Palestine, Israel | false | graphic novel, war | male | ebook | 5.0 | 288 | American Book Award (1996) |
-| Such Is My Idea of Happiness | David Goodman | 2023 | U.K. | true | sci-fi, novelette | male | audio | 2.0 | 47 | |
-| De Profundis, a Space Love Letter | Bella Han | 2023 | China | true | sci-fi, novelette | female | audio | 2.5 | 37 | |
 | House Made of Dawn | N. Scott Momaday | 1968 | U.S. | true | historical fiction, literature, Native American | male | audio | 3.5 | 195 | Pulitzer - Fiction (1969)|
 | Poverty, by America | Matthew Desmond | 2023 | U.S. | false | economics | male | audio | 3.5 | 284 | |
 | Artie and the Wolf Moon | Olivia Stephens | 2021 | U.S. | true | graphic novel, fantasy, YA | female | audio | 2.0 | 256 | |
-| The People from the Dead Whale | Djuna | 2023 | South Korea | true | sci-fi, short story | unknown | audio | 3.5 | 23 | |
-| Down to the Root | Lisa Papademetriou | 2023 | U.S. | true | sci-fi, novelette | female | audio | 3.5 | 39 | |
-| Possibly Just About a Couch | Suzanne Palmer | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.5 | 10 | |
-| A Guide to Matchmaking on Station 9 | Nika Murphy | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.0 | 20 | |
-| Upgrade Day | RJ Taylor | 2023 | U.S. | true | sci-fi, short story | female | audio | 3.0 | 20 | |
-| The Five Remembrances, According to STE-319 | R. L. Meza | 2023 | U.S. | true | sci-fi, short story | female | audio | 2.5 | 9 | |
-| Axiom of Dreams | Arula Ratnakar | 2023 | U.S. | true | sci-fi, novella | female | audio | 2.5 | 112 | |
-| The Queen of Calligraphic Susurrations | D.A. Xiaolin Spires | 2023 | U.S. | true | sci-fi, short story | female | audio | 2.0 | 19 | |
-| The Blaumilch | Lavie Tidhar | 2023 | U.K. | true | sci-fi, short story | male | audio | 2.0 | 20 | |
 | Cyberpunk 2077: Big City Dreams | Bartosz Sztybor | 2022 | U.S. | true | sci-fi, graphic novel | male | print | 3.0 | 64 | Hugo Award - Graphic (2023) |
 | Ogres | Adrian Tchaikovsky | 2022 | U.K. | true | sci-fi, fantasy, novella | male | audio | 4.0 | 159 | |
 | The Graveyard Book | Neil Gaiman | 2008 | U.K. | true | fantasy, YA | male | audio | 4.5 | 312 | Hugo Award - Novel (2009), Newbery Medal (2009), Locus Award - Young Adult (2009), Carnegie Medal (2010) |
@@ -80,7 +57,6 @@
 | We Built This City | Marie Vibbert | 2022 | U.S. | true | sci-fi, workers, novelette | female | audio | 4.5 | 42 | |
 | If You Find Yourself Speaking to God, Address God with the Informal You | John Chu | 2022 | U.S. | true | sci-fi, LGBT, superhero, novelette | male | audio | 4.5 | 49 | |
 | Rabbit Test | Samantha Mills | 2022 | U.S. | true | sci-fi, short story | female | audio | 5.0 | 35 | |
-| Murder by Pixel: Crime and Responsibility in the Digital Darkness | S.L. Huang | 2022 | U.S. | true | sci-fi, novelette | female | audio | 4.0 | 39 | |
 | Beneath the Lion's Gaze | Maaza Mengiste | 2010 | Ethiopia | true | historical fiction | female | audio | 3.5 | 308 | |
 | Tar Hollow Trans: Essays | Stacy Jane Grover | 2023 | U.S. | false | essays, transgender | female | print | 4.5 | 176 | |
 | The Other Name | Jon Fosse | 2019 | Norway | true | literature | male | audio | 3.0 | 351 | Nobel (2023) |
