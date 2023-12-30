@@ -2,6 +2,7 @@
 
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages | Awards |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: | --- |
+| Whose Names Are Unknown | Sanora Babb | 2004 | U.S. | true | historical fiction, literature | female | audio | 4.5 | 222 | |
 | The Heat Will Kill You First: Life and Death on a Scorched Planet | Jeff Goodell | 2023 | U.S. | false | environment, climate change, science | male | audio | 4.0 | 400 | |
 | The Little Prince | Antoine de Saint-Exupéry | 1943 | France | true | YA, fantasy | male | print | 4.0 | 97 | Hugo Award - Novella (2019) |
 | A Psalm for the Wild-Built | Becky Chambers | 2021 | U.S. | true | sci-fi, novella, fantasy | female | print | 5.0 | 147 | Hugo Award - Novella (2022) |
