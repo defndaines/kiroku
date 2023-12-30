@@ -1,5 +1,93 @@
 # Books Read in 2023
 
+Count: 136
+
+Books by age:
+- 11 (8.0%) more than 50 years old
+- 33 (24.3%) more than 10 years old
+- 36 (26.5%) published in last year
+- Oldest:
+  - Beowulf (c. 900)
+  - Sir Gawain and the Green Knight (c. 1350)
+  - The Posthumous Memoirs of Brás Cubas (1881)
+
+Countries:
+- 41 different countries
+  - I've now read books from 68 different countries.
+- 65.4% U.S.
+- 9.5% U.K.
+- 29.4% outside U.S., U.K., or Canada
+  - 8 Japan
+  - 3 South Korea
+  - 3 Palestine
+
+Languages: English, Japanese
+
+Fiction?
+- 83% fiction
+- 17% non-fiction
+
+Genres:
+- 36.0% fantasy
+- 21.3% YA
+- 20.6% historical fiction
+- 13.2% sci-fi
+-  9.6% horror
+
+Gender: (> 100% because of multiple authors)
+- 47.1% Female
+- 53.7% Male
+- 3 unknown
+- 1 non-binary
+
+Formats:
+- 58.8% audio
+- 29.4% print
+- 11.8% ebook (all but one a graphic novel)
+
+- 29.4% graphic novel (60% in print)
+
+Ratings:
+- Average rating: 4.0
+
+-  2  0.0
+-  1  1.5
+-  3  2.0
+-  6  2.5
+-  8  3.0
+- 16  3.5
+- 42  4.0
+- 44  4.5
+- 14  5.0
+
+Best Books of 2023:
+- _A Psalm for the Wild-Built_, Becky Chambers
+- _A Wish in the Dark_, Christina Soontornvat
+- _All Quiet on the Western Front_, Erich Maria Remarque
+- _Carmageddon_, Daniel Knowles
+- _Debt: The First 5_,000 Years, David Graeber
+- _How to Pronounce Knife_, Souvankham Thammavongsa
+- _Palestine_, Joe Sacco
+- _Piranesi_, Susanna Clarke
+- _Rabbit Test_, Samantha Mills
+- _The House in the Cerulean Sea_, T.J. Klune
+- _The Unwomanly Face of War_, Svetlana Alexievich
+- _The Woman They Could Not Silence_, Kate Moore
+- _The Women of the Copper Country_, Mary Doria Russell
+- _Women Talking_, Miriam Toews
+
+Page Count:
+- 248 pages, average length
+- 280 pages, excluding graphic novels
+- 560, longest (The Woman They Could Not Silence)
+- 514, longest in print (A Snake Falls to Earth)
+
+Awards:
+- 30 (22.2%) this year won an award of some kind
+- 6 Hugo Award winners, total 21
+- 5 Nobel Prize winners, total 25
+- 1 Pulitzer winner, total 18
+
 | Title | Author | Year | Country | Fiction? | Genre | Gender | Format | Rating | Pages | Awards |
 | --- | --- | :---: | --- | :---: | --- | :---: | :---: | :---: | ---: | --- |
 | Whose Names Are Unknown | Sanora Babb | 2004 | U.S. | true | historical fiction, literature | female | audio | 4.5 | 222 | |
