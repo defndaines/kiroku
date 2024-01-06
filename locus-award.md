@@ -2,7 +2,7 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
-Count: 12
+Count: 14
 
 ## Best Novel
 
@@ -156,3 +156,8 @@ Count: 12
 - [x] 2021: Darcie Little Badger _Elatsoe_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
+
+## Best Novella
+
+- [x] 2018: Martha Wells _All Systems Red_
+- [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_

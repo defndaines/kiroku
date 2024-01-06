@@ -95,6 +95,7 @@ Count: 21
 - [x] 1944: Antoine de Saint-Exupéry _The Little Prince_
 - [x] 1946: George Orwell _Animal Farm_
 - [x] 2016: Nnedi Okorafor _Binti_
+- [x] 2018: Martha Wells _All Systems Red_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [ ] 2021: Nghi Vo _The Empress of Salt and Fortune_
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_

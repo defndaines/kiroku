@@ -5,3 +5,4 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | :---: | --- |
+| All Systems Red | Martha Wells | 2017 | U.S. | 4.0 | audio | 156 | sci-fi, novella, Hugo, Nebula, Locus |

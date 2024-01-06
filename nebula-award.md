@@ -74,7 +74,7 @@ Count: 10
 - [x] 1969: Anne McCaffrey _Dragonrider_
 - [ ] 1970: Harlan Ellison _A Boy and His Dog_
 - [x] 2016: Nnedi Okorafor _Binti_
-- [ ] 2018: Martha Wells _All Systems Red_
+- [x] 2018: Martha Wells _All Systems Red_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: C. L. Polk _Even Though I Knew the End_
 
