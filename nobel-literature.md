@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 25
+Count: 26
 
 - [ ] 1901: Sully Prudhomme:
 - [ ] 1902: Christian Matthias Theodor Mommsen:
@@ -122,6 +122,6 @@ Count: 25
 - [ ] 2018: Olga Tokarczuk:
 - [ ] 2019: Peter Handke:
 - [ ] 2020: Louise Glück:
-- [ ] 2021: Abdulrazak Gurnah:
+- [x] 2021: Abdulrazak Gurnah: _Paradise_
 - [x] 2022: Annie Ernaux: _A Woman's Story_; _La place_
 - [x] 2023: Jon Fosse: _The Other Name_
