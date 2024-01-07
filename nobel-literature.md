@@ -5,123 +5,123 @@ in the case of plays.
 
 Count: 26
 
-- [ ] 1901: Sully Prudhomme:
-- [ ] 1902: Christian Matthias Theodor Mommsen:
-- [ ] 1903: Bjørnstjerne Martinus Bjørnson:
-- [ ] 1904: Frédéric Mistral:
-- [ ] 1904: José Echegaray y Eizaguirre:
-- [ ] 1905: Henryk Sienkiewicz:
-- [ ] 1906: Giosuè Carducci:
-- [x] 1907: Rudyard Kipling: several including short stories
-- [ ] 1908: Rudolf Christoph Eucken:
-- [ ] 1909: Selma Ottilia Lovisa Lagerlöf:
-- [ ] 1910: Paul Johann Ludwig Heyse:
-- [ ] 1911: Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck:
-- [ ] 1912: Gerhart Johann Robert Hauptmann:
-- [ ] 1913: Rabindranath Tagore:
-- [ ] 1915: Romain Rolland:
-- [ ] 1916: Carl Gustaf Verner von Heidenstam:
-- [ ] 1917: Henrik Pontoppidan:
-- [ ] 1917: Karl Adolph Gjellerup:
-- [ ] 1919: Carl Friedrich Georg Spitteler:
-- [ ] 1920: Knut Pedersen Hamsun:
-- [ ] 1921: Anatole France:
-- [ ] 1922: Jacinto Benavente:
-- [ ] 1923: William Butler Yeats:
-- [ ] 1924: Wladyslaw Stanislaw Reymont:
-- [x] 1925: George Bernard Shaw: _Pygmalion_; _Mrs. Warren's Profession_
-- [ ] 1926: Grazia Deledda:
-- [ ] 1927: Henri Bergson:
-- [ ] 1928: Sigrid Undset:
-- [x] 1929: Thomas Mann: _Death in Venice_
-- [ ] 1930: Sinclair Lewis:
-- [ ] 1931: Erik Axel Karlfeldt:
-- [ ] 1932: John Galsworthy:
-- [ ] 1933: Ivan Alekseyevich Bunin:
-- [ ] 1934: Luigi Pirandello:
-- [ ] 1936: Eugene Gladstone O’Neill:
-- [ ] 1937: Roger Martin du Gard:
-- [x] 1938: Pearl Buck: _The Good Earth_
-- [ ] 1939: Frans Eemil Sillanpää:
-- [ ] 1944: Johannes Vilhelm Jensen:
-- [ ] 1945: Gabriela Mistral:
-- [x] 1946: Hermann Hesse: _Siddhartha_; _Steppenwolf_
-- [ ] 1947: André Paul Guillaume Gide:
-- [x] 1948: Thomas Stearns Eliot: several poems
-- [x] 1949: William Faulkner: _The Sound and the Fury_
-- [ ] 1950: Earl (Bertrand Arthur William) Russell:
-- [ ] 1951: Pär Fabian Lagerkvist:
-- [ ] 1952: François Mauriac:
-- [ ] 1953: Sir Winston Leonard Spencer Churchill:
-- [x] 1954: Ernest Miller Hemingway: _For Whom the Bell Tolls_; _A Farewell to Arms_; _The Old Man and the Sea_
-- [ ] 1955: Halldór Kiljan Laxness:
-- [ ] 1956: Juan Ramón Jiménez:
-- [x] 1957: Albert Camus: _The Stranger_
-- [x] 1958: Boris Leonidovich Pasternak: _Doctor Zhivago_
-- [ ] 1959: Salvatore Quasimodo:
-- [ ] 1960: Saint-John Perse:
-- [ ] 1961: Ivo Andric:
-- [x] 1962: John Steinbeck: _The Grapes of Wrath_; _Of Mice and Men_; _Cannery Row_; _East of Eden_
-- [ ] 1963: Giorgos Seferis:
-- [x] 1964: Jean-Paul Sartre: _No Exit_
-- [ ] 1965: Mikhail Aleksandrovich Sholokhov:
-- [ ] 1966: Nelly Sachs:
-- [ ] 1966: Shmuel Yosef Agnon:
-- [ ] 1967: Miguel Angel Asturias:
-- [x] 1968: Yasunari Kawabata: _Thousand Cranes_
-- [x] 1969: Samuel Beckett: _Waiting for Godot_
-- [ ] 1970: Aleksandr Isayevich Solzhenitsyn:
-- [ ] 1971: Pablo Neruda:
-- [ ] 1972: Heinrich Böll:
-- [ ] 1973: Patrick White:
-- [ ] 1974: Eyvind Johnson:
-- [ ] 1974: Harry Martinson:
-- [ ] 1975: Eugenio Montale:
-- [ ] 1976: Saul Bellow:
-- [ ] 1977: Vicente Aleixandre:
-- [ ] 1978: Isaac Bashevis Singer:
-- [ ] 1979: Odysseus Elytis:
-- [ ] 1980: Czeslaw Milosz:
-- [ ] 1981: Elias Canetti:
-- [ ] 1982: Gabriel García Márquez:
-- [x] 1983: William Golding: _Lord of the Flies_
-- [ ] 1984: Jaroslav Seifert:
-- [ ] 1985: Claude Simon:
-- [ ] 1986: Wole Soyinka:
-- [ ] 1987: Joseph Brodsky:
-- [ ] 1988: Naguib Mahfouz:
-- [ ] 1989: Camilo José Cela:
-- [ ] 1990: Octavio Paz:
-- [ ] 1991: Nadine Gordimer:
-- [ ] 1992: Derek Walcott:
-- [x] 1993: Toni Morrison: _Beloved_; _The Source of Self-Regard_
-- [x] 1994: Kenzaburo Oe: _A Personal Matter_
-- [x] 1995: Seamus Heaney: _Beowulf_
-- [ ] 1996: Wislawa Szymborska:
-- [ ] 1997: Dario Fo:
-- [ ] 1998: José Saramago:
-- [ ] 1999: Günter Grass:
-- [ ] 2000: Gao Xingjian:
-- [ ] 2001: Sir Vidiadhar Surajprasad Naipaul:
-- [ ] 2002: Imre Kertész:
-- [ ] 2003: John M. Coetzee:
-- [ ] 2004: Elfriede Jelinek:
-- [ ] 2005: Harold Pinter:
-- [x] 2006: Orhan Pamuk: _Silent House_
-- [ ] 2007: Doris Lessing:
-- [ ] 2008: Jean-Marie Gustave Le Clézio:
-- [ ] 2009: Herta Müller:
-- [x] 2010: Mario Vargas Llosa: _The Feast of the Goat_
-- [ ] 2011: Tomas Tranströmer:
-- [ ] 2012: Mo Yan:
-- [ ] 2013: Alice Munro:
-- [ ] 2014: Patrick Modiano:
-- [x] 2015: Svetlana Alexievich: _The Unwomanly Face of War_
-- [x] 2016: Bob Dylan: _The Freewheelin' Bob Dylan_
-- [x] 2017: Kazuo Ishiguro: _The Buried Giant_
-- [ ] 2018: Olga Tokarczuk:
-- [ ] 2019: Peter Handke:
-- [ ] 2020: Louise Glück:
-- [x] 2021: Abdulrazak Gurnah: _Paradise_
-- [x] 2022: Annie Ernaux: _A Woman's Story_; _La place_
-- [x] 2023: Jon Fosse: _The Other Name_
+- [ ] 1901: Sully Prudhomme [France]:
+- [ ] 1902: Theodor Mommsen [Germany]:
+- [ ] 1903: Bjørnstjerne Martinus Bjørnson [Norway]:
+- [ ] 1904: Frédéric Mistral [France]:
+- [ ] 1904: José Echegaray y Eizaguirre [Spain]:
+- [ ] 1905: Henryk Sienkiewicz [Poland]:
+- [ ] 1906: Giosuè Carducci [Italy]:
+- [x] 1907: Rudyard Kipling [U.K.]: several including short stories
+- [ ] 1908: Rudolf Christoph Eucken [Germany]:
+- [ ] 1909: Selma Ottilia Lovisa Lagerlöf [Sweden]:
+- [ ] 1910: Paul Johann Ludwig Heyse [Germany]:
+- [ ] 1911: Maurice Maeterlinck [Belgium]:
+- [ ] 1912: Gerhart Johann Robert Hauptmann [Germany]:
+- [ ] 1913: Rabindranath Tagore [India]:
+- [ ] 1915: Romain Rolland [France]:
+- [ ] 1916: Carl Gustaf Verner von Heidenstam [Sweden]:
+- [ ] 1917: Henrik Pontoppidan [Denmark]:
+- [ ] 1917: Karl Adolph Gjellerup [Denmark]:
+- [ ] 1919: Carl Friedrich Georg Spitteler [Switzerland]:
+- [ ] 1920: Knut Pedersen Hamsun [Norway]:
+- [ ] 1921: Anatole France [France]:
+- [ ] 1922: Jacinto Benavente [Spain]:
+- [ ] 1923: William Butler Yeats [Ireland]:
+- [ ] 1924: Wladyslaw Stanislaw Reymont [Poland]:
+- [x] 1925: George Bernard Shaw [U.K., Ireland]: _Pygmalion_; _Mrs. Warren's Profession_
+- [ ] 1926: Grazia Deledda [Italy]:
+- [ ] 1927: Henri Bergson [France]:
+- [ ] 1928: Sigrid Undset [Norway, Denmark]:
+- [x] 1929: Thomas Mann [Germany]: _Death in Venice_
+- [ ] 1930: Sinclair Lewis [U.S.]:
+- [ ] 1931: Erik Axel Karlfeldt [Sweden]:
+- [ ] 1932: John Galsworthy [U.K.]:
+- [ ] 1933: Ivan Alekseyevich Bunin [Russia]:
+- [ ] 1934: Luigi Pirandello [Italy]:
+- [ ] 1936: Eugene Gladstone O’Neill [U.S.]:
+- [ ] 1937: Roger Martin du Gard [France]:
+- [x] 1938: Pearl Buck [U.S.]: _The Good Earth_
+- [ ] 1939: Frans Eemil Sillanpää [Finland]:
+- [ ] 1944: Johannes Vilhelm Jensen [Denmark]:
+- [ ] 1945: Gabriela Mistral [Chile]:
+- [x] 1946: Hermann Hesse [Germany, Switzerland]: _Siddhartha_; _Steppenwolf_
+- [ ] 1947: André Paul Guillaume Gide [France]:
+- [x] 1948: Thomas Stearns Eliot [U.K.]: several poems
+- [x] 1949: William Faulkner [U.S.]: _The Sound and the Fury_
+- [ ] 1950: Bertrand Russell [U.K.]:
+- [ ] 1951: Pär Fabian Lagerkvist [Sweden]:
+- [ ] 1952: François Mauriac [France]:
+- [ ] 1953: Winston Churchill [U.K.]:
+- [x] 1954: Ernest Hemingway [U.S.]: _For Whom the Bell Tolls_; _A Farewell to Arms_; _The Old Man and the Sea_
+- [ ] 1955: Halldór Kiljan Laxness [Iceland]:
+- [ ] 1956: Juan Ramón Jiménez [Spain]:
+- [x] 1957: Albert Camus [France]: _The Stranger_
+- [x] 1958: Boris Leonidovich Pasternak [Soviet Union]: _Doctor Zhivago_
+- [ ] 1959: Salvatore Quasimodo [Italy]:
+- [ ] 1960: Saint-John Perse [France]:
+- [ ] 1961: Ivo Andric [Yugoslavia]:
+- [x] 1962: John Steinbeck [U.S.]: _The Grapes of Wrath_; _Of Mice and Men_; _Cannery Row_; _East of Eden_
+- [ ] 1963: Giorgos Seferis [Greece]:
+- [x] 1964: Jean-Paul Sartre [France]: _No Exit_
+- [ ] 1965: Mikhail Aleksandrovich Sholokhov [Soviet Union]:
+- [ ] 1966: Nelly Sachs [Germany, Sweden]:
+- [ ] 1966: Shmuel Yosef Agnon [Israel]:
+- [ ] 1967: Miguel Angel Asturias [Guatemala]:
+- [x] 1968: Yasunari Kawabata [Japan]: _Thousand Cranes_
+- [x] 1969: Samuel Beckett [Ireland]: _Waiting for Godot_
+- [ ] 1970: Aleksandr Isayevich Solzhenitsyn [Soviet Union]:
+- [ ] 1971: Pablo Neruda [Chile]:
+- [ ] 1972: Heinrich Böll [West Germany]:
+- [ ] 1973: Patrick White [Australia]:
+- [ ] 1974: Eyvind Johnson [Sweden]:
+- [ ] 1974: Harry Martinson [Sweden]:
+- [ ] 1975: Eugenio Montale [Italy]:
+- [ ] 1976: Saul Bellow [U.S.]:
+- [ ] 1977: Vicente Aleixandre [Spain]:
+- [ ] 1978: Isaac Bashevis Singer [U.S., Poland]:
+- [ ] 1979: Odysseus Elytis [Greece]:
+- [ ] 1980: Czeslaw Milosz [Poland]:
+- [ ] 1981: Elias Canetti [U.K., Bulgaria]:
+- [ ] 1982: Gabriel García Márquez [Colombia]:
+- [x] 1983: William Golding [U.K.]: _Lord of the Flies_
+- [ ] 1984: Jaroslav Seifert [Czechoslovakia]:
+- [ ] 1985: Claude Simon [France]:
+- [ ] 1986: Wole Soyinka [Nigeria]:
+- [ ] 1987: Joseph Brodsky [U.S., Soviet Union]:
+- [ ] 1988: Naguib Mahfouz [Egypt]:
+- [ ] 1989: Camilo José Cela [Spain]:
+- [ ] 1990: Octavio Paz [Mexico]:
+- [ ] 1991: Nadine Gordimer [South Africa]:
+- [ ] 1992: Derek Walcott [Saint Lucia]:
+- [x] 1993: Toni Morrison [U.S.]: _Beloved_; _The Source of Self-Regard_
+- [x] 1994: Kenzaburo Oe [Japan]: _A Personal Matter_
+- [x] 1995: Seamus Heaney [Ireland]: _Beowulf_
+- [ ] 1996: Wislawa Szymborska [Poland]:
+- [ ] 1997: Dario Fo [Italy]:
+- [ ] 1998: José Saramago [Portugal]:
+- [ ] 1999: Günter Grass [Germany]:
+- [ ] 2000: Gao Xingjian [France, China]:
+- [ ] 2001: Vidiadhar Surajprasad Naipaul [U.K., Trinidad and Tobago]:
+- [ ] 2002: Imre Kertész [Hungary]:
+- [ ] 2003: John M. Coetzee [South Africa]:
+- [ ] 2004: Elfriede Jelinek [Austria]:
+- [ ] 2005: Harold Pinter [U.K.]:
+- [x] 2006: Orhan Pamuk [Türkiye]: _Silent House_
+- [ ] 2007: Doris Lessing [U.K.]:
+- [ ] 2008: Jean-Marie Gustave Le Clézio [France, Mauritius]:
+- [ ] 2009: Herta Müller [Germany, Romania]:
+- [x] 2010: Mario Vargas Llosa [Peru, Spain]: _The Feast of the Goat_
+- [ ] 2011: Tomas Tranströmer [Sweden]:
+- [ ] 2012: Mo Yan [China]:
+- [ ] 2013: Alice Munro [Canada]:
+- [ ] 2014: Patrick Modiano [France]:
+- [x] 2015: Svetlana Alexievich [Belarus]: _The Unwomanly Face of War_
+- [x] 2016: Bob Dylan [U.S.]: _The Freewheelin' Bob Dylan_
+- [x] 2017: Kazuo Ishiguro [U.K.]: _The Buried Giant_
+- [ ] 2018: Olga Tokarczuk [Poland]:
+- [ ] 2019: Peter Handke [Austria]:
+- [ ] 2020: Louise Glück [U.S.]:
+- [x] 2021: Abdulrazak Gurnah [Tanzania, U.K.]: _Paradise_
+- [x] 2022: Annie Ernaux [France]: _A Woman's Story_; _La place_
+- [x] 2023: Jon Fosse [Norway]: _The Other Name_
