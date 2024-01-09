@@ -160,4 +160,6 @@ Count: 14
 ## Best Novella
 
 - [x] 2018: Martha Wells _All Systems Red_
+- [ ] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
+- [ ] 2023: Becky Chambers _A Prayer for the Crown-Shy_
