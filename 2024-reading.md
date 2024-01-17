@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Cobalt Red: How the Blood of the Congo Powers Our Lives | Siddharth Kara | 2023 | Democratic Republic of the Congo | 4.5 | audio | 288 | non-fiction, environment, economics, politics, history |
 | The Death of Ivan Ilych | Leo Tolstoy | 1886 | Russia | 4.0 | audio | 86 | literature, classic, novella |
 | Threads That Bind | Kika Hatzopoulou | 2023 | Greece | 4.5 | audio | 352 | fantasy, mythology, mystery, YA |
 | No Kidding | Vero Cazot | 2022 | France | 4.0 | ebook | 108 | graphic novel, feminism |
