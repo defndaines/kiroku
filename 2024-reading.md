@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 4: The Bell Warden | Kazuo Koike | 1995 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical fiction, fantasy |
 | Blindness | José Saramago | 1995 | Portugal | 4.5 | audio | 349 | sci-fi, dystopia, literature, Nobel |
 | Cobalt Red: How the Blood of the Congo Powers Our Lives | Siddharth Kara | 2023 | Democratic Republic of the Congo | 4.5 | audio | 288 | non-fiction, environment, economics, politics, history |
 | The Death of Ivan Ilych | Leo Tolstoy | 1886 | Russia | 4.0 | audio | 86 | literature, classic, novella |
