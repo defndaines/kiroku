@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 26
+Count: 27
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -99,7 +99,7 @@ Count: 26
 - [x] 1995: Seamus Heaney [Ireland]: _Beowulf_
 - [ ] 1996: Wislawa Szymborska [Poland]:
 - [ ] 1997: Dario Fo [Italy]:
-- [ ] 1998: José Saramago [Portugal]:
+- [x] 1998: José Saramago [Portugal]: _Blindness_
 - [ ] 1999: Günter Grass [Germany]:
 - [ ] 2000: Gao Xingjian [France, China]:
 - [ ] 2001: Vidiadhar Surajprasad Naipaul [U.K., Trinidad and Tobago]:
