@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Season of Migration to the North | Tayeb Salih | 1966 | Sudan | 4.5 | print | 139 | literature, historical fiction |
 | Foster | Claire Keegan | 2010 | Ireland | 4.5 | audio | 89 | historical fiction, novella, literature |
 | Lone Wolf and Cub, Vol. 4: The Bell Warden | Kazuo Koike | 1995 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical fiction, fantasy |
 | Blindness | José Saramago | 1995 | Portugal | 4.5 | audio | 349 | sci-fi, dystopia, literature, Nobel |
