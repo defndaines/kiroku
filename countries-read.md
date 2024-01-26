@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 70
+Count: 71
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -107,7 +107,7 @@ Count: 70
 - [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [x] Sweden: [_The Girl with the Dragon Tattoo_](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) Stieg Larsson
 - [x] Greece: _The Odyssey_ Homer
-- [ ] Portugal:
+- [x] Portugal: [_Blindness_](https://www.goodreads.com/book/show/40495148-blindness) José Saramago
 - [ ] Azerbaijan:
 - [ ] Tajikistan:
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
