@@ -5,6 +5,8 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| To Be Taught, If Fortunate | Becky Chambers | 2019 | U.S. | 5.0 | audio | 153 | sci-fi, novella, LGBT |
+| The Death and Life of Great American Cities | Jane Jacobs | 1961 | U.S. | 4.5 | audio | 472 | non-fiction, urban planning, urbanism, history |
 | Season of Migration to the North | Tayeb Salih | 1966 | Sudan | 4.5 | print | 139 | literature, historical fiction |
 | Foster | Claire Keegan | 2010 | Ireland | 4.5 | audio | 89 | historical fiction, novella, literature |
 | Lone Wolf and Cub, Vol. 4: The Bell Warden | Kazuo Koike | 1995 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical fiction, fantasy |
