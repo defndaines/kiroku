@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Where the Body Was | Ed Brubaker | 2023 | U.S. | 4.5 | print | 144 | graphic novel, mystery, historical fiction |
 | To Be Taught, If Fortunate | Becky Chambers | 2019 | U.S. | 5.0 | audio | 153 | sci-fi, novella, LGBT |
 | The Death and Life of Great American Cities | Jane Jacobs | 1961 | U.S. | 4.5 | audio | 472 | non-fiction, urban planning, urbanism, history |
 | Season of Migration to the North | Tayeb Salih | 1966 | Sudan | 4.5 | print | 139 | literature, historical fiction |
