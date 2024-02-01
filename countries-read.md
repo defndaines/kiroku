@@ -138,7 +138,7 @@ Count: 71
 - [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [x] Lebanon: [_A Game for Swallows: To Die, To Leave, To Return_](https://www.goodreads.com/book/show/13773346-a-game-for-swallows) Zeina Abirached
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
-- [x] Scotland\*: Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
+- [x] Scotland\*: [_Poor Things_](https://www.goodreads.com/book/show/72355.Poor_Things) Alasdair Gray; Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
 - [ ] Slovakia:
 - [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan
 - [ ] Northern Ireland:
