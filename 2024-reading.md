@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Ender’s Game | Orson Scott Card | 1985 | U.S. | 3.5 | audio | 324 | sci-fi, YA, Hugo, Nebula |
 | Poor Things | Alasdair Gray | 1992 | Scotland | 5.0 | audio | 318 | historical fiction, sci-fi, literature |
 | Die, Vol. 1: Fantasy Heartbreaker | Kieron Gillen | 2019 | U.K. | 4.0 | print | 184 | graphic novel, fantasy, horror
 | Men We Reaped | Jesmyn Ward | 2013 | U.S. | 4.5 | audio | 256 | non-fiction, memoir |
