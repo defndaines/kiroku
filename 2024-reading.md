@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Sleeping While Standing | Taki Soma | 2022 | U.S., Japan | 4.5 | ebook | 100 | graphic novel, memoir, non-fiction |
 | Yellowface | R.F. Kuang | 2023 | U.S. | 4.0 | audio | 336 | literary, thriller, Goodreads Choice Award |
 | On a Sunbeam | Tillie Walden | 2018 | U.S. | 4.5 | ebook | 544 | sci-fi, graphic novel, LGBT, YA |
 | Ender’s Game | Orson Scott Card | 1985 | U.S. | 3.5 | audio | 324 | sci-fi, YA, Hugo, Nebula |
