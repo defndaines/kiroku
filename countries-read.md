@@ -65,7 +65,7 @@ Count: 71
 - [ ] Côte d'Ivoire:
 - [ ] Nepal:
 - [ ] Venezuela:
-- [x] Cameroon: [_Behold the Dreamers_](https://www.goodreads.com/book/show/35259724-behold-the-dreamers) Imbolo Mbue
+- [x] Cameroon: [_Behold the Dreamers_](https://www.goodreads.com/book/show/35259724-behold-the-dreamers) Imbolo Mbue; [_How Beautiful We Were_](https://www.goodreads.com/book/show/51794532-how-beautiful-we-were) Imbolo Mbue
 - [ ] Madagascar:
 - [x] Australia: [_True History of the Kelly Gang_](https://www.goodreads.com/book/show/110090.True_History_of_the_Kelly_Gang) Peter Carey; [_Sabriel_](https://www.goodreads.com/book/show/518848.Sabriel) Garth Nix
 - [x] North Korea: _The Accusation_ Bandi (NOT recommended)

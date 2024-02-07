@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| How Beautiful We Were | Imbolo Mbue | 2021 | Cameroon | 4.5 | audio | 384 | historical fiction, Africa, literary |
 | Sleeping While Standing | Taki Soma | 2022 | U.S., Japan | 4.5 | ebook | 100 | graphic novel, memoir, non-fiction |
 | Yellowface | R.F. Kuang | 2023 | U.S. | 4.0 | audio | 336 | literary, thriller, Goodreads Choice Award |
 | On a Sunbeam | Tillie Walden | 2018 | U.S. | 4.5 | ebook | 544 | sci-fi, graphic novel, LGBT, YA |
