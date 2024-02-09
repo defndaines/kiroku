@@ -129,7 +129,7 @@ Count: 71
 - [ ] Serbia:
 - [ ] Bulgaria:
 - [ ] Paraguay:
-- [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible); [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red)  Siddharth Kara
+- [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red)  Siddharth Kara
 - [ ] Republic of the Congo:
 - [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Singapore:
