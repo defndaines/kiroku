@@ -54,7 +54,7 @@ Count: 71
 - [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner
 - [ ] Morocco:
 - [ ] Uzbekistan:
-- [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord://www.goodreads.com/book/show/6588979-a-woman-among-warlords) Malalai Joya
+- [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord) Malalai Joya
 - [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; read several works as part of undergrad anthropology class on Malaysia
 - [ ] Angola:
