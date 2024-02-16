@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Last Fallen Realm | Graci Kim | 2023 | U.S., New Zealand | 3.0 | audio | 320 | fantasy, Korean mythology, YA |
 | Iron Widow | Xiran Jay Zhao | 2021 | China | 4.5 | audio | 391 | sci-fi, fantasy, YA, LGBT |
 | Children of the Black Sun Vol 1 | Dario Sicchio | 2024 | U.S. | 3.0 | ebook | 124 | sci-fi, graphic novel, horror |
 | One Soul | Ray Fawkes | 2011 | Canada | 3.5 | ebook | 176 | graphic novel, historical fiction |
