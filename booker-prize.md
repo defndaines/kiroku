@@ -3,7 +3,7 @@
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
 by whether I've read them or not.
 
-Count: 5
+Count: 6
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -63,7 +63,7 @@ Count: 5
 - [ ] 2020: Douglas Stuart _Shuggie Bain_
 - [ ] 2021: Damon Galgut _The Promise Novel_
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
-- [ ] 2023: Paul Lynch _Prophet Song_
+- [x] 2023: Paul Lynch _Prophet Song_
 
 ## International Booker Prize
 

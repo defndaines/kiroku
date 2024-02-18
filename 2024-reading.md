@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Prophet Song | Paul Lynch | 2023 | Ireland | 5.0 | audio | 244 | dystopia, literary, Booker |
 | The Organ Thieves: The Shocking Story of the First Heart Transplant in the Segregated South | Chip Jones | 2020 | U.S. | 4.0 | audio | 400 | non-fiction, history, medicine |
 | The Last Fallen Realm | Graci Kim | 2023 | U.S., New Zealand | 3.0 | audio | 320 | fantasy, Korean mythology, YA |
 | Iron Widow | Xiran Jay Zhao | 2021 | China | 4.5 | audio | 391 | sci-fi, fantasy, YA, LGBT |
