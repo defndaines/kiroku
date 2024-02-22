@@ -140,7 +140,7 @@ Count: 72
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
 - [x] Scotland\*: [_Poor Things_](https://www.goodreads.com/book/show/72355.Poor_Things) Alasdair Gray; Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
 - [ ] Slovakia:
-- [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan
+- [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan; [_Prophet Song_](https://www.goodreads.com/book/show/158875813-prophet-song) Paul Lynch
 - [ ] Northern Ireland:
 - [ ] Costa Rica:
 - [ ] New Zealand:
