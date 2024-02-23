@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Bone People | Keri Hulme | 1984 | New Zealand, Aotearoa | 4.5 | print | 450 | literary, Booker |
 | The Vanishing Half | Brit Bennett | 2020 | U.S. | 4.5 | audio | 343 | historical fiction, literary, Goodreads Choice Award |
 | Prophet Song | Paul Lynch | 2023 | Ireland | 5.0 | audio | 244 | dystopia, literary, Booker |
 | The Organ Thieves: The Shocking Story of the First Heart Transplant in the Segregated South | Chip Jones | 2020 | U.S. | 4.0 | audio | 400 | non-fiction, history, medicine |

@@ -3,7 +3,7 @@
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
 by whether I've read them or not.
 
-Count: 6
+Count: 7
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -23,7 +23,7 @@ Count: 6
 - [ ] 1982: Thomas Keneally _Schindler's Ark_
 - [ ] 1983: J. M. Coetzee _Life & Times of Michael K_
 - [ ] 1984: Anita Brookner _Hotel du Lac_
-- [ ] 1985: Keri Hulme _The Bone People_
+- [x] 1985: Keri Hulme _The Bone People_
 - [ ] 1986: Kingsley Amis _The Old Devils_
 - [ ] 1987: Penelope Lively _Moon Tiger_
 - [ ] 1988: Peter Carey _Oscar and Lucinda_
