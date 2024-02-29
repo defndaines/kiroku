@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Legends & Lattes | Travis Baldree | 2022 | U.S. | 4.5 | audio | 296 | fantasy |
 | Amiable with Big Teeth | Claude McKay | 2017 | U.S. | 3.5 | audio | 352 | historical fiction |
 | The Bone People | Keri Hulme | 1984 | New Zealand, Aotearoa | 4.5 | print | 450 | literary, Booker |
 | The Vanishing Half | Brit Bennett | 2020 | U.S. | 4.5 | audio | 343 | historical fiction, literary, Goodreads Choice Award |
