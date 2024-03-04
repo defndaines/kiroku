@@ -20,7 +20,7 @@ I've watched more than ten movies or shows I'll mark with a star (\*).
 - [ ] Egypt: [Raiders of the Lost Ark](https://www.imdb.com/title/tt0082971://www.imdb.com/title/tt0082971/)
 - [x] Vietnam: [The Scent of Green Papaya](https://www.imdb.com/title/tt0107617/) _Mùi đu đủ xanh_; [Furie](https://www.imdb.com/title/tt9412268/) _Hai Phượng_; [Full Metal Jacket](https://www.imdb.com/title/tt0093058/)
 - [x] Iran: [The Circle](https://www.imdb.com/title/tt0255094/) _Dayereh_
-- [ ] Türkiye
+- [x] Türkiye: [Creature](https://www.imdb.com/title/tt17553374/)
 - [x] Germany: [Das Boot](https://www.imdb.com/title/tt0082096/); [Blood Red Sky](https://www.imdb.com/title/tt6402468/)
 - [x] Thailand: [Ong-Bak](https://www.imdb.com/title/tt0368909/)
 - [x] France\*: [Rififi](https://www.imdb.com/title/tt0048021/) _Du rififi chez les hommes_
