@@ -5,6 +5,7 @@ fiction otherwise).
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Stonekeeper | Kazu Kibuishi | 2008 | U.S. | 4.0 | print | 192 | graphicnovel, fantasy, YA, reread |
 | Dragon Hoops | Gene Luen Yang | 2020 | U.S. | 4.0 | print | 446 | graphic novel, non-fiction, sports, YA |
 | Legends & Lattes | Travis Baldree | 2022 | U.S. | 4.5 | audio | 296 | fantasy |
 | Amiable with Big Teeth | Claude McKay | 2017 | U.S. | 3.5 | audio | 352 | historical fiction |
