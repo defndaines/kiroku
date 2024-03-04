@@ -1,11 +1,12 @@
 # Books Read in 2024
 
 Tags to include information such as genre, awards won, and non-fiction (assume
-fiction otherwise).
+fiction otherwise). The most recently finished book is on top, and the first
+book finished in a month is tagged with the month in *bold*.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| The Stonekeeper | Kazu Kibuishi | 2008 | U.S. | 4.0 | print | 192 | graphicnovel, fantasy, YA, reread |
+| The Stonekeeper | Kazu Kibuishi | 2008 | U.S. | 4.0 | print | 192 | graphic novel, fantasy, YA, reread, *March* |
 | Dragon Hoops | Gene Luen Yang | 2020 | U.S. | 4.0 | print | 446 | graphic novel, non-fiction, sports, YA |
 | Legends & Lattes | Travis Baldree | 2022 | U.S. | 4.5 | audio | 296 | fantasy |
 | Amiable with Big Teeth | Claude McKay | 2017 | U.S. | 3.5 | audio | 352 | historical fiction |
@@ -21,7 +22,7 @@ fiction otherwise).
 | Sleeping While Standing | Taki Soma | 2022 | U.S., Japan | 4.5 | ebook | 100 | graphic novel, memoir, non-fiction |
 | Yellowface | R.F. Kuang | 2023 | U.S. | 4.0 | audio | 336 | literary, thriller, Goodreads Choice Award |
 | On a Sunbeam | Tillie Walden | 2018 | U.S. | 4.5 | ebook | 544 | sci-fi, graphic novel, LGBT, YA |
-| Ender’s Game | Orson Scott Card | 1985 | U.S. | 3.5 | audio | 324 | sci-fi, YA, Hugo, Nebula |
+| Ender’s Game | Orson Scott Card | 1985 | U.S. | 3.5 | audio | 324 | sci-fi, YA, Hugo, Nebula, *February* |
 | Poor Things | Alasdair Gray | 1992 | Scotland | 5.0 | audio | 318 | historical fiction, sci-fi, literature |
 | Die, Vol. 1: Fantasy Heartbreaker | Kieron Gillen | 2019 | U.K. | 4.0 | print | 184 | graphic novel, fantasy, horror
 | Men We Reaped | Jesmyn Ward | 2013 | U.S. | 4.5 | audio | 256 | non-fiction, memoir |
@@ -39,4 +40,4 @@ fiction otherwise).
 | Class: A Memoir of Motherhood, Hunger, and Higher Education | Stephanie Land | 2023 | U.S. | 4.0 | print | 285 | non-fiction, memoir |
 | Birdking Volume 2 | Daniel Freedman | 2023 | U.S. | 4.0 | print | 152 | graphic novel, fantasy, YA |
 | Paradise | Abdulrazak Gurnah | 1994 | Tanzania | 4.0 | audio | 256 | historical fiction, literature, Africa, Nobel |
-| All Systems Red | Martha Wells | 2017 | U.S. | 4.0 | audio | 156 | sci-fi, novella, Hugo, Nebula, Locus |
+| All Systems Red | Martha Wells | 2017 | U.S. | 4.0 | audio | 156 | sci-fi, novella, Hugo, Nebula, Locus, *January* |
