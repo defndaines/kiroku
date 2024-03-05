@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| In Ascension | Martin MacInnes | 2023 | Scotland | 5.0 | audio | 512 | literary, sci-fi |
 | The Stonekeeper | Kazu Kibuishi | 2008 | U.S. | 4.0 | print | 192 | graphic novel, fantasy, YA, reread, **March** |
 | Dragon Hoops | Gene Luen Yang | 2020 | U.S. | 4.0 | print | 446 | graphic novel, non-fiction, sports, YA |
 | Legends & Lattes | Travis Baldree | 2022 | U.S. | 4.5 | audio | 296 | fantasy |
