@@ -2,7 +2,7 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
-Count: 14
+Count: 15
 
 ## Best Novel
 
@@ -73,7 +73,7 @@ Count: 14
 - [ ] 1984: David Brin _Startide Rising_
 - [ ] 1985: Larry Niven _The Integral Trees_
 - [ ] 1986: David Brin _The Postman_
-- [ ] 1987: Orson Scott Card _Speaker for the Dead_
+- [x] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: David Brin _The Uplift War_
 - [ ] 1989: C. J. Cherryh _Cyteen_
 - [x] 1990: Dan Simmons _Hyperion_

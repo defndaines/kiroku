@@ -7,7 +7,7 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
-Count: 21
+Count: 22
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -50,7 +50,7 @@ Count: 21
 - [ ] 1984: David Brin _Startide Rising_
 - [ ] 1985: William Gibson _Neuromancer_
 - [x] 1986: Orson Scott Card _Ender's Game_
-- [ ] 1987: Orson Scott Card _Speaker for the Dead_
+- [x] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: David Brin _The Uplift War_
 - [ ] 1989: C.J. Cherryh _Cyteen_
 - [x] 1990: Dan Simmons _Hyperion_

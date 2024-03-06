@@ -7,7 +7,7 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
-Count: 10
+Count: 11
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -31,7 +31,7 @@ Count: 10
 - [ ] 1984: David Brin _Startide Rising_
 - [ ] 1985: William Gibson _Neuromancer_
 - [x] 1986: Orson Scott Card _Ender's Game_
-- [ ] 1987: Orson Scott Card _Speaker for the Dead_
+- [x] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: Pat Murphy _The Falling Woman_
 - [ ] 1989: Lois McMaster Bujold _Falling Free_
 - [ ] 1990: Elizabeth Ann Scarborough _The Healer's War_
