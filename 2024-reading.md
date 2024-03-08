@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Cloud Searchers | Kazu Kibuishi | 2010 | U.S. | 4.5 | print | 203 | graphic novel, fantasy, YA, reread |
 | The Stonekeeper's Curse | Kazu Kibuishi | 2009 | U.S. | 4.5 | print | 220 | graphic novel, fantasy, YA, reread |
 | Speaker for the Dead | Orson Scott Card | 1986 | U.S. | 4.0 | audio | 382 | sci-fi, Hugo, Nebula, Locus |
 | In Ascension | Martin MacInnes | 2023 | Scotland | 5.0 | audio | 512 | literary, sci-fi |
