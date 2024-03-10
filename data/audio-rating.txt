@@ -22,7 +22,6 @@ Take My Hand|Dolen Perkins-Valdez|4.38 historical Black 1973 Alabama
 A Bond Undone|Jin Yong|4.38 China fantasy
 Warrior Girl Unearthed|Angeline Boulley|4.36 YA indigenous
 The Power of the Dog|Don Winslow|4.36 fiction drug trade
-Invisible Women|Caroline Criado-Perez|4.36 non-fiction
 The Cartel|Don Winslow|4.35 crime 2004 drugs
 The Conquering Sword of Conan|Robert E. Howard|4.34 fantasy sequel-3
 Humankind|Rutger Bregman|4.33 non-fiction
@@ -70,7 +69,6 @@ Babel|R. F. Kuang|4.21 sci-fi Nebula Locus
 The Emigrants|Vilhelm Moberg|4.20 Sweden historical
 The Children of Gods and Fighting Men|Shauna Lawless|4.20 historical fantasy 981 Dublin
 Reconstruction|Eric Foner|4.20 non-fiction history
-Heroes of the Water Monster|Brian Young|4.20 YA fantasy indigenous
 The Years|Annie Ernaux|4.18 France non-fiction
 The Poppy War|R. F. Kuang|4.18 fantasy historical fiction
 Paladin of Souls|Lois McMaster Bujold|4.18 sci-fi Hugo
