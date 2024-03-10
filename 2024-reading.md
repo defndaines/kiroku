@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Healer of the Water Monster | Brian Young | 2021 | U.S. | 4.5 | audio | 368 | YA, Navajo |
 | The Last Council | Kazu Kibuishi | 2011 | U.S. | 4.5 | print | 203 | graphic novel, fantasy, YA, reread |
 | Chain-Gang All-Stars | Nana Kwame Adjei-Brenyah | 2023 | U.S. | 5.0 | print | 367 | sci-fi, dystopia, LGBT |
 | The Cloud Searchers | Kazu Kibuishi | 2010 | U.S. | 4.5 | print | 203 | graphic novel, fantasy, YA, reread |
