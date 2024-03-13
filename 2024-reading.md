@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Orlando | Virginia Woolf | 1928 | U.K. | 3.5 | audio | 336 | literary, LGBT, historical fiction |
 | Firelight | Kazu Kibuishi | 2016 | U.S. | 4.0 | print | 199 | graphic novel, fantasy, YA, reread |
 | Escape from Lucien | Kazu Kibuishi | 2014 | U.S. | 4.5 | print | 220 | graphic novel, fantasy, YA, reread |
 | Prince of the Elves | Kazu Kibuishi | 2012 | U.S. | 4.5 | print | 203 | graphic novel, fantasy, YA, reread |
