@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Nimona | N.D. Stevenson | 2015 | U.S. | 5.0 | print | 266 | graphic novel, fantasy, YA, reread |
 | Waverider | Kazu Kibuishi | 2024 | U.S. | 5.0 | print | 256 | graphic novel, fantasy, sci-fi, YA |
 | Supernova | Kazu Kibuishi | 2018 | U.S. | 4.0 | print | 199 | graphic novel, fantasy, sci-fi, YA, reread |
 | Orlando | Virginia Woolf | 1928 | U.K. | 3.5 | audio | 336 | literary, LGBT, historical fiction |
