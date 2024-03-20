@@ -47,7 +47,7 @@ Violent Borders|Reece Jones|4.02
 The Steerswoman|Rosemary Kirstein|4.02
 Factories in the Field|Carey McWilliams|4.01
 Dragons of Autumn Twilight|Tracy Hickman|4.01
-Bloodchild|Octavia E. Butler|4.01
+The Hearing Test|Eliza Barry Callahan|4.00
 Omeros|Derek Walcott|3.99
 Laura|Vera Caspary|3.98
 The Uninvited|Dorothy Macardle|3.97
@@ -70,6 +70,7 @@ The Shadow of the Shadow|Paco Ignacio Taibo II|3.90
 Johnny Mad Dog|Emmanuel Dongala|3.90
 Sinking Bell|Bojan Louis|3.89 indigenous Navajo
 New Worlds, Old Ways|Karen Lord|3.89
+Mater 2-10|Hwang Sok-yong|3.89
 A Rage in Harlem|Chester Himes|3.89
 The Iron King|Julie Kagawa|3.88
 Glass and Gardens|Wendy Nikel|3.88
@@ -79,7 +80,10 @@ The Death of Artemio Cruz|Carlos Fuentes|3.86
 Swords and Deviltry|Fritz Leiber|3.86 f&gm-1
 Hills Like White Elephants|Ernest Hemingway|3.85
 Mumbo Jumbo|Ishmael Reed|3.84
+What I'd Rather Not Think About|Jente Posthuma|3.83
 Things Remembered and Things Forgotten|Kyoko Nakajima|3.82
+And Put Away Childish Things|Adrian Tchaikovsky|3.81
+Who Goes There?|John W. Campbell Jr.|3.80
 War Trash|Ha Jin|3.80
 The Bunker Diary|Kevin Brooks|3.80
 Struts & Frets|Jon Skovron|3.80
@@ -87,6 +91,7 @@ Lady Snowblood, Volume 1|Kazuo Koike|3.80
 Ms Ice Sandwich|Mieko Kawakami|3.79
 The Forest of Wool and Steel|Philip Gabriel|3.78
 The Werewolf Principle|Clifford D. Simak|3.77
+The Sellout|Paul Beatty|3.75
 Grotesque|Natsuo Kirino|3.73
 Xala|Ousmane Sembène|3.65
 Waylaid|Ed Lin|3.65

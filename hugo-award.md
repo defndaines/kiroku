@@ -103,6 +103,7 @@ Count: 22
 
 ## Best Novelette
 
+- [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2018: Suzanne Palmer _The Secret Life of Bots_
 - [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
 - [ ] 2020: N.K. Jemisin _Emergency Skin_

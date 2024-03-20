@@ -163,3 +163,8 @@ Count: 15
 - [ ] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [ ] 2023: Becky Chambers _A Prayer for the Crown-Shy_
+
+## Best Novelette
+
+- [x] 1985: Octavia E. Butler _Bloodchild_
+- [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_

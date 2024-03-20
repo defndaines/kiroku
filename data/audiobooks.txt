@@ -34,6 +34,7 @@ Candide|Voltaire|3.68 France
 Carmilla|Joseph Sheridan Le Fanu|3.85 Austria gothic horror
 City of Ash and Red|Hye-Young Pyun|3.15 Korea Kafkaesque
 Collected Fictions|Jorge Luis Borges|4.57 short stories Argentina
+Earthlings|Sayaka Murata|3.61 horror
 Four Treasures of the Sky|Jenny Tinghui Zhang|4.09 historical China U.S.
 Heaven|Mieko Kawakami|3.81 Japan
 History of Violence|Édouard Louis|3.77 France
@@ -83,6 +84,8 @@ Black Cake|Charmaine Wilkerson|4.11 historical California Black
 Bluebird, Bluebird|Attica Locke|3.84 mystery Black Texas
 Dhalgren|Samuel R. Delany|3.77 sci-fi
 Girl, Woman, Other|Bernardine Evaristo|4.29 British feminism Black
+How to Say Babylon|Safiya Sinclair|4.49 memoir
+I Am Not Sidney Poitier|Percival Everett|3.97 humor
 I Know Why the Caged Bird Sings|Maya Angelou|4.29 memoir
 If Beale Street Could Talk|James Baldwin|4.27 historical fiction
 Libertie|Kaitlyn Greenidge|3.49 historical Reconstruction Brooklyn
@@ -148,6 +151,7 @@ Solito|Javier Zamora|4.50 non-fiction memoir El Salvador
 The Art of Gathering|Priya Parker|3.98 non-fiction
 The Magical Language of Others|E. J. Koh|3.87 non-fiction memoir Korea-California
 The Library Book|Susan Orlean|3.89 non-fiction history
+They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.71 memoir Palestine
 Why Women Have Better Sex Under Socialism|Kristen R. Ghodsee|4.01 non-fiction
 
 # Fiction
@@ -159,6 +163,7 @@ A Fire Upon the Deep|Vernor Vinge|4.14 sci-fi Hugo
 A Head Full of Ghosts|Paul Tremblay|3.79 horror New England
 A Little Hatred|Joe Abercrombie|4.45 fantasy
 A Master of Djinn|P. Djèlí Clark|4.04 sci-fi Nebula
+A Woman of Pleasure|Kiyoko Murata|4.06 historical fiction
 Anathem|Neal Stephenson|4.17 sci-fi Locus
 Annihilation|Jeff VanderMeer|3.76 sci-fi Nebula
 Artificial Condition|Martha Wells|4.26 sci-fi Murderbot
@@ -216,6 +221,7 @@ Lolita|Vladimir Nabokov|3.88 literary
 Midnight Riot|Ben Aaronovitch|3.86 fantasy London
 Midnight's Children|Salman Rushdie|3.98 historical fiction India
 More Than Human|Theodore Sturgeon|3.94 sci-fi 1953
+Nervous Conditions|Tsitsi Dangarembga|4.04 historical fiction Zimbabwe
 Never Let Me Go|Kazuo Ishiguro|3.85 literary sci-fi
 Odd Thomas|Dean Koontz|3.99 horror
 On the Beach|Nevil Shute|3.97 sci-fi post-apocalyptic
@@ -230,6 +236,7 @@ Saints and Misfits|Ariana Delawari|3.77 YA Muslim
 Semiosis|Sue Burke|3.91 sci-fi
 Severance|Ling Ma|3.92 sci-fi NYC pandemic
 Shadow of the Fox|Julie Kagawa|4.01 YA fantasy
+Shuggie Bain|Douglas Stuart|4.31 historical fiction Booker
 Songs Only You Know|Sean Madigan Hoen|3.99 [audio hoopla]
 Still Life|Louise Penny|3.90 Quebec
 Stories of Your Life and Others|Ted Chiang|4.26 sci-fi
@@ -238,6 +245,7 @@ The Annual Migration of Clouds|Premee Mohamed|3.72 sci-fi post-apocalyptic clima
 The Barbarian Nurseries|Héctor Tobar|3.70 L.A.
 The Big Bundle|Max Allan Collins|4.31 historical noir
 The Bloody Crown of Conan|Robert E. Howard|4.31 fantasy sequal-2
+The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89 humor
 The Cartel|Don Winslow|4.35 crime 2004 drugs
 The City of Brass|S.A. Chakraborty|4.15 fantasy YA historical fiction
 The Coming of Conan the Cimmerian|Robert E. Howard|4.16 fantasy
@@ -259,6 +267,7 @@ The Luminous Dead|Caitlin Starling|3.67 sci-fi horror
 The Nightingale|Kristin Hannah|4.62 historical fiction WWII occupied France
 The Ocean at the End of the Lane|Neil Gaiman|4.02 fantasy
 The Ones We're Meant to Find|Joan He|3.56 YA sci-fi
+The Perks of Being a Wallflower|Stephen Chbosky|4.23 YA mental health
 The Poppy War|R. F. Kuang|4.18 fantasy historical fiction
 The Power of the Dog|Don Winslow|4.36 fiction drug trade
 The Rage of Dragons|Evan Winter|4.31 fantasy
@@ -278,6 +287,7 @@ The War of the Worlds|H. G. Wells|3.83 sci-fi
 The Woman in White|Wilkie Collins|4.00 gothic horror 1859
 The Words That Remain|Stênio Gardel|4.06 Brazil LGBT
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05 feminist short stories 1892
+Then We Came to the End|Joshua Ferris|3.46 humor
 These Burning Stars|Bethany Jacobs|4.24 sci-fi
 These Violent Delights|Chloe Gong|3.86 Romeo & Juliet in 1920s Shanghai
 These Violent Delights|Micah Nemerever|4.00 1970s Pittsburg LGBT

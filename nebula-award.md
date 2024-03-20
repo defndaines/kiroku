@@ -80,7 +80,7 @@ Count: 11
 
 ## Best Novelette
 
-- [ ] 1985: Octavia E. Butler _Bloodchild_
+- [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 
 ## Best Short Story

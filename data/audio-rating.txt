@@ -1,4 +1,5 @@
 The New Fish|Kjetil Ostli|4.81 non-fiction farmed fish
+They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.71 memoir Palestine
 The Nightingale|Kristin Hannah|4.62 historical fiction WWII occupied France
 A Little Devil in America|Hanif Abdurraqib|4.61 non-fiction Black performance
 Collected Fictions|Jorge Luis Borges|4.57 short stories Argentina
@@ -8,6 +9,7 @@ The Reformatory|Tananarive Due|4.52 horror historical fiction
 As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52 historical Syria
 All My Rage|Sabaa Tahir|4.52 Pakistan YA California
 Solito|Javier Zamora|4.50 non-fiction memoir El Salvador
+How to Say Babylon|Safiya Sinclair|4.49 memoir
 I'm Glad My Mom Died|Jennette McCurdy|4.47 memoir
 Crossings|Ben Goldfarb|4.45 non-fiction ecology roads
 A Little Hatred|Joe Abercrombie|4.45 fantasy
@@ -33,6 +35,7 @@ A Day in the Life of Abed Salama|Nathan Thrall|4.32 non-fiction Jerusalem
 The Rage of Dragons|Evan Winter|4.31 fantasy
 The Bloody Crown of Conan|Robert E. Howard|4.31 fantasy sequal-2
 The Big Bundle|Max Allan Collins|4.31 historical noir
+Shuggie Bain|Douglas Stuart|4.31 historical fiction Booker
 All the Frequent Troubles of Our Days|Rebecca Donner|4.31 non-fiction memoir Nazi resistance
 A Deepness in the Sky|Vernor Vinge|4.31 sci-fi Hugo sequel-AFUtD
 Thelonious Monk|Robin DG Kelley|4.30 non-fiction biography
@@ -58,6 +61,7 @@ Propaganda|Jacques Ellul|4.25 non-fiction
 These Burning Stars|Bethany Jacobs|4.24 sci-fi
 House of Suns|Alastair Reynolds|4.24 sci-fi
 Dearborn|Ghassan Zeineddine|4.24 short stories
+The Perks of Being a Wallflower|Stephen Chbosky|4.23 YA mental health
 Reform or Revolution and Other Writings|Rosa Luxemburg|4.22 [audio hoopla]
 Halfway Home|Reuben Jonathan Miller|4.22 non-fiction race incarceration
 To Shape a Dragon's Breath|Moniquill Blackgoose|4.21 fantasy indigenous
@@ -117,12 +121,14 @@ What Strange Paradise|Omar El Akkad|4.06 Canada African immigrants
 The Words That Remain|Stênio Gardel|4.06 Brazil LGBT
 Pet Sematary|Stephen King|4.06 horror
 Equal Rites|Terry Pratchett|4.06 fantasy humor discworld-3
+A Woman of Pleasure|Kiyoko Murata|4.06 historical fiction
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05 feminist short stories 1892
 The Housekeeper and the Professor|Yoko Ogawa|4.05 Japan
 SPQR|Mary Beard|4.05 non-fiction ancient Rome
 Kokoro|Natsume Soseki|4.05 Japan
 Empire of Silence|Christopher Ruocchio|4.05 sci-fi
 A Small Place|Jamaica Kincaid|4.05 memoir Antigua Barbuda
+Nervous Conditions|Tsitsi Dangarembga|4.04 historical fiction Zimbabwe
 Field Notes from a Catastrophe|Elizabeth Kolbert|4.04 non-fiction environment
 Always Running|Luis J. Rodriguez|4.04 non-fiction memoir L.A.
 A Master of Djinn|P. Djèlí Clark|4.04 sci-fi Nebula
@@ -159,6 +165,7 @@ South to America|Imani Perry|3.97 non-fiction South
 Sons of Darkness|Gourav Mohanty|3.97 fantasy India
 On the Beach|Nevil Shute|3.97 sci-fi post-apocalyptic
 Man Made Monsters|Andrea L. Rogers|3.97 historical indigenous horror
+I Am Not Sidney Poitier|Percival Everett|3.97 humor
 Frankenstein|Mary Shelley|3.97 re-read
 Blind Owl|Sadeq Hedayat|3.97 Iran horror
 Thistlefoot|GennaRose Nethercott|3.96 fantasy eastern-europe mythology
@@ -187,6 +194,7 @@ I Have No Mouth & I Must Scream and Other Works|Harlan Ellison|3.90 sci-fi horro
 The Woman in the Dunes|Kobo Abe|3.89 Japan
 The Tusks of Extinction|Ray Nayler|3.89 sci-fi
 The Library Book|Susan Orlean|3.89 non-fiction history
+The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89 humor
 Embassytown|China Miéville|3.89 sci-fi
 A Brief History of Seven Killings|Marlon James|3.89 Jamaica
 The Helm of Midnight|Marina Lostetter|3.88 fantasy
@@ -244,6 +252,7 @@ Girl in a Band|Kim Gordon|3.67 memoir
 Death by Dumpling|Vivien Chien|3.67 mystery
 Walking Practice|Dolki Min|3.62 Korea horror
 Covered with Night|Nicole Eustace|3.62 non-fiction 1722 indigenous
+Earthlings|Sayaka Murata|3.61 horror
 Terminal Boredom|Izumi Suzuki|3.60 Japan short story
 Soul Mountain|Gao Xingjian|3.60 China Nobel
 The Plotters|Un-su Kim|3.58 Korea
@@ -264,6 +273,7 @@ Watched|Marina Budhos|3.52 YA Muslim American
 The Premonition|Banana Yoshimoto|3.52 Japan
 Libertie|Kaitlyn Greenidge|3.49 historical Reconstruction Brooklyn
 Hit Parade of Tears|Izumi Suzuki|3.48 Japan short stories
+Then We Came to the End|Joshua Ferris|3.46 humor
 Give Me Some Truth|Eric Gansworth|3.45 YA
 Under the Pendulum Sun|Jeannette Ng|3.44 fantasy
 The Fox Was Ever the Hunter|Herta Muller|3.43 Romania Nobel
