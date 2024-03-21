@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 74
+Count: 75
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -213,7 +213,7 @@ Count: 74
 - [ ] Grenada:
 - [ ] Saint Vincent and the Grenadines:
 - [ ] Micronesia:
-- [ ] Antigua and Barbuda:
+- [x] Antigua and Barbuda: [_A Small Place_](https://www.goodreads.com/book/show/69711.A_Small_Place) Jamaica Kincaid
 - [ ] Seychelles:
 - [ ] Tonga:
 - [ ] Andorra:
