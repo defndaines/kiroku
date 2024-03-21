@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Prayer for the Crown-Shy | Becky Chambers | 2022 | U.S. | 5.0 | print | 152 | sci-fi, fantasy, novella, Locus |
 | Bloodchild and Other Stories | Octavia E. Butler | 1995 | U.S. | 5.0 | audio | 214 | sci-fi, short stories, novelette, Hugo, Nebula, Locus |
 | The Great Divide | Cristina Henríquez | 2024 | Panama | 4.0 | audio | 321 | historical fiction, literary |
 | The Empress of Salt and Fortune | Nghi Vo | 2020 | U.S. | 4.5 | print | 119 | fantasy, novella, LGBT, Hugo |
