@@ -91,7 +91,8 @@ Libertie|Kaitlyn Greenidge|3.49 historical Reconstruction Brooklyn
 Memorial|Bryan Washington|3.57 LGBT Japanese-Am Black Texas
 Mind of My Ming|Octavia E. Butler|4.18 sci-fi Patternmaster-2
 Nova|Samuel R. Delany|3.81 sci-fi
-Punished for Dreaming|Bettina L. Love|4.42 non-fiction education
+Oreo|Fran Ross|3.62 humor
+Passing|Nella Larsen|3.93 classic historical fiction
 Red at the Bone|Jacqueline Woodson|3.98 historical 2001 Brooklyn Black
 Song of Solomon|Toni Morrison|4.14
 Take My Hand|Dolen Perkins-Valdez|4.38 historical Black 1973 Alabama
@@ -106,6 +107,7 @@ The Trees|Percival Everett|4.07 historical Black Mississippi
 
 # Indigenous
 Bad Cree|Jessica Johns|3.94 horror indigenous
+Ceremony|Leslie Marmon Silko|3.83 indigenous ABA
 Covered with Night|Nicole Eustace|3.62 non-fiction 1722 indigenous
 Funeral Songs for Dying Girls|Cherie Dimaline|3.57 YA fantasy indigenous
 Give Me Some Truth|Eric Gansworth|3.45 YA
@@ -125,6 +127,7 @@ To Shape a Dragon's Breath|Moniquill Blackgoose|4.21 fantasy indigenous
 Wandering Stars|Tommy Orange|4.08 indigenous historical fiction
 Warrior Girl Unearthed|Angeline Boulley|4.36 YA indigenous
 White Horse|Erika T. Wurth|3.52 horror, indigenous
+Winter in the Blood|James Welch|3.83 indigenous
 
 # Non-fiction
 A Short History of Reconstruction|Eric Foner|4.02 non-fiction
@@ -190,6 +193,7 @@ Deep River|Karl Marlantes|4.21 historical Finnish U.S.
 Dragon Prince|Melanie Rawn|3.95 fantasy
 Drive Your Plow Over the Bones of the Dead|Olga Tokarczuk|3.96 Poland Nobel
 Dune|Frank Herbert|4.27 re-read
+East Goes West: The Making of an Oriental Yankee|Younghill Kang|3.71 Korean-American 1937
 Elder Race|Adrian Tchaikovsky|4.12 sci-fi
 Embassytown|China Miéville|3.89 sci-fi
 Empire of Silence|Christopher Ruocchio|4.05 sci-fi
@@ -220,6 +224,7 @@ Lolita|Vladimir Nabokov|3.88 literary
 Midnight Riot|Ben Aaronovitch|3.86 fantasy London
 Midnight's Children|Salman Rushdie|3.98 historical fiction India
 More Than Human|Theodore Sturgeon|3.94 sci-fi 1953
+Native Speaker|Chang-rae Lee|3.75 ABA Korean-American
 Nervous Conditions|Tsitsi Dangarembga|4.04 historical fiction Zimbabwe
 Never Let Me Go|Kazuo Ishiguro|3.85 literary sci-fi
 Odd Thomas|Dean Koontz|3.99 horror
@@ -262,6 +267,7 @@ The Last Place You Look|Kristen Lepionka|3.98 mystery
 The Lathe of Heaven|Ursula K. Le Guin|4.12 sci-fi Locus
 The Lies of Locke Lamora|Scott Lynch|4.30 fantasy
 The Long Drop|Denise Mina|3.38 historcal 1958 Glasgow mystery
+The Lottery|Shirley Jackson|4.06 horror classic
 The Luminous Dead|Caitlin Starling|3.67 sci-fi horror
 The Nightingale|Kristin Hannah|4.62 historical fiction WWII occupied France
 The Ocean at the End of the Lane|Neil Gaiman|4.02 fantasy

@@ -37,6 +37,7 @@ The Forgotten Beasts of Eld|Patricia A. McKillip|4.08
 City|Clifford D. Simak|4.08
 Dreaming the Eagle|Manda Scott|4.07
 Beauty Is a Wound|Eka Kurniawan|4.06
+Open Water|Caleb Azumah Nelson|4.05
 The Tale of the Heike|Royall Tyler|4.04
 The Bee Sting|Paul Murray|4.04
 Night Prayers|Santiago Gamboa|4.04
@@ -48,7 +49,7 @@ The Steerswoman|Rosemary Kirstein|4.02
 Factories in the Field|Carey McWilliams|4.01
 Dragons of Autumn Twilight|Tracy Hickman|4.01
 The Hearing Test|Eliza Barry Callahan|4.00
-Omeros|Derek Walcott|3.99
+Omeros|Derek Walcott|3.99 Saint Lucia
 Laura|Vera Caspary|3.98
 The Uninvited|Dorothy Macardle|3.97
 The Knife of Never Letting Go|Patrick Ness|3.97

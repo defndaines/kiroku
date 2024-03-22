@@ -14,7 +14,6 @@ I'm Glad My Mom Died|Jennette McCurdy|4.47 memoir
 Crossings|Ben Goldfarb|4.45 non-fiction ecology roads
 A Little Hatred|Joe Abercrombie|4.45 fantasy
 The Essential Neruda|Pablo Neruda|4.43 Chile Nobel poetry
-Punished for Dreaming|Bettina L. Love|4.42 non-fiction education
 Madonna in a Fur Coat|Sabahattin Ali|4.42 Turkey
 Arch of Triumph|Erich Maria Remarque|4.42 1939 refugee in Paris
 Betty|Tiffany McDaniel|4.41 historical Appalachians
@@ -119,6 +118,7 @@ Light From Uncommon Stars|Ryka Aoki|4.07 sci-fi San Gabriel Valley
 Fatelessness|Imre Kertesz|4.07 historical Hungary Nobel
 What Strange Paradise|Omar El Akkad|4.06 Canada African immigrants
 The Words That Remain|Stênio Gardel|4.06 Brazil LGBT
+The Lottery|Shirley Jackson|4.06 horror classic
 Pet Sematary|Stephen King|4.06 horror
 Equal Rites|Terry Pratchett|4.06 fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06 historical fiction
@@ -178,6 +178,7 @@ More Than Human|Theodore Sturgeon|3.94 sci-fi 1953
 Bad Cree|Jessica Johns|3.94 horror indigenous
 1Q84|Haruki Murakami|3.94 Japan fantasy
 The Fisherman|John Langan|3.93 horror
+Passing|Nella Larsen|3.93 classic historical fiction
 Mongrels|Stephen Graham Jones|3.93 horror werewolves
 Black Bottom Saints|Alice Randall|3.93 historical Black Detroit
 Bel Canto|Ann Patchett|3.93 literary South America terrorism/hostages
@@ -215,7 +216,9 @@ Heart Berries|Terese Marie Mailhot|3.84 non-fiction memoir indigenous
 Free Food for Millionaires|Min Jin Lee|3.84 Korean-American
 Bluebird, Bluebird|Attica Locke|3.84 mystery Black Texas
 Blood Music|Greg Bear|3.84 sci-fi horror
+Winter in the Blood|James Welch|3.83 indigenous
 The War of the Worlds|H. G. Wells|3.83 sci-fi
+Ceremony|Leslie Marmon Silko|3.83 indigenous ABA
 Your Utopia|Bora Chung|3.82 Korea sci-fi short stories
 In the Company of Men|Véronique Tadjo|3.82 historical fiction Ebola Africa
 Hild|Nicola Griffith|3.82 historical fantasy England
@@ -233,6 +236,7 @@ History of Violence|Édouard Louis|3.77 France
 Dhalgren|Samuel R. Delany|3.77 sci-fi
 Annihilation|Jeff VanderMeer|3.76 sci-fi Nebula
 A Doll's House|Henrik Ibsen|3.76 play Norway
+Native Speaker|Chang-rae Lee|3.75 ABA Korean-American
 All the Lovers in the Night|Mieko Kawakami|3.75 Japan
 California Bones|Greg van Eekhout|3.73 fantasy
 Babel-17|Samuel R. Delany|3.73 sci-fi re-read
@@ -240,6 +244,7 @@ The Gilded Wolves|Roshani Chokshi|3.72 YA Paris historical fantasy
 The Annual Migration of Clouds|Premee Mohamed|3.72 sci-fi post-apocalyptic climate
 Paper Towns|John Green|3.72 YA mystery
 Karen Memory|Elizabeth Bear|3.71 steampunk
+East Goes West: The Making of an Oriental Yankee|Younghill Kang|3.71 Korean-American 1937
 The Yacoubian Building|Alaa Al Aswany|3.70 Egypt
 The Barbarian Nurseries|Héctor Tobar|3.70 L.A.
 Claire DeWitt and the City of the Dead|Sara Gran|3.69 mystery New Orleans
@@ -250,6 +255,7 @@ The Luminous Dead|Caitlin Starling|3.67 sci-fi horror
 Girl in a Band|Kim Gordon|3.67 memoir
 Death by Dumpling|Vivien Chien|3.67 mystery
 Walking Practice|Dolki Min|3.62 Korea horror
+Oreo|Fran Ross|3.62 humor
 Covered with Night|Nicole Eustace|3.62 non-fiction 1722 indigenous
 Earthlings|Sayaka Murata|3.61 horror
 Terminal Boredom|Izumi Suzuki|3.60 Japan short story
