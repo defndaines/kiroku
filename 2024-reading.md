@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Punished for Dreaming: How School Reform Harms Black Children and How We Heal | Bettina L. Love | 2023 | U.S. | 5.0 | audio | 352 | non-fiction, education, race, history |
 | A Small Place | Jamaica Kincaid | 1988 | Antigua | 4.0 | audio | 81 | non-fiction, memoir, history |
 | A Prayer for the Crown-Shy | Becky Chambers | 2022 | U.S. | 5.0 | print | 152 | sci-fi, fantasy, novella, Locus |
 | Bloodchild and Other Stories | Octavia E. Butler | 1995 | U.S. | 5.0 | audio | 214 | sci-fi, short stories, novelette, Hugo, Nebula, Locus |
