@@ -157,6 +157,34 @@ Count: 15
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 
+## Best Young Adult
+
+- [ ] 2003: Neil Gaiman _Coraline_
+- [ ] 2004: Terry Pratchett _The Wee Free Men_
+- [ ] 2005: Terry Pratchett _A Hat Full of Sky_
+- [ ] 2006: Jane Yolen & Adam Stemple _Pay the Piper: A Rock 'N' Roll Fairy Tale_
+- [ ] 2007: Terry Pratchett _Wintersmith_
+- [ ] 2008: China Miéville _Un Lun Dun_
+- [x] 2009: Neil Gaiman _The Graveyard Book_
+- [ ] 2010: Scott Westerfeld _Leviathan_
+- [ ] 2011: Paolo Bacigalupi _Ship Breaker_
+- [ ] 2012: Catherynne M. Valente _The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making_
+- [ ] 2013: China Miéville _Railsea_
+- [ ] 2014: Catherynne M. Valente _The Girl Who Soared Over Fairyland and Cut the Moon in Two_
+- [x] 2015: Joe Abercrombie _Half a King_
+- [ ] 2016: Terry Pratchett _The Shepherd's Crown_
+- [ ] 2017: Alastair Reynolds _Revenger_
+- [ ] 2018: Nnedi Okorafor _Akata Warrior_
+- [ ] 2019: Justina Ireland _Dread Nation_
+- [ ] 2020: Yoon Ha Lee _Dragon Pearl_
+- [x] 2021: T. Kingfisher _A Wizard's Guide to Defensive Baking_
+- [ ] 2022: Charlie Jane Anders _Victories Greater Than Death_
+- [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
+
+## Best Horror
+
+- [x] 2020: Marlon James _Black Leopard, Red Wolf_
+
 ## Best Novella
 
 - [x] 2018: Martha Wells _All Systems Red_
