@@ -2,7 +2,7 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
-Count: 15
+Count: 23
 
 ## Best Novel
 
@@ -62,7 +62,7 @@ Count: 15
 - [ ] 2020: Seanan McGuire _Middlegame_
 - [x] 2021: N.K. Jemisin _The City We Became_
 - [ ] 2022: Fonda Lee _Jade Legacy_
-- [ ] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
+- [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 
 ## Best Science Fiction Novel
 

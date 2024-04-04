@@ -7,7 +7,7 @@ those lists are not goals I'm looking to fill in.
 
 ## Best Novel
 
-Count: 11
+Count: 12
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -67,7 +67,7 @@ Count: 11
 - [ ] 2020: Sarah Pinsker _A Song for a New Day_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
-- [ ] 2023: R.F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
+- [x] 2023: R.F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
 
 ## Best Novella
 

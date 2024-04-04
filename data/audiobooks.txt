@@ -45,7 +45,6 @@ Madonna in a Fur Coat|Sabahattin Ali|4.42 Turkey
 Milkman|Anna Burns|3.54 historical Ireland
 No Longer Human|Osamu Dazai|4.01 Japan
 Norwegian Wood|Haruki Murakami|4.01 Japan
-Palmares|Gayl Jones|2.93 historical Brazil
 Roadside Picnic|Boris Strugatsky|4.15 sci-fi Russia
 Sons of Darkness|Gourav Mohanty|3.97 fantasy India
 Soul Mountain|Gao Xingjian|3.60 China Nobel
@@ -88,6 +87,7 @@ I Am Not Sidney Poitier|Percival Everett|3.97 humor
 I Know Why the Caged Bird Sings|Maya Angelou|4.29 memoir
 If Beale Street Could Talk|James Baldwin|4.27 historical fiction
 Libertie|Kaitlyn Greenidge|3.49 historical Reconstruction Brooklyn
+Lone Women|Victor LaValle|3.73 horror historical fiction
 Memorial|Bryan Washington|3.57 LGBT Japanese-Am Black Texas
 Mind of My Ming|Octavia E. Butler|4.18 sci-fi Patternmaster-2
 Nova|Samuel R. Delany|3.81 sci-fi
@@ -96,6 +96,7 @@ Passing|Nella Larsen|3.93 classic historical fiction
 Red at the Bone|Jacqueline Woodson|3.98 historical 2001 Brooklyn Black
 Song of Solomon|Toni Morrison|4.14
 Take My Hand|Dolen Perkins-Valdez|4.38 historical Black 1973 Alabama
+Tell Me How Long the Train's Been Gone|James Baldwin|4.30 classic LGBT
 The Birds of Opulence|Crystal Wilkinson|4.10 historical fiction south mental illness
 The Black God's Drums|P. Djèlí Clark|4.02 steampunk
 The Hundred Thousand Kingdoms|N. K. Jemisin|3.90 sci-fi
@@ -104,6 +105,7 @@ The Mighty Miss Malone|Christopher Paul Curtis|4.13 historical fiction YA
 The Reformatory|Tananarive Due|4.52 horror historical fiction
 The Street|Ann Petry|4.26 historical 1940s Harlem Black
 The Trees|Percival Everett|4.07 historical Black Mississippi
+They Can't Kill Us Until They Kill Us|Hanif Abdurraqib| 4.57 non-fiction
 
 # Indigenous
 Bad Cree|Jessica Johns|3.94 horror indigenous
@@ -112,14 +114,18 @@ Covered with Night|Nicole Eustace|3.62 non-fiction 1722 indigenous
 Funeral Songs for Dying Girls|Cherie Dimaline|3.57 YA fantasy indigenous
 Give Me Some Truth|Eric Gansworth|3.45 YA
 Heart Berries|Terese Marie Mailhot|3.84 non-fiction memoir indigenous
+Hunting by Stars|Cherie Dimaline|4.31 YA sci-fi dystopia indigenous
 If I Ever Get Out of Here|Eric Gansworth|3.92 YA historical ficiton indigenous
 Jonny Appleseed|Joshua Whitehead|3.95 indigenous LGBT
 Loaded|Roxanne Dunbar-Ortiz|3.90 non-fiction indigenous
 Man Made Monsters|Andrea L. Rogers|3.97 historical indigenous horror
 Mongrels|Stephen Graham Jones|3.93 horror werewolves
+Night of the Living Rez|Morgan Talty|3.92 indigenous Maine short stories
 Night of the Mannequins|Stephen Graham Jones|3.34 horror
 Sinister Graves|Marcie R. Rendon|3.99 1970s Minnesota indigenous
+Split Tooth|Tanya Tagaq|3.92 poetry indigenous
 Stolen|Ann-Helén Laestadius|4.08 Sweden indigenous
+The Birchbark House|Louise Erdrich|4.04 historical fiction YA indigenous
 The Plague of Doves|Louise Erdrich|3.80 historical fiction mystery indigenous
 The Rediscovery of America|Ned Blackhawk|4.28 non-fiction history indigenous
 The Round House|Louise Erdrich|3.98 historical fiction indigenous
@@ -154,7 +160,10 @@ The Art of Gathering|Priya Parker|3.98 non-fiction
 The Magical Language of Others|E. J. Koh|3.87 non-fiction memoir Korea-California
 The Library Book|Susan Orlean|3.89 non-fiction history
 They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.71 memoir Palestine
+To Be a Friend Is Fatal: The Fight to Save the Iraqis America Left Behind|Kirk Wallace Johnson|4.45 non-fiction
+To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14 non-fiction history
 Why Women Have Better Sex Under Socialism|Kristen R. Ghodsee|4.01 non-fiction
+Zeitoun|Dave Eggers|4.05 non-fiction Katrina
 
 # Fiction
 A Day of Fallen Night|Samantha Shannon|4.39 fantasy LGBT U.K.
@@ -166,17 +175,19 @@ A Head Full of Ghosts|Paul Tremblay|3.79 horror New England
 A Little Hatred|Joe Abercrombie|4.45 fantasy
 A Master of Djinn|P. Djèlí Clark|4.04 sci-fi Nebula
 A Woman of Pleasure|Kiyoko Murata|4.06 historical fiction
+American Rust|Philipp Meyer|3.72 mystery Pennsylvania steel
 Anathem|Neal Stephenson|4.17 sci-fi Locus
 Annihilation|Jeff VanderMeer|3.76 sci-fi Nebula
 Artificial Condition|Martha Wells|4.26 sci-fi Murderbot
 Bel Canto|Ann Patchett|3.93 literary South America terrorism/hostages
 Betty|Tiffany McDaniel|4.41 historical Appalachians
-Beware the Woman|Megan Abbott|3.31 mystery
 Black Money|Ross Macdonald|3.96 mystery noir
 Blackouts|Justin Torres|3.86 LGBT
 Blindsight|Peter Watts|4.01 sci-fi
 Blood Music|Greg Bear|3.84 sci-fi horror
+Brave New World|Aldous Huxley|3.99 sci-fi literary
 California Bones|Greg van Eekhout|3.73 fantasy
+Circe|Madeline Miller|4.24 fantasy Greek mythology
 Claire DeWitt and the City of the Dead|Sara Gran|3.69 mystery New Orleans
 Close Range|Annie Proulx|3.99 Wyoming short stories
 Cloud Atlas|David Mitchell|4.01 sci-fi
@@ -185,10 +196,12 @@ Daisy Jones and the Six|Taylor Jenkins Reid|4.21 historical fiction L.A. 60s
 Dandelion Wine|Ray Bradbury|4.08 sci-fi
 Dare Me|Megan Abbott|3.23 thriller cheerleaders
 Dark Lord of Derkholm|Diana Wynne Jones|4.11 YA fantasy
+Darker Than You Think|Jack Williamson|3.50 horror werewolf
 David Copperfield|Charles Dickens|4.03
 Dearborn|Ghassan Zeineddine|4.24 short stories
 Death by Dumpling|Vivien Chien|3.67 mystery
 Deep River|Karl Marlantes|4.21 historical Finnish U.S.
+Downward to the Earth|Robert Silverberg|3.88 sci-fi
 Dragon Prince|Melanie Rawn|3.95 fantasy
 Drive Your Plow Over the Bones of the Dead|Olga Tokarczuk|3.96 Poland Nobel
 Dune|Frank Herbert|4.27 re-read
@@ -197,12 +210,16 @@ Elder Race|Adrian Tchaikovsky|4.12 sci-fi
 Embassytown|China Miéville|3.89 sci-fi
 Empire of Silence|Christopher Ruocchio|4.05 sci-fi
 Equal Rites|Terry Pratchett|4.06 fantasy humor discworld-3
+Evergreen|Naomi Hirahara|3.80 historical fiction mystery
+Everything I Never Told You|Celeste Ng|3.85 mystery historical fiction
 Exhalation|Ted Chiang|4.28 sci-fi
+Finding Junie Kim|Ellen Oh|4.25 historical fiction YA
 Flowers for Algernon|Daniel Keyes|4.21 sci-fi YA re-read
 For Whom the Bell Tolls|Ernest Hemingway|3.98 re-read
 Frankenstein|Mary Shelley|3.97 re-read
 Free Food for Millionaires|Min Jin Lee|3.84 Korean-American
 Going Postal|Terry Pratchett|4.40 fantasy humor discworld-33
+Greek Lessons|Han Kang|3.49 literary
 Gulliver's Travels|Jonathan Swift|3.58 classic
 Guns of the Dawn|Adrian Tchaikovsky|4.17 steampunk
 Hell Followed with Us|Andrew Joseph White|4.16 horror LGBT
@@ -215,6 +232,7 @@ I'm Glad My Mom Died|Jennette McCurdy|4.47 memoir
 I'm a Fan|Sheena Patel|3.43 literary British
 Immortal Longings|Chloe Gong|3.53 fantasy
 In the Company of Men|Véronique Tadjo|3.82 historical fiction Ebola Africa
+Interior Chinatown|Charles Yu|3.97 literary
 Jade City|Fonda Lee|4.10 fantasy
 Jonathan Strange & Mr. Norrell|Susanna Clarke|3.86 fantasy historical fiction
 Karen Memory|Elizabeth Bear|3.71 steampunk
@@ -225,9 +243,11 @@ Midnight's Children|Salman Rushdie|3.98 historical fiction India
 More Than Human|Theodore Sturgeon|3.94 sci-fi 1953
 Native Speaker|Chang-rae Lee|3.75 ABA Korean-American
 Nervous Conditions|Tsitsi Dangarembga|4.04 historical fiction Zimbabwe
+Neuromancer|William Gibson|3.90 sci-fi cyberpunk
 Never Let Me Go|Kazuo Ishiguro|3.85 literary sci-fi
 Odd Thomas|Dean Koontz|3.99 horror
 On the Beach|Nevil Shute|3.97 sci-fi post-apocalyptic
+Once There Were Wolves|Charlotte McConaghy|4.11 mystery Scotland
 Oona Out of Order|Margarita Montimore|3.86 sci-fi time travel
 Open Throat|Henry Hoke|4.01 Hollywood mountain lion
 Oscar Wilde|Oscar Wilde
@@ -243,24 +263,37 @@ Shuggie Bain|Douglas Stuart|4.31 historical fiction Booker
 Songs Only You Know|Sean Madigan Hoen|3.99 [audio hoopla]
 Still Life|Louise Penny|3.90 Quebec
 Stories of Your Life and Others|Ted Chiang|4.26 sci-fi
+Storming Heaven|Denise Giardina|4.11 historical fiction WVa miners strike [audio hoopla]
+Strike the Zither|Joan He|3.76 fantasy YA historical fiction
 Terrier|Tamora Pierce|4.15 YA fantasy
+The Alchemist|Paulo Coelho|3.91 classics
 The Annual Migration of Clouds|Premee Mohamed|3.72 sci-fi post-apocalyptic climate
+The Appeal|John Grisham|3.63 mystery legal thriller
 The Barbarian Nurseries|Héctor Tobar|3.70 L.A.
 The Big Bundle|Max Allan Collins|4.31 historical noir
+The Big Sleep|Raymond Chandler|3.95 mystery noir
 The Bloody Crown of Conan|Robert E. Howard|4.31 fantasy sequal-2
 The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89 humor
 The Cartel|Don Winslow|4.35 crime 2004 drugs
+The Changeling|Victor LaValle|3.79 horror fantasy
 The City of Brass|S.A. Chakraborty|4.15 fantasy YA historical fiction
 The Coming of Conan the Cimmerian|Robert E. Howard|4.16 fantasy
 The Conquering Sword of Conan|Robert E. Howard|4.34 fantasy sequel-3
 The Devil All the Time|Donald Ray Pollock|4.13 horror 1960s Ohio WVa
+The Dog of the South|Charles Portis|3.82 humor South
+The Eye of the World|Robert Jordan|4.19 fantasy
 The Family Trade|Charles Stross|3.54 alternate history
 The Fisherman|John Langan|3.93 horror
 The Forest of Vanishing Stars|Kristin Harmel|4.26 historical Germany Jewish refugees
 The Four Winds|Kristin Hannah|4.30 historical Texas 1934 California
+The Girl Who Fell Beneath the Sea|Axie Oh|4.12 fantasy YA
+The Glass Key|Dashiell Hammett|3.93 mystery noir
 The Good Lord Bird|James McBride|3.92 historical fiction
+The Grace of Kings|Ken Liu|3.78 fantasy
 The Helm of Midnight|Marina Lostetter|3.88 fantasy
+The House Next Door|Anne Rivers Siddons|3.88 horror Southern gothic
 The Humans|Matt Haig|4.08 sci-fi
+The Invisible Life of Addie LaRue|V.E. Schwab|4.19 fantasy historical fiction
 The Last Laugh|Mindy McGinnis|4.12 YA horror
 The Last Place You Look|Kristen Lepionka|3.98 mystery
 The Lathe of Heaven|Ursula K. Le Guin|4.12 sci-fi Locus
@@ -268,11 +301,11 @@ The Lies of Locke Lamora|Scott Lynch|4.30 fantasy
 The Long Drop|Denise Mina|3.38 historcal 1958 Glasgow mystery
 The Lottery|Shirley Jackson|4.06 horror classic
 The Luminous Dead|Caitlin Starling|3.67 sci-fi horror
+The Man in the High Castle|Philip K. Dick|3.60 sci-fi dystopia
 The Nightingale|Kristin Hannah|4.62 historical fiction WWII occupied France
 The Ocean at the End of the Lane|Neil Gaiman|4.02 fantasy
 The Ones We're Meant to Find|Joan He|3.56 YA sci-fi
 The Perks of Being a Wallflower|Stephen Chbosky|4.23 YA mental health
-The Poppy War|R. F. Kuang|4.18 fantasy historical fiction
 The Power of the Dog|Don Winslow|4.36 fiction drug trade
 The Rage of Dragons|Evan Winter|4.31 fantasy
 The Royal Game|Stefan Zweig|4.27 fiction Germany
@@ -283,11 +316,13 @@ The Summer Prince|Alaya Dawn Johnson|3.57 YA fantasy
 The Talisman|Peter Straub|4.12 horror
 The Three Stigmata of Palmer Eldritch|Philip K. Dick|4.01 sci-fi
 The Tiger Flu|Larissa Lai|3.53 sci-fi LGBT
-The Turnout|Megan Abbott|3.12 thriller dancers
 The Tusks of Extinction|Ray Nayler|3.89 sci-fi
 The Vaster Wilds|Lauren Groff|3.81 historical America
 The Wall|John Hersey|4.28 historical Warsaw ghetto
 The War of the Worlds|H. G. Wells|3.83 sci-fi
+The White Book|Han Kang|3.82 poetry
+The Wickwire Watch|Jacquelyn Hagen|4.15 fantasy YA steampunk
+The Witch Doesn't Burn in This One|Amanda Lovelace|3.73 poetry
 The Woman in White|Wilkie Collins|4.00 gothic horror 1859
 The Words That Remain|Stênio Gardel|4.06 Brazil LGBT
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05 feminist short stories 1892
@@ -299,12 +334,14 @@ Thistlefoot|GennaRose Nethercott|3.96 fantasy eastern-europe mythology
 Tigana|Guy Gavriel Kay|4.09 fantasy
 Titus Groan|Mervyn Peake|3.92 fantasy gothic 1946
 To the Lighthouse|Virginia Woolf|3.80 literature
+Tomb of Sand|Geetanjali Shree|3.70 literary India historical fiction
 Trickster's Choice|Tamora Pierce|4.26 fantasy YA
 Tropic of Orange|Karen Tei Yamashita|3.56 magical realism
 Under the Mesquite|Guadalupe García McCall|3.97 poetry YA
 Under the Pendulum Sun|Jeannette Ng|3.44 fantasy
 Watched|Marina Budhos|3.52 YA Muslim American
 What Strange Paradise|Omar El Akkad|4.06 Canada African immigrants
+Where I'm Calling From|Raymond Carver|4.41 short stories literary
 Who Goes There?|John W. Campbbell|3.80 [audio hoopla]
 Y/N|Esther Yi|3.00 fiction Korean-American in Berlin
 Your House Will Pay|Steph Cha|4.10 mystery historical Korean-Black relations
