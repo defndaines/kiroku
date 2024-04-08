@@ -70,9 +70,13 @@ tail -n +9 2024-reading.md | cut -d \| -f 8 | sort -n
 
 sed -n '1,/Best Novella/p' hugo-award.md | grep -c '\[x\]'
 
+sed -n '1,/Best Dramatic/p' hugo-award.md | grep -c '\[x\]'
+
 ## Nebula Novels Read
 
 sed -n '1,/Best Novella/p' nebula-award.md | grep -c '\[x\]'
+
+sed -n '1,/Best Script/p' nebula-award.md | grep -c '\[x\]'
 
 ## Other awards
 
