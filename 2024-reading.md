@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| I Who Have Never Known Men | Jacqueline Harpman | 1995 | Belgium | 4.5 | print | 173 | sci-fi, dystopian, literary |
 | Blood Over Bright Haven | M.L. Wang | 2023 | U.S. | 5.0 | print | 527 | fantasy |
 | Babel | R.F. Kuang | 2022 | U.K., U.S. | 4.0 | audio | 544 | fantasy, historical fiction, Locus, Nebula, **April** |
 | Half a King | Joe Abercrombie | 2014 | U.K. | 4.0 | audio | 416 | fantasy, YA, Locus |

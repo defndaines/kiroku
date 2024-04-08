@@ -99,7 +99,7 @@ Count: 75
 - [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
 - [ ] Tunisia:
 - [ ] Papua New Guinea:
-- [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild
+- [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_I Who Have Never Known Men_](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men) Jacqueline Harpman
 - [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
 - [ ] Jordan:
 - [ ] Cuba:
