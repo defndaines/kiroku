@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Just Another Story: A Graphic Migration Account | Ernesto Saade | 2024 | El Salvador, U.S. | 4.0 | ebook | 216 | graphic novel, non-fiction, biography |
 | Solito | Javier Zamora | 2022 | El Salvador | 5.0 | audio | 384 | non-fiction, memoir |
 | I Who Have Never Known Men | Jacqueline Harpman | 1995 | Belgium | 4.5 | print | 173 | sci-fi, dystopian, literary |
 | Blood Over Bright Haven | M.L. Wang | 2023 | U.S. | 5.0 | print | 527 | fantasy |
