@@ -2,6 +2,8 @@
 
 Count: 3
 
+## Fiction (3)
+
 - [ ] 1996: Helen Dunmore _A Spell of Winter_
 - [ ] 1997: Anne Michaels _Fugitive Pieces_
 - [ ] 1998: Carol Shields _Larry's Party_
@@ -30,3 +32,7 @@ Count: 3
 - [x] 2021: Susanna Clarke _Piranesi_
 - [ ] 2022: Ruth Ozeki _The Book of Form and Emptiness_
 - [ ] 2023: Barbara Kingsolver _Demon Copperhead_
+
+## Non-fiction
+
+- [ ] 2024:

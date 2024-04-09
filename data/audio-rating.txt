@@ -61,6 +61,7 @@ The Forest of Vanishing Stars|Kristin Harmel|4.26 historical Germany Jewish refu
 Stories of Your Life and Others|Ted Chiang|4.26 sci-fi
 Artificial Condition|Martha Wells|4.26 sci-fi Murderbot
 Propaganda|Jacques Ellul|4.25 non-fiction
+Monday's Not Coming|Tiffany D. Jackson|4.25 YA mystery
 Finding Junie Kim|Ellen Oh|4.25 historical fiction YA
 These Burning Stars|Bethany Jacobs|4.24 sci-fi
 House of Suns|Alastair Reynolds|4.24 sci-fi
@@ -161,6 +162,7 @@ Cloud Atlas|David Mitchell|4.01 sci-fi
 Blindsight|Peter Watts|4.01 sci-fi
 These Violent Delights|Micah Nemerever|4.00 1970s Pittsburg LGBT
 The Woman in White|Wilkie Collins|4.00 gothic horror 1859
+My Cousin Rachel|Daphne du Maurier|4.00 classic
 Beasts of a Little Land|Juhea Kim|4.00 Korea
 Sinister Graves|Marcie R. Rendon|3.99 1970s Minnesota indigenous
 Odd Thomas|Dean Koontz|3.99 horror
@@ -190,6 +192,7 @@ The Killing Moon|N. K. Jemisin|3.95 fantasy
 The Big Sleep|Raymond Chandler|3.95 mystery noir
 Jonny Appleseed|Joshua Whitehead|3.95 indigenous LGBT
 Dragon Prince|Melanie Rawn|3.95 fantasy
+When We Were Sisters|Fatimah Asghar|3.94 literary LGBT Carol Shields Prize
 More Than Human|Theodore Sturgeon|3.94 sci-fi 1953
 Bad Cree|Jessica Johns|3.94 horror indigenous
 1Q84|Haruki Murakami|3.94 Japan fantasy
@@ -225,7 +228,6 @@ Downward to the Earth|Robert Silverberg|3.88 sci-fi
 The Magical Language of Others|E. J. Koh|3.87 non-fiction memoir Korea-California
 Cyber Mage|Saad Z. Hossain|3.87 sci-fi cyberpunk
 All This Could Be Different|Sarah Thankam Mathews|3.87 Milwaukee author:Oman/India
-These Violent Delights|Chloe Gong|3.86 Romeo & Juliet in 1920s Shanghai
 The Man with the Compound Eyes|Wu Ming-Yi|3.86 Taiwan fantasy
 Oona Out of Order|Margarita Montimore|3.86 sci-fi time travel
 Midnight Riot|Ben Aaronovitch|3.86 fantasy London
@@ -308,7 +310,6 @@ The Ones We're Meant to Find|Joan He|3.56 YA sci-fi
 The Family Trade|Charles Stross|3.54 alternate history
 Milkman|Anna Burns|3.54 historical Ireland
 The Tiger Flu|Larissa Lai|3.53 sci-fi LGBT
-Immortal Longings|Chloe Gong|3.53 fantasy
 White Horse|Erika T. Wurth|3.52 horror, indigenous
 Watched|Marina Budhos|3.52 YA Muslim American
 The Premonition|Banana Yoshimoto|3.52 Japan

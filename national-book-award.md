@@ -2,7 +2,7 @@
 
 Count: 12
 
-## Fiction
+## Fiction (5)
 
 - [ ] 1950: Nelson Algren _The Man with the Golden Arm_
 - [ ] 1951: William Faulkner _The Collected Stories of William Faulkner_
@@ -86,7 +86,7 @@ Count: 12
 - [ ] 2022: Tess Gunty _The Rabbit Hutch_
 - [ ] 2023: Justin Torres _Blackouts_
 
-## Nonfiction
+## Nonfiction (2)
 
 - [ ] 1950: Ralph L. Rusk _The Life of Ralph Waldo Emerson_
 - [ ] 1951: Newton Arvin _Herman Melville_
@@ -139,7 +139,7 @@ Count: 12
 - [ ] 2022: Imani Perry _South to America: A Journey Below the Mason-Dixon To Understand the Soul of a Nation_
 - [ ] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History)
 
-## Young People's Literature
+## Young People's Literature (2)
 
 - [ ] 1996: Victor Martinez _Parrott in the Oven: MiVida_
 - [ ] 1997: Han Nolan _Dancing on the Edge_
@@ -170,7 +170,7 @@ Count: 12
 - [ ] 2022: Sabaa Tahir _All My Rage_
 - [ ] 2023: Dan Santat _A First Time for Everything_
 
-## Translated Literature
+## Translated Literature (3)
 
 - [ ] 1967: Gregory Rabassa, Julio Cortázar, _Hopscotch_
 - [ ] 1967: Willard Trask, Casanova, _History of My Life_

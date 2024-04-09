@@ -5,7 +5,7 @@ I have no intent of ever reading.
 
 Count: 18
 
-## Fiction
+## Fiction (14)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -105,7 +105,7 @@ Count: 18
 - [ ] 2023: Hernan Diaz, _Trust_
 - [ ] 2023: Barbara Kingsolver, _Demon Copperhead_
 
-## Nonfiction
+## Nonfiction (4)
 
 - [ ] 1980: Douglas R. Hofstadter, _Gödel, Escher, Bach: An Eternal Golden Braid_
 - [ ] 1981: Carl E. Schorske, _Fin-de-Siècle Vienna: Politics and Culture_

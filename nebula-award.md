@@ -5,9 +5,9 @@ List of Nebula Award winners identified by whether I've read them.
 Only including other awards when I've read them or plan to read them, since
 those lists are not goals I'm looking to fill in.
 
-## Best Novel
+Count: 26
 
-Count: 12
+## Best Novel (12)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -69,7 +69,7 @@ Count: 12
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [x] 2023: R.F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
 
-## Best Novella
+## Best Novella (5)
 
 - [x] 1969: Anne McCaffrey _Dragonrider_
 - [ ] 1970: Harlan Ellison _A Boy and His Dog_
@@ -78,18 +78,18 @@ Count: 12
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: C. L. Polk _Even Though I Knew the End_
 
-## Best Novelette
+## Best Novelette (2)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 
-## Best Short Story
+## Best Short Story (3)
 
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
 
-## Andre Norton Award
+## Andre Norton Award (4)
 
 - [x] 2008: J. K. Rowling _Harry Potter and the Deathly Hallows_
 - [ ] 2010: Catherynne M. Valente _The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making_
@@ -97,7 +97,7 @@ Count: 12
 - [x] 2021: Ursula Vernon (as T. Kingfisher) _A Wizard's Guide to Defensive Baking_
 - [x] 2022: Darcie Little Badger _A Snake Falls to Earth_
 
-## Ray Bradbury Award
+## Ray Bradbury Award (10)
 
 - [x] 1992: _Terminator 2: Judgment Day_ James Cameron, William Wisher Jr.
 - [x] 2010: _District 9_ Neill Blomkamp, Terri Tatchell
@@ -110,7 +110,7 @@ Count: 12
 - [x] 2021: _The Good Place: "Whenever You're Ready"_ Michael Schur
 - [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
 
-## Best Script
+## Best Script (13)
 
 - [x] 1974: Stanley R. Greenberg, Harry Harrison _Soylent Green_
 - [x] 1976: Mel Brooks and Gene Wilder, Mary Shelley _Young Frankenstein_

@@ -4,7 +4,7 @@ List of Locus Award winners, identified by whether I've read them.
 
 Count: 23
 
-## Best Novel
+## Best Novel (2)
 
 - [ ] 1971: Larry Niven _Ringworld_
 - [ ] 1972: Ursula K. Le Guin _The Lathe of Heaven_
@@ -16,7 +16,7 @@ Count: 23
 - [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 
-## Best Fantasy Novel
+## Best Fantasy Novel (7)
 
 - [ ] 1978: J. R. R. Tolkien _The Silmarillion_
 - [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
@@ -64,7 +64,7 @@ Count: 23
 - [ ] 2022: Fonda Lee _Jade Legacy_
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 
-## Best Science Fiction Novel
+## Best Science Fiction Novel (3)
 
 - [ ] 1980: John Varley _Titan_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
@@ -111,7 +111,7 @@ Count: 23
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 
-## Best First Novel
+## Best First Novel (2)
 
 - [ ] 1981: Robert L. Forward _Dragon's Egg_
 - [ ] 1982: S. P. Somtow _Starship & Haiku_
@@ -157,7 +157,7 @@ Count: 23
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 
-## Best Young Adult
+## Best Young Adult (3)
 
 - [ ] 2003: Neil Gaiman _Coraline_
 - [ ] 2004: Terry Pratchett _The Wee Free Men_
@@ -181,18 +181,18 @@ Count: 23
 - [ ] 2022: Charlie Jane Anders _Victories Greater Than Death_
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
 
-## Best Horror
+## Best Horror (1)
 
 - [x] 2020: Marlon James _Black Leopard, Red Wolf_
 
-## Best Novella
+## Best Novella (3)
 
 - [x] 2018: Martha Wells _All Systems Red_
 - [ ] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 
-## Best Novelette
+## Best Novelette (2)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_

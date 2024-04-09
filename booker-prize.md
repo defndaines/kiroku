@@ -5,6 +5,8 @@ by whether I've read them or not.
 
 Count: 7
 
+## Booker Prize (4)
+
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
 - [ ] 1970: J. G. Farrell _Troubles_
@@ -65,7 +67,7 @@ Count: 7
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
 - [x] 2023: Paul Lynch _Prophet Song_
 
-## International Booker Prize
+## International Booker Prize (3)
 
 - [ ] 2005: Ismail Kadare (Albania)
 - [x] 2007: Chinua Achebe (Nigeria)

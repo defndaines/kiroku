@@ -5,9 +5,9 @@ List of Hugo Award winners, identified by whether I've read them.
 Only including other awards when I've read them or plan to read them, since
 those lists are not goals I'm looking to fill in.
 
-## Best Novel
+Count: 48
 
-Count: 22
+## Best Novel (22)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -90,7 +90,7 @@ Count: 22
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 
-## Best Novella
+## Best Novella (7)
 
 - [x] 1944: Antoine de Saint-Exupéry _The Little Prince_
 - [x] 1946: George Orwell _Animal Farm_
@@ -101,14 +101,14 @@ Count: 22
 - [x] 2021: Nghi Vo _The Empress of Salt and Fortune_
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_
 
-## Best Novelette
+## Best Novelette (3)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2018: Suzanne Palmer _The Secret Life of Bots_
 - [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
 - [ ] 2020: N.K. Jemisin _Emergency Skin_
 
-## Best Short Story
+## Best Short Story (6)
 
 - [x] 1951: Damon Knight _To Serve Man_
 - [x] 1960: Daniel Keyes _Flowers for Algernon_
@@ -119,7 +119,7 @@ Count: 22
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
 
-## Best Graphic Story
+## Best Graphic Story (9)
 
 - [x] 1941: _Batman #1_ Bill Finger, Bob Kane
 - [x] 1945: _Superman: "The Mysterious Mr. Mxyzptlk"_ Jerry Siegel, Ira Yarbrough, Joe Shuster
@@ -131,11 +131,11 @@ Count: 22
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
 
-## Best Related Work
+## Best Related Work (1)
 
 - [x] 2021: Maria Dahvana Headley _Beowulf: A New Translation_
 
-## Best Dramatic Presentation
+## Best Dramatic Presentation (57)
 
 - [ ] 1939: _The War of the Worlds_ Orson Welles, H.G. Wells
 - [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer
@@ -196,5 +196,5 @@ Count: 22
 - [x] 2020: _The Good Place: "The Answer"_ Valeria Migliassi Collins, Daniel Schofield
 - [x] 2021: _The Old Guard_ Gina Prince-Bythewood, Greg Rucka
 - [x] 2021: _The Good Place: "Whenever You're Ready"_ Michael Schur
-- [ ] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert
+- [x] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert
 - [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert

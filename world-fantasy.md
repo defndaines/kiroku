@@ -4,7 +4,7 @@ List of World Fantasy Award winners identified by whether I've read them.
 
 Count: 4
 
-## Novel
+## Novel (4)
 
 - [ ] 1975: Patricia A. McKillip _The Forgotten Beasts of Eld_
 - [ ] 1976: Richard Matheson _Bid Time Return_

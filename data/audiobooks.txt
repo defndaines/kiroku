@@ -43,6 +43,7 @@ Le misanthrope|Molière|3.77 France
 Little|Edward Carey|4.02 historical Paris 1700s
 Madonna in a Fur Coat|Sabahattin Ali|4.42 Turkey
 Milkman|Anna Burns|3.54 historical Ireland
+My Cousin Rachel|Daphne du Maurier|4.00 classic
 No Longer Human|Osamu Dazai|4.01 Japan
 Norwegian Wood|Haruki Murakami|4.01 Japan
 Roadside Picnic|Boris Strugatsky|4.15 sci-fi Russia
@@ -90,6 +91,7 @@ Libertie|Kaitlyn Greenidge|3.49 historical Reconstruction Brooklyn
 Lone Women|Victor LaValle|3.73 horror historical fiction
 Memorial|Bryan Washington|3.57 LGBT Japanese-Am Black Texas
 Mind of My Ming|Octavia E. Butler|4.18 sci-fi Patternmaster-2
+Monday's Not Coming|Tiffany D. Jackson|4.25 YA mystery
 Nova|Samuel R. Delany|3.81 sci-fi
 Oreo|Fran Ross|3.62 humor
 Passing|Nella Larsen|3.93 classic historical fiction
@@ -229,7 +231,6 @@ I Have No Mouth & I Must Scream and Other Works|Harlan Ellison|3.90 sci-fi horro
 I Hotel|Karen Tei Yamashita|3.86 historical San Francisco 1968
 I'm Glad My Mom Died|Jennette McCurdy|4.47 memoir
 I'm a Fan|Sheena Patel|3.43 literary British
-Immortal Longings|Chloe Gong|3.53 fantasy
 In the Company of Men|Véronique Tadjo|3.82 historical fiction Ebola Africa
 Interior Chinatown|Charles Yu|3.97 literary
 Jade City|Fonda Lee|4.10 fantasy
@@ -327,7 +328,6 @@ The Words That Remain|Stênio Gardel|4.06 Brazil LGBT
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05 feminist short stories 1892
 Then We Came to the End|Joshua Ferris|3.46 humor
 These Burning Stars|Bethany Jacobs|4.24 sci-fi
-These Violent Delights|Chloe Gong|3.86 Romeo & Juliet in 1920s Shanghai
 These Violent Delights|Micah Nemerever|4.00 1970s Pittsburg LGBT
 Thistlefoot|GennaRose Nethercott|3.96 fantasy eastern-europe mythology
 Tigana|Guy Gavriel Kay|4.09 fantasy
@@ -340,6 +340,7 @@ Under the Mesquite|Guadalupe García McCall|3.97 poetry YA
 Under the Pendulum Sun|Jeannette Ng|3.44 fantasy
 Watched|Marina Budhos|3.52 YA Muslim American
 What Strange Paradise|Omar El Akkad|4.06 Canada African immigrants
+When We Were Sisters|Fatimah Asghar|3.94 literary LGBT Carol Shields Prize
 Where I'm Calling From|Raymond Carver|4.41 short stories literary
 Who Goes There?|John W. Campbbell|3.80 [audio hoopla]
 Y/N|Esther Yi|3.00 fiction Korean-American in Berlin
