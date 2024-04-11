@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Africa Is Not a Country: Breaking Stereotypes of Modern Africa | Dipo Faloyin | 2022 | Nigeria | 4.5 | audio | 380 | non-fiction, history, Africa, politics |
 | Just Another Story: A Graphic Migration Account | Ernesto Saade | 2024 | El Salvador, U.S. | 4.0 | ebook | 216 | graphic novel, non-fiction, biography |
 | Solito | Javier Zamora | 2022 | El Salvador | 5.0 | audio | 384 | non-fiction, memoir |
 | I Who Have Never Known Men | Jacqueline Harpman | 1995 | Belgium | 4.5 | print | 173 | sci-fi, dystopian, literary |
