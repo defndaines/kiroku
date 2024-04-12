@@ -31,6 +31,7 @@ Childhood's End|Arthur C. Clarke|4.12
 Blue Horses Rush In|Luci Tapahonso|4.11
 The White Boy Shuffle|Paul Beatty|4.10
 The Many Worlds of Albie Bright|Christopher Edge|4.10
+Arboreality|Rebecca Campbell|4.10 sci-fi Le Guin Prize
 The Listening Book|W. A. Mathieu|4.09 non-fiction music
 The Hour of the Star|Clarice Lispector|4.08
 The Forgotten Beasts of Eld|Patricia A. McKillip|4.08
@@ -38,6 +39,7 @@ City|Clifford D. Simak|4.08
 Dreaming the Eagle|Manda Scott|4.07
 Beauty Is a Wound|Eka Kurniawan|4.06
 Open Water|Caleb Azumah Nelson|4.05
+Eve out of Her Ruins|Ananda Devi|4.05 Mauritius
 The Tale of the Heike|Royall Tyler|4.04
 The Bee Sting|Paul Murray|4.04
 Night Prayers|Santiago Gamboa|4.04

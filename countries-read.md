@@ -40,12 +40,12 @@ Count: 76
 - [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
 - [ ] Myanmar:
-- [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden
+- [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden; Gabriel García Márquez ?
 - [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
 - [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang
 - [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
 - [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
-- [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus
+- [ ] Algeria: [_The Stranger_](https://www.goodreads.com/book/show/49552.The_Stranger) Albert Camus; Assia Djebar ?
 - [x] Iraq: [_Yasmeen_](https://www.goodreads.com/book/show/56348200-yasmeen) Saif A. Ahmed
 - [ ] Uganda:
 - [x] Sudan: [_Season of Migration to the North_](https://www.goodreads.com/book/show/6145869-season-of-migration-to-the-north) Tayeb Salih
@@ -58,7 +58,7 @@ Count: 76
 - [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; read several works as part of undergrad anthropology class on Malaysia
 - [ ] Angola:
-- [ ] Mozambique:
+- [ ] Mozambique: Mia Couto ?
 - [ ] Saudi Arabia:
 - [ ] Yemen:
 - [x] Ghana: [_Homegoing_](https://www.goodreads.com/book/show/27071490-homegoing) Yaa Gyasi
@@ -82,7 +82,7 @@ Count: 76
 - [ ] Romania:
 - [x] Ecuador: [_La mandíbula del río_](https://www.uncannymagazine.com/article/la-mandibula-del-rio/) Ana Hurtado
 - [x] Senegal: [_God's Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
-- [ ] Somalia:
+- [ ] Somalia: [_Black Hawk Down_](https://www.goodreads.com/book/show/55403.Black_Hawk_Down) Mark Bowden; Nuruddin Farah ?
 - [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
 - [x] Guatemala: [_Bitter Fruit_](https://www.goodreads.com/book/show/102729.Bitter_Fruit) Stephen C. Schlesinger, Stephen Kinzer
 - [ ] Chad:
@@ -125,7 +125,7 @@ Count: 76
 - [ ] Turkmenistan:
 - [ ] Libya:
 - [x] El Salvador: [_Solito_](https://www.goodreads.com/book/show/59900688-solito) Javier Zamora
-- [ ] Nicaragua:
+- [ ] Nicaragua: Claribel Alegría ?
 - [ ] Serbia:
 - [ ] Bulgaria:
 - [ ] Paraguay:
@@ -134,7 +134,7 @@ Count: 76
 - [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Singapore:
 - [ ] Central African Republic:
-- [ ] Finland:
+- [ ] Finland: Paavo Haavikko ?
 - [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [x] Lebanon: [_A Game for Swallows: To Die, To Leave, To Return_](https://www.goodreads.com/book/show/13773346-a-game-for-swallows) Zeina Abirached
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
@@ -149,7 +149,7 @@ Count: 76
 - [ ] Liberia:
 - [ ] Mauritania:
 - [x] Panama: [_The Great Divide_](https://www.goodreads.com/book/show/181110028-the-great-divide) Cristina Henríquez
-- [ ] Croatia:
+- [ ] Croatia: Dubravka Ugrešić ?
 - [ ] Eritrea:
 - [ ] Georgia:
 - [ ] Uruguay:
@@ -160,7 +160,7 @@ Count: 76
 - [ ] Armenia:
 - [ ] Lithuania:
 - [x] Jamaica: [_Black Leopard, Red Wolf_](https://www.goodreads.com/book/show/50608676-black-leopard-red-wolf) Marlon James
-- [ ] Albania:
+- [ ] Albania: Ismail Kadare ?
 - [ ] Qatar:
 - [ ] Namibia:
 - [ ] Moldova:
@@ -178,7 +178,7 @@ Count: 76
 - [ ] Estonia:
 - [x] Trinidad and Tobago: [_The Jumbies_](https://www.goodreads.com/book/show/22859559-the-jumbies) Tracey Baptiste; also C.L.R. James
 - [ ] East Timor:
-- [ ] Mauritius:
+- [ ] Mauritius: Ananda Devi ?
 - [ ] Eswatini:
 - [ ] Djibouti:
 - [ ] Cyprus:
