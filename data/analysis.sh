@@ -34,11 +34,11 @@ tail -n +9 2024-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | grep -vc "U\."
 
 ### Fiction count
 
-tail -n +9 2024-reading.md | grep -vc "non-fiction"
+tail -n +9 2024-reading.md | grep -vc "nonfiction"
 
-### Non-fiction count
+### Nonfiction count
 
-tail -n +9 2024-reading.md | grep -c "non-fiction"
+tail -n +9 2024-reading.md | grep -c "nonfiction"
 
 ### Genre full list
 

@@ -1,6 +1,6 @@
 The Will of the Many|James Islington|4.64
 Project Hail Mary|Andy Weir|4.51
-Walking Through Clear Water in a Pool Painted Black|Cookie Mueller|4.49 non-fiction memoir (Pink Flamingos)
+Walking Through Clear Water in a Pool Painted Black|Cookie Mueller|4.49 nonfiction memoir (Pink Flamingos)
 Meet Behind Mars|Renee Simms|4.41
 Zuleikha|Guzel Yakhina|4.40
 Set the Night on Fire|Mike Davis, Jon Wiener|4.40
@@ -14,7 +14,7 @@ The Lions of Al-Rassan|Guy Gavriel Kay|4.30
 Children of Time|Adrian Tchaikovsky|4.30 series-1
 Marx at the Margins|Kevin B. Anderson|4.29
 A Little Luck|Claudia Piñeiro|4.29
-The First Civil Right|Naomi Murakawa|4.27 non-fiction postwar prison history
+The First Civil Right|Naomi Murakawa|4.27 nonfiction postwar prison history
 Ida|Paula J. Giddings|4.27
 Hogfather|Terry Pratchett|4.25
 Quick Fixes|Benjamin Y. Fong|4.24
@@ -32,7 +32,7 @@ Blue Horses Rush In|Luci Tapahonso|4.11
 The White Boy Shuffle|Paul Beatty|4.10
 The Many Worlds of Albie Bright|Christopher Edge|4.10
 Arboreality|Rebecca Campbell|4.10 sci-fi Le Guin Prize
-The Listening Book|W. A. Mathieu|4.09 non-fiction music
+The Listening Book|W. A. Mathieu|4.09 nonfiction music
 The Hour of the Star|Clarice Lispector|4.08
 The Forgotten Beasts of Eld|Patricia A. McKillip|4.08
 City|Clifford D. Simak|4.08
