@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Invention of Wings | Sue Monk Kidd | 2014 | U.S | 5.0 | audio | 384 | historical, literary |
 | The Overstory | Richard Powers | 2018 | U.S. | 4.5 | audio | 502 | literary, environment, historical, Pulitzer |
 | Africa Is Not a Country: Breaking Stereotypes of Modern Africa | Dipo Faloyin | 2022 | Nigeria | 4.5 | audio | 380 | nonfiction, history, Africa, politics |
 | Just Another Story: A Graphic Migration Account | Ernesto Saade | 2024 | El Salvador, U.S. | 4.0 | ebook | 216 | graphic novel, nonfiction, biography |
