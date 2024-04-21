@@ -53,7 +53,7 @@ The Rediscovery of America|Ned Blackhawk|4.28|nonfiction history indigenous Nati
 Exhalation|Ted Chiang|4.28|sci-fi literary short-stories Hugo
 The Royal Game|Stefan Zweig|4.27|classics literary short-stories Germany
 If Beale Street Could Talk|James Baldwin|4.27|classics literary romance
-Dune|Frank Herbert|4.27|sci-fi classics re-read Hugo Nebula
+Dune|Frank Herbert|4.27|sci-fi classics reread Hugo Nebula
 Trickster's Choice|Tamora Pierce|4.26|fantasy YA
 The Street|Ann Petry|4.26|classics 1940s-Harlem Black
 The Forest of Vanishing Stars|Kristin Harmel|4.26|historical literary Germany Jewish-refugees
@@ -72,7 +72,7 @@ Reform or Revolution and Other Writings|Rosa Luxemburg|4.22|nonfiction economics
 Halfway Home|Reuben Jonathan Miller|4.22|nonfiction sociology race incarceration
 To Shape a Dragon's Breath|Moniquill Blackgoose|4.21|fantasy LGBT indigenous
 Revolutionary Spring|Christopher Clark|4.21|nonfiction 1848 history
-Flowers for Algernon|Daniel Keyes|4.21|sci-fi classics literary YA re-read Hugo Nebula
+Flowers for Algernon|Daniel Keyes|4.21|sci-fi classics literary YA reread Hugo Nebula
 Deep River|Karl Marlantes|4.21|historical literary Finnish-U.S.
 Daisy Jones and the Six|Taylor Jenkins Reid|4.21|historical literary L.A.-60s
 The Emigrants|Vilhelm Moberg|4.20|Sweden historical classics
@@ -179,7 +179,7 @@ The Art of Gathering: How We Meet and Why It Matters|Priya Parker|3.98|nonfictio
 Red at the Bone|Jacqueline Woodson|3.98|contemporary literary 2001-Brooklyn Black
 Perdido Street Station|China Miéville|3.98|fantasy sci-fi
 Midnight's Children|Salman Rushdie|3.98|literary magical-realism historical India Booker
-For Whom the Bell Tolls|Ernest Hemingway|3.98|classics literary historical re-read Nobel
+For Whom the Bell Tolls|Ernest Hemingway|3.98|classics literary historical reread Nobel
 Under the Mesquite|Guadalupe García McCall|3.97|poetry YA
 South to America: A Journey Below the Mason Dixon to Understand the Soul of a Nation|Imani Perry|3.97|nonfiction history memoir South
 Sons of Darkness|Gourav Mohanty|3.97|fantasy India
@@ -187,7 +187,7 @@ On the Beach|Nevil Shute|3.97|sci-fi classics post-apocalyptic
 Man Made Monsters|Andrea L. Rogers|3.97|historical indigenous horror short-stories YA
 Interior Chinatown|Charles Yu|3.97|literary contemporary National-Book
 I Am Not Sidney Poitier|Percival Everett|3.97|humor contemporary
-Frankenstein|Mary Shelley|3.97|sci-fi classics re-read
+Frankenstein|Mary Shelley|3.97|sci-fi classics reread
 Blind Owl|Sadeq Hedayat|3.97|literary Iran horror
 Thistlefoot|GennaRose Nethercott|3.96|fantasy eastern-Europe mythology
 Drive Your Plow Over the Bones of the Dead|Olga Tokarczuk|3.96|literary crime Poland Nobel
@@ -281,7 +281,7 @@ All the Lovers in the Night|Mieko Kawakami|3.75| contemporary literary Japan
 The Witch Doesn't Burn in This One|Amanda Lovelace|3.73|poetry feminism
 Lone Women|Victor LaValle|3.73|horror historical fantasy
 California Bones|Greg van Eekhout|3.73|fantasy
-Babel-17|Samuel R. Delany|3.73|sci-fi re-read Nebula
+Babel-17|Samuel R. Delany|3.73|sci-fi reread Nebula
 The Gilded Wolves|Roshani Chokshi|3.72|YA historical fantasy LGBT Paris-1889
 The Annual Migration of Clouds|Premee Mohamed|3.72|sci-fi post-apocalyptic climate literary
 Paper Towns|John Green|3.72|YA mystery contemporary romance

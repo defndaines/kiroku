@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 27
+Count: 28
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -71,7 +71,7 @@ Count: 27
 - [x] 1968: Yasunari Kawabata [Japan]: _Thousand Cranes_
 - [x] 1969: Samuel Beckett [Ireland]: _Waiting for Godot_
 - [ ] 1970: Aleksandr Isayevich Solzhenitsyn [Soviet Union]:
-- [ ] 1971: Pablo Neruda [Chile]:
+- [x] 1971: Pablo Neruda [Chile]: _The Essential Neruda: Selected Poems_
 - [ ] 1972: Heinrich Böll [West Germany]:
 - [ ] 1973: Patrick White [Australia]:
 - [ ] 1974: Eyvind Johnson [Sweden]:
