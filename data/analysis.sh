@@ -46,7 +46,7 @@ tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' |
 
 ### Most common genres
 
-tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | sort -n | tail
+tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "graphic novel" | grep -v "reread" | grep -v "novella" | sort -n | tail
 
 ## Formats
 
