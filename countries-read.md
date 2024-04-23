@@ -29,7 +29,7 @@ Count: 76
 - [x] Ethiopia: [_Beneath the Lion's Gaze_](https://www.goodreads.com/book/show/6544214-beneath-the-lion-s-gaze) Maaza Mengiste
 - [x] Egypt: [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
 - [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
-- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer
+- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer; [_Blind Owl_](https://www.goodreads.com/book/show/58588139-blind-owl) Sadeq Hedayat
 - [x] Türkiye: [_Silent House_](https://www.goodreads.com/book/show/13531059-silent-house) Orhan Pamuk
 - [x] Germany\*: [_All Quiet on the Western Front_](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front) Erich Maria Remarque
 - [x] Thailand: [_A Wish in the Dark_](https://www.goodreads.com/book/show/56733560-a-wish-in-the-dark) Christina Soontornvat

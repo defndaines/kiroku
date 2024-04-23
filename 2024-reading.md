@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Blind Owl | Sadeq Hedayat | 1936 | Iran | 3.5 | audio | 112 | classics, literary |
 | The Essential Neruda: Selected Poems | Pablo Neruda | 1979 | Chile | 4.5 | audio | 200 | poetry, classics |
 | The Invention of Wings | Sue Monk Kidd | 2014 | U.S | 5.0 | audio | 384 | historical, literary |
 | The Overstory | Richard Powers | 2018 | U.S. | 4.5 | audio | 502 | literary, environment, historical, Pulitzer |
