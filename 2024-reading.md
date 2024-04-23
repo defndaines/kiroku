@@ -15,7 +15,7 @@ book finished in a month is tagged with the month in **bold**.
 | Solito | Javier Zamora | 2022 | El Salvador | 5.0 | audio | 384 | nonfiction, memoir |
 | I Who Have Never Known Men | Jacqueline Harpman | 1995 | Belgium | 4.5 | print | 173 | sci-fi, dystopian, literary |
 | Blood Over Bright Haven | M.L. Wang | 2023 | U.S. | 5.0 | print | 527 | fantasy |
-| Babel | R.F. Kuang | 2022 | U.K., U.S. | 4.0 | audio | 544 | fantasy, historical, Locus, Nebula, **April** |
+| Babel | R.F. Kuang | 2022 | U.K., U.S. | 3.5 | audio | 544 | fantasy, historical, Locus, Nebula, **April** |
 | Half a King | Joe Abercrombie | 2014 | U.K. | 4.0 | audio | 416 | fantasy, YA, Locus |
 | Punished for Dreaming: How School Reform Harms Black Children and How We Heal | Bettina L. Love | 2023 | U.S. | 5.0 | audio | 352 | nonfiction, education, race, history |
 | A Small Place | Jamaica Kincaid | 1988 | Antigua | 4.0 | audio | 81 | nonfiction, memoir, history, essays |
