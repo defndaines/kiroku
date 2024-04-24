@@ -157,6 +157,7 @@ Little|Edward Carey|4.02|historical Paris-1700s
 A Short History of Reconstruction|Eric Foner|4.02|nonfiction history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence|Kristen R. Ghodsee|4.01|nonfiction feminism history politics
 The Three Stigmata of Palmer Eldritch|Philip K. Dick|4.01|sci-fi
+The Day of the Triffids|John Wyndham|4.01|sci-fi horror classics
 Shadow of the Fox|Julie Kagawa|4.01|YA fantasy
 Salka Valka|Halldor Laxness|4.01|classics Iceland Nobel 1931 unread-country
 Open Throat|Henry Hoke|4.01|literary LGBT Hollywood-mountain-lion
@@ -188,7 +189,6 @@ Man Made Monsters|Andrea L. Rogers|3.97|historical indigenous horror short-stori
 Interior Chinatown|Charles Yu|3.97|literary contemporary National-Book
 I Am Not Sidney Poitier|Percival Everett|3.97|humor contemporary
 Frankenstein|Mary Shelley|3.97|sci-fi classics reread
-Blind Owl|Sadeq Hedayat|3.97|literary Iran horror
 Thistlefoot|GennaRose Nethercott|3.96|fantasy eastern-Europe mythology
 Drive Your Plow Over the Bones of the Dead|Olga Tokarczuk|3.96|literary crime Poland Nobel
 Black Money|Ross Macdonald|3.96|mystery noir

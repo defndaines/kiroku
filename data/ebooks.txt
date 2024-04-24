@@ -1,4 +1,5 @@
 Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II|Douglas A. Blackmon|4.38|nonfiction history race Pulitzer
+The Ones Who Walk Away from Omelas|Ursula K. Le Guin|4.37|sci-fi fantasy short-stories classics
 The Day Lasts More than a Hundred Years|Chingiz Aitmatov|4.34|sci-fi Kyrgyzstan unread-country
 The Wretched of the Earth|Frantz Fanon|4.31|nonfiction history politics race unread-country
 Beauty Is a Wound|Eka Kurniawan|4.06|historical magical-realism Indonesia unread-country
@@ -59,6 +60,7 @@ The Steerswoman|Rosemary Kirstein|4.02|fantasy sci-fi
 Factories in the Field: The Story of Migratory Farm Labor in California|Carey McWilliams|4.01|nonfiction history
 Dragons of Autumn Twilight|Tracy Hickman|4.01|YA fantasy reread
 The Hearing Test|Eliza Barry Callahan|4.00|literary
+The Old Garden|Hwang Sok-yong|3.99|Korea historical
 Laura|Vera Caspary|3.98|classics mystery 1942
 The Uninvited|Dorothy Macardle|3.97|horror mystery 1942
 The Knife of Never Letting Go|Patrick Ness|3.97|dystopian sci-fi YA
@@ -99,6 +101,7 @@ Ms Ice Sandwich|Mieko Kawakami|3.79|contemporary Japan
 The Forest of Wool and Steel|Philip Gabriel|3.78|contemporary Japan
 The Werewolf Principle|Clifford D. Simak|3.77|fantasy sci-fi
 Grotesque|Natsuo Kirino|3.73|mystery Japan
+Familiar Things|Hwang Sok-yong|3.68|Korea contemporary magical-realism
 Xala|Ousmane Sembène|3.65|literary Senegal
 Waylaid|Ed Lin|3.65|YA Chinese-American
 Red Star|Alexander Bogdanov|3.60|1908 sci-fi politics written-by-Bolshevik
