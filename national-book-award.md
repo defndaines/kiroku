@@ -1,8 +1,8 @@
 # National Book Award
 
-Count: 12
+Count: 13
 
-## Fiction (5)
+## Fiction (6)
 
 - [ ] 1950: Nelson Algren _The Man with the Golden Arm_
 - [ ] 1951: William Faulkner _The Collected Stories of William Faulkner_
@@ -43,7 +43,7 @@ Count: 12
 - [ ] 1981: John Cheever _The Stories of John Cheever_
 - [ ] 1982: John Updike _Rabbit is Rich_
 - [ ] 1982: William Maxwell _So Long, See You Tomorrow_
-- [ ] 1983: Alice Walker _The Color Purple_
+- [x] 1983: Alice Walker _The Color Purple_
 - [ ] 1983: Eudora Welty _The Collected Stories of Eudora Welty_
 - [ ] 1984: Ellen Gilchrist _Victory Over Japan: A Book of Stories_
 - [ ] 1985: Don DeLillo _White Noise_

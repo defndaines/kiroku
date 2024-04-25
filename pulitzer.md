@@ -3,9 +3,9 @@
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 19
+Count: 20
 
-## Fiction (15)
+## Fiction (16)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -63,7 +63,7 @@ Count: 19
 - [ ] 1980: Norman Mailer, _The Executioner's Song_
 - [ ] 1981: John Kennedy Toole, _A Confederacy of Dunces_
 - [ ] 1982: John Updike, _Rabbit Is Rich_
-- [ ] 1983: Alice Walker, _The Color Purple_
+- [x] 1983: Alice Walker, _The Color Purple_
 - [ ] 1984: William Kennedy, _Ironweed_
 - [ ] 1985: Alison Lurie, _Foreign Affairs_
 - [ ] 1986: Larry McMurtry, _Lonesome Dove_
