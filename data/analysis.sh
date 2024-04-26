@@ -84,3 +84,5 @@ for award in booker-prize.md locus-award.md nobel-literature.md national-book-aw
   echo $award
   grep -c '\[x\]' $award
 done
+
+sed -n '14,$p' great-american-novels.md | grep -c '\[[x\/]\]'
