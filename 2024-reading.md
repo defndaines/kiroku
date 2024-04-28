@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Finger Bone | Hiroki Takahashi | 2015 | Japan | 4.5 | print | 123 | historical, war, literary |
 | Sennen | Shanti Rai | 2022 | U.K. | 3.5 | ebook | 100 | sci-fi, graphic novel |
 | The Color Purple | Alice Walker | 1982 | U.S. | 5.0 | audio | 304 | literary, historical, classics, LGBT, National Book Award, Pulitzer |
 | Mater 2–10 | Hwang Sok-yong | 2020 | South Korea | 5.0 | ebook | 555 | historical, literary |
