@@ -6,9 +6,6 @@ Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fi
 I'm interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
-I'll use `/` to indicate that I read part of or DNF'ed the book. Count will
-include these books.
-
 Count: 34
 
 - [x] F. Scott Fitzgerald _The Great Gatsby_ (1925)
@@ -22,15 +19,15 @@ Count: 34
 - [ ] Djuna Barnes _Nightwood_ (1936)
 - [ ] Younghill Kang _East Goes West_ (1937)
 - [x] Zora Neale Hurston _Their Eyes Were Watching God_ (1937)
-- [/] John Dos Passos _U.S.A._ (1937) [read _The 42nd Parallel_]
+- [x] John Dos Passos _U.S.A._ (1937) [read _The 42nd Parallel_]
 - [ ] John Fante _Ask the Dust_ (1939)
 - [ ] Raymond Chandler _The Big Sleep_ (1939)
-- [/] Nathanael West _The Day of the Locust_ (1939)
+- [x] Nathanael West _The Day of the Locust_ (1939) [DNFed]
 - [x] John Steinbeck _The Grapes of Wrath_ (1939)
 - [x] Richard Wright _Native Son_ (1940)
 - [x] Carson McCullers _The Heart Is a Lonely Hunter_ (1940)
 - [ ] Dawn Powell _A Time to Be Born_ (1942)
-- [/] Robert Penn Warren _All the King’s Men_ (1946)
+- [x] Robert Penn Warren _All the King’s Men_ (1946) [DNFed]
 - [ ] Ann Petry _The Street_ (1946)
 - [ ] Dorothy B. Hughes _In a Lonely Place_ (1947)
 - [ ] Jean Stafford _The Mountain Lion_ (1947)

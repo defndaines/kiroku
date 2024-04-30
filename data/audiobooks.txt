@@ -50,6 +50,7 @@ Howl's Moving Castle|Diana Wynne Jones|4.29|fantasy YA
 Girl, Woman, Other|Bernardine Evaristo|4.29|contemporary LGBT literary British feminism Black Booker
 The Wall|John Hersey|4.28|historical Warsaw-ghetto
 The Rediscovery of America|Ned Blackhawk|4.28|nonfiction history indigenous National-Book
+The Player of Games|Iain M. Banks|4.28|sci-fi sequel-culture-2
 Exhalation|Ted Chiang|4.28|sci-fi literary short-stories Hugo
 The Royal Game|Stefan Zweig|4.27|classics literary short-stories Germany
 If Beale Street Could Talk|James Baldwin|4.27|classics literary romance
