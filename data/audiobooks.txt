@@ -254,7 +254,6 @@ The War of the Worlds|H. G. Wells|3.83|sci-fi classics Hugo
 Confession of the Lioness|Mia Couto|3.83|contemporary Mozambique unread-country
 Ceremony|Leslie Marmon Silko|3.83|classics historical literary indigenous ABA
 Your Utopia|Bora Chung|3.82|horror sci-fi short-stories Korea
-The White Book|Han Kang|3.82|poetry contemporary Korea
 The Dog of the South|Charles Portis|3.82|humor South
 Maeve Fly|C.J. Leede|3.82|horror
 In the Company of Men|Véronique Tadjo|3.82|literary historical Ebola Africa
@@ -328,7 +327,6 @@ Watched|Marina Budhos|3.52|contemporary YA Muslim-American
 The Premonition|Banana Yoshimoto|3.52|contemporary Japan
 Darker Than You Think|Jack Williamson|3.50|horror sci-fi fantasy werewolves 1940
 Libertie|Kaitlyn Greenidge|3.49|historical Reconstruction Brooklyn
-Greek Lessons|Han Kang|3.49|literary contemporary Korea
 Hit Parade of Tears|Izumi Suzuki|3.48|Japan short-stories sci-fi literary
 Then We Came to the End|Joshua Ferris|3.46|humor contemporary
 One-Shot Harry|Gary Phillips|3.46|mystery historical 1963-L.A.
