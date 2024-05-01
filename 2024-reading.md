@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The White Book | Han Kang | 2016 | South Korea, Poland | 4.0 | audio | 160 | poetry, contemporary |
 | Emma | Jane Austen | 1815 | U.K. | 4.0 | audio | 474 | classics, literary, romance |
 | Finger Bone | Hiroki Takahashi | 2015 | Japan | 4.5 | print | 123 | historical, war, literary |
 | Sennen | Shanti Rai | 2022 | U.K. | 3.5 | ebook | 100 | sci-fi, graphic novel |
