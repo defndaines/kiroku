@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Ones Who Walk Away from Omelas | Ursula K. Le Guin | 1973 | U.S. | 5.0 | ebook | 32 | classics, short-stories, sci-fi, Hugo |
 | Greek Lessons | Han Kang | 2011 | South Korea | 4.0 | audio | 192 | literary, contemporary, **May** |
 | The White Book | Han Kang | 2016 | South Korea, Poland | 4.0 | audio | 160 | poetry, contemporary |
 | Emma | Jane Austen | 1815 | U.K. | 4.0 | audio | 474 | classics, literary, romance |

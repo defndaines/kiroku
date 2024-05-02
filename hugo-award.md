@@ -5,7 +5,7 @@ List of Hugo Award winners, identified by whether I've read them.
 Only including other awards when I've read them or plan to read them, since
 those lists are not goals I'm looking to fill in.
 
-Count: 48
+Count: 49
 
 ## Best Novel (22)
 
@@ -108,12 +108,12 @@ Count: 48
 - [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
 - [ ] 2020: N. K. Jemisin _Emergency Skin_
 
-## Best Short Story (6)
+## Best Short Story (7)
 
 - [x] 1951: Damon Knight _To Serve Man_
 - [x] 1960: Daniel Keyes _Flowers for Algernon_
 - [ ] 1968: Harlan Ellison _I Have No Mouth, and I Must Scream_
-- [ ] 1974: Ursula K. Le Guin _The Ones Who Walk Away from Omelas_
+- [x] 1974: Ursula K. Le Guin _The Ones Who Walk Away from Omelas_
 - [x] 2009: Ted Chiang _Exhalation_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
