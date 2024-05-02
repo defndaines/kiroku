@@ -22,7 +22,7 @@ book finished in a month is tagged with the month in **bold**.
 | Solito | Javier Zamora | 2022 | El Salvador | 5.0 | audio | 384 | nonfiction, memoir |
 | I Who Have Never Known Men | Jacqueline Harpman | 1995 | Belgium | 4.5 | print | 173 | sci-fi, dystopian, literary |
 | Blood Over Bright Haven | M.L. Wang | 2023 | U.S. | 5.0 | print | 527 | fantasy |
-| Babel | R.F. Kuang | 2022 | U.K., U.S. | 3.5 | audio | 544 | fantasy, historical, Locus, Nebula, **April** |
+| Babel | R. F. Kuang | 2022 | U.K., U.S. | 3.5 | audio | 544 | fantasy, historical, Locus, Nebula, **April** |
 | Half a King | Joe Abercrombie | 2014 | U.K. | 4.0 | audio | 416 | fantasy, YA, Locus |
 | Punished for Dreaming: How School Reform Harms Black Children and How We Heal | Bettina L. Love | 2023 | U.S. | 5.0 | audio | 352 | nonfiction, education, race, history |
 | A Small Place | Jamaica Kincaid | 1988 | Antigua | 4.0 | audio | 81 | nonfiction, memoir, history, essays |
@@ -58,7 +58,7 @@ book finished in a month is tagged with the month in **bold**.
 | One Soul | Ray Fawkes | 2011 | Canada | 3.5 | ebook | 176 | graphic novel, historical |
 | How Beautiful We Were | Imbolo Mbue | 2021 | Cameroon | 4.5 | audio | 384 | historical, Africa, literary |
 | Sleeping While Standing | Taki Soma | 2022 | U.S., Japan | 4.5 | ebook | 100 | graphic novel, memoir, nonfiction |
-| Yellowface | R.F. Kuang | 2023 | U.S. | 4.0 | audio | 336 | contemporary, literary, thriller, Goodreads Choice Award |
+| Yellowface | R. F. Kuang | 2023 | U.S. | 4.0 | audio | 336 | contemporary, literary, thriller, Goodreads Choice Award |
 | On a Sunbeam | Tillie Walden | 2018 | U.S. | 4.5 | ebook | 544 | sci-fi, graphic novel, LGBT, YA |
 | Ender’s Game | Orson Scott Card | 1985 | U.S. | 3.5 | audio | 324 | sci-fi, YA, Hugo, Nebula, reread, **February** |
 | Poor Things | Alasdair Gray | 1992 | Scotland | 5.0 | audio | 318 | historical, sci-fi, literary |

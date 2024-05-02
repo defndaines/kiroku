@@ -57,10 +57,10 @@ Count: 23
 - [ ] 2015: Katherine Addison _The Goblin Emperor_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
-- [x] 2018: N.K. Jemisin _The Stone Sky_
+- [x] 2018: N. K. Jemisin _The Stone Sky_
 - [ ] 2019: Naomi Novik _Spinning Silver_
 - [ ] 2020: Seanan McGuire _Middlegame_
-- [x] 2021: N.K. Jemisin _The City We Became_
+- [x] 2021: N. K. Jemisin _The City We Became_
 - [ ] 2022: Fonda Lee _Jade Legacy_
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 

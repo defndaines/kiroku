@@ -26,6 +26,7 @@ Warrior Girl Unearthed|Angeline Boulley|4.36|YA mystery thriller indigenous
 The Power of the Dog|Don Winslow|4.36|mystery thriller drug-trade
 The Cartel|Don Winslow|4.35|mystery thriller 2004-drugs
 The Conquering Sword of Conan|Robert E. Howard|4.34|fantasy sequel-3
+Stoner|John Williams|4.33|classics historical literary
 Humankind: A Hopeful History|Rutger Bregman|4.33|nonfiction history philosophy psychology
 And Every Morning the Way Home Gets Longer and Longer|Fredrik Backman|4.33|Sweden contemporary short-stories
 A Desolation Called Peace|Arkady Martine|4.33|sci-fi LGBT Hugo Locus sequel
@@ -76,6 +77,7 @@ Revolutionary Spring|Christopher Clark|4.21|nonfiction 1848 history
 Flowers for Algernon|Daniel Keyes|4.21|sci-fi classics literary YA reread Hugo Nebula
 Deep River|Karl Marlantes|4.21|historical literary Finnish-U.S.
 Daisy Jones and the Six|Taylor Jenkins Reid|4.21|historical literary L.A.-60s
+The Rise and Fall of the Dinosaurs: A New History of Their Lost World|Steve Brusatte|4.20|nonfiction history science
 The Emigrants|Vilhelm Moberg|4.20|Sweden historical classics
 The Children of Gods and Fighting Men|Shauna Lawless|4.20|historical fantasy 981-Dublin
 Reconstruction|Eric Foner|4.20|nonfiction history

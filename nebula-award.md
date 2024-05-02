@@ -62,12 +62,12 @@ Count: 26
 - [ ] 2015: Jeff VanderMeer _Annihilation_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
-- [x] 2018: N.K. Jemisin _The Stone Sky_
+- [x] 2018: N. K. Jemisin _The Stone Sky_
 - [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [ ] 2020: Sarah Pinsker _A Song for a New Day_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
-- [x] 2023: R.F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
+- [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
 
 ## Best Novella (5)
 

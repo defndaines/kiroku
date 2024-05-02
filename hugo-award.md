@@ -81,9 +81,9 @@ Count: 48
 - [ ] 2013: John Scalzi _Redshirts_
 - [ ] 2014: Ann Leckie _Ancillary Justice_
 - [x] 2015: Cixin Liu, Ken Liu (translator) _The Three-Body Problem_
-- [x] 2016: N.K. Jemisin _The Fifth Season_
-- [x] 2017: N.K. Jemisin _The Obelisk Gate_
-- [x] 2018: N.K. Jemisin _The Stone Sky_
+- [x] 2016: N. K. Jemisin _The Fifth Season_
+- [x] 2017: N. K. Jemisin _The Obelisk Gate_
+- [x] 2018: N. K. Jemisin _The Stone Sky_
 - [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [x] 2020: Arkady Martine _A Memory Called Empire_
 - [ ] 2021: Martha Wells _Network Effect_
@@ -106,7 +106,7 @@ Count: 48
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2018: Suzanne Palmer _The Secret Life of Bots_
 - [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
-- [ ] 2020: N.K. Jemisin _Emergency Skin_
+- [ ] 2020: N. K. Jemisin _Emergency Skin_
 
 ## Best Short Story (6)
 
