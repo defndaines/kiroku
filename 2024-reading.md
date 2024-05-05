@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Last of the Talons | Sophie Kim | 2022 | U.S. | 2.0 | audio | 416 | fantasy, romance, YA, Korean-mythology |
 | Oak Flat: A Fight for Sacred Land in the American West | Lauren Redniss | 2020 | U.S. | 4.5 | print | 281 | nonfiction, history, nature, politics |
 | The Ones Who Walk Away from Omelas | Ursula K. Le Guin | 1973 | U.S. | 5.0 | ebook | 32 | classics, short-stories, sci-fi, Hugo |
 | Greek Lessons | Han Kang | 2011 | South Korea | 4.0 | audio | 192 | literary, contemporary, **May** |
