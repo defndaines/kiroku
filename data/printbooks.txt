@@ -32,6 +32,7 @@ The Other Wind|Ursula K. Le Guin|4.19|fantasy YA classics sequel-earthsea-6
 The Legacy of Yangchen|F.C. Yee|4.18|fantasy YA sequel-2 [audio hoopla]
 The Black Lord|Colin Hinckley|4.17|horror
 Haunting the Korean Diaspora: Shame, Secrecy, and the Forgotten War|Grace M. Cho|4.17|nonfiction history race
+The Coming of Conan the Cimmerian|Robert E. Howard|4.16|fantasy short-stories [audio available]
 Dark Matter: A Century of Speculative Fiction from the African Diaspora|Sheree R. Thomas (editor)|4.16|sci-fi short-stories
 When You Trap a Tiger|Tae Keller|4.15|YA fantasy magical-realism Korean-mythology [audio available]
 The Book of the Unnamed Midwife|Meg Elison|4.15|dystopian sci-fi
@@ -57,9 +58,11 @@ Binti: The Complete Trilogy|Nnedi Okorafor|4.05|sci-fi Hugo partial-reread
 The Meek and the Militant: Religion and Power Across the World|Paul N. Siegel|4.04|nonfiction philosophy politics religion
 Tehanu|Ursula K. Le Guin|4.03|fantasy YA classics sequel-earthsea-4
 A Scanner Darkly|Philip K. Dick|4.02|sci-fi [audio hoopla]
+The Silmarillion|J.R.R. Tolkien|4.01|fantasy classics [audio available]
 Shipwrecks|Akira Yoshimura|4.01|historical literary
 A Wizard of Earthsea|Ursula K. Le Guin|4.01|fantasy YA classics reread
 The Oedipus Cycle|Sophocles|3.99|classics play [audio hoopla]
+Storm Front|Jim Butcher|3.98|fantasy mystery [audio available]
 The Plum in the Golden Vase or, Chin P'ing Mei: Vol. One: The Gathering|Lanling Xiaoxiao Sheng, David Tod Roy (translator)|3.97|classics literary
 Hana Khan Carries On|Uzma Jalaluddin|3.96|contemporary romance [audio available]
 Holding the Line: Women in the Great Arizona Mine Strike of 1983|Barbara Kingsolver|3.95|nonfiction history
@@ -84,6 +87,7 @@ The Odyssey|Homer, Emily Watson (translator)|3.81|classics poetry
 Out of This Furnace|Thomas Bell|3.78|historical
 Theogony; Works and Days|Hesiod, M.L. West (translator)|3.77|classics poetry
 We're Not Here to Entertain: Punk Rock, Ronald Reagan, and the Real Culture War of 1980s America|Kevin Mattson|3.76|nonfiction history music politics
+Mission Child|Maureen F. McHugh|3.75|sci-fi
 Bond of Iron: Master and Slave at Buffalo Forge|Charles B. Dew|3.71|nonfiction history
 The Lonely Londoners|Sam Selvon|3.70|historical classics West-Indian
 The Red Years: Theory, Politics, and Aesthetics in the Japanese '68|Gavin Walker (editor)|3.65|nonfiction history politics
@@ -95,4 +99,5 @@ The Best of Michael Moorcock|Michael Moorcock|3.56|fantasy sci-fi short-stories
 The Story of Hong Gildong|Minsoo Kang (translator)|3.51|classics literary
 Flood|S. Alexander Reed, Elizabeth Sandifer|3.47|nonfiction music history
 The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America|Mark Kurlansky|3.46|nonfiction history [audio hoopla]
+The Zen Gun|Barrington J. Bayley|3.37|sci-fi
 Blackass|A. Igoni Barrett|3.35|contemporary magical-realism Nigeria
