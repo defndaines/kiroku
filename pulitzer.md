@@ -104,6 +104,7 @@ Count: 20
 - [ ] 2022: Joshua Cohen, _The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family_
 - [ ] 2023: Hernan Diaz, _Trust_
 - [ ] 2023: Barbara Kingsolver, _Demon Copperhead_
+- [ ] 2024: Jayne Anne Phillips, _Night Watch_
 
 ## Nonfiction (4)
 
@@ -153,6 +154,7 @@ Count: 20
 - [ ] 2021: David Zucchino, _Wilmington’s Lie: The Murderous Coup of 1898 and the Rise of White Supremacy_
 - [ ] 2022: Andrea Elliott, _Invisible Child: Poverty, Survival & Hope in an American City_
 - [ ] 2023: Robert Samuels and Toluse Olorunnipa, _His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice_
+- [ ] 2024: Nathan Thrall, _A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy_
 
 ## History
 
@@ -200,3 +202,4 @@ Count: 20
 - [ ] 2022: Nicole Eustace, _Covered with Night: A Story of Murder and Indigenous Justice in Early America_
 - [ ] 2022: Ada Ferrer, _Cuba: An American History_
 - [ ] 2023: Jefferson Cowie, _Freedom's Dominion: A Saga of White Resistance to Federal Power_
+- [ ] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
