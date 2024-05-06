@@ -137,6 +137,7 @@ Fatelessness|Imre Kertesz|4.07|historical Hungary Nobel unread-country
 What Strange Paradise|Omar El Akkad|4.06|literary Canada African immigrants
 The Words That Remain|Stênio Gardel|4.06|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|horror classics short-stories
+The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers|Jim Morris|4.06|nonfiction history science
 Pet Sematary|Stephen King|4.06|horror
 Equal Rites|Terry Pratchett|4.06|fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06|historical

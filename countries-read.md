@@ -208,6 +208,7 @@ Count: 76
 - [ ] American Samoa:
 - [ ] Samoa:
 - [ ] Saint Lucia:
+- [ ] Guam:
 - [ ] Artsakh:
 - [ ] Kiribati:
 - [ ] Grenada:
