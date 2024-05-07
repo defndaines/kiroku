@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Ocean's Godori | Elaine U. Cho | 2024 | U.S. | 4.0 | audio | 352 | sci-fi |
 | In Shadows: Book One | Hubert | 2022 | France | 4.0 | ebook | 69 | graphic novel, fantasy, mystery |
 | Last of the Talons | Sophie Kim | 2022 | U.S. | 2.0 | audio | 416 | fantasy, romance, YA, Korean-mythology |
 | Oak Flat: A Fight for Sacred Land in the American West | Lauren Redniss | 2020 | U.S. | 4.5 | print | 281 | nonfiction, history, nature, politics |

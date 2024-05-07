@@ -150,7 +150,6 @@ Kokoro|Natsume Soseki|4.05|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|sci-fi fantasy
 Crow|Amy Spurway|4.05|contemporary Nova Scotia [audio hoopla]
 The Birchbark House|Louise Erdrich|4.04|historical YA indigenous
-Ocean's Godori|Elaine U. Cho|4.04|sci-fi [audio hoopla]
 Nervous Conditions|Tsitsi Dangarembga|4.04|historical classics literary Zimbabwe unread-country
 Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolbert|4.04|nonfiction nature politics science
 Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|nonfiction memoir biography L.A.
@@ -299,7 +298,6 @@ Delicate Condition|Danielle Valentine|3.71|horror feminist-Rosemary's-Baby
 Tomb of Sand|Geetanjali Shree|3.70|literary India historical Booker
 The Yacoubian Building|Alaa Al Aswany|3.70|literary Egypt
 The Barbarian Nurseries|Héctor Tobar|3.70|contemporary literary L.A.
-Night Watch|Jayne Anne Phillips|3.70|literary historical
 Claire DeWitt and the City of the Dead|Sara Gran|3.69|mystery New Orleans
 The Swimmers|Julie Otsuka|3.68|literary contemporary
 The Shadow King|Maaza Mengiste|3.68|historical literary Ethiopia 1935
@@ -312,7 +310,6 @@ The Appeal|John Grisham|3.63|mystery legal thriller
 Walking Practice|Dolki Min|3.62|Korea horror sci-fi LGBT
 Oreo|Fran Ross|3.62|humor classics race
 Covered with Night: A Story of Murder and Indigenous Justice in Early America|Nicole Eustace|3.62|nonfiction history true-crime 1722 indigenous Pulitzer
-Earthlings|Sayaka Murata|3.61|horror literary magical-realism Japan
 The Man in the High Castle|Philip K. Dick|3.60|sci-fi dystopian Hugo
 Terminal Boredom|Izumi Suzuki|3.60|Japan short-stories dystopian sci-fi
 Soul Mountain|Gao Xingjian|3.60|China Nobel
