@@ -134,6 +134,7 @@ The Trees|Percival Everett|4.07|mystery literary historical Black Mississippi
 The Stars My Destination|Alfred Bester|4.07|sci-fi classics
 Light From Uncommon Stars|Ryka Aoki|4.07|sci-fi fantasy LGBT San-Gabriel-Valley
 Fatelessness|Imre Kertesz|4.07|historical Hungary Nobel unread-country
+Enter Ghost|Isabella Hammad|4.07|literary contemporary Palestine
 What Strange Paradise|Omar El Akkad|4.06|literary Canada African immigrants
 The Words That Remain|Stênio Gardel|4.06|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|horror classics short-stories
@@ -174,6 +175,7 @@ These Violent Delights|Micah Nemerever|4.00|literary thriller LGBT 1970s-Pittsbu
 The Woman in White|Wilkie Collins|4.00|classics mystery gothic horror 1859
 My Cousin Rachel|Daphne du Maurier|4.00|classics mystery thriller 1951
 Beasts of a Little Land|Juhea Kim|4.00|historical literary Korea
+Austerlitz|W.G. Sebald|4.00|Germany historical
 Songs Only You Know|Sean Madigan Hoen|3.99|nonfiction memoir music biography [audio hoopla]
 Sinister Graves|Marcie R. Rendon|3.99|mystery thriller 1970s-Minnesota indigenous
 Odd Thomas|Dean Koontz|3.99|horror mystery thriller
