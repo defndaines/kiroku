@@ -148,7 +148,7 @@ Count: 4
 - [ ] 2012: Ken Liu "The Paper Menagerie"
 - [ ] 2013: Gregory Norman Bossert "The Telling"
 - [ ] 2014: Caitlin R. Kiernan "The Prayer of Ninety Cats"
-- [ ] 2015: Scott Nicolay Do You Like to Look at Monsters?
+- [ ] 2015: Scott Nicolay "Do You Like to Look at Monsters?"
 - [ ] 2016: Alyssa Wong "Hungry Daughters of Starving Mothers"
 - [ ] 2017: G.V. Anderson "Das Steingeschöpf"
 - [ ] 2018: Natalia Theodoridou "The Birding: A Fairy Tale"

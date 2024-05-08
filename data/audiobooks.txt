@@ -19,11 +19,13 @@ Arch of Triumph|Erich Maria Remarque|4.42|historical literary 1939-refugee-in-Pa
 Where I'm Calling From|Raymond Carver|4.41|short-stories literary
 Betty|Tiffany McDaniel|4.41|historical literary Appalachians
 Going Postal|Terry Pratchett|4.40|fantasy humor discworld-33
+Jayber Crow|Wendell Berry|4.39|historical classics
 A Day of Fallen Night|Samantha Shannon|4.39|fantasy LGBT U.K.
 Take My Hand|Dolen Perkins-Valdez|4.38|historical literary Black 1973-Alabama
 A Bond Undone|Jin Yong|4.38|China fantasy historical
 Warrior Girl Unearthed|Angeline Boulley|4.36|YA mystery thriller indigenous
 The Power of the Dog|Don Winslow|4.36|mystery thriller drug-trade
+The Art of Losing|Alice Zeniter|4.36|literary historical Algeria International-Dublin-Literary unread-country
 The Cartel|Don Winslow|4.35|mystery thriller 2004-drugs
 The Conquering Sword of Conan|Robert E. Howard|4.34|fantasy sequel-3
 Stoner|John Williams|4.33|classics historical literary
@@ -221,6 +223,7 @@ Night of the Living Rez|Morgan Talty|3.92|contemporary literary indigenous Maine
 If I Ever Get Out of Here|Eric Gansworth|3.92|YA historical indigenous
 The Alchemist|Paulo Coelho|3.91|classics fantasy literary
 Semiosis|Sue Burke|3.91|sci-fi
+A General Theory of Oblivion|José Eduardo Agualusa|3.91|Angola historical literary International-Dublin-Literary unread-country
 The Hundred Thousand Kingdoms|N. K. Jemisin|3.90|sci-fi Locus
 Still Life|Louise Penny|3.90|mystery Quebec
 Neuromancer|William Gibson|3.90|sci-fi cyberpunk thriller Hugo Nebula
