@@ -151,7 +151,7 @@ Count: 76
 - [x] Panama: [_The Great Divide_](https://www.goodreads.com/book/show/181110028-the-great-divide) Cristina Henríquez
 - [ ] Croatia: Dubravka Ugrešić ?
 - [ ] Eritrea:
-- [ ] Georgia:
+- [ ] Georgia: Nana Ekvtimishvili ?
 - [ ] Uruguay:
 - [ ] Mongolia:
 - [ ] Bosnia and Herzegovina:
