@@ -3,9 +3,9 @@
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 20
+Count: 21
 
-## Fiction (16)
+## Fiction (17)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -104,7 +104,7 @@ Count: 20
 - [ ] 2022: Joshua Cohen, _The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family_
 - [ ] 2023: Hernan Diaz, _Trust_
 - [ ] 2023: Barbara Kingsolver, _Demon Copperhead_
-- [ ] 2024: Jayne Anne Phillips, _Night Watch_
+- [x] 2024: Jayne Anne Phillips, _Night Watch_
 
 ## Nonfiction (4)
 
