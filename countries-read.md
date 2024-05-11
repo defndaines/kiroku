@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 76
+Count: 77
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -208,7 +208,7 @@ Count: 76
 - [ ] American Samoa:
 - [ ] Samoa:
 - [ ] Saint Lucia:
-- [ ] Guam:
+- [x] Guam: [_Juanit_](https://www.goodreads.com/book/show/195604036-juanit) Chris Perez Howard
 - [ ] Artsakh:
 - [ ] Kiribati:
 - [ ] Grenada:

@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Juanit | Chris Perez Howard | 2023 | Guam, U.S. | 4.0 | print | 294 | historical, YA |
 | Elle(s) vol 3: Elle Together | Kid Toussaint | 2024 | Belgium | 4.5 | ebook | 104 | graphic novel, YA |
 | Night Watch | Jayne Anne Phillips | 2023 | U.S. | 4.0 | audio | 304 | historical, Pulitzer |
 | Elle(s) vol 2: The Elle-verse | Kid Toussaint | 2022 | Belgium | 4.0 | ebook | 120 | graphic novel, YA |
