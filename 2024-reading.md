@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Black Sun | Rebecca Roanhorse | 2020 | U.S. | 4.5 | audio | 454 | fantasy, historical, LGBT |
 | Earthlings | Sayaka Murata | 2018 | Japan | 4.5 | audio | 247 | literary, magical realism |
 | Juanit | Chris Perez Howard | 2023 | Guam, U.S. | 4.0 | print | 294 | historical, YA |
 | Elle(s) vol 3: Elle Together | Kid Toussaint | 2024 | Belgium | 4.5 | ebook | 104 | graphic novel, YA |
@@ -27,7 +28,7 @@ book finished in a month is tagged with the month in **bold**.
 | Mater 2–10 | Hwang Sok-yong | 2020 | South Korea | 5.0 | ebook | 555 | historical, literary |
 | Blind Owl | Sadeq Hedayat | 1936 | Iran | 3.5 | audio | 112 | classics, literary |
 | The Essential Neruda: Selected Poems | Pablo Neruda | 1979 | Chile | 4.5 | audio | 200 | poetry, classics |
-| The Invention of Wings | Sue Monk Kidd | 2014 | U.S | 5.0 | audio | 384 | historical, literary |
+| The Invention of Wings | Sue Monk Kidd | 2014 | U.S. | 5.0 | audio | 384 | historical, literary |
 | The Overstory | Richard Powers | 2018 | U.S. | 4.5 | audio | 502 | literary, environment, historical, Pulitzer |
 | Africa Is Not a Country: Breaking Stereotypes of Modern Africa | Dipo Faloyin | 2022 | Nigeria | 4.5 | audio | 380 | nonfiction, history, Africa, politics |
 | Just Another Story: A Graphic Migration Account | Ernesto Saade | 2024 | El Salvador, U.S. | 4.0 | ebook | 216 | graphic novel, nonfiction, biography |

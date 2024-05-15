@@ -13,6 +13,7 @@ How to Say Babylon|Safiya Sinclair|4.49|memoir nonfiction feminism
 I'm Glad My Mom Died|Jennette McCurdy|4.47|memoir nonfiction
 To Be a Friend Is Fatal: The Fight to Save the Iraqis America Left Behind|Kirk Wallace Johnson|4.45|nonfiction history politics
 Crossings|Ben Goldfarb|4.45|nonfiction nature science roads
+Brotherless Night|V.V. Ganeshananthan|4.45|literary historical Sri Lanka Carol-Shields-Prize
 A Little Hatred|Joe Abercrombie|4.45|fantasy
 Madonna in a Fur Coat|Sabahattin Ali|4.42|Turkey romance
 Arch of Triumph|Erich Maria Remarque|4.42|historical literary 1939-refugee-in-Paris
@@ -46,6 +47,7 @@ Thelonious Monk|Robin DG Kelley|4.30|nonfiction biography music
 The Lies of Locke Lamora|Scott Lynch|4.30|fantasy
 The Four Winds|Kristin Hannah|4.30|historical Texas-1934-California
 Tell Me How Long the Train's Been Gone|James Baldwin|4.30|classics LGBT literary
+The Shadow of the Wind|Carlos Ruiz Zafón|4.30|historical mystery literary
 From Here to Eternity|Caitlin Doughty|4.30|nonfiction death science travel
 Letters to a Young Poet|Franz Xaver Kappus|4.29|nonfiction poetry essays classics Austria
 I Know Why the Caged Bird Sings|Maya Angelou|4.29|autobiography nonfiction
@@ -92,6 +94,7 @@ Almond|Won-pyung Sohn|4.18|contemporary literary Korea
 Guns of the Dawn|Adrian Tchaikovsky|4.17|steampunk
 Anathem|Neal Stephenson|4.17|sci-fi fantasy Locus
 The Coming of Conan the Cimmerian|Robert E. Howard|4.16|fantasy short-stories
+The Berry Pickers|Amanda Peters|4.16|historical literary Mi'kmaq Carnegie-Medal
 Skinship|Yoon Choi|4.16|literary short-stories
 Hell Followed with Us|Andrew Joseph White|4.16|horror LGBT dystopian sci-fi YA
 Dirty Work: Essential Jobs and the Hidden Toll of Inequality in America|Eyal Press|4.16|nonfiction politics sociology
