@@ -5,7 +5,7 @@ List of Hugo Award winners, identified by whether I've read them.
 Only including other awards when I've read them or plan to read them, since
 those lists are not goals I'm looking to fill in.
 
-Count: 49
+Count: 50
 
 ## Best Novel (22)
 
@@ -90,13 +90,13 @@ Count: 49
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 
-## Best Novella (7)
+## Best Novella (8)
 
 - [x] 1944: Antoine de Saint-Exupéry _The Little Prince_
 - [x] 1946: George Orwell _Animal Farm_
 - [x] 2016: Nnedi Okorafor _Binti_
 - [x] 2018: Martha Wells _All Systems Red_
-- [ ] 2019: Martha Wells _Artificial Condition_
+- [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2021: Nghi Vo _The Empress of Salt and Fortune_
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_

@@ -2,7 +2,7 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
-Count: 23
+Count: 24
 
 ## Best Novel (2)
 
@@ -185,10 +185,10 @@ Count: 23
 
 - [x] 2020: Marlon James _Black Leopard, Red Wolf_
 
-## Best Novella (3)
+## Best Novella (4)
 
 - [x] 2018: Martha Wells _All Systems Red_
-- [ ] 2019: Martha Wells _Artificial Condition_
+- [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 
