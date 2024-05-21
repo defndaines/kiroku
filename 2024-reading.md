@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Berry Pickers | Amanda Peters | 2023 | Canada, U.S. | 5.0 | audio | 307 | historical, literary, Carnegie Medal |
 | Artificial Condition | Martha Wells | 2018 | U.S. | 4.0 | audio | 158 | sci-fi, novella, Hugo, Locus |
 | James | Percival Everett | 2024 | U.S. | 5.0 | audio | 303 | literary, historical |
 | Black Sun | Rebecca Roanhorse | 2020 | U.S. | 4.5 | audio | 454 | fantasy, historical, LGBT |
