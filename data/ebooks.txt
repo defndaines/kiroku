@@ -25,6 +25,7 @@ The Consuming Fire|John Scalzi|4.21|sci-fi sequel-interdependency-2 [owned]
 Rikki-Tikki-Tavi|Rudyard Kipling|4.19|classics childrens short-stories [owned]
 Joanna Russ|Joanna Russ|4.19|sci-fi
 Flood Song|Sherwin Bitsui|4.19|nonfiction poetry Navajo indigenous
+The Wild Iris|Louise Glück|4.18|poetry Nobel
 The Contested Murder of Latasha Harlins: Justice, Gender, and the Origins of the L.A. Riots|Brenda Stevenson|4.17|nonfiction history true-crime
 Pigs Might Fly: The Inside Story of Pink Floyd|Mark Blake|4.17|nonfiction music biography history
 Conan the Barbarian Complete Collection|Robert E. Howard|4.16|fantasy [owned]
@@ -72,7 +73,7 @@ The End of All Things|John Scalzi|3.99|sci-fi sequel-old-mans-war-6 [owned]
 Omeros|Derek Walcott|3.99|classics poetry Saint Lucia unread-country Nobel
 Common Sense|Thomas Paine|3.99|nonfiction history politics [owned]
 The Android's Dream|John Scalzi|3.98|sci-fi [owned]
-Of Cattle and Men|Ana Paula Maia|3.98|Brazil literary horror
+Of Cattle and Men|Ana Paula Maia|3.98|Brazil literary horror Republic-of-Consciousness
 Laura|Vera Caspary|3.98|classics mystery 1942
 The Uninvited|Dorothy Macardle|3.97|horror mystery 1942
 The Knife of Never Letting Go|Patrick Ness|3.97|dystopian sci-fi YA
@@ -125,6 +126,7 @@ The Forest of Wool and Steel|Philip Gabriel|3.78|contemporary Japan
 Zoe's Tale|John Scalzi|3.77|sci-fi sequel-old-mans-war-4 [owned]
 The Werewolf Principle|Clifford D. Simak|3.77|fantasy sci-fi
 The Dead City|John Scalzi|3.77|sci-fi [owned]
+A Sorrow Beyond Dreams|Peter Handke|3.76|nonfiction memoir Nobel
 The Sellout|Paul Beatty|3.75|contemporary literary race Booker
 Jimmie Higgins|Upton Sinclair|3.74|classics [owned]
 Grotesque|Natsuo Kirino|3.73|mystery Japan
@@ -142,6 +144,7 @@ Red Star|Alexander Bogdanov|3.60|1908 sci-fi politics written-by-Bolshevik
 Gather, Darkness!|Fritz Leiber|3.60|fantasy horror sci-fi
 Every Man a Menace|Patrick Hoffman|3.59|mystery thriller
 Leiningen versus the Ants|Carl Stephenson|3.54|short-stories classics childrens [owned]
+In the Café of Lost Youth|Patrick Modiano|3.54|literary Nobel
 Summer of the Big Bachi|Naomi Hirahara|3.53|mystery Pasadena
 Soft Apocalypse|Will McIntosh|3.51|sci-fi
 Picnic on Paradise|Joanna Russ|3.41|fantasy sci-fi

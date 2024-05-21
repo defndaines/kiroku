@@ -83,3 +83,4 @@ Count: 7
 - [ ] 2021: David Diop (France) _At Night All Blood Is Black_
 - [ ] 2022: Geetanjali Shree (India) _Tomb of Sand_
 - [ ] 2023: Georgi Gospodinov (Bulgaria) _Time Shelter_
+- [ ] 2024: Jenny Erpenbeck (Germany) _Kairos_

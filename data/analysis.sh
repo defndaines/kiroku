@@ -76,7 +76,7 @@ sed -n '1,/Best Dramatic/p' hugo-award.md | grep -c '\[x\]'
 
 sed -n '1,/Best Novella/p' nebula-award.md | grep -c '\[x\]'
 
-sed -n '1,/Best Script/p' nebula-award.md | grep -c '\[x\]'
+sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 ## Other awards
 
