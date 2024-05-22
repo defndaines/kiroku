@@ -15,6 +15,7 @@ Wolves: Behavior, Ecology, and Conservation|L. David Mech (editor), Luigi Boitan
 The Book of Night Women|Marlon James|4.38|historical literary [audio available]
 On the Origin of Species and Other Stories|Bo-Young Kim (editor)|4.38|sci-fi short-stories Korea
 Disnaeland|D.D. Johnston|4.33|sci-fi Scots
+The Wretched of the Earth|Frantz Fanon|4.31|nonfiction history politics race unread-country
 If It Sounds Good, It Is Good: Seeking Subversion, Transcendence, and Solace in America's Music|Richard Manning|4.31|nonfiction music
 A People's Guide to Capitalism: An Introduction to Marxist Economics|Hadas Thier|4.30|nonfiction economics politics sociology
 The Princess Bride|William Goldman|4.27|fantasy classics romance YA [audio hoopla]

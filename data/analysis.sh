@@ -86,3 +86,14 @@ for award in booker-prize.md carnegie-medal.md locus-award.md nobel-literature.m
 done
 
 sed -n '14,$p' great-american-novels.md | grep -c '\[[x\/]\]'
+
+# re-sort
+
+sort -t \| -k 3 -rn data/ebooks.txt -o data/ebooks.txt
+
+sort -t \| -k 3 -rn data/audiobooks.txt -o data/audiobooks.txt
+
+sort -t \| -k 3 -rn data/printbooks.txt -o data/printbooks.txt
+
+# 10 short ebooks
+sort -t \| -k 4 -n data/ebooks.txt | head
