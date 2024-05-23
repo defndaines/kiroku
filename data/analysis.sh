@@ -95,5 +95,8 @@ sort -t \| -k 3 -rn data/audiobooks.txt -o data/audiobooks.txt
 
 sort -t \| -k 3 -rn data/printbooks.txt -o data/printbooks.txt
 
-# 10 short ebooks
+# 10 short books
+
 sort -t \| -k 4 -n data/ebooks.txt | head
+
+sort -t \| -k 4 -n data/audiobooks.txt | head
