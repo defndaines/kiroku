@@ -34,3 +34,4 @@ Count: 0
 - [ ] 2021: Valeria Luiselli _Lost Children Archive_
 - [ ] 2022: Alice Zeniter _The Art of Losing_
 - [ ] 2023: Katja Oskamp _Marzahn, Mon Amour_
+- [ ] 2024: Mircea Cărtărescu _Solenoid_
