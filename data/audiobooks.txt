@@ -51,7 +51,7 @@ Tell Me How Long the Train's Been Gone|James Baldwin|4.30|classics LGBT literary
 Leviathan Wakes|James S.A. Corey|4.30|sci-fi
 From Here to Eternity|Caitlin Doughty|4.30|nonfiction death science travel
 Solenoid|Mircea Cărtărescu|4.29|literary Romania International-Dublin-Literary unread-country
-Letters to a Young Poet|Franz Xaver Kappus|4.29|nonfiction poetry essays classics Austria
+Letters to a Young Poet|Rainer Maria Rilke|4.29|nonfiction poetry essays classics Austria
 I Know Why the Caged Bird Sings|Maya Angelou|4.29|autobiography nonfiction
 Howl's Moving Castle|Diana Wynne Jones|4.29|fantasy YA
 Girl, Woman, Other|Bernardine Evaristo|4.29|contemporary LGBT literary British feminism Black Booker
