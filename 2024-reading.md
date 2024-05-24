@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Seoul Before Sunrise | Samir Dahmani | 2023 | France, South Korea | 3.5 | ebook | 144 | graphic novel, contemporary, LGBT |
 | Kaijumax, Season Two: The Seamy Underbelly | Zander Cannon | 2017 | U.S. | 4.0 | ebook | 160 | sci-fi, crime, graphic novel |
 | Called by Another Name: A Memoir of the Gwangju Uprising | David Lee Dolinger | 2022 | South Korea, U.S. | 5.0 | print | 270 | history, memoir |
 | The Berry Pickers | Amanda Peters | 2023 | Canada, U.S. | 5.0 | audio | 307 | historical, literary, Carnegie Medal |
