@@ -320,7 +320,6 @@ Tomb of Sand|Geetanjali Shree|3.70|18|literary India historical Booker
 The Yacoubian Building|Alaa Al Aswany|3.70|9|literary Egypt
 The Barbarian Nurseries|Héctor Tobar|3.70|16|contemporary literary L.A.
 Claire DeWitt and the City of the Dead|Sara Gran|3.69|9|mystery New Orleans
-The Swimmers|Julie Otsuka|3.68|4|literary contemporary
 The Shadow King|Maaza Mengiste|3.68|16|historical literary Ethiopia 1935
 Candide|Voltaire|3.68|4|classics philosophy France
 Body Horror|Anne Elizabeth Moore|3.68|8|nonfiction feminism
