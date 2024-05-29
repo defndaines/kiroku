@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Swimmers | Julie Otsuka  | 2022 | U.S. | 5.0 | audio | 176 | literary, contemporary, Carnegie Medal |
 | The Stone Home | Crystal Hana Kim | 2024 | South Korea, U.S. | 5.0 | audio | 352 | historical, literary |
 | Rebel Girl: My Life as a Feminist Punk | Kathleen Hanna | 2024 | U.S. | 4.5 | audio | 336 | nonfiction, memoir, music, feminism |
 | Seoul Before Sunrise | Samir Dahmani | 2023 | France, South Korea | 3.5 | ebook | 144 | graphic novel, contemporary, LGBT |

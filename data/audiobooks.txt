@@ -10,6 +10,7 @@ Braiding Sweetgrass|Robin Wall Kimmerer|4.54|17|nonfiction essays nature science
 The Reformatory|Tananarive Due|4.52|21|horror historical
 As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria unread-country YA
 All My Rage|Sabaa Tahir|4.52|10|Pakistan YA California National-Book
+There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|nonfiction memoir sports Columbus
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
 How to Say Babylon|Safiya Sinclair|4.49|17|memoir nonfiction feminism
 I'm Glad My Mom Died|Jennette McCurdy|4.47|6|memoir nonfiction
@@ -106,7 +107,6 @@ Building the Cycling City|Chris Bruntlett|4.16|8|nonfiction [audio hoopla]
 Birds Without Wings|Louis de Bernieres|4.16|23|Turkey historical
 The Wind-up Bird Chronicle|Haruki Murakami|4.15|26|contemporary literary magical-realism Japan
 The Wickwire Watch|Jacquelyn Hagen|4.15|15|fantasy YA steampunk
-The City of Brass|S.A. Chakraborty|4.15|20|fantasy YA historical
 Terrier|Tamora Pierce|4.15|15|YA fantasy
 Roadside Picnic|Boris Strugatsky|4.15|7|sci-fi classics Russia new-wave
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
@@ -165,7 +165,6 @@ Crow|Amy Spurway|4.05|10|contemporary Nova Scotia [audio hoopla]
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
 Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe unread-country
-Hateship, Friendship, Courtship, Loveship, Marriage: Stories|Alice Munro|4.04|10|literary short-stories Nobel Booker
 Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolbert|4.04|5|nonfiction nature politics science
 Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|11|nonfiction memoir biography L.A.
 A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Locus

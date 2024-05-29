@@ -3,9 +3,9 @@
 Established in 2012 to recognize the best fiction and nonfiction books for
 adult readers published in the U.S. in the previous year.
 
-Count: 3
+Count: 4
 
-## Fiction (2)
+## Fiction (3)
 
 - [ ] 2012: Anne Enright _The Forgotten Waltz_
 - [ ] 2013: Richard Ford _Canada_
@@ -18,7 +18,7 @@ Count: 3
 - [ ] 2020: Valeria Luiselli _Lost Children Archive_
 - [ ] 2021: James McBride _Deacon King Kong_
 - [ ] 2022: Tom Lin _The Thousand Crimes of Ming Tsu_
-- [ ] 2023: Julie Otsuka _The Swimmers_
+- [x] 2023: Julie Otsuka _The Swimmers_
 - [x] 2024: Amanda Peters _The Berry Pickers_
 
 ## Nonfiction (1)
