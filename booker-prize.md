@@ -3,7 +3,7 @@
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
 by whether I've read them or not.
 
-Count: 7
+Count: 8
 
 ## Booker Prize (4)
 
@@ -67,11 +67,11 @@ Count: 7
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
 - [x] 2023: Paul Lynch _Prophet Song_
 
-## International Booker Prize (3)
+## International Booker Prize (4)
 
 - [ ] 2005: Ismail Kadare (Albania)
 - [x] 2007: Chinua Achebe (Nigeria)
-- [ ] 2009: Alice Munro (Canada)
+- [x] 2009: Alice Munro (Canada)
 - [ ] 2011: Philip Roth (United States)
 - [ ] 2013: Lydia Davis (United States)
 - [ ] 2015: László Krasznahorkai (Hungary)

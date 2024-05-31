@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 28
+Count: 29
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -114,7 +114,7 @@ Count: 28
 - [x] 2010: Mario Vargas Llosa [Peru, Spain]: _The Feast of the Goat_
 - [ ] 2011: Tomas Tranströmer [Sweden]:
 - [ ] 2012: Mo Yan [China]:
-- [ ] 2013: Alice Munro [Canada]:
+- [x] 2013: Alice Munro [Canada]: _Hateship, Friendship, Courtship, Loveship, Marriage_
 - [ ] 2014: Patrick Modiano [France]:
 - [x] 2015: Svetlana Alexievich [Belarus]: _The Unwomanly Face of War_
 - [x] 2016: Bob Dylan [U.S.]: _The Freewheelin' Bob Dylan_
