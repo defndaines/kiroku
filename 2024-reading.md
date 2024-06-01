@@ -6,13 +6,15 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| the witch doesn't burn in this one | Amanda Lovelace | 2018 | U.S. | 4.5 | audio | 192 | poetry, feminism, nonfiction, Goodreads Choice Award, **June** |
+| And Every Morning the Way Home Gets Longer and Longer | Fredrik Backman | 2015 | Sweden | 4.5 | audio | 97 | novella, contemporary |
 | Hateship, Friendship, Courtship, Loveship, Marriage | Alice Munro | 2001 | Canada | 4.0 | audio | 323 | literary, short-stories, Nobel, Booker |
 | The Swimmers | Julie Otsuka  | 2022 | U.S. | 5.0 | audio | 176 | literary, contemporary, Carnegie Medal |
 | The Stone Home | Crystal Hana Kim | 2024 | South Korea, U.S. | 5.0 | audio | 352 | historical, literary |
 | Rebel Girl: My Life as a Feminist Punk | Kathleen Hanna | 2024 | U.S. | 4.5 | audio | 336 | nonfiction, memoir, music, feminism |
 | Seoul Before Sunrise | Samir Dahmani | 2023 | France, South Korea | 3.5 | ebook | 144 | graphic novel, contemporary, LGBT |
 | Kaijumax, Season Two: The Seamy Underbelly | Zander Cannon | 2017 | U.S. | 4.0 | ebook | 160 | sci-fi, crime, graphic novel |
-| Called by Another Name: A Memoir of the Gwangju Uprising | David Lee Dolinger | 2022 | South Korea, U.S. | 5.0 | print | 270 | history, memoir |
+| Called by Another Name: A Memoir of the Gwangju Uprising | David Lee Dolinger | 2022 | South Korea, U.S. | 5.0 | print | 270 | nonfiction, history, memoir |
 | The Berry Pickers | Amanda Peters | 2023 | Canada, U.S. | 5.0 | audio | 307 | historical, literary, Carnegie Medal |
 | Artificial Condition | Martha Wells | 2018 | U.S. | 4.0 | audio | 158 | sci-fi, novella, Hugo, Locus |
 | James | Percival Everett | 2024 | U.S. | 5.0 | audio | 303 | literary, historical |
