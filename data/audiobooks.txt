@@ -5,7 +5,6 @@ A Little Devil in America|Hanif Abdurraqib|4.61|10|nonfiction history music Blac
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
 The Spirit Bares Its Teeth|Andrew Joseph White|4.56|11|horror sci-fi LGBT fantasy historical YA
-The Fire Next Time|James Baldwin|4.54|2|nonfiction classics essays memoir race
 Braiding Sweetgrass|Robin Wall Kimmerer|4.54|17|nonfiction essays nature science indigenous
 The Reformatory|Tananarive Due|4.52|21|horror historical
 As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria unread-country YA
@@ -34,7 +33,6 @@ The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
 The Conquering Sword of Conan|Robert E. Howard|4.34|18|fantasy sequel-3
 Stoner|John Williams|4.33|10|classics historical literary
 Humankind: A Hopeful History|Rutger Bregman|4.33|12|nonfiction history philosophy psychology
-And Every Morning the Way Home Gets Longer and Longer|Fredrik Backman|4.33|1|Sweden contemporary short-stories
 A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
 The Road Back|Erich Maria Remarque|4.32|11|classics Germany sequel-AQotWF
 Happening|Annie Ernaux|4.32|2|memoir nonfiction literary abortion Nobel
@@ -53,6 +51,7 @@ The Four Winds|Kristin Hannah|4.30|15|historical Texas-1934-California
 Tell Me How Long the Train's Been Gone|James Baldwin|4.30|15|classics LGBT literary
 Leviathan Wakes|James S.A. Corey|4.30|21|sci-fi
 From Here to Eternity|Caitlin Doughty|4.30|6|nonfiction death science travel
+Another Country|James Baldwin|4.30|16|literary classics LGBT
 Solenoid|Mircea Cărtărescu|4.29|34|literary Romania International-Dublin-Literary unread-country
 Letters to a Young Poet|Rainer Maria Rilke|4.29|3|nonfiction poetry essays classics Austria
 I Know Why the Caged Bird Sings|Maya Angelou|4.29|10|autobiography nonfiction
@@ -171,7 +170,6 @@ A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Lo
 Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland unread-country
 David Copperfield|Charles Dickens|4.03|34|classics literary
 The Ocean at the End of the Lane|Neil Gaiman|4.02|6|fantasy horror magical-realism Locus
-The Black God's Drums|P. Djèlí Clark|4.02|3|steampunk
 Little|Edward Carey|4.02|14|historical Paris-1700s
 A Short History of Reconstruction|Eric Foner|4.02|13|nonfiction history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence|Kristen R. Ghodsee|4.01|5|nonfiction feminism history politics
@@ -264,7 +262,6 @@ Jonathan Strange & Mr. Norrell|Susanna Clarke|3.86|32|fantasy historical Hugo Lo
 I Hotel|Karen Tei Yamashita|3.86|22|historical literary short-stories San-Francisco-1968
 Never Let Me Go|Kazuo Ishiguro|3.85|10|literary sci-fi Nobel
 Everything I Never Told You|Celeste Ng|3.85|10|mystery historical literary
-Carmilla|Joseph Sheridan Le Fanu|3.85|3|classics horror LGBT Austria gothic
 Brown Girl in the Ring|Nalo Hopkinson|3.85|8|fantasy Jamaica Canada Locus
 How High We Go in the Dark|Sequoia Nagamatsu|3.84|9|sci-fi
 Heart Berries|Terese Marie Mailhot|3.84|4|nonfiction memoir indigenous
@@ -302,7 +299,6 @@ The Old Drift|Namwali Serpell|3.75|25|historical literary Zambia unread-country
 Native Speaker|Chang-rae Lee|3.75|11|contemporary literary ABA Korean-American
 All the Lovers in the Night|Mieko Kawakami|3.75|8| contemporary literary Japan
 I'm Waiting for You and Other Stories|Kim Bo-young|3.74|10|sci-fi short-stories
-The Witch Doesn't Burn in This One|Amanda Lovelace|3.73|1|poetry feminism
 The Island of Dr. Moreau|H. G. Wells|3.73|5|sci-fi horror classics
 Mobility|Lydia Kiesling|3.73|11|historical literary Azerbaijan unread-country
 Lone Women|Victor LaValle|3.73|9|horror historical fantasy

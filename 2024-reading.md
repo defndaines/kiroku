@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Fire Next Time | James Baldwin | 1963 | U.S. | 5.0 | audio | 106 | nonfiction, classics, essays, memoir, race |
 | Birnam Wood | Eleanor Catton | 2023 | New Zealand | 4.5 | print | 432 | literary, mystery, thriller, contemporary |
 | Carmilla | J. Sheridan Le Fanu | 1872 | Ireland, Austria | 4.0 | audio | 108 | novella, gothic, horror, vampires, LGBT, classics |
 | the witch doesn't burn in this one | Amanda Lovelace | 2018 | U.S. | 4.5 | audio | 192 | poetry, feminism, nonfiction, Goodreads Choice Award, **June** |
