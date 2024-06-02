@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Birnam Wood | Eleanor Catton | 2023 | New Zealand | 4.5 | print | 432 | literary, mystery, thriller, contemporary |
 | Carmilla | J. Sheridan Le Fanu | 1872 | Ireland, Austria | 4.0 | audio | 108 | novella, gothic, horror, vampires, LGBT, classics |
 | the witch doesn't burn in this one | Amanda Lovelace | 2018 | U.S. | 4.5 | audio | 192 | poetry, feminism, nonfiction, Goodreads Choice Award, **June** |
 | And Every Morning the Way Home Gets Longer and Longer | Fredrik Backman | 2015 | Sweden | 4.5 | audio | 97 | novella, contemporary |
