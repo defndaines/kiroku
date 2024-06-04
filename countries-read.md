@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 77
+Count: 78
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -231,3 +231,4 @@ Count: 77
 - [ ] Tuvalu:
 - [ ] Niue:
 - [ ] Vatican City:
+- [x] Antarctica: [_Endurance: Shackleton's Incredible Voyage_](https://www.goodreads.com/book/show/139069.Endurance) Alfred Lansing; [_Who Goes There?_](https://www.goodreads.com/book/show/6468870-who-goes-there) John W. Campbell Jr.

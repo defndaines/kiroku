@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Who Goes There? | John W. Campbell Jr. | 1938 | Antarctica, U.S. | 4.0 | audio | 161 | horror, sci-fi, classics |
 | The Black God's Drums | P. Djèlí Clark | 2018 | U.S. | 4.0 | audio | 112 | steampunk, novella, historical, fantasy, sci-fi |
 | The Fire Next Time | James Baldwin | 1963 | U.S. | 5.0 | audio | 106 | nonfiction, classics, essays, memoir, race |
 | Birnam Wood | Eleanor Catton | 2023 | New Zealand | 4.5 | print | 432 | literary, mystery, thriller, contemporary |
