@@ -1,5 +1,5 @@
-The New Fish|Kjetil Ostli|4.81|10|nonfiction nature farmed-fish
-They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.71|8|memoir nonfiction Palestine
+The New Fish|Kjetil Ostli|4.72|10|nonfiction nature farmed-fish
+They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.70|8|memoir nonfiction Palestine
 The Nightingale|Kristin Hannah|4.62|18|historical WWII occupied France
 A Little Devil in America|Hanif Abdurraqib|4.61|10|nonfiction history music Black
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
@@ -9,7 +9,7 @@ Braiding Sweetgrass|Robin Wall Kimmerer|4.54|17|nonfiction essays nature science
 The Reformatory|Tananarive Due|4.52|21|horror historical
 As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria unread-country YA
 All My Rage|Sabaa Tahir|4.52|10|Pakistan YA California National-Book
-There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|nonfiction memoir sports Columbus
+There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
 How to Say Babylon|Safiya Sinclair|4.49|17|memoir nonfiction feminism
 I'm Glad My Mom Died|Jennette McCurdy|4.47|6|memoir nonfiction
@@ -31,6 +31,7 @@ The Power of the Dog|Don Winslow|4.36|20|mystery thriller drug-trade
 The Art of Losing|Alice Zeniter|4.36|18|literary historical Algeria International-Dublin-Literary unread-country
 The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
 The Conquering Sword of Conan|Robert E. Howard|4.34|18|fantasy sequel-3
+The Song of Achilles|Madeline Miller|4.33|11|fantasy historical romance
 Stoner|John Williams|4.33|10|classics historical literary
 Humankind: A Hopeful History|Rutger Bregman|4.33|12|nonfiction history philosophy psychology
 A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
@@ -38,6 +39,7 @@ The Road Back|Erich Maria Remarque|4.32|11|classics Germany sequel-AQotWF
 Happening|Annie Ernaux|4.32|2|memoir nonfiction literary abortion Nobel
 A Day in the Life of Abed Salama|Nathan Thrall|4.32|7|nonfiction history politics Jerusalem
 The Rage of Dragons|Evan Winter|4.31|16|fantasy
+The Molière Collection|Molière|4.31|9|play France
 The Bloody Crown of Conan|Robert E. Howard|4.31|18|fantasy sequel-2
 The Big Bundle|Max Allan Collins|4.31|8|historical noir
 Shuggie Bain|Douglas Stuart|4.31|18|historical literary LGBT Booker
@@ -77,6 +79,7 @@ House of Suns|Alastair Reynolds|4.24|18|sci-fi
 Dearborn|Ghassan Zeineddine|4.24|8|short-stories literary contemporary
 Circe|Madeline Miller|4.24|12|fantasy Greek mythology literary
 The Perks of Being a Wallflower|Stephen Chbosky|4.23|6|YA classics contemporary mental-health
+Beautyland|Marie-Helene Bertino|4.23|9|literary sci-fi
 Reform or Revolution and Other Writings|Rosa Luxemburg|4.22|3|nonfiction economics philosophy politics [audio hoopla]
 Halfway Home|Reuben Jonathan Miller|4.22|8|nonfiction sociology race incarceration
 To Shape a Dragon's Breath|Moniquill Blackgoose|4.21|17|fantasy LGBT indigenous
@@ -129,6 +132,7 @@ Black Cake|Charmaine Wilkerson|4.11|12|historical literary California Black
 Your House Will Pay|Steph Cha|4.10|10|mystery historical literary Korean-Black-relations
 The Lost Flowers of Alice Hart|Holly Ringland|4.10|14|contemporary Australia
 The Birds of Opulence|Crystal Wilkinson|4.10|5|historical literary South mental-health
+My Dark Vanessa|Kate Elizabeth Russell|4.10|16|literary thriller read-after-Lolita
 Jade City|Fonda Lee|4.10|19|fantasy World-Fantasy
 A Wolf at the Schoolhouse Door|Jack Schneider, Jennifer C. Berkshire|4.10|8|nonfiction education
 Tigana|Guy Gavriel Kay|4.09|25|fantasy
@@ -231,6 +235,7 @@ Split Tooth|Tanya Tagaq|3.92|6|poetry historical literary magical-realism indige
 Severance|Ling Ma|3.92|10|sci-fi dystopian literary NYC-pandemic-2018
 Night of the Living Rez|Morgan Talty|3.92|7|contemporary literary indigenous Maine short-stories
 If I Ever Get Out of Here|Eric Gansworth|3.92|10|YA historical indigenous
+Cod: A Biography of the Fish that Changed the World|Mark Kurlansky|3.92|8|nonfiction history food science
 The Alchemist|Paulo Coelho|3.91|4|classics fantasy literary
 Semiosis|Sue Burke|3.91|15|sci-fi
 A General Theory of Oblivion|José Eduardo Agualusa|3.91|4|Angola historical literary International-Dublin-Literary unread-country [audio hoopla]
@@ -280,7 +285,6 @@ A Farewell to Arms|Ernest Hemingway|3.82|9|war Nobel
 The Vaster Wilds|Lauren Groff|3.81|7|historical literary America
 Nova|Samuel R. Delany|3.81|9|sci-fi
 Heaven|Mieko Kawakami|3.81|6|contemporary literary Japan
-Who Goes There?|John W. Campbbell|3.80|2|classics horror sci-fi [audio hoopla]
 To the Lighthouse|Virginia Woolf|3.80|8|literary classics
 The Plague of Doves|Louise Erdrich|3.80|11|historical mystery indigenous
 Evergreen|Naomi Hirahara|3.80|9|historical mystery sequel-Clark-and-Division
@@ -289,7 +293,6 @@ A Head Full of Ghosts|Paul Tremblay|3.79|9|horror mystery thriller New England
 The Grace of Kings|Ken Liu|3.78|22|fantasy Locus
 And Put Away Childish Things|Adrian Tchaikovsky|3.78|5|fantasy sci-fi
 Saints and Misfits|S.K. Ali|3.77|8|contemporary YA Muslim
-Le misanthrope|Molière|3.77|1|play France
 History of Violence|Édouard Louis|3.77|5|nonfiction autobiography LGBT France
 Dhalgren|Samuel R. Delany|3.77|35|sci-fi literary LGBT magical-realism
 Strike the Zither|Joan He|3.76|11|fantasy YA historical China-414

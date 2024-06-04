@@ -72,12 +72,12 @@ Four Hands|Paco Ignacio Taibo II|3.94|historical crime mystery
 Tiger Honor|Yoon Ha Lee|3.93|sci-fi YA fantasy Korean-mythology [audio available]
 Bel Canto|Ann Patchett|3.93|literary contemporary South America terrorism/hostages Womens [audio available]
 History of the Peloponnesian War|Thucydides|3.91|nonfiction classics history war [audio hoopla]
+Tarzan of the Apes|Edgar Rice Burroughs|3.90|fantasy classic pulp
 State of Wonder|Ann Patchett|3.89|contemporary literary [audio hoopla]
 Comrade: An Essay on Political Belonging|Jodi Dean|3.89|nonfiction philosophy politics
 Diné: A History of the Navajos|Peter Iverson|3.88|nonfiction history
 The Aeneid|Virgil, Robert Fitzgerald (translator)|3.86|classics poetry [audio hoopla]
 At the End of the Matinee|Keiichirō Hirano|3.86|literary romance
-Forest of Wonders|Linda Sue Park|3.85|fantasy YA
 Go for Beginners|Kaoru Iwamoto|3.84|nonfiction game reference
 The Seattle General Strike|Robin Friedheim|3.83|nonfiction history politics
 The Best American Science Fiction and Fantasy 2018|N. K. Jemisin (editor), John Joseph Adams (editor)|3.83|sci-fi fantasy short-stories
@@ -101,3 +101,98 @@ Flood|S. Alexander Reed, Elizabeth Sandifer|3.47|nonfiction music history
 The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America|Mark Kurlansky|3.46|nonfiction history [audio hoopla]
 The Zen Gun|Barrington J. Bayley|3.37|sci-fi
 Blackass|A. Igoni Barrett|3.35|contemporary magical-realism Nigeria
+### Kids' Shelves
+The Diary of Curious Cuthbert|Jack Challoner|5.00|YA poetry
+City of Secrets|Alex London|4.61|fantasy YA battle-dragons-3
+How to Fight a Dragon’s Fury|by Cressida Cowell|4.59|YA fantasy how-to-train-12
+How to Betray a Dragon's Hero|by Cressida Cowell|4.49|YA fantasy how-to-train-11
+How to Seize a Dragon's Jewel|by Cressida Cowell|4.46|YA fantasy how-to-train-10
+How to Steal a Dragon's Sword|by Cressida Cowell|4.43|YA fantasy how-to-train-9
+City of Speed|Alex London|4.43|fantasy YA battle-dragons-2
+The Shadow Crosser|J.C. Cervantes|4.40|fantasy YA mythology
+The Elders|Inbali Iserles|4.38|fantasy YA foxcraft-2
+Amari and the Night Brothers|B.B. Alston|4.38|fantasy YA mystery
+Beneath the Stone Forest|Jordan Quinn|4.37|YA fantasy wrenly-6
+How to Break a Dragon's Heart|by Cressida Cowell|4.36|YA fantasy how-to-train-8
+The Pegasus Quest|Jordan Quinn|4.34|YA fantasy wrenly-10
+The Fire Keeper|J.C. Cervantes|4.33|fantasy YA mythology
+Let the Games Begin!|Jordan Quinn|4.33|YA fantasy wrenly-7
+The Secret World of Mermaids|Jordan Quinn|4.32|YA fantasy wrenly-8
+The Fort|Gordon Korman|4.32|YA
+Adventures in Flatfrost|Jordan Quinn|4.32|YA fantasy wrenly-5
+Sea Monster!|Jordan Quinn|4.31|YA fantasy wrenly-3
+The Witch's Curse|Jordan Quinn|4.30|YA fantasy wrenly-4
+Prairie Lotus|Linda Sue Park|4.30|YA historical
+The Bard and the Beast|Jordan Quinn|4.29|YA fantasy wrenly-9
+Swim Team|Johnnie Christmas|4.28|graphic novel YA sports
+Words on Fire|Jennifer A. Nielsen|4.27|historical YA Lithuania
+Willa of Dark Hollow|Robert Beatty|4.27|fantasy YA historical
+The Scarlet Dragon|Jordan Quinn|4.27|YA fantasy wrenly-2
+How to Ride a Dragon's Storm|by Cressida Cowell|4.27|YA fantasy how-to-train-7
+The Lives of Christopher Chant|Diana Wynne Jones|4.25|fantasy YA chrestomancy-2
+Pippa Park Raises Her Game|Erin Yun|4.23|YA sports
+How to Twist a Dragon's Tale|by Cressida Cowell|4.22|YA fantasy how-to-train-5
+How to Cheat a Dragon's Curse|by Cressida Cowell|4.22|YA fantasy how-to-train-4
+A Hero's Guide to Deadly Dragons|by Cressida Cowell|4.22|YA fantasy how-to-train-6
+More to the Story|Hena Khan|4.21|YA contemporary
+Stuart Little|E.B. White|4.20|fantasy classics YA reread
+Riding Freedom|Pam Muñoz Ryan|4.17|historical YA
+How to Speak Dragonese|by Cressida Cowell|4.14|YA fantasy how-to-train-3
+The Mighty Miss Malone|Christopher Paul Curtis|4.13|historical YA
+Inside Out & Back Again|Thanhhà Lại|4.12|historical YA poetry
+Coraline|Neil Gaiman|4.12|fantasy YA horror
+The Wild Robot|Peter Brown|4.11|YA sci-fi
+My Fate According to the Butterfly|Gail D. Villanueva|4.11|YA contemporary Philippines
+The Pinhoe Egg|Diana Wynne Jones|4.10|fantasy YA chrestomancy-6
+Stand Up, Yumi Chung!|Jessica Kim|4.10|YA contemporary
+Not If I Can Help It|Carolyn Mackler|4.10|YA contemporary disability
+The Girl Who Could Fly|Victoria Forester|4.09|fantasy YA
+The First Rule of Punk|Celia C. Pérez|4.09|YA music
+My Side of the Mountain|Jean Craighead George|4.09|YA classics survival
+How to Be a Pirate|by Cressida Cowell|4.09|YA fantasy how-to-train-2
+The Taken|Inbali Iserles|4.08|fantasy YA foxcraft-1
+Conrad's Fate|Diana Wynne Jones|4.08|fantasy YA chrestomancy-5
+Ameilia Fang and the Barbaric Ball|Laura Ellen Anderson|4.08|YA fantasy horror
+A Boy Called Bat|Elana K. Arnold|4.07|YA autism
+The Storm Runner|J.C. Cervantes|4.06|fantasy YA mythology
+The Journey of Little Charlie|Christopher Paul Curtis|4.06|historical YA
+The Astonishing Color of After|Emily X.R. Pan|4.06|YA contemporary magical-realism
+Esperanza Rising|Pam Muñoz Ryan|4.04|historical YA
+Three Times Lucky|Sheila Turnage|4.03|mystery YA
+Swallows and Amazons|Arthur Ransome|4.01|YA classics adventure
+Spirit Hunters|Ellen Oh|4.01|YA horror fantasy
+I'll Be the One|Lyla Lee|4.01|YA romance LGBT
+I Rode a Horse of Milk White Jade|Diane Lee Wilson|4.01|historical YA
+The Westing Game|Ellen Raskin|4.00|mystery YA classics
+The Lost Stone|Jordan Quinn|4.00|YA fantasy wrenly-1
+Mars Evacuees|Sophia McDougall|4.00|sci-fi YA
+The Madman of Piney Woods|Christopher Paul Curtis|3.99|historical YA adventure
+Sylvia & Aki|Winifred Conkling|3.98|historical YA
+City of Thieves|Alex London|3.97|fantasy YA battle-dragons-1
+Charmed Life|Diana Wynne Jones|3.97|fantasy YA chrestomancy-1
+Kira-Kira|Cynthia Kadohata|3.96|historical YA
+The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making|Catherynne M. Valente|3.95|fantasy YA
+Elijah of Buxton|Christopher Paul Curtis|3.95|historical YA
+Mixed Up|Gordon Korman|3.94|YA sci-fi
+Witch Week|Diana Wynne Jones|3.93|fantasy YA chrestomancy-3
+The Magicians of Caprona|Diana Wynne Jones|3.93|fantasy YA chrestomancy-4
+Ugly|Robert Hoge|3.92|memoir nonfiction YA disability
+The Same Stuff as Stars|Kathering Paterson|3.91|YA
+How to Train Your Dragon|by Cressida Cowell|3.91|YA fantasy how-to-train-1
+Wildfire: A Novel|Rodman Philbrick|3.90|YA survival
+Tarzan of the Apes|Edgar Rice Burroughs|3.90|fantasy classic pulp
+Charlotte's Web|E.B. White|3.90|fantasy classics YA
+The Last Dragonslayer|Jasper Fforde|3.88|fantasy YA
+Let Sleeping Dragons Lie|Garth Nix, Sean Williams|3.87|fantasy YA sequel-Have-Sword,-Will-Travel
+Mixed Magics: Four Tales of Chrestomanci|Diana Wynne Jones|3.86|fantasy YA chrestomancy-*
+Forest of Wonders|Linda Sue Park|3.85|fantasy YA
+Unicorn Power!|Mariko Tamaki|3.83|YA fantasy LGBT
+Etiquette & Espionage|Gail Carriger|3.83|steampunk YA historical
+Frogkisser!|Garth Nix|3.81|fantasy YA
+The Case of the Missing Marquess|Nancy Springer|3.78|YA historical mystery
+The Case of Windy Lake|Michael Hutchinson|3.77|mystery YA
+Stargirl|Jerry Spinelli|3.77|YA contemporary romance
+Bone Talk|Candy Gourlay|3.74|historical YA
+Into the Jungle|Matt Forbeck|3.61|fantasy YA D&D-Endless-Quest
+To Catch a Thief|Matt Forbeck|3.60|fantasy YA D&D-Endless-Quest
+Big Trouble|Matt Forbeck|3.57|fantasy YA D&D-Endless-Quest
