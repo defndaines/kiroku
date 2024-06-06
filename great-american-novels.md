@@ -6,7 +6,7 @@ Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fi
 I'm interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
-Count: 34
+Count: 35
 
 - [x] F. Scott Fitzgerald _The Great Gatsby_ (1925)
 - [ ] Theodore Dreiser _An American Tragedy_ (1925)
@@ -136,7 +136,7 @@ Count: 34
 - [x] Claude McKay _Amiable With Big Teeth_ (2017)
 - [ ] George Saunders _Lincoln in the Bardo_ (2017)
 - [ ] Nick Drnaso _Sabrina_ (2018)
-- [ ] Ling Ma _Severance_ (2018)
+- [x] Ling Ma _Severance_ (2018)
 - [x] Tommy Orange _There There_ (2018)
 - [ ] Valeria Luiselli _Lost Children Archive_ (2019)
 - [ ] Kevin Wilson _Nothing to See Here_ (2019)
