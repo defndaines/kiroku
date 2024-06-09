@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 78
+Count: 79
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -79,7 +79,7 @@ Count: 78
 - [x] Chile: [_Zorro_](https://www.goodreads.com/book/show/24796.Zorro) Isabel Allende
 - [ ] Kazakhstan:
 - [ ] Zambia:
-- [ ] Romania:
+- [x] Romania: [_The Fox Was Ever the Hunter_](https://www.goodreads.com/book/show/23847927-the-fox-was-ever-the-hunter) Herta Muller
 - [x] Ecuador: [_La mandíbula del río_](https://www.uncannymagazine.com/article/la-mandibula-del-rio/) Ana Hurtado
 - [x] Senegal: [_God's Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
 - [ ] Somalia: [_Black Hawk Down_](https://www.goodreads.com/book/show/55403.Black_Hawk_Down) Mark Bowden; Nuruddin Farah ?

@@ -3,7 +3,7 @@
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 29
+Count: 30
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -110,7 +110,7 @@ Count: 29
 - [x] 2006: Orhan Pamuk [Türkiye]: _Silent House_
 - [ ] 2007: Doris Lessing [U.K.]:
 - [ ] 2008: Jean-Marie Gustave Le Clézio [France, Mauritius]:
-- [ ] 2009: Herta Müller [Germany, Romania]:
+- [x] 2009: Herta Müller [Germany, Romania]: _The Fox Was Ever the Hunter_
 - [x] 2010: Mario Vargas Llosa [Peru, Spain]: _The Feast of the Goat_
 - [ ] 2011: Tomas Tranströmer [Sweden]:
 - [ ] 2012: Mo Yan [China]:
