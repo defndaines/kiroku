@@ -7,7 +7,7 @@ book finished in a month is tagged with the month in **bold**.
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
 | The Fox Was Ever the Hunter | Herta Müller | 1992 | Romania | 3.0 | audio | 237 | literary, historical, Nobel |
-| Severance | Ling Ma | 2018 | U.S. | 4.5 | audio  291 | sci-fi, literary, dystopian |
+| Severance | Ling Ma | 2018 | U.S. | 4.5 | audio | 291 | sci-fi, literary, dystopian |
 | The War of the Worlds | H.G. Wells | 1898 | U.K. | 3.5 | audio | 141 | classics, sci-fi |
 | Who Goes There? | John W. Campbell Jr. | 1938 | Antarctica, U.S. | 4.0 | audio | 161 | horror, sci-fi, classics |
 | The Black God's Drums | P. Djèlí Clark | 2018 | U.S. | 4.0 | audio | 112 | steampunk, novella, historical, fantasy, sci-fi |
