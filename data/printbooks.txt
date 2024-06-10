@@ -28,6 +28,7 @@ NAM: The Vietnam War in the Words of the Men and Women Who Fought There|Mark Bak
 Asia's Unknown Uprisings, Volume 1: South Korean Social Movements in the 20th Century|George Katsiaficas|4.23|nonfiction history politics
 Socialism and the Irish Rebellion: Writings from James Connolly|James Connolly|4.22|nonfiction history
 The Weight of Our Sky|Hanna Alkaf|4.21|historical YA Malaysia
+Six Crimson Cranes|Elizabeth Lim|4.21|fantasy YA romance [audio available]
 The Other Wind|Ursula K. Le Guin|4.19|fantasy YA classics sequel-earthsea-6
 The Legacy of Yangchen|F.C. Yee|4.18|fantasy YA sequel-2 [audio hoopla]
 The Black Lord|Colin Hinckley|4.17|horror
@@ -182,6 +183,7 @@ How to Train Your Dragon|by Cressida Cowell|3.91|YA fantasy how-to-train-1
 Wildfire: A Novel|Rodman Philbrick|3.90|YA survival
 Tarzan of the Apes|Edgar Rice Burroughs|3.90|fantasy classic pulp
 Charlotte's Web|E.B. White|3.90|fantasy classics YA
+Flush|Carl Hiaasen|3.89|YA mystery
 The Last Dragonslayer|Jasper Fforde|3.88|fantasy YA
 Let Sleeping Dragons Lie|Garth Nix, Sean Williams|3.87|fantasy YA sequel-Have-Sword,-Will-Travel
 Mixed Magics: Four Tales of Chrestomanci|Diana Wynne Jones|3.86|fantasy YA chrestomancy-*
@@ -196,3 +198,9 @@ Bone Talk|Candy Gourlay|3.74|historical YA
 Into the Jungle|Matt Forbeck|3.61|fantasy YA D&D-Endless-Quest
 To Catch a Thief|Matt Forbeck|3.60|fantasy YA D&D-Endless-Quest
 Big Trouble|Matt Forbeck|3.57|fantasy YA D&D-Endless-Quest
+Cinder|Marissa Meyer|4.13|YA fantasy lunar-chronicles-1
+Scarlet|Marissa Meyer|4.24|YA fantasy lunar-chronicles-2
+Cress|Marissa Meyer|4.41|YA fantasy lunar-chronicles-3
+Fairest|Marissa Meyer|3.95|YA fantasy lunar-chronicles-3.5
+Winter|Marissa Meyer|4.42|YA fantasy lunar-chronicles-4
+Stars Above|Marissa Meyer|4.16|YA fantasy lunar-chronicles-4.5

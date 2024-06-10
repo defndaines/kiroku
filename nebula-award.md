@@ -5,7 +5,7 @@ List of Nebula Award winners identified by whether I've read them.
 Only including other awards when I've read them or plan to read them, since
 those lists are not goals I'm looking to fill in.
 
-Count: 26
+Count: 27
 
 ## Best Novel (12)
 
@@ -68,6 +68,7 @@ Count: 26
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
+- [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 
 ## Best Novella (5)
 
@@ -78,10 +79,11 @@ Count: 26
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: C. L. Polk _Even Though I Knew the End_
 
-## Best Novelette (2)
+## Best Novelette (3)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
+- [x] 2024: Naomi Kritzer _The Year Without Sunshine_
 
 ## Best Short Story (3)
 
@@ -96,6 +98,7 @@ Count: 26
 - [x] 2019: Tomi Adeyemi _Children of Blood and Bone_
 - [x] 2021: Ursula Vernon (as T. Kingfisher) _A Wizard's Guide to Defensive Baking_
 - [x] 2022: Darcie Little Badger _A Snake Falls to Earth_
+- [ ] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 
 ## Ray Bradbury Award (10)
 

@@ -6,6 +6,7 @@ They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir 
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
 The Spirit Bares Its Teeth|Andrew Joseph White|4.56|11|horror sci-fi LGBT fantasy historical YA
 Braiding Sweetgrass|Robin Wall Kimmerer|4.54|17|nonfiction essays nature science indigenous
+The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.53|nonfiction history biography
 The Reformatory|Tananarive Due|4.52|21|horror historical
 As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria unread-country YA
 All My Rage|Sabaa Tahir|4.52|10|Pakistan YA California National-Book
@@ -78,11 +79,13 @@ Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge|Benjami
 House of Suns|Alastair Reynolds|4.24|18|sci-fi
 Dearborn|Ghassan Zeineddine|4.24|8|short-stories literary contemporary
 Circe|Madeline Miller|4.24|12|fantasy Greek mythology literary
+A Crane Among Wolves|June Hur|4.12|10|historical mystery YA fantasy Korean
 The Perks of Being a Wallflower|Stephen Chbosky|4.23|6|YA classics contemporary mental-health
 Beautyland|Marie-Helene Bertino|4.23|9|literary sci-fi
 Reform or Revolution and Other Writings|Rosa Luxemburg|4.22|3|nonfiction economics philosophy politics [audio hoopla]
 Halfway Home|Reuben Jonathan Miller|4.22|8|nonfiction sociology race incarceration
-To Shape a Dragon's Breath|Moniquill Blackgoose|4.21|17|fantasy LGBT indigenous
+To Shape a Dragon's Breath|Moniquill Blackgoose|4.21|17|fantasy LGBT indigenous Nebula
+Six Crimson Cranes|Elizabeth Lim|4.21|13|fantasy YA romance
 Revolutionary Spring|Christopher Clark|4.21|33|nonfiction 1848 history
 Flowers for Algernon|Daniel Keyes|4.21|9|sci-fi classics literary YA reread Hugo Nebula
 Deep River|Karl Marlantes|4.21|26|historical literary Finnish-U.S.
@@ -113,7 +116,6 @@ Terrier|Tamora Pierce|4.15|15|YA fantasy
 Roadside Picnic|Boris Strugatsky|4.15|7|sci-fi classics Russia new-wave
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
 Song of Solomon|Toni Morrison|4.14|3|classics literary magical-realism Nobel
-A Fire Upon the Deep|Vernor Vinge|4.14|22|sci-fi Hugo
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
 Heroes of the Water Monster|Brian Young|4.13|10|fantasy YA
@@ -234,7 +236,6 @@ The Good Lord Bird|James McBride|3.92|15|historical National-Book
 Split Tooth|Tanya Tagaq|3.92|6|poetry historical literary magical-realism indigenous
 Night of the Living Rez|Morgan Talty|3.92|7|contemporary literary indigenous Maine short-stories
 If I Ever Get Out of Here|Eric Gansworth|3.92|10|YA historical indigenous
-Cod: A Biography of the Fish that Changed the World|Mark Kurlansky|3.92|8|nonfiction history food science
 The Alchemist|Paulo Coelho|3.91|4|classics fantasy literary
 Semiosis|Sue Burke|3.91|15|sci-fi
 A General Theory of Oblivion|José Eduardo Agualusa|3.91|4|Angola historical literary International-Dublin-Literary unread-country [audio hoopla]
@@ -355,7 +356,6 @@ Then We Came to the End|Joshua Ferris|3.46|5|humor contemporary
 One-Shot Harry|Gary Phillips|3.46|8|mystery historical 1963-L.A.
 Give Me Some Truth|Eric Gansworth|3.45|14|YA historical music indigenous
 Under the Pendulum Sun|Jeannette Ng|3.44|13|fantasy horror
-The Fox Was Ever the Hunter|Herta Muller|3.43|8|literary Romania Nobel unread-country
 I'm a Fan|Sheena Patel|3.43|5|contemporary literary British
 The House of Shattered Wings|Aliette de Bodard|3.40|15|Paris steampunk mystery
 North of Dawn|Nuruddin Farah|3.39|10|literary Somalia unread-country
