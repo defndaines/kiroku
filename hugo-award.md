@@ -35,7 +35,7 @@ Count: 50
 - [x] 1969: John Brunner _Stand on Zanzibar_
 - [x] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
 - [ ] 1971: Larry Niven _Ringworld_
-- [ ] 1972: Philip Jos&eacute; Farmer _To Your Scattered Bodies Go_
+- [ ] 1972: Philip José Farmer _To Your Scattered Bodies Go_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
 - [ ] 1975: Ursula K. Le Guin _The Dispossessed_
@@ -69,12 +69,12 @@ Count: 50
 - [x] 2002: Neil Gaiman _American Gods_
 - [ ] 2003: Robert J. Sawyer _Hominids_
 - [ ] 2004: Lois McMaster Bujold _Paladin of Souls_
-- [ ] 2005: Susanna Clarke _Jonathan Strange &amp; Mr Norrell_
+- [ ] 2005: Susanna Clarke _Jonathan Strange & Mr Norrell_
 - [ ] 2006: Robert Charles Wilson _Spin_
 - [ ] 2007: Vernor Vinge _Rainbows End_
 - [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
 - [x] 2009: Neil Gaiman _The Graveyard Book_
-- [x] 2010: China Mi&eacute;ville _The City &amp; the City_
+- [x] 2010: China Miéville _The City & the City_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
 - [ ] 2011: Connie Willis _Blackout/All Clear_
 - [ ] 2012: Jo Walton _Among Others_
