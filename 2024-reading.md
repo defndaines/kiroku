@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Cod: A Biography of the Fish that Changed the World | Mark Kurlansky | 1999 | U.S. | 4.0 | audio | 294 | nonfiction, history, science, food |
 | The Complete American Gods | Neil Gaiman | 2023 | U.S. | 4.5 | ebook | 712 | graphic novel, fantasy, Eisner |
 | The Lonely Londoners | Sam Selvon | 1956 | U.K., Trinidad | 3.5 | print | 142 | classics |
 | The Fox Was Ever the Hunter | Herta Müller | 1992 | Romania | 3.0 | audio | 237 | literary, historical, Nobel |
