@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Cover | Brian Michael Bendis | 2022 | U.S. | 4.0 | print | 176 | graphic novel, contemporary |
 | Rain | Joe Hill, David M. Booher | 2022 | U.S. | 4.0 | ebook | 156 | graphic novel, horror, LGBT |
 | Cod: A Biography of the Fish that Changed the World | Mark Kurlansky | 1999 | U.S. | 4.0 | audio | 294 | nonfiction, history, science, food |
 | The Complete American Gods | Neil Gaiman | 2023 | U.S. | 4.5 | ebook | 712 | graphic novel, fantasy, Eisner |
