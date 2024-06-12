@@ -6,7 +6,7 @@ tail -n +9 2024-reading.md | wc -l
 
 ## Authors
 
-tail -n +9 2024-reading.md | cut -d \| -f 3 | sort | uniq -c | sort -n
+tail -n +9 2024-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
 
 ## Publication Year
 
