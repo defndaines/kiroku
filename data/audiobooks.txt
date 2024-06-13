@@ -16,7 +16,7 @@ How to Say Babylon|Safiya Sinclair|4.49|17|memoir nonfiction feminism
 I'm Glad My Mom Died|Jennette McCurdy|4.47|6|memoir nonfiction
 To Be a Friend Is Fatal: The Fight to Save the Iraqis America Left Behind|Kirk Wallace Johnson|4.45|11|nonfiction history politics
 Crossings|Ben Goldfarb|4.45|12|nonfiction nature science roads
-Brotherless Night|V.V. Ganeshananthan|4.45|13|literary historical Sri Lanka Carol-Shields-Prize
+Brotherless Night|V.V. Ganeshananthan|4.45|13|literary historical Sri Lanka Carol-Shields-Prize Womens-Prize
 A Little Hatred|Joe Abercrombie|4.45|20|fantasy
 Madonna in a Fur Coat|Sabahattin Ali|4.42|6|Turkey romance
 Arch of Triumph|Erich Maria Remarque|4.42|16|historical literary 1939-refugee-in-Paris
@@ -230,7 +230,7 @@ The Fisherman|John Langan|3.93|11|horror fantasy
 Passing|Nella Larsen|3.93|4|classics literary 1929
 Mongrels|Stephen Graham Jones|3.93|10|horror werewolves indigenous
 Black Bottom Saints|Alice Randall|3.93|12|historical Black Detroit
-Bel Canto|Ann Patchett|3.93|11|literary contemporary South America terrorism/hostages Womens
+Bel Canto|Ann Patchett|3.93|11|literary contemporary South America terrorism/hostages Womens-Prize
 Titus Groan|Mervyn Peake|3.92|17|classics fantasy gothic 1946
 The Good Lord Bird|James McBride|3.92|15|historical National-Book
 Split Tooth|Tanya Tagaq|3.92|6|poetry historical literary magical-realism indigenous

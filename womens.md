@@ -32,7 +32,8 @@ Count: 3
 - [x] 2021: Susanna Clarke _Piranesi_
 - [ ] 2022: Ruth Ozeki _The Book of Form and Emptiness_
 - [ ] 2023: Barbara Kingsolver _Demon Copperhead_
+- [ ] 2024: V. V. Ganeshananthan _Brotherless Night_
 
 ## Non-fiction
 
-- [ ] 2024:
+- [ ] 2024: Naomi Klein _Doppelganger_
