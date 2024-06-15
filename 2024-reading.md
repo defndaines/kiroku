@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 5: Black Wind | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
 | Arca | Van Jensen | 2023 | U.S. | 3.5 | ebook | 176 | graphic novel, sci-fi, dystopian |
 | Cover | Brian Michael Bendis | 2022 | U.S. | 4.0 | print | 176 | graphic novel, contemporary |
 | Rain | Joe Hill, David M. Booher | 2022 | U.S. | 4.0 | ebook | 156 | graphic novel, horror, LGBT |
