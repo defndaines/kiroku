@@ -73,7 +73,6 @@ Four Hands|Paco Ignacio Taibo II|3.94|historical crime mystery
 Tiger Honor|Yoon Ha Lee|3.93|sci-fi YA fantasy Korean-mythology [audio available]
 Bel Canto|Ann Patchett|3.93|literary contemporary South America terrorism/hostages Womens-Prize [audio available]
 History of the Peloponnesian War|Thucydides|3.91|nonfiction classics history war [audio hoopla]
-Tarzan of the Apes|Edgar Rice Burroughs|3.90|fantasy classic pulp
 State of Wonder|Ann Patchett|3.89|contemporary literary [audio hoopla]
 Comrade: An Essay on Political Belonging|Jodi Dean|3.89|nonfiction philosophy politics
 Diné: A History of the Navajos|Peter Iverson|3.88|nonfiction history
@@ -181,7 +180,6 @@ Ugly|Robert Hoge|3.92|memoir nonfiction YA disability
 The Same Stuff as Stars|Kathering Paterson|3.91|YA
 How to Train Your Dragon|by Cressida Cowell|3.91|YA fantasy how-to-train-1
 Wildfire: A Novel|Rodman Philbrick|3.90|YA survival
-Tarzan of the Apes|Edgar Rice Burroughs|3.90|fantasy classic pulp
 Charlotte's Web|E.B. White|3.90|fantasy classics YA
 Flush|Carl Hiaasen|3.89|YA mystery
 The Last Dragonslayer|Jasper Fforde|3.88|fantasy YA
