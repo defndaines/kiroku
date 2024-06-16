@@ -76,6 +76,7 @@ History of the Peloponnesian War|Thucydides|3.91|nonfiction classics history war
 State of Wonder|Ann Patchett|3.89|contemporary literary [audio hoopla]
 Comrade: An Essay on Political Belonging|Jodi Dean|3.89|nonfiction philosophy politics
 Diné: A History of the Navajos|Peter Iverson|3.88|nonfiction history
+The Death of Artemio Cruz|Carlos Fuentes|3.86|classics literary
 The Aeneid|Virgil, Robert Fitzgerald (translator)|3.86|classics poetry [audio hoopla]
 At the End of the Matinee|Keiichirō Hirano|3.86|literary romance
 Go for Beginners|Kaoru Iwamoto|3.84|nonfiction game reference
@@ -192,6 +193,7 @@ Frogkisser!|Garth Nix|3.81|fantasy YA
 The Case of the Missing Marquess|Nancy Springer|3.78|YA historical mystery
 The Case of Windy Lake|Michael Hutchinson|3.77|mystery YA
 Stargirl|Jerry Spinelli|3.77|YA contemporary romance
+Paradise of the Blind|Dương Thu Hương|3.77|historical classics
 Bone Talk|Candy Gourlay|3.74|historical YA
 Into the Jungle|Matt Forbeck|3.61|fantasy YA D&D-Endless-Quest
 To Catch a Thief|Matt Forbeck|3.60|fantasy YA D&D-Endless-Quest

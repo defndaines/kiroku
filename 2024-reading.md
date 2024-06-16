@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Women's Liberation and the African Freedom Struggle | Thomas Sankara | 1987 | Burkina Faso | 3.0 | print | 69 | nonfiction, politics, feminism |
 | The Black Lord | Colin Hinckley | 2023 | U.S. | 3.5 | print | 114 | horror, short-stories |
 | Lone Wolf and Cub, Vol. 5: Black Wind | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
 | Arca | Van Jensen | 2023 | U.S. | 3.5 | ebook | 176 | graphic novel, sci-fi, dystopian |
