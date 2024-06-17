@@ -255,7 +255,6 @@ The Iron King|Julie Kagawa|3.88|14|fantasy romance YA
 The House Next Door|Anne Rivers Siddons|3.88|11|horror mystery South gothic
 The Helm of Midnight|Marina Lostetter|3.88|22|fantasy horror mystery
 Lolita|Vladimir Nabokov|3.88|11|literary classics
-Downward to the Earth|Robert Silverberg|3.88|7|sci-fi
 The Magical Language of Others|E. J. Koh|3.87|5|nonfiction memoir Korea-California
 Cyber Mage|Saad Z. Hossain|3.87|13|sci-fi cyberpunk [audio hoopla]
 All This Could Be Different|Sarah Thankam Mathews|3.87|11|LGBT literary Milwaukee author:Oman/India
@@ -276,7 +275,6 @@ Blood Music|Greg Bear|3.84|11|sci-fi horror classics
 Winter in the Blood|James Welch|3.83|5|classics literary indigenous
 Confession of the Lioness|Mia Couto|3.83|7|contemporary Mozambique unread-country
 Ceremony|Leslie Marmon Silko|3.83|9|classics historical literary indigenous ABA
-Your Utopia|Bora Chung|3.82|7|horror sci-fi short-stories Korea
 The Dog of the South|Charles Portis|3.82|8|humor South
 Maeve Fly|C.J. Leede|3.82|8|horror
 In the Company of Men|Véronique Tadjo|3.82|3|literary historical Ebola Africa

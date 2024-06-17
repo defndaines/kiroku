@@ -5,9 +5,9 @@ List of Hugo Award winners, identified by whether I've read them.
 Only including other awards when I've read them or plan to read them, since
 those lists are not goals I'm looking to fill in.
 
-Count: 50
+Count: 51
 
-## Best Novel (22)
+## Best Novel (23)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -57,7 +57,7 @@ Count: 50
 - [ ] 1991: Lois McMaster Bujold _The Vor Game_
 - [ ] 1992: Lois McMaster Bujold _Barrayar_
 - [ ] 1993: Connie Willis _Doomsday Book_
-- [ ] 1993: Vernor Vinge _A Fire Upon the Deep_
+- [x] 1993: Vernor Vinge _A Fire Upon the Deep_
 - [ ] 1994: Kim Stanley Robinson _Green Mars_
 - [ ] 1995: Lois McMaster Bujold _Mirror Dance_
 - [ ] 1996: Neal Stephenson _The Diamond Age_
