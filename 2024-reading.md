@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 7: Cloud Dragon, Wind Tiger | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Your Utopia | Bora Chung | 2021 | South Korea | 4.0 | audio | 256 | short-stories, sci-fi, horror |
 | Lone Wolf and Cub, Vol. 6: Lanterns for the Dead | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
 | A Fire Upon the Deep | Vernor Vinge | 1992 | U.S. | 4.5 | audio | 613 | sci-fi, Hugo |
