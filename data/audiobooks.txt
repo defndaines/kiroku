@@ -113,7 +113,6 @@ Birds Without Wings|Louis de Bernieres|4.16|23|Turkey historical
 The Wind-up Bird Chronicle|Haruki Murakami|4.15|26|contemporary literary magical-realism Japan
 The Wickwire Watch|Jacquelyn Hagen|4.15|15|fantasy YA steampunk
 Terrier|Tamora Pierce|4.15|15|YA fantasy
-Roadside Picnic|Boris Strugatsky|4.15|7|sci-fi classics Russia new-wave
 Dawn|Octavia E. Butler|4.15|9|sci-fi feminism
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
 Song of Solomon|Toni Morrison|4.14|3|classics literary magical-realism Nobel

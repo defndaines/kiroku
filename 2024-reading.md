@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Your Utopia | Bora Chung | 2021 | South Korea | 4.0 | audio | 256 | short-stories, sci-fi, horror |
 | Lone Wolf and Cub, Vol. 6: Lanterns for the Dead | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
 | A Fire Upon the Deep | Vernor Vinge | 1992 | U.S. | 4.5 | audio | 613 | sci-fi, Hugo |
 | Stamped: Racism, Antiracism, and You | Jason Reynolds, Ibram X. Kendi | 2020 | U.S. | 4.5 | audio | 294 | nonfiction, history, race, politics, YA, Goodreads Choice Award |
