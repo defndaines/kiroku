@@ -8,7 +8,7 @@ book finished in a month is tagged with the month in **bold**.
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
 | Roadside Picnic | Arkady Strugatsky, Boris Strugatsky | 1972 | USSR | 4.0 | audio | 145 | sci-fi, classics |
 | Downward to the Earth | Robert Silverberg | 1969 | U.S. | 4.0 | audio | 176 | sci-fi |
-| Khiêm: Our Journey through the Motherlands | Yasmine Trinh Phan Morissette | 2024 | Canada, Vietnam | 4.0 | ebook | 197 | nonfiction, memoir, history |
+| Khiêm: Our Journey through the Motherlands | Yasmine Trinh Phan Morissette | 2024 | Canada, Vietnam | 4.0 | ebook | 197 | nonfiction, graphic novel,  memoir, history |
 | Lone Wolf and Cub, Vol. 8: Chains of Death | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 304 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 7: Cloud Dragon, Wind Tiger | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Your Utopia | Bora Chung | 2021 | South Korea | 4.0 | audio | 256 | short-stories, sci-fi, horror |
