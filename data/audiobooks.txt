@@ -120,7 +120,6 @@ The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
 Heroes of the Water Monster|Brian Young|4.13|10|fantasy YA
 The Talisman|Peter Straub|4.12|28|horror fantasy
-The Lathe of Heaven|Ursula K. Le Guin|4.12|7|sci-fi classics dystopian fantasy Locus
 The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller
 The Girl Who Fell Beneath the Sea|Axie Oh|4.12|9|fantasy YA
 Senlin Ascends|Josiah Bancroft|4.12|14|fantasy
