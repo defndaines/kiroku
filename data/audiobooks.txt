@@ -322,6 +322,7 @@ Claire DeWitt and the City of the Dead|Sara Gran|3.69|9|mystery New Orleans
 The Shadow King|Maaza Mengiste|3.68|16|historical literary Ethiopia 1935
 Candide|Voltaire|3.68|4|classics philosophy France
 Body Horror|Anne Elizabeth Moore|3.68|8|nonfiction feminism
+A Time of Changes|Robert Silverberg|3.68|8|sci-fi
 The Luminous Dead|Caitlin Starling|3.67|14|sci-fi horror LGBT
 Girl in a Band|Kim Gordon|3.67|7|nonfiction memoir music
 Death by Dumpling|Vivien Chien|3.67|8|mystery
@@ -351,6 +352,7 @@ Watched|Marina Budhos|3.52|7|contemporary YA Muslim-American
 The Premonition|Banana Yoshimoto|3.52|3|contemporary Japan
 Kairos|Jenny Erpenbeck|3.51|12|historical Booker
 Darker Than You Think|Jack Williamson|3.50|11|horror sci-fi fantasy werewolves 1940
+Victories Greater Than Death|Charlie Jane Anders|3.49|13|sci-fi YA LGBT
 Libertie|Kaitlyn Greenidge|3.49|12|historical Reconstruction Brooklyn
 Hit Parade of Tears|Izumi Suzuki|3.48|7|Japan short-stories sci-fi literary
 Then We Came to the End|Joshua Ferris|3.46|5|humor contemporary

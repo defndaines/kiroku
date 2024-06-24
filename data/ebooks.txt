@@ -87,6 +87,7 @@ How to Blow Up a Pipeline|Andreas Malm|3.96|208|nonfiction politics
 Broken Wings|Kahlil Gibran|3.96|132|classics poetry Lebanon 1912
 Octavia's Brood: Science Fiction Stories from Social Justice Movements|Adrienne Maree Brown|3.94|296|sci-fi short-stories
 Nick and Tesla's High-Voltage Danger Lab|Bob Pflugfelder, Steve Hockensmith|3.94|240|mystery science YA
+An Informal History of the Hugos: A Personal Look Back at the Hugo Awards, 1953-2000|Jo Walton|3.94|576|nonfiction history
 After the Coup|John Scalzi|3.94|26|sci-fi sequel-old-mans-war-4.5 [owned]
 Train to Pakistan|Khushwant Singh|3.93|181|classics historical 1956
 The End of Eddy|Édouard Louis|3.92|208|LGBT
@@ -118,6 +119,7 @@ Struts & Frets|Jon Skovron|3.81|289|music YA
 American Psycho|Bret Easton Ellis|3.81|399|horror thriller
 War Trash|Ha Jin|3.80|368|historical Chinese-POWs-Korean-War
 The Bunker Diary|Kevin Brooks|3.80|268|horror thriller YA
+It's Complicated: The Social Lives of Networked Teens|Danah Boyd|3.79|296|nonfiction technology parenting
 Glass and Gardens: Solarpunk Summers|Wendy Nikel|3.79|290|sci-fi short-stories
 The Forest of Wool and Steel|Natsu Miyashita|3.78|224|contemporary Japan
 Ms Ice Sandwich|Mieko Kawakami|3.78|92|contemporary Japan
