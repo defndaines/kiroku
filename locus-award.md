@@ -63,6 +63,7 @@ Count: 24
 - [x] 2021: N. K. Jemisin _The City We Became_
 - [ ] 2022: Fonda Lee _Jade Legacy_
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
+- [ ] 2024: Martha Wells _Witch King_
 
 ## Best Science Fiction Novel (3)
 
@@ -110,6 +111,7 @@ Count: 24
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
+- [ ] 2024: Martha Wells _System Collapse_
 
 ## Best First Novel (2)
 
@@ -156,6 +158,7 @@ Count: 24
 - [x] 2021: Darcie Little Badger _Elatsoe_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
+- [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 
 ## Best Young Adult (3)
 
@@ -180,10 +183,12 @@ Count: 24
 - [x] 2021: T. Kingfisher _A Wizard's Guide to Defensive Baking_
 - [ ] 2022: Charlie Jane Anders _Victories Greater Than Death_
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
+- [ ] 2024: Charlie Jane Anders _Promises Stronger Than Darkness_
 
 ## Best Horror (1)
 
 - [x] 2020: Marlon James _Black Leopard, Red Wolf_
+- [ ] 2024: T. Kingfisher _A House with Good Bones_
 
 ## Best Novella (4)
 
@@ -191,6 +196,7 @@ Count: 24
 - [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
+- [ ] 2024: T. Kingfisher _Thornhedge_
 
 ## Best Novelette (2)
 
