@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 9: Echo of the Assassin | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 304 | graphic novel, manga, historical, fantasy |
 | A Haunted Girl | Ethan Sacks, Naomi Sacks | 2024 | U.S. | 2.5 | ebook | 132 | graphic novel, mental health, horror, YA |
 | Barking | Lucy Sullivan | 2020 | U.K.| 3.0 | ebook | 123 | graphic novel, mental health |
 | Robert Silverberg's Belzagor | Philippe Thirault | 2024 | France | 1.0 | ebook | 208 | DNF, sci-fi, graphic novel |
