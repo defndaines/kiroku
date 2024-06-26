@@ -2,12 +2,12 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
-Count: 24
+Count: 25
 
-## Best Novel (2)
+## Best Novel (3)
 
 - [ ] 1971: Larry Niven _Ringworld_
-- [ ] 1972: Ursula K. Le Guin _The Lathe of Heaven_
+- [x] 1972: Ursula K. Le Guin _The Lathe of Heaven_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
 - [ ] 1975: Ursula K. Le Guin _The Dispossessed_
