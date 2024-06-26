@@ -2,6 +2,11 @@
 
 List of Locus Award winners, identified by whether I've read them.
 
+Locus Awards are voted on by readers of _Locus_ magazine.
+
+Besides novels, only including awards when I've read them or plan to read
+them, since those lists are not goals I'm looking to fill in.
+
 Count: 25
 
 ## Best Novel (3)

@@ -1,5 +1,9 @@
 # Women's Prize for Fiction
 
+United Kingdom literary prizes awarded annually to a female author of any
+nationality for original, full-length novel written in English and published
+in United Kingdom in the preceding year.
+
 Count: 3
 
 ## Fiction (3)

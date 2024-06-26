@@ -1,7 +1,9 @@
 # Andrew Carnegie Medals for Excellence
 
 Established in 2012 to recognize the best fiction and nonfiction books for
-adult readers published in the U.S. in the previous year.
+adult readers published in the U.S. in the previous year. Administered by the
+American Library Association (ALA), selected by a seven-member selection
+committee of library experts.
 
 Count: 4
 

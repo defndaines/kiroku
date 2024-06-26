@@ -2,8 +2,11 @@
 
 List of Hugo Award winners, identified by whether I've read them.
 
-Only including other awards when I've read them or plan to read them, since
-those lists are not goals I'm looking to fill in.
+Hugo Awards are given at the World Science Fiction Convention (Worldcon) and
+chosen by its members.
+
+Besides novel, only including other awards when I've read them or plan to read
+them, since those lists are not goals I'm looking to fill in.
 
 Count: 51
 

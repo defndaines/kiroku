@@ -3,6 +3,12 @@
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
 by whether I've read them or not.
 
+Awards for works of sustained fiction written in English or translated into
+English, which was published in the United Kingdom and/or Ireland. A
+five-person panel consisting of authors, publishers and journalists, as well
+as politicians, actors, artists and musicians, is appointed by the Booker
+Prize Foundation each year to choose the winning book.
+
 Count: 8
 
 ## Booker Prize (4)

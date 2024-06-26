@@ -1,5 +1,10 @@
 # Nobel Prize in Literature
 
+Swedish literature prize awarded to an author from any country who has, "in
+the field of literature, produced the most outstanding work in an idealistic
+direction". Award is based on an author's body of work as a whole. The Swedish
+Academy decides and announces the name of the laureate in early October.
+
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 

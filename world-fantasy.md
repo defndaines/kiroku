@@ -2,6 +2,9 @@
 
 List of World Fantasy Award winners identified by whether I've read them.
 
+Organized and overseen by the World Fantasy Convention, decided by attendees
+of the convention and a panel of judges, typically made up of fantasy authors.
+
 Count: 4
 
 ## Novel (4)

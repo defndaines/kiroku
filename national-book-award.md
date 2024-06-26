@@ -1,5 +1,11 @@
 # National Book Award
 
+Presented at National Book Awards Ceremony every November by the National Book
+Foundation, to U.S. authors for books published in the United States. Only
+publishers nominate books, but panelists may request particular nominations
+from publishers. Each panel comprises five judges, including writers,
+librarians, booksellers, and literary critics.
+
 Count: 13
 
 ## Fiction (6)

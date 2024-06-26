@@ -1,5 +1,11 @@
 # Pulitzer Prize
 
+Given by Columbia University in New York. Only U.S. citizens are eligible to
+enter the Books, Drama, and Music categories, with the exception of the
+History category, which has no nationality restrictions but is restricted to
+books that cover United States history. Five jurors per award are selected by
+the Pulitzer Prize Board.
+
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 

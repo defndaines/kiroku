@@ -2,8 +2,12 @@
 
 List of Nebula Award winners identified by whether I've read them.
 
-Only including other awards when I've read them or plan to read them, since
-those lists are not goals I'm looking to fill in.
+Nebula Awards recognize works of science fiction or fantasy published in the
+United States, awarded by the Science Fiction and Fantasy Writers Association
+(SFWA).
+
+Besides novel, only including awards when I've read them or plan to read them,
+since those lists are not goals I'm looking to fill in.
 
 Count: 27
 
