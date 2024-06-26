@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 10: Hostage Child | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | The Lathe of Heaven | Ursula K. Le Guin | 1971 | U.S. | 5.0 | audio | 176 | sci-fi, classics, dystopian, Locus |
 | The Secret Diary of Adrian Mole, Aged 13 3/4 | Sue Townsend | 1982 | U.K. | 3.5 | audio | 272 | YA, humor |
 | Lone Wolf and Cub, Vol. 9: Echo of the Assassin | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 304 | graphic novel, manga, historical, fantasy |
