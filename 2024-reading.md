@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Critique of the Gotha Program | Karl Marx | 1875 | Germany | 5.0 | ebook | 63 | nonfiction, politics, economy, philosophy, reread |
 | Avatar, the Last Airbender: The Legacy of Yangchen | F.C. Yee | 2023 | U.S. | 4.5 | print | 336 | fantasy, YA |
 | Lone Wolf and Cub, Vol. 10: Hostage Child | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | The Lathe of Heaven | Ursula K. Le Guin | 1971 | U.S. | 5.0 | audio | 176 | sci-fi, classics, dystopian, Locus |
