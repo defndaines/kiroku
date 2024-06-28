@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Cyn | Ibrahim Moustafa | 2024 | U.S. | 3.5 | ebook | 128 | graphic novel, sci-fi |
 | A Fox in My Brain | Lou Lubie | 2024 | France, La Réunion | 4.5 | ebook | 160 | nonfiction, mental health, memoir |
 | Lone Wolf and Cub, Vol. 11: Talisman of Hades | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Critique of the Gotha Program | Karl Marx | 1875 | Germany | 5.0 | ebook | 63 | nonfiction, politics, economy, philosophy, reread |
