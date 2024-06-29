@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Man with the Compound Eyes | Wu Ming-Yi | 2011 | Taiwan | 4.5 | audio | 304 | magical realism |
 | Wildcat Anarchist Comics | Donald Rooum | 2016 | U.K. | 3.5 | ebook | 110 | graphic novel, nonfiction, politics |
 | Cyn | Ibrahim Moustafa | 2024 | U.S. | 3.5 | ebook | 128 | graphic novel, sci-fi |
 | A Fox in My Brain | Lou Lubie | 2024 | France, La Réunion | 4.5 | ebook | 160 | nonfiction, mental health, memoir |
