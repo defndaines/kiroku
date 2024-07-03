@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Drive Your Plow Over the Bones of the Dead | Olga Tokarczuk | 2009 | Poland | 4.5 | audio | 274 | literary, mystery, crime, Nobel, **July** |
 | Bitter Root, Vol. 1: Family Business | David F. Walker, Chuck Brown | 2019 | U.S. | 4.0 | print | 160 | graphic novel, fantasy, historical, mystery |
 | The Man with the Compound Eyes | Wu Ming-Yi | 2011 | Taiwan | 4.5 | audio | 304 | magical realism |
 | Wildcat Anarchist Comics | Donald Rooum | 2016 | U.K. | 3.5 | ebook | 110 | graphic novel, nonfiction, politics |

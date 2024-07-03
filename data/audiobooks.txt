@@ -90,7 +90,6 @@ Revolutionary Spring|Christopher Clark|4.21|33|nonfiction 1848 history
 Flowers for Algernon|Daniel Keyes|4.21|9|sci-fi classics literary YA reread Hugo Nebula
 Deep River|Karl Marlantes|4.21|26|historical literary Finnish-U.S.
 Daisy Jones and the Six|Taylor Jenkins Reid|4.21|9|historical literary L.A.-60s
-Avenues by Train|Farai Mudzingwa|4.21|?|literary Zimbabwe
 The Rise and Fall of the Dinosaurs: A New History of Their Lost World|Steve Brusatte|4.20|10|nonfiction history science
 The Emigrants|Vilhelm Moberg|4.20|17|Sweden historical classics
 The Children of Gods and Fighting Men|Shauna Lawless|4.20|14|historical fantasy 981-Dublin
@@ -129,7 +128,6 @@ The Immortal Life of Henrietta Lacks|Rebecca Skloot|4.11|13|nonfiction biography
 Storming Heaven|Denise Giardina|4.11|11|historical WVa-miners-strike [audio hoopla]
 Once There Were Wolves|Charlotte McConaghy|4.11|8|mystery Scotland
 Dark Lord of Derkholm|Diana Wynne Jones|4.11|14|YA fantasy
-Black Cake|Charmaine Wilkerson|4.11|12|historical literary California Black
 Your House Will Pay|Steph Cha|4.10|10|mystery historical literary Korean-Black-relations
 The Lost Flowers of Alice Hart|Holly Ringland|4.10|14|contemporary Australia
 The Birds of Opulence|Crystal Wilkinson|4.10|5|historical literary South mental-health
@@ -293,6 +291,7 @@ And Put Away Childish Things|Adrian Tchaikovsky|3.78|5|fantasy sci-fi
 Saints and Misfits|S.K. Ali|3.77|8|contemporary YA Muslim
 History of Violence|Édouard Louis|3.77|5|nonfiction autobiography LGBT France
 Dhalgren|Samuel R. Delany|3.77|35|sci-fi literary LGBT magical-realism
+American Uprising: The Untold Story of America's Largest Slave Revolt|Daniel Rasmussen|3.77|6|nonfiction history race
 Strike the Zither|Joan He|3.76|11|fantasy YA historical China-414
 Annihilation|Jeff VanderMeer|3.76|6|sci-fi horror Nebula
 A Doll's House|Henrik Ibsen|3.76|2|play classics Norway
