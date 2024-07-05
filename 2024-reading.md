@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lynching and Mob Violence in Ohio, 1772-1938 | David Meyers, Elise Meyers Walker | 2018 | U.S. | 4.0 | print | 205 | nonfiction, history |
 | 人新世の「資本論」 | 斎藤 幸平 | 2020 | Japan | 4.0 | print | 365 | nonfiction, economics, environment, politics |
 | Drive Your Plow Over the Bones of the Dead | Olga Tokarczuk | 2009 | Poland | 4.5 | audio | 274 | literary, mystery, crime, Nobel, **July** |
 | Bitter Root, Vol. 1: Family Business | David F. Walker, Chuck Brown | 2019 | U.S. | 4.0 | print | 160 | graphic novel, fantasy, historical, mystery |
