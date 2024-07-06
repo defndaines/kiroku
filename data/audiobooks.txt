@@ -31,6 +31,7 @@ Warrior Girl Unearthed|Angeline Boulley|4.36|12|YA mystery thriller indigenous
 The Power of the Dog|Don Winslow|4.36|20|mystery thriller drug-trade
 The Art of Losing|Alice Zeniter|4.36|18|literary historical Algeria International-Dublin-Literary unread-country
 The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
+The Unsettling of America: Culture and Agriculture|Wendell Berry|4.34|13|nonfiction food agriculture nature
 The Conquering Sword of Conan|Robert E. Howard|4.34|18|fantasy sequel-3
 The Song of Achilles|Madeline Miller|4.33|11|fantasy historical romance
 Stoner|John Williams|4.33|10|classics historical literary
@@ -316,6 +317,7 @@ The Yacoubian Building|Alaa Al Aswany|3.70|9|literary Egypt
 The Barbarian Nurseries|Héctor Tobar|3.70|16|contemporary literary L.A.
 Claire DeWitt and the City of the Dead|Sara Gran|3.69|9|mystery New Orleans
 The Shadow King|Maaza Mengiste|3.68|16|historical literary Ethiopia 1935
+Mill Town: Reckoning with What Remains|Kerri Arsenault|3.68|12|nonfiction memoir history environment
 Candide|Voltaire|3.68|4|classics philosophy France
 Body Horror|Anne Elizabeth Moore|3.68|8|nonfiction feminism
 A Time of Changes|Robert Silverberg|3.68|8|sci-fi
