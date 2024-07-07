@@ -56,7 +56,7 @@ Count: 82
 - [ ] Uzbekistan:
 - [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord) Malalai Joya
 - [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
-- [x] Malaysia: [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; read several works as part of undergrad anthropology class on Malaysia
+- [x] Malaysia: [_The Weight of Our Sky_](https://www.goodreads.com/book/show/35614314-the-weight-of-our-sky) Hanna Alkaf; [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; undergrad anthropology class
 - [ ] Angola:
 - [ ] Mozambique: Mia Couto ?
 - [ ] Saudi Arabia:

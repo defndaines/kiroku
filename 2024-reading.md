@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Weight of Our Sky | Hanna Alkaf | 2019 | Malaysia | 5.0 | print | 277 | historical, mental health, YA |
 | Avenues by Train | Farai Mudzingwa | 2023 | Zimbabwe | 3.5 | audio | 304 | literary |
 | Lynching and Mob Violence in Ohio, 1772-1938 | David Meyers, Elise Meyers Walker | 2018 | U.S. | 4.0 | print | 205 | nonfiction, history |
 | 人新世の「資本論」 | 斎藤 幸平 | 2020 | Japan | 4.0 | print | 365 | nonfiction, economics, environment, politics |
