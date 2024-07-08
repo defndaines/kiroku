@@ -32,6 +32,7 @@ The Power of the Dog|Don Winslow|4.36|20|mystery thriller drug-trade
 The Art of Losing|Alice Zeniter|4.36|18|literary historical Algeria International-Dublin-Literary unread-country
 The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
 The Unsettling of America: Culture and Agriculture|Wendell Berry|4.34|13|nonfiction food agriculture nature
+The Tainted Cup|Robert Jackson Bennett|4.34|14|fantasy mystery
 The Conquering Sword of Conan|Robert E. Howard|4.34|18|fantasy sequel-3
 The Song of Achilles|Madeline Miller|4.33|11|fantasy historical romance
 Stoner|John Williams|4.33|10|classics historical literary
