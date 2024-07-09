@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Hard Switch | Owen D. Pomery | 2023 | U.K. | 4.5 | ebook | 100 | graphic novel, sci-fi |
 | Mr. Block: The Subversive Comics and Writings of Ernest Riebe | Ernest Riebe, Graphic History Collective, Paul Buhle, Iain McIntyre | 2023 | U.S. | 4.0 | ebook | 128 | nonfiction, graphic novel, history, politics, economics |
 | The Weight of Our Sky | Hanna Alkaf | 2019 | Malaysia | 5.0 | print | 277 | historical, mental health, YA |
 | Avenues by Train | Farai Mudzingwa | 2023 | Zimbabwe | 3.5 | audio | 304 | literary |
