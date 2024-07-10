@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Black Cake | Charmaine Wilkerson | 2022 | U.S. | 5.0 | audio | 385 | historical, literary, mystery |
 | The Cargo Rebellion: Those Who Chose Freedom | Jason Chang, Ben Barson, Alexi Dudden | 2023 | U.S., China | 3.5 | ebook | 56 | nonfiction, graphic novel, history |
 | The Day the Klan Came to Town | Bill Campbell | 2021 | U.S. | 4.0 | ebook | 109 | graphic novel, historical, race |
 | The Hard Switch | Owen D. Pomery | 2023 | U.K. | 4.5 | ebook | 100 | graphic novel, sci-fi |
