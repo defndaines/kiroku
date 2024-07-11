@@ -5,7 +5,6 @@ A Little Devil in America|Hanif Abdurraqib|4.61|10|nonfiction history music Blac
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
 The Spirit Bares Its Teeth|Andrew Joseph White|4.56|11|horror sci-fi LGBT fantasy historical YA
-Braiding Sweetgrass|Robin Wall Kimmerer|4.54|17|nonfiction essays nature science indigenous
 The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.53|nonfiction history biography
 The Reformatory|Tananarive Due|4.52|21|horror historical
 As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria unread-country YA
@@ -293,7 +292,6 @@ And Put Away Childish Things|Adrian Tchaikovsky|3.78|5|fantasy sci-fi
 Saints and Misfits|S.K. Ali|3.77|8|contemporary YA Muslim
 History of Violence|Édouard Louis|3.77|5|nonfiction autobiography LGBT France
 Dhalgren|Samuel R. Delany|3.77|35|sci-fi literary LGBT magical-realism
-American Uprising: The Untold Story of America's Largest Slave Revolt|Daniel Rasmussen|3.77|6|nonfiction history race
 Strike the Zither|Joan He|3.76|11|fantasy YA historical China-414
 Annihilation|Jeff VanderMeer|3.76|6|sci-fi horror Nebula
 A Doll's House|Henrik Ibsen|3.76|2|play classics Norway

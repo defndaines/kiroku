@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| American Uprising: The Untold Story of America's Largest Slave Revolt | Daniel Rasmussen | 2010 | U.S. | 4.5 | audio | 288 | nonfiction, history, race |
 | The System | Peter Kuper | 1997 | U.S. | 4.0 | ebook | 115 | graphic novel |
 | Ismyre | B. Mure | 2018 | U.K. | 3.0 | ebook | 72 | graphic novel, fantasy |
 | Black Cake | Charmaine Wilkerson | 2022 | U.S. | 5.0 | audio | 385 | historical, literary, mystery |
