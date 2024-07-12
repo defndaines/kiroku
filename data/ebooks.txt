@@ -64,6 +64,7 @@ Way Station|Clifford D. Simak|4.03|210|sci-fi
 The Borrowers|Mary Norton|4.03|180|classics fantasy YA
 Violent Borders: Refugees and the Right to Move|Reece Jones|4.02|224|nonfiction politics
 The Steerswoman|Rosemary Kirstein|4.02|279|fantasy sci-fi
+The Sympathizer|Viet Thanh Nguyen|4.01|371|historical war literary
 Head On|John Scalzi|4.01|335|sci-fi sequel-lock-in-2 [owned]
 Factories in the Field: The Story of Migratory Farm Labor in California|Carey McWilliams|4.01|366|nonfiction history
 Dragons of Autumn Twilight|Tracy Hickman|4.01|444|YA fantasy reread
