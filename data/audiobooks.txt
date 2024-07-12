@@ -12,6 +12,7 @@ All My Rage|Sabaa Tahir|4.52|10|Pakistan YA California National-Book
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
 How to Say Babylon|Safiya Sinclair|4.49|17|memoir nonfiction feminism
+Wayward Lives, Beautiful Experiments|Saidiya Hartman|4.48|10|nonfiction history feminism race
 I'm Glad My Mom Died|Jennette McCurdy|4.47|6|memoir nonfiction
 To Be a Friend Is Fatal: The Fight to Save the Iraqis America Left Behind|Kirk Wallace Johnson|4.45|11|nonfiction history politics
 Crossings|Ben Goldfarb|4.45|12|nonfiction nature science roads
@@ -85,7 +86,6 @@ The Perks of Being a Wallflower|Stephen Chbosky|4.23|6|YA classics contemporary 
 Beautyland|Marie-Helene Bertino|4.23|9|literary sci-fi
 Reform or Revolution and Other Writings|Rosa Luxemburg|4.22|3|nonfiction economics philosophy politics [audio hoopla]
 Halfway Home|Reuben Jonathan Miller|4.22|8|nonfiction sociology race incarceration
-To Shape a Dragon's Breath|Moniquill Blackgoose|4.21|17|fantasy LGBT indigenous Nebula
 Six Crimson Cranes|Elizabeth Lim|4.21|13|fantasy YA romance
 Revolutionary Spring|Christopher Clark|4.21|33|nonfiction 1848 history
 Flowers for Algernon|Daniel Keyes|4.21|9|sci-fi classics literary YA reread Hugo Nebula

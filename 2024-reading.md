@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Night of the Mannequins | Stephen Graham Jones | 2020 | U.S. | 3.5 | audio | 136 | horror, novella, thriller, Bram Stoker Award, Shirley Jackson Award |
 | American Uprising: The Untold Story of America's Largest Slave Revolt | Daniel Rasmussen | 2010 | U.S. | 4.5 | audio | 288 | nonfiction, history, race |
 | The System | Peter Kuper | 1997 | U.S. | 4.0 | ebook | 115 | graphic novel |
 | Ismyre | B. Mure | 2018 | U.K. | 3.0 | ebook | 72 | graphic novel, fantasy |
