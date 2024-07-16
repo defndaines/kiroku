@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS | Janet Biehl | 2022 | Syria | 4.5 | ebook | 243 | nonfiction, graphic novel, feminism, history, politics, war |
 | Six Crimson Cranes | Elizabeth Lim | 2021 | U.S. | 4.0 | print | 454 | fantasy, YA, romance |
 | Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants | Robin Wall Kimmerer | 2013 | U.S. | 4.5 | audio | 391 | nonfiction, science, nature, environment, essays |
 | The Young C.L.R. James: A Graphic Novelette | Milton Knight | 2018 | Trinidad, U.S. | 3.5 | ebook | 42 | graphic novel, nonfiction, history |

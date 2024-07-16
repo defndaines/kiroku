@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 82
+Count: 83
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -71,7 +71,7 @@ Count: 82
 - [x] North Korea: _The Accusation_ Bandi (NOT recommended)
 - [ ] Niger:
 - [x] Taiwan: [_The Man with the Compound Eyes_](https://www.goodreads.com/book/show/17614822-the-man-with-the-compound-eyes) Wu Ming-Yi
-- [ ] Syria:
+- [x] Syria: [_Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS_](https://www.goodreads.com/book/show/59521653-their-blood-got-mixed) Janet Biehl
 - [ ] Mali:
 - [x] Burkina Faso: [_Women's Liberation and the African Freedom Struggle_](https://www.goodreads.com/book/show/3039894-women-s-liberation-and-the-african-freedom-struggle) Thomas Sankara
 - [x] Sri Lanka: [_Island of a Thousand Mirrors_](https://www.goodreads.com/book/show/19286587-island-of-a-thousand-mirrors) Nayomi Munaweera; [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
