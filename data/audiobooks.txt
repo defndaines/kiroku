@@ -167,7 +167,6 @@ The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
 Kokoro|Natsume Soseki|4.05|9|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy
-Crow|Amy Spurway|4.05|10|contemporary Nova Scotia [audio hoopla]
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
 Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe unread-country
