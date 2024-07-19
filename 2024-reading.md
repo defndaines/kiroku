@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Full Life: James Connolly the Irish Rebel | Tom Keough, James Connolly | 2016 | Ireland, U.S. | 4.0 | ebook | 41 | nonfiction, graphic novel, history, politics |
 | To Shape a Dragon's Breath | Moniquill Blackgoose | 2023 | U.S. | 5.0 | audio | 511 | fantasy, YA, LGBT, historical |
 | Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS | Janet Biehl | 2022 | Syria | 4.5 | ebook | 243 | nonfiction, graphic novel, feminism, history, politics, war |
 | Six Crimson Cranes | Elizabeth Lim | 2021 | U.S. | 4.0 | print | 454 | fantasy, YA, romance |
