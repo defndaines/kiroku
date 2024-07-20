@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #3 | Frank Tieri | 2024 | U.S. | 4.0 | print | 66 | graphic novel, fantasy |
 | Critical Role: The Tales of Exandria Volume 1: The Bright Queen | Darcy Van Poelgeest | 2022 | U.S. | 2.5 | print | 120 | graphic novel, fantasy |
 | Crow | Amy Spurway | 2019 | Canada | 4.5 | audio | 305 | contemporary, magical realism |
 | A Full Life: James Connolly the Irish Rebel | Tom Keough, James Connolly | 2016 | Ireland, U.S. | 4.0 | ebook | 41 | nonfiction, graphic novel, history, politics |
