@@ -7,7 +7,7 @@ Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-real
 The Spirit Bares Its Teeth|Andrew Joseph White|4.56|11|horror sci-fi LGBT fantasy historical YA
 The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.53|nonfiction history biography
 The Reformatory|Tananarive Due|4.52|21|horror historical
-As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria unread-country YA
+As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria YA
 All My Rage|Sabaa Tahir|4.52|10|Pakistan YA California National-Book
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
@@ -57,7 +57,7 @@ Tell Me How Long the Train's Been Gone|James Baldwin|4.30|15|classics LGBT liter
 Leviathan Wakes|James S.A. Corey|4.30|21|sci-fi
 From Here to Eternity|Caitlin Doughty|4.30|6|nonfiction death science travel
 Another Country|James Baldwin|4.30|16|literary classics LGBT
-Solenoid|Mircea Cărtărescu|4.29|34|literary Romania International-Dublin-Literary unread-country
+Solenoid|Mircea Cărtărescu|4.29|34|literary Romania International-Dublin-Literary
 Letters to a Young Poet|Rainer Maria Rilke|4.29|3|nonfiction poetry essays classics Austria
 I Know Why the Caged Bird Sings|Maya Angelou|4.29|10|autobiography nonfiction
 Howl's Moving Castle|Diana Wynne Jones|4.29|9|fantasy YA
@@ -169,12 +169,12 @@ Kokoro|Natsume Soseki|4.05|9|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
-Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe unread-country
+Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe
 My Brilliant Friend|Elena Ferrante|4.04|13|literary historical
 Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolbert|4.04|5|nonfiction nature politics science
 Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|11|nonfiction memoir biography L.A.
 A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Locus
-Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland unread-country
+Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland
 David Copperfield|Charles Dickens|4.03|34|classics literary
 The Ocean at the End of the Lane|Neil Gaiman|4.02|6|fantasy horror magical-realism Locus
 Little|Edward Carey|4.02|14|historical Paris-1700s
@@ -333,7 +333,7 @@ Terminal Boredom|Izumi Suzuki|3.60|6|Japan short-stories dystopian sci-fi
 Soul Mountain|Gao Xingjian|3.60|19|China Nobel
 The Plotters|Un-su Kim|3.58|10|mystery thriller Korea
 Gulliver's Travels|Jonathan Swift|3.58|5|classics
-Frankenstein in Baghdad|Ahmed Saadawi|3.58|8|horror magical-realism Iraq unread-country
+Frankenstein in Baghdad|Ahmed Saadawi|3.58|8|horror magical-realism Iraq
 The Summer Prince|Alaya Dawn Johnson|3.57|12|YA fantasy sci-fi
 Memorial|Bryan Washington|3.57|8|contemporary literary LGBT Japanese-American Black Texas
 Funeral Songs for Dying Girls|Cherie Dimaline|3.57|8|YA fantasy LGBT indigenous
@@ -341,7 +341,6 @@ Tropic of Orange|Karen Tei Yamashita|3.56|10|magical-realism
 The Queue|Basma Abdel Aziz|3.56|6|dystopian sci-fi Egypt-after-Arab-Spring
 The Ones We're Meant to Find|Joan He|3.56|11|YA sci-fi dystopian
 The Family Trade|Charles Stross|3.54|12|steampunk alternate-history
-Milkman|Anna Burns|3.54|14|historical literary Ireland Booker International-Dublin-Literary
 The Tiger Flu|Larissa Lai|3.53|10|sci-fi LGBT
 The End of August|Yu Miri|3.53|28|historical literary Japanese-occupied-Korea-1930s
 White Horse|Erika T. Wurth|3.52|10|horror contemporary literary thriller indigenous
@@ -361,6 +360,7 @@ North of Dawn|Nuruddin Farah|3.39|10|literary Somalia unread-country
 The Long Drop|Denise Mina|3.38|7|historical 1958 Glasgow mystery
 Transmission|Hari Kunzru|3.37|10|contemporary India-computer-programmer-immigrant
 Waste Tide|Chen Qiufan|3.33|12|sci-fi China
+Escape Velocity|Victor Manibo|3.23|9|sci-fi
 Dare Me|Megan Abbott|3.23|9|contemporary mystery thriller YA cheerleaders
 City of Ash and Red|Hye-Young Pyun|3.15|6|horror sci-fi Korea Kafkaesque
 Y/N|Esther Yi|3.00|5|contemporary literary Korean-American Berlin

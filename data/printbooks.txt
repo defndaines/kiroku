@@ -22,10 +22,10 @@ Soledad Brother: The Prison Letters of George Jackson|George L. Jackson|4.27|non
 On the Come Up|Angie Thomas|4.27|YA contemporary [audio hoopla]
 Wobblies on the Waterfront: Interracial Unionism in Progressive-Era Philadelphia|Peter Cole|4.25|nonfiction history politics
 Wobblies of the World: A Global History of the IWW|Peter Cole (editor)|4.25|nonfiction history politics
-The Dispossessed|Ursula K. Le Guin|4.25|sci-fi [audio hoopla]
 NAM: The Vietnam War in the Words of the Men and Women Who Fought There|Mark Baker|4.23|nonfiction history
 Asia's Unknown Uprisings, Volume 1: South Korean Social Movements in the 20th Century|George Katsiaficas|4.23|nonfiction history politics
 Socialism and the Irish Rebellion: Writings from James Connolly|James Connolly|4.22|nonfiction history
+The Priory of the Orange Tree|Samantha Shannon|4.20|fantasy LGBT
 The Other Wind|Ursula K. Le Guin|4.19|fantasy YA classics sequel-earthsea-6
 Haunting the Korean Diaspora: Shame, Secrecy, and the Forgotten War|Grace M. Cho|4.17|nonfiction history race
 The Coming of Conan the Cimmerian|Robert E. Howard|4.16|fantasy short-stories [audio available]
@@ -35,12 +35,14 @@ The Book of the Unnamed Midwife|Meg Elison|4.15|dystopian sci-fi
 Autoworkers Under the Gun: A Shop-Floor View of the End of the American Dream|Gregg Shotwell|4.15|nonfiction politics
 The Tombs of Atuan|Ursula K. Le Guin|4.13|fantasy YA classics sequel-earthsea-2
 The Farthest Shore|Ursula K. Le Guin|4.13|fantasy YA classics sequel-earthsea-3
+From the Land of Green Ghosts: A Burmese Odyssey|Pascal Khoo Thwe|4.13|nonfiction memoir history Burma unread-country
 The Girl Who Fell Beneath the Sea|Axie Oh|4.12|fantasy YA [audio hoopla]
 The Girl Who Drank the Moon|Kelly Barnhill|4.12|YA fantasy Newbery [audio hoopla]
 Readymade Bodhisattva: The Kaya Anthology of South Korean Science Fiction|Sunyoung Park (editor), Park Sang Joon (editor)|4.12|sci-fi short-stories
 The God Beneath the Sea|Leon Garfield, Edward Blishen|4.11|YA fantasy Greek-mythology Carnegie-Medal
 Me (Moth)|Amber McBride|4.11|poetry YA magical-realism [audio hoopla]
 Your House Will Pay|Steph Cha|4.10|mystery historical literary Korean-Black-relations [audio available]
+The Man Who Cried I Am|John A. Williams|4.10|historical race classics
 The Art of Prophecy|Wesley Chu|4.10|fantasy [audio available]
 Defekt|Nino Cipri|4.10|sci-fi novella LGBT sequel-2 [audio hoopla]
 Perma Red|Debra Magpie Earling|4.09|historical thriller [audio hoopla]
@@ -56,11 +58,13 @@ Tehanu|Ursula K. Le Guin|4.03|fantasy YA classics sequel-earthsea-4
 A Scanner Darkly|Philip K. Dick|4.02|sci-fi [audio hoopla]
 The Silmarillion|J.R.R. Tolkien|4.01|fantasy classics [audio available]
 Shipwrecks|Akira Yoshimura|4.01|historical literary
+Dragons of Autumn Twilight|Tracy Hickman|4.01|444|YA fantasy reread
 A Wizard of Earthsea|Ursula K. Le Guin|4.01|fantasy YA classics reread
 The Oedipus Cycle|Sophocles|3.99|classics play [audio hoopla]
 Storm Front|Jim Butcher|3.98|fantasy mystery [audio available]
 The Plum in the Golden Vase or, Chin P'ing Mei: Vol. One: The Gathering|Lanling Xiaoxiao Sheng, David Tod Roy (translator)|3.97|classics literary
 Hana Khan Carries On|Uzma Jalaluddin|3.96|contemporary romance [audio available]
+Fahrenheit 451|Ray Bradbury|3.96|sci-fi dystopian classics reread
 Holding the Line: Women in the Great Arizona Mine Strike of 1983|Barbara Kingsolver|3.95|nonfiction history
 Woe Is I: The Grammarphobe's Guide to Better English in Plain English|Patricia T. O'Conner|3.94|nonfiction reference
 Tattooed Soldier|Héctor Tobar|3.94|historical
@@ -69,7 +73,6 @@ Tiger Honor|Yoon Ha Lee|3.93|sci-fi YA fantasy Korean-mythology [audio available
 Bel Canto|Ann Patchett|3.93|literary contemporary South America terrorism/hostages Womens-Prize [audio available]
 History of the Peloponnesian War|Thucydides|3.91|nonfiction classics history war [audio hoopla]
 State of Wonder|Ann Patchett|3.89|contemporary literary [audio hoopla]
-Comrade: An Essay on Political Belonging|Jodi Dean|3.89|nonfiction philosophy politics
 Diné: A History of the Navajos|Peter Iverson|3.88|nonfiction history
 The Death of Artemio Cruz|Carlos Fuentes|3.86|classics literary
 The Aeneid|Virgil, Robert Fitzgerald (translator)|3.86|classics poetry [audio hoopla]
@@ -173,6 +176,7 @@ Mixed Up|Gordon Korman|3.94|YA sci-fi
 Witch Week|Diana Wynne Jones|3.93|fantasy YA chrestomancy-3
 The Magicians of Caprona|Diana Wynne Jones|3.93|fantasy YA chrestomancy-4
 Ugly|Robert Hoge|3.92|memoir nonfiction YA disability
+Gardens of the Moon|Steven Erikson|3.92|fantasy
 The Same Stuff as Stars|Kathering Paterson|3.91|YA
 How to Train Your Dragon|by Cressida Cowell|3.91|YA fantasy how-to-train-1
 Wildfire: A Novel|Rodman Philbrick|3.90|YA survival

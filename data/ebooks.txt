@@ -22,7 +22,7 @@ Hogfather|Terry Pratchett|4.25|448|fantasy discworld-20
 Old Man's War|John Scalzi|4.24|318|sci-fi [owned]
 The Fall of Hyperion|Dan Simmons|4.23|517|sci-fi sequel
 The Consuming Fire|John Scalzi|4.21|304|sci-fi sequel-interdependency-2 [owned]
-The Priory of the Orange Tree|Samantha Shannon|4.20|848|fantasy LGBT
+Chevengur|Andrei Platonov|4.20|333|classics literature
 Rikki-Tikki-Tavi|Rudyard Kipling|4.19|54|classics childrens short-stories [owned]
 Joanna Russ: Novels & Stories|Joanna Russ|4.19|852|sci-fi
 Flood Song|Sherwin Bitsui|4.19|120|nonfiction poetry Navajo indigenous
@@ -37,6 +37,7 @@ The Last Emperox|John Scalzi|4.13|320|sci-fi sequel-interdependency-3 [owned]
 Structures: Or Why Things Don't Fall Down|J. E. Gordon|4.13|395|nonfiction design technology
 Fuzzy Nation|John Scalzi|4.13|303|sci-fi [owned]
 The Ghost Brigades|John Scalzi|4.12|343|sci-fi sequel-old-mans-war-2 [owned]
+The Crystal Shard|R.A. Salvatore|4.12|344|fantasy
 The Collapsing Empire|John Scalzi|4.12|336|sci-fi [owned]
 Khatyn|Ales Adamovich|4.12|330|historical Nazi-occupation
 Inside Out: A Personal History of Pink Floyd|Nick Mason|4.12|360|nonfiction music autobiography
@@ -67,7 +68,6 @@ The Steerswoman|Rosemary Kirstein|4.02|279|fantasy sci-fi
 The Sympathizer|Viet Thanh Nguyen|4.01|371|historical war literary
 Head On|John Scalzi|4.01|335|sci-fi sequel-lock-in-2 [owned]
 Factories in the Field: The Story of Migratory Farm Labor in California|Carey McWilliams|4.01|366|nonfiction history
-Dragons of Autumn Twilight|Tracy Hickman|4.01|444|YA fantasy reread
 The Kaiju Preservation Society|John Scalzi|4.00|264|sci-fi  [owned]
 The Hearing Test|Eliza Barry Callahan|4.00|163|literary
 The Old Garden|Hwang Sok-yong|3.99|480|Korea historical
@@ -131,6 +131,7 @@ The Dead City|John Scalzi|3.77|11|sci-fi [owned]
 A Sorrow Beyond Dreams|Peter Handke|3.76|76|nonfiction memoir Nobel
 The Sellout|Paul Beatty|3.75|289|contemporary literary race Booker
 Jimmie Higgins|Upton Sinclair|3.74|280|classics [owned]
+He Died With His Eyes Open|Derek Raymond|3.74|224|crime mystery noir
 Grotesque|Natsuo Kirino|3.73|480|mystery Japan
 I Want to Keep Smashing Myself Until I Am Whole|Elias Canetti|3.71|416|literary memoir Nobel
 The President's Brain Is Missing|John Scalzi|3.69|29|sci-fi [owned]
@@ -141,7 +142,6 @@ Re: Colonised Planet 5, Shikasta|Doris Lessing|3.65|365|sci-fi fantasy Nobel
 Xala|Ousmane Sembène|3.64|112|literary Senegal
 Waylaid|Ed Lin|3.64|200|YA Chinese-American
 Phantasmagoria and Other Poems|Lewis Carroll|3.63|112|poetry classics childrens [owned]
-The Hairdresser of Harare|Tendai Huchu|3.61|196|contemporary Zimbabwe unread-country
 Red Star|Alexander Bogdanov|3.60|272|1908 sci-fi politics written-by-Bolshevik
 Gather, Darkness!|Fritz Leiber|3.60|172|fantasy horror sci-fi
 Every Man a Menace|Patrick Hoffman|3.59|288|mystery thriller
