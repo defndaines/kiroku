@@ -9,9 +9,9 @@ five-person panel consisting of authors, publishers and journalists, as well
 as politicians, actors, artists and musicians, is appointed by the Booker
 Prize Foundation each year to choose the winning book.
 
-Count: 8
+Count: 9
 
-## Booker Prize (4)
+## Booker Prize (5)
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -65,7 +65,7 @@ Count: 8
 - [ ] 2015: Marlon James _A Brief History of Seven Killings_
 - [ ] 2016: Paul Beatty _The Sellout_
 - [ ] 2017: George Saunders _Lincoln in the Bardo_
-- [ ] 2018: Anna Burns _Milkman_
+- [x] 2018: Anna Burns _Milkman_
 - [ ] 2019: Margaret Atwood _The Testaments_
 - [ ] 2019: Bernardine Evaristo _Girl, Woman, Other_
 - [ ] 2020: Douglas Stuart _Shuggie Bain_

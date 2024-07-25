@@ -4,7 +4,7 @@ The International Dublin Literary Award is presented each year for a novel
 written or translated into English. Nominations are submitted by public
 libraries worldwide.
 
-Count: 0
+Count: 1
 
 - [ ] 1996: David Malouf _Remembering Babylon_
 - [ ] 1997: Javier Marías _A Heart So White_
@@ -30,7 +30,7 @@ Count: 0
 - [ ] 2017: José Eduardo Agualusa _A General Theory of Oblivion_
 - [ ] 2018: Mike McCormack _Solar Bones_
 - [ ] 2019: Emily Ruskovich _Idaho_
-- [ ] 2020: Anna Burns _Milkman_
+- [x] 2020: Anna Burns _Milkman_
 - [ ] 2021: Valeria Luiselli _Lost Children Archive_
 - [ ] 2022: Alice Zeniter _The Art of Losing_
 - [ ] 2023: Katja Oskamp _Marzahn, Mon Amour_
