@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| ゲゲゲの鬼太郎 1 鬼太郎の誕生 | 水木しげる | 1965 | Japan | 3.0 | print | 155 | DNF, graphic novel, fantasy, horror |
 | Ducks: Two Years in the Oil Sands | Kate Beaton | 2022 | Canada | 5.0 | print | 430 | graphic novel, nonfiction, memoir |
 | Crossroads: I Live Where I Like: A Graphic History | Koni Benson | 2021 | South Africa | 4.0 | ebook | 128 | nonfiction, graphic novel, history |
 | Comrade: An Essay on Political Belonging | Jodi Dean | 2019 | U.S. | 4.0 | print | 135 | nonfiction, politics, philosophy |
