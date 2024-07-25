@@ -1,23 +1,19 @@
-The New Fish|Kjetil Ostli|4.72|10|nonfiction nature farmed-fish
-They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.70|8|memoir nonfiction Palestine
+They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.69|8|memoir nonfiction Palestine
+The New Fish|Simen Saetre, Kjetil Ostli|4.63|10|nonfiction nature farmed-fish salmon
 The Nightingale|Kristin Hannah|4.62|18|historical WWII occupied France
 A Little Devil in America|Hanif Abdurraqib|4.61|10|nonfiction history music Black
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
-The Spirit Bares Its Teeth|Andrew Joseph White|4.56|11|horror sci-fi LGBT fantasy historical YA
-The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.53|nonfiction history biography
-The Reformatory|Tananarive Due|4.52|21|horror historical
-As Long as the Lemon Trees Grow|Zoulfa Katouh|4.52|12|Syria YA
-All My Rage|Sabaa Tahir|4.52|10|Pakistan YA California National-Book
+The Spirit Bares Its Teeth|Andrew Joseph White|4.53|11|horror sci-fi LGBT fantasy historical YA
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
+The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.51|nonfiction history biography
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
-How to Say Babylon|Safiya Sinclair|4.49|17|memoir nonfiction feminism
+All My Rage|Sabaa Tahir|4.50|10|Pakistan YA romance California National-Book
 Wayward Lives, Beautiful Experiments|Saidiya Hartman|4.48|10|nonfiction history feminism race
-I'm Glad My Mom Died|Jennette McCurdy|4.47|6|memoir nonfiction
-To Be a Friend Is Fatal: The Fight to Save the Iraqis America Left Behind|Kirk Wallace Johnson|4.45|11|nonfiction history politics
+The Reformatory|Tananarive Due|4.48|21|horror historical
+How to Say Babylon|Safiya Sinclair|4.47|17|memoir nonfiction feminism
 Crossings|Ben Goldfarb|4.45|12|nonfiction nature science roads
 Brotherless Night|V.V. Ganeshananthan|4.45|13|literary historical Sri Lanka Carol-Shields-Prize Womens-Prize
-A Little Hatred|Joe Abercrombie|4.45|20|fantasy
 Madonna in a Fur Coat|Sabahattin Ali|4.42|6|Turkey romance
 Arch of Triumph|Erich Maria Remarque|4.42|16|historical literary 1939-refugee-in-Paris
 Where I'm Calling From|Raymond Carver|4.41|17|short-stories literary
@@ -66,7 +62,6 @@ The Wall|John Hersey|4.28|29|historical Warsaw-ghetto
 The Rediscovery of America|Ned Blackhawk|4.28|17|nonfiction history indigenous National-Book
 The Player of Games|Iain M. Banks|4.28|11|sci-fi sequel-culture-2
 Exhalation|Ted Chiang|4.28|11|sci-fi literary short-stories Hugo
-The Royal Game|Stefan Zweig|4.27|2|classics literary short-stories Germany
 If Beale Street Could Talk|James Baldwin|4.27|7|classics literary romance
 Dune|Frank Herbert|4.27|21|sci-fi classics reread Hugo Nebula
 Trickster's Choice|Tamora Pierce|4.26|12|fantasy YA
@@ -82,7 +77,6 @@ Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge|Benjami
 House of Suns|Alastair Reynolds|4.24|18|sci-fi
 Dearborn|Ghassan Zeineddine|4.24|8|short-stories literary contemporary
 Circe|Madeline Miller|4.24|12|fantasy Greek mythology literary
-A Crane Among Wolves|June Hur|4.12|10|historical mystery YA fantasy Korean
 The Perks of Being a Wallflower|Stephen Chbosky|4.23|6|YA classics contemporary mental-health
 Beautyland|Marie-Helene Bertino|4.23|9|literary sci-fi
 Reform or Revolution and Other Writings|Rosa Luxemburg|4.22|3|nonfiction economics philosophy politics [audio hoopla]
@@ -115,6 +109,7 @@ The Wickwire Watch|Jacquelyn Hagen|4.15|15|fantasy YA steampunk
 Terrier|Tamora Pierce|4.15|15|YA fantasy
 Dawn|Octavia E. Butler|4.15|9|sci-fi feminism
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
+The Remains of the Day|Kazuo Ishiguro|4.14|9|literary historical classics
 Song of Solomon|Toni Morrison|4.14|3|classics literary magical-realism Nobel
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
@@ -124,6 +119,7 @@ The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller
 The Girl Who Fell Beneath the Sea|Axie Oh|4.12|9|fantasy YA
 Senlin Ascends|Josiah Bancroft|4.12|14|fantasy
 Elder Race|Adrian Tchaikovsky|4.12|4|sci-fi fantasy
+A Crane Among Wolves|June Hur|4.12|10|historical mystery YA fantasy Korean
 Welcome to the Hyunam-dong Bookshop|Hwang Bo-reum|4.11|8|literary Korea
 The Immortal Life of Henrietta Lacks|Rebecca Skloot|4.11|13|nonfiction biography history science
 Storming Heaven|Denise Giardina|4.11|11|historical WVa-miners-strike [audio hoopla]
@@ -178,6 +174,7 @@ Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland
 David Copperfield|Charles Dickens|4.03|34|classics literary
 The Ocean at the End of the Lane|Neil Gaiman|4.02|6|fantasy horror magical-realism Locus
 Little|Edward Carey|4.02|14|historical Paris-1700s
+Bright Young Women|Jessica Knoll|4.02|13|thriller historical serial-killer
 A Short History of Reconstruction|Eric Foner|4.02|13|nonfiction history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence|Kristen R. Ghodsee|4.01|5|nonfiction feminism history politics
 The Three Stigmata of Palmer Eldritch|Philip K. Dick|4.01|8|sci-fi
@@ -245,7 +242,6 @@ Neuromancer|William Gibson|3.90|10|sci-fi cyberpunk thriller Hugo Nebula
 Loaded: A Disarming History of the Second Amendment|Roxanne Dunbar-Ortiz|3.90|7|nonfiction history politics race indigenous
 I Have No Mouth & I Must Scream and Other Works|Harlan Ellison|3.90|19|sci-fi horror short-stories
 The Woman in the Dunes|Kobo Abe|3.89|6|classics literary magical-realism Japan
-The Tusks of Extinction|Ray Nayler|3.89|4|sci-fi
 The Stone Diaries|Carol Shields|3.89|13|literary historical Pulitzer
 The Library Book|Susan Orlean|3.89|12|nonfiction history true-crime
 The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89|16|humor contemporary literary Pulitzer
@@ -255,6 +251,7 @@ The Iron King|Julie Kagawa|3.88|14|fantasy romance YA
 The House Next Door|Anne Rivers Siddons|3.88|11|horror mystery South gothic
 The Helm of Midnight|Marina Lostetter|3.88|22|fantasy horror mystery
 Lolita|Vladimir Nabokov|3.88|11|literary classics
+The Tusks of Extinction|Ray Nayler|3.87|4|sci-fi
 The Magical Language of Others|E. J. Koh|3.87|5|nonfiction memoir Korea-California
 Cyber Mage|Saad Z. Hossain|3.87|13|sci-fi cyberpunk [audio hoopla]
 All This Could Be Different|Sarah Thankam Mathews|3.87|11|LGBT literary Milwaukee author:Oman/India
@@ -266,9 +263,9 @@ I Hotel|Karen Tei Yamashita|3.86|22|historical literary short-stories San-Franci
 Never Let Me Go|Kazuo Ishiguro|3.85|10|literary sci-fi Nobel
 Everything I Never Told You|Celeste Ng|3.85|10|mystery historical literary
 Brown Girl in the Ring|Nalo Hopkinson|3.85|8|fantasy Jamaica Canada Locus
+The Adventures of Augie March|Saul Bellow|3.84|22|literary classics Nobel National-Book
 How High We Go in the Dark|Sequoia Nagamatsu|3.84|9|sci-fi
 Heart Berries|Terese Marie Mailhot|3.84|4|nonfiction memoir indigenous
-Free Food for Millionaires|Min Jin Lee|3.84|20|contemporary literary Korean-American
 Bluebird, Bluebird|Attica Locke|3.84|9|mystery Black Texas
 Blood Music|Greg Bear|3.84|11|sci-fi horror classics
 Winter in the Blood|James Welch|3.83|5|classics literary indigenous
@@ -303,27 +300,23 @@ The Island of Dr. Moreau|H. G. Wells|3.73|5|sci-fi horror classics
 Mobility|Lydia Kiesling|3.73|11|historical literary Azerbaijan unread-country
 Lone Women|Victor LaValle|3.73|9|horror historical fantasy
 Chlorine|Jade Song|3.73|8|horror fantasy LGBT
-California Bones|Greg van Eekhout|3.73|9|fantasy
 Babel-17|Samuel R. Delany|3.73|7|sci-fi reread Nebula
 The Gilded Wolves|Roshani Chokshi|3.72|12|YA historical fantasy LGBT Paris-1889
 The Annual Migration of Clouds|Premee Mohamed|3.72|5|sci-fi post-apocalyptic climate literary
 Paper Towns|John Green|3.72|8|YA mystery contemporary romance
 American Rust|Philipp Meyer|3.72|13|contemporary mystery Pennsylvania-steel
-Karen Memory|Elizabeth Bear|3.71|13|steampunk
 East Goes West: The Making of an Oriental Yankee|Younghill Kang|3.71|16|classics Korean-American 1937
 Delicate Condition|Danielle Valentine|3.71|12|horror feminist-Rosemary's-Baby
 Tomb of Sand|Geetanjali Shree|3.70|18|literary India historical Booker
-The Yacoubian Building|Alaa Al Aswany|3.70|9|literary Egypt
 The Barbarian Nurseries|Héctor Tobar|3.70|16|contemporary literary L.A.
 Claire DeWitt and the City of the Dead|Sara Gran|3.69|9|mystery New Orleans
-The Shadow King|Maaza Mengiste|3.68|16|historical literary Ethiopia 1935
+The Shadow King|Maaza Mengiste|3.68|16|historical literary Ethiopia-1935
 Mill Town: Reckoning with What Remains|Kerri Arsenault|3.68|12|nonfiction memoir history environment
 Candide|Voltaire|3.68|4|classics philosophy France
 Body Horror|Anne Elizabeth Moore|3.68|8|nonfiction feminism
 A Time of Changes|Robert Silverberg|3.68|8|sci-fi
 The Luminous Dead|Caitlin Starling|3.67|14|sci-fi horror LGBT
 Girl in a Band|Kim Gordon|3.67|7|nonfiction memoir music
-Death by Dumpling|Vivien Chien|3.67|8|mystery
 The Appeal|John Grisham|3.63|13|mystery legal thriller
 Walking Practice|Dolki Min|3.62|4|Korea horror sci-fi LGBT
 Oreo|Fran Ross|3.62|8|humor classics race
@@ -335,33 +328,29 @@ Soul Mountain|Gao Xingjian|3.60|19|China Nobel
 The Plotters|Un-su Kim|3.58|10|mystery thriller Korea
 Gulliver's Travels|Jonathan Swift|3.58|5|classics
 Frankenstein in Baghdad|Ahmed Saadawi|3.58|8|horror magical-realism Iraq
-The Summer Prince|Alaya Dawn Johnson|3.57|12|YA fantasy sci-fi
 Memorial|Bryan Washington|3.57|8|contemporary literary LGBT Japanese-American Black Texas
 Funeral Songs for Dying Girls|Cherie Dimaline|3.57|8|YA fantasy LGBT indigenous
 Tropic of Orange|Karen Tei Yamashita|3.56|10|magical-realism
-The Queue|Basma Abdel Aziz|3.56|6|dystopian sci-fi Egypt-after-Arab-Spring
 The Ones We're Meant to Find|Joan He|3.56|11|YA sci-fi dystopian
 The Family Trade|Charles Stross|3.54|12|steampunk alternate-history
 The Tiger Flu|Larissa Lai|3.53|10|sci-fi LGBT
 The End of August|Yu Miri|3.53|28|historical literary Japanese-occupied-Korea-1930s
 White Horse|Erika T. Wurth|3.52|10|horror contemporary literary thriller indigenous
-Watched|Marina Budhos|3.52|7|contemporary YA Muslim-American
 The Premonition|Banana Yoshimoto|3.52|3|contemporary Japan
+Watched|Marina Budhos|3.51|7|contemporary YA Muslim-American
 Darker Than You Think|Jack Williamson|3.50|11|horror sci-fi fantasy werewolves 1940
 Victories Greater Than Death|Charlie Jane Anders|3.49|13|sci-fi YA LGBT
 Libertie|Kaitlyn Greenidge|3.49|12|historical Reconstruction Brooklyn
-Hit Parade of Tears|Izumi Suzuki|3.48|7|Japan short-stories sci-fi literary
-Then We Came to the End|Joshua Ferris|3.46|5|humor contemporary
 One-Shot Harry|Gary Phillips|3.46|8|mystery historical 1963-L.A.
 Give Me Some Truth|Eric Gansworth|3.45|14|YA historical music indigenous
 Under the Pendulum Sun|Jeannette Ng|3.44|13|fantasy horror
 I'm a Fan|Sheena Patel|3.43|5|contemporary literary British
+Hit Parade of Tears|Izumi Suzuki|3.43|7|Japan short-stories sci-fi literary
 The House of Shattered Wings|Aliette de Bodard|3.40|15|Paris steampunk mystery
+The Long Drop|Denise Mina|3.39|7|historical 1958-Glasgow mystery
 North of Dawn|Nuruddin Farah|3.39|10|literary Somalia unread-country
-The Long Drop|Denise Mina|3.38|7|historical 1958 Glasgow mystery
 Transmission|Hari Kunzru|3.37|10|contemporary India-computer-programmer-immigrant
 Waste Tide|Chen Qiufan|3.33|12|sci-fi China
 Escape Velocity|Victor Manibo|3.23|9|sci-fi
 Dare Me|Megan Abbott|3.23|9|contemporary mystery thriller YA cheerleaders
-City of Ash and Red|Hye-Young Pyun|3.15|6|horror sci-fi Korea Kafkaesque
-Y/N|Esther Yi|3.00|5|contemporary literary Korean-American Berlin
+City of Ash and Red|Hye-Young Pyun|3.14|6|horror sci-fi Korea Kafkaesque

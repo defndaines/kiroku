@@ -4,7 +4,7 @@ For several of these countries, I've watched multiple things, but I'm only
 listing a recent or best selection to keep things simple. Any country where
 I've watched more than ten movies or shows I'll mark with a star (\*).
 
-Count: 74
+Count: 73
 
 - [x] China\*: [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/) _臥虎藏龍_
 - [x] India: [The White Tiger](https://www.imdb.com/title/tt6571548/); [Lagaan: Once Upon a Time in India](https://www.imdb.com/title/tt0169102/); [Pagglait](https://www.imdb.com/title/tt11142762/)
@@ -158,7 +158,7 @@ Count: 74
 - [ ] Namibia
 - [ ] Moldova
 - [ ] Gambia
-- [x] Botswana: [The Gods Must Be Crazy](https://www.imdb.com/title/tt0080801/)
+- [ ] Botswana:
 - [ ] Lesotho
 - [ ] Gabon
 - [ ] Slovenia
