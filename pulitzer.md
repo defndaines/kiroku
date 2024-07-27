@@ -9,9 +9,9 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 21
+Count: 22
 
-## Fiction (17)
+## Fiction (18)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -93,7 +93,7 @@ Count: 21
 - [ ] 2004: Edward P. Jones, _The Known World_
 - [ ] 2005: Marilynne Robinson, _Gilead_
 - [ ] 2006: Geraldine Brooks, _March_
-- [ ] 2007: Cormac McCarthy, _The Road_
+- [x] 2007: Cormac McCarthy, _The Road_
 - [ ] 2008: Junot Díaz, _The Brief Wondrous Life of Oscar Wao_
 - [ ] 2009: Elizabeth Strout, _Olive Kitteridge_
 - [ ] 2010: Paul Harding, _Tinkers_
