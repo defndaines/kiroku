@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Dispossessed | Ursula K. Le Guin | 1974 | U.S. | 5.0 | print | 387 | sci-fi, classics, Hugo, Locus, Nebula |
 | The Road | Cormac McCarthy | 2006 | U.S. | 3.5 | audio | 241 | sci-fi, dystopian, literary, classics, Pulitzer |
 | The Royal Game | Stefan Zweig | 1942 | Austria | 4.5 | audio | 96 | novella, classics, literary |
 | Milkman | Anna Burns | 2018 | Northern Ireland | 5.0 | audio | 352 | literary, historical, Booker, Orwell Prize, NBCC Award, Dublin Literary Award |

@@ -6,7 +6,7 @@ Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fi
 I'm interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
-Count: 35
+Count: 36
 
 - [x] F. Scott Fitzgerald _The Great Gatsby_ (1925)
 - [ ] Theodore Dreiser _An American Tragedy_ (1925)
@@ -67,7 +67,7 @@ Count: 35
 - [ ] Toni Morrison _Sula_ (1973)
 - [ ] Oscar Zeta Acosta _The Revolt of the Cockroach People_ (1973)
 - [ ] Fran Ross _Oreo_ (1974)
-- [ ] Ursula K. Le Guin _The Dispossessed_ (1974)
+- [x] Ursula K. Le Guin _The Dispossessed_ (1974)
 - [ ] James Welch _Winter in the Blood_ (1974)
 - [ ] Gayl Jones _Corregidora_ (1975)
 - [ ] Renata Adler _Speedboat_ (1976)

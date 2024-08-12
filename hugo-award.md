@@ -8,9 +8,9 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 51
+Count: 52
 
-## Best Novel (23)
+## Best Novel (24)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -41,7 +41,7 @@ Count: 51
 - [ ] 1972: Philip José Farmer _To Your Scattered Bodies Go_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
-- [ ] 1975: Ursula K. Le Guin _The Dispossessed_
+- [x] 1975: Ursula K. Le Guin _The Dispossessed_
 - [x] 1976: Joe Haldeman _The Forever War_
 - [ ] 1977: Kate Wilhelm _Where Late the Sweet Birds Sang_
 - [x] 1978: Frederik Pohl _Gateway_

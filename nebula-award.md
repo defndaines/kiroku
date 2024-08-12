@@ -9,9 +9,9 @@ United States, awarded by the Science Fiction and Fantasy Writers Association
 Besides novel, only including awards when I've read them or plan to read them,
 since those lists are not goals I'm looking to fill in.
 
-Count: 27
+Count: 28
 
-## Best Novel (12)
+## Best Novel (13)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -23,7 +23,7 @@ Count: 27
 - [ ] 1972: Robert Silverberg _A Time of Changes_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
-- [ ] 1975: Ursula K. Le Guin _The Dispossessed_
+- [x] 1975: Ursula K. Le Guin _The Dispossessed_
 - [x] 1976: Joe Haldeman _The Forever War_
 - [ ] 1977: Frederik Pohl _Man Plus_
 - [x] 1978: Frederik Pohl _Gateway_

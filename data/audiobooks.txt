@@ -166,7 +166,6 @@ Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
 Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe
-My Brilliant Friend|Elena Ferrante|4.04|13|literary historical
 Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolbert|4.04|5|nonfiction nature politics science
 Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|11|nonfiction memoir biography L.A.
 A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Locus

@@ -7,15 +7,15 @@ Locus Awards are voted on by readers of _Locus_ magazine.
 Besides novels, only including awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 25
+Count: 26
 
-## Best Novel (3)
+## Best Novel (4)
 
 - [ ] 1971: Larry Niven _Ringworld_
 - [x] 1972: Ursula K. Le Guin _The Lathe of Heaven_
 - [ ] 1973: Isaac Asimov _The Gods Themselves_
 - [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
-- [ ] 1975: Ursula K. Le Guin _The Dispossessed_
+- [x] 1975: Ursula K. Le Guin _The Dispossessed_
 - [x] 1976: Joe Haldeman _The Forever War_
 - [ ] 1977: Kate Wilhelm _Where Late the Sweet Birds Sang_
 - [x] 1978: Frederik Pohl _Gateway_
