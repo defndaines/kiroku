@@ -8,7 +8,7 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 52
+Count: 57
 
 ## Best Novel (24)
 
@@ -92,6 +92,7 @@ Count: 52
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [x] 2023: T. Kingfisher _Nettle & Bone_
+- [ ] 2024: Emily Tesh _Some Desperate Glory_
 
 ## Best Novella (8)
 
@@ -103,15 +104,17 @@ Count: 52
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2021: Nghi Vo _The Empress of Salt and Fortune_
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_
+- [ ] 2024: T. Kingfisher _Thornhedge_
 
-## Best Novelette (3)
+## Best Novelette (4)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2018: Suzanne Palmer _The Secret Life of Bots_
 - [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
 - [ ] 2020: N. K. Jemisin _Emergency Skin_
+- [x] 2024: Naomi Kritzer _The Year Without Sunshine_
 
-## Best Short Story (7)
+## Best Short Story (8)
 
 - [x] 1951: Damon Knight _To Serve Man_
 - [x] 1960: Daniel Keyes _Flowers for Algernon_
@@ -121,6 +124,7 @@ Count: 52
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
+- [x] 2024: Naomi Kritzer _Better Living Through Algorithms_
 
 ## Best Graphic Story (9)
 
@@ -137,8 +141,17 @@ Count: 52
 ## Best Related Work (1)
 
 - [x] 2021: Maria Dahvana Headley _Beowulf: A New Translation_
+- [ ] 2024: Kelly Weinersmith and Zach Weinersmith _A City on Mars_
 
-## Best Dramatic Presentation (57)
+## Lodestar Award for Best Young Adult Book (3)
+
+- [ ] 2018: Nnedi Okorafor _Akata Warrior_
+- [x] 2019: Tomi Adeyemi _Children of Blood and Bone_
+- [x] 2021: T. Kingfisher _A Wizard's Guide to Defensive Baking_
+- [ ] 2023: Nnedi Okorafor _Akata Woman_
+- [x] 2024: Moniquill Blackgoose _To Shape a Dragon's Breath_
+
+## Best Dramatic Presentation (58)
 
 - [ ] 1939: _The War of the Worlds_ Orson Welles, H.G. Wells
 - [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer
@@ -201,3 +214,4 @@ Count: 52
 - [x] 2021: _The Good Place: "Whenever You're Ready"_ Michael Schur
 - [x] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert
 - [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
+- [x] 2024: _Dungeons & Dragons: Honor Among Thieves_ John Francis Daley and Jonathan Goldstein

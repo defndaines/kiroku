@@ -112,6 +112,7 @@ To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.1
 The Remains of the Day|Kazuo Ishiguro|4.14|9|literary historical classics
 Song of Solomon|Toni Morrison|4.14|3|classics literary magical-realism Nobel
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
+The God and the Gumiho|Sophie Kim|4.13|13|fantasy romance
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
 Heroes of the Water Monster|Brian Young|4.13|10|fantasy YA
 The Talisman|Peter Straub|4.12|28|horror fantasy
@@ -159,8 +160,10 @@ Equal Rites|Terry Pratchett|4.06|7|fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05|5|classics feminism short-stories 1892
+The Word for World Is Forest|Ursula K. Le Guin|4.05|5|sci-fi Hugo
 The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
+Lanny|Max Porter|4.05|5|fantasy horror literary
 Kokoro|Natsume Soseki|4.05|9|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
@@ -237,7 +240,7 @@ Semiosis|Sue Burke|3.91|15|sci-fi
 A General Theory of Oblivion|José Eduardo Agualusa|3.91|4|Angola historical literary International-Dublin-Literary unread-country [audio hoopla]
 The Hundred Thousand Kingdoms|N. K. Jemisin|3.90|12|sci-fi Locus
 Still Life|Louise Penny|3.90|10|mystery Quebec
-Neuromancer|William Gibson|3.90|10|sci-fi cyberpunk thriller Hugo Nebula
+Neuromancer|William Gibson|3.90|11|sci-fi cyberpunk thriller Hugo Nebula
 Loaded: A Disarming History of the Second Amendment|Roxanne Dunbar-Ortiz|3.90|7|nonfiction history politics race indigenous
 I Have No Mouth & I Must Scream and Other Works|Harlan Ellison|3.90|19|sci-fi horror short-stories
 The Woman in the Dunes|Kobo Abe|3.89|6|classics literary magical-realism Japan
