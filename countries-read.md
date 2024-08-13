@@ -37,7 +37,7 @@ Count: 84
 - [x] United Kingdom\*: [_Spear_](https://www.goodreads.com/book/show/57693308-spear) Nicola Griffith
 - [x] Tanzania: [_Paradise_](https://www.goodreads.com/book/show/765618.Paradise) Abdulrazak Gurnah
 - [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes; [_Crossroads: I Live Where I Like_](https://www.goodreads.com/book/show/53125734-crossroads) Koni Benson
-- [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa
+- [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa; [_My Brilliant Friend_](https://www.goodreads.com/book/show/35036409-my-brilliant-friend) Elena Ferrante
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
 - [ ] Myanmar:
 - [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden; Gabriel García Márquez ?
