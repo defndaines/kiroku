@@ -1,12 +1,12 @@
 They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.69|8|memoir nonfiction Palestine
-The New Fish|Simen Saetre, Kjetil Ostli|4.63|10|nonfiction nature farmed-fish salmon
-The Nightingale|Kristin Hannah|4.62|18|historical WWII occupied France
-A Little Devil in America|Hanif Abdurraqib|4.61|10|nonfiction history music Black
+The Nightingale|Kristin Hannah|4.63|18|historical WWII occupied France
+The New Fish|Simen Saetre, Kjetil Ostli|4.61|10|nonfiction nature farmed-fish salmon
+A Little Devil in America|Hanif Abdurraqib|4.60|10|nonfiction history music Black
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
 The Spirit Bares Its Teeth|Andrew Joseph White|4.53|11|horror sci-fi LGBT fantasy historical YA
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
-The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.51|nonfiction history biography
+The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.51|16|nonfiction history biography
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
 All My Rage|Sabaa Tahir|4.50|10|Pakistan YA romance California National-Book
 Wayward Lives, Beautiful Experiments|Saidiya Hartman|4.48|10|nonfiction history feminism race
@@ -161,9 +161,9 @@ A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05|5|classics feminism short-stories 1892
 The Word for World Is Forest|Ursula K. Le Guin|4.05|5|sci-fi Hugo
+The Witch's Heart|Genevieve Gornichec|4.05|12|fantasy mythology Norse
 The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
-Lanny|Max Porter|4.05|5|fantasy horror literary
 Kokoro|Natsume Soseki|4.05|9|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
@@ -173,7 +173,6 @@ Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolber
 Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|11|nonfiction memoir biography L.A.
 A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Locus
 Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland
-David Copperfield|Charles Dickens|4.03|34|classics literary
 The Ocean at the End of the Lane|Neil Gaiman|4.02|6|fantasy horror magical-realism Locus
 Little|Edward Carey|4.02|14|historical Paris-1700s
 Bright Young Women|Jessica Knoll|4.02|13|thriller historical serial-killer
@@ -249,6 +248,7 @@ The Library Book|Susan Orlean|3.89|12|nonfiction history true-crime
 The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89|16|humor contemporary literary Pulitzer
 Embassytown|China Miéville|3.89|12|sci-fi Locus
 A Brief History of Seven Killings|Marlon James|3.89|26|historical literary Jamaica Booker
+The Wolf|Leo Carew|3.88|17|fantasy historical
 The Iron King|Julie Kagawa|3.88|14|fantasy romance YA
 The House Next Door|Anne Rivers Siddons|3.88|11|horror mystery South gothic
 The Helm of Midnight|Marina Lostetter|3.88|22|fantasy horror mystery
