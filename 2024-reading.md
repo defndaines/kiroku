@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Reckoning of Roku | Randy Ribay | 2024 | U.S. | 4.0 | audio | 368 | fantasy, YA |
 | Olive, By the Light of a Blue Moon | Véro Cazot | 2020 | France | 3.5 | ebook | 56 | graphic novel, fantasy |
 | My Brilliant Friend | Elena Ferrante | 2011 | Italy | 3.5 | audio | 331 | historical, literary |
 | The Dispossessed | Ursula K. Le Guin | 1974 | U.S. | 5.0 | print | 387 | sci-fi, classics, Hugo, Locus, Nebula, **August**  |
