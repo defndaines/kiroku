@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Witch Hat Atelier, Vol. 1 | Kamome Shirahama | 2017 | Japan | 4.5 | print | 204 | graphic novel, manga, fantasy, YA |
 | Send More Tourists...the Last Ones Were Delicious | Tracey Waddleton | 2019 | Canada | 4.5 | print | 250 | short-stories |
 | The Reckoning of Roku | Randy Ribay | 2024 | U.S. | 4.0 | audio | 368 | fantasy, YA |
 | Olive, By the Light of a Blue Moon | Véro Cazot | 2020 | France | 3.5 | ebook | 56 | graphic novel, fantasy |
