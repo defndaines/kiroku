@@ -283,6 +283,7 @@ Nova|Samuel R. Delany|3.81|9|sci-fi
 Heaven|Mieko Kawakami|3.81|6|contemporary literary Japan
 To the Lighthouse|Virginia Woolf|3.80|8|literary classics
 The Plague of Doves|Louise Erdrich|3.80|11|historical mystery indigenous
+Remain Silent|Susie Steiner|3.80|10|mystery
 Evergreen|Naomi Hirahara|3.80|9|historical mystery sequel-Clark-and-Division
 The Changeling|Victor LaValle|3.79|14|horror fantasy literary World-Fantasy
 A Head Full of Ghosts|Paul Tremblay|3.79|9|horror mystery thriller New England
@@ -313,6 +314,7 @@ Tomb of Sand|Geetanjali Shree|3.70|18|literary India historical Booker
 The Barbarian Nurseries|Héctor Tobar|3.70|16|contemporary literary L.A.
 Claire DeWitt and the City of the Dead|Sara Gran|3.69|9|mystery New Orleans
 The Shadow King|Maaza Mengiste|3.68|16|historical literary Ethiopia-1935
+Phoenix Extravagant|Yoon Ha Lee|3.68|10|fantasy
 Mill Town: Reckoning with What Remains|Kerri Arsenault|3.68|12|nonfiction memoir history environment
 Candide|Voltaire|3.68|4|classics philosophy France
 Body Horror|Anne Elizabeth Moore|3.68|8|nonfiction feminism

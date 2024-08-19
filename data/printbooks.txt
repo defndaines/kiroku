@@ -119,7 +119,6 @@ Three Times Lucky|Sheila Turnage|4.03|mystery YA
 Tehanu|Ursula K. Le Guin|4.03|fantasy YA classics sequel-earthsea-4
 A Scanner Darkly|Philip K. Dick|4.02|sci-fi [audio hoopla]
 The Silmarillion|J.R.R. Tolkien|4.01|fantasy classics [audio available]
-Swallows and Amazons|Arthur Ransome|4.01|YA classics adventure
 Spirit Hunters|Ellen Oh|4.01|YA horror fantasy
 Shipwrecks|Akira Yoshimura|4.01|historical literary
 I'll Be the One|Lyla Lee|4.01|YA romance LGBT
@@ -202,4 +201,3 @@ Flood|S. Alexander Reed, Elizabeth Sandifer|3.47|nonfiction music history
 The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America|Mark Kurlansky|3.46|nonfiction history [audio hoopla]
 The Zen Gun|Barrington J. Bayley|3.37|sci-fi
 Blackass|A. Igoni Barrett|3.35|contemporary magical-realism Nigeria
-### Kids' Shelves

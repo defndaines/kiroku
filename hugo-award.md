@@ -8,7 +8,7 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 57
+Count: 58
 
 ## Best Novel (24)
 
@@ -114,11 +114,12 @@ Count: 57
 - [ ] 2020: N. K. Jemisin _Emergency Skin_
 - [x] 2024: Naomi Kritzer _The Year Without Sunshine_
 
-## Best Short Story (8)
+## Best Short Story (9)
 
 - [x] 1951: Damon Knight _To Serve Man_
 - [x] 1960: Daniel Keyes _Flowers for Algernon_
-- [ ] 1968: Harlan Ellison _I Have No Mouth, and I Must Scream_
+- [ ] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
+- [x] 1968: Harlan Ellison _I Have No Mouth, and I Must Scream_
 - [x] 1974: Ursula K. Le Guin _The Ones Who Walk Away from Omelas_
 - [x] 2009: Ted Chiang _Exhalation_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_

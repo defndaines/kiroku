@@ -91,6 +91,7 @@ Count: 28
 
 ## Best Short Story (3)
 
+- [ ] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
