@@ -9,7 +9,7 @@ United States, awarded by the Science Fiction and Fantasy Writers Association
 Besides novel, only including awards when I've read them or plan to read them,
 since those lists are not goals I'm looking to fill in.
 
-Count: 28
+Count: 29
 
 ## Best Novel (13)
 
@@ -89,9 +89,9 @@ Count: 28
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 - [x] 2024: Naomi Kritzer _The Year Without Sunshine_
 
-## Best Short Story (3)
+## Best Short Story (4)
 
-- [ ] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
+- [x] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
