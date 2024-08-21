@@ -1,4 +1,5 @@
 They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.69|8|memoir nonfiction Palestine
+The Way of Kings|Brandon Sanderson|4.66|46|fantasy stormlight-archive-1
 The Nightingale|Kristin Hannah|4.63|18|historical WWII occupied France
 The New Fish|Simen Saetre, Kjetil Ostli|4.61|10|nonfiction nature farmed-fish salmon
 A Little Devil in America|Hanif Abdurraqib|4.60|10|nonfiction history music Black
@@ -11,6 +12,7 @@ Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
 All My Rage|Sabaa Tahir|4.50|10|Pakistan YA romance California National-Book
 Wayward Lives, Beautiful Experiments|Saidiya Hartman|4.48|10|nonfiction history feminism race
 The Reformatory|Tananarive Due|4.48|21|horror historical
+The Final Empire|Brandon Sanderson|4.48|25|fantasy mistborn-1
 How to Say Babylon|Safiya Sinclair|4.47|17|memoir nonfiction feminism
 Crossings|Ben Goldfarb|4.45|12|nonfiction nature science roads
 Brotherless Night|V.V. Ganeshananthan|4.45|13|literary historical Sri Lanka Carol-Shields-Prize Womens-Prize
@@ -20,7 +22,7 @@ Where I'm Calling From|Raymond Carver|4.41|17|short-stories literary
 Betty|Tiffany McDaniel|4.41|18|historical literary Appalachians
 Going Postal|Terry Pratchett|4.40|11|fantasy humor discworld-33
 Jayber Crow|Wendell Berry|4.39|14|historical classics
-A Day of Fallen Night|Samantha Shannon|4.39|39|fantasy LGBT U.K.
+A Day of Fallen Night|Samantha Shannon|4.39|39|fantasy LGBT U.K. priory-orange-prequel
 Take My Hand|Dolen Perkins-Valdez|4.38|11|historical literary Black 1973-Alabama
 A Bond Undone|Jin Yong|4.38|18|China fantasy historical sequel-Hero-Born
 Warrior Girl Unearthed|Angeline Boulley|4.36|12|YA mystery thriller indigenous
@@ -37,7 +39,7 @@ A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
 The Road Back|Erich Maria Remarque|4.32|11|classics Germany sequel-AQotWF
 Happening|Annie Ernaux|4.32|2|memoir nonfiction literary abortion Nobel
 A Day in the Life of Abed Salama|Nathan Thrall|4.32|7|nonfiction history politics Jerusalem
-The Rage of Dragons|Evan Winter|4.31|16|fantasy
+The Rage of Dragons|Evan Winter|4.31|16|fantasy burning-1
 The Molière Collection|Molière|4.31|9|play France
 The Bloody Crown of Conan|Robert E. Howard|4.31|18|fantasy sequel-2
 The Big Bundle|Max Allan Collins|4.31|8|historical noir
@@ -47,10 +49,10 @@ All the Frequent Troubles of Our Days|Rebecca Donner|4.31|14|nonfiction biograph
 A Deepness in the Sky|Vernor Vinge|4.31|28|sci-fi Hugo sequel-AFUtD
 Thelonious Monk|Robin DG Kelley|4.30|26|nonfiction biography music
 The Shadow of the Wind|Carlos Ruiz Zafón|4.30|18|historical mystery literary
-The Lies of Locke Lamora|Scott Lynch|4.30|23|fantasy
+The Lies of Locke Lamora|Scott Lynch|4.30|23|fantasy gentleman-bastard-1
 The Four Winds|Kristin Hannah|4.30|15|historical Texas-1934-California
 Tell Me How Long the Train's Been Gone|James Baldwin|4.30|15|classics LGBT literary
-Leviathan Wakes|James S.A. Corey|4.30|21|sci-fi
+Leviathan Wakes|James S.A. Corey|4.30|21|sci-fi expanse-1
 From Here to Eternity|Caitlin Doughty|4.30|6|nonfiction death science travel
 Another Country|James Baldwin|4.30|16|literary classics LGBT
 Solenoid|Mircea Cărtărescu|4.29|34|literary Romania International-Dublin-Literary
@@ -60,7 +62,7 @@ Howl's Moving Castle|Diana Wynne Jones|4.29|9|fantasy YA
 Girl, Woman, Other|Bernardine Evaristo|4.29|11|contemporary LGBT literary British feminism Black Booker
 The Wall|John Hersey|4.28|29|historical Warsaw-ghetto
 The Rediscovery of America|Ned Blackhawk|4.28|17|nonfiction history indigenous National-Book
-The Player of Games|Iain M. Banks|4.28|11|sci-fi sequel-culture-2
+The Player of Games|Iain M. Banks|4.28|11|sci-fi culture-2
 Exhalation|Ted Chiang|4.28|11|sci-fi literary short-stories Hugo
 If Beale Street Could Talk|James Baldwin|4.27|7|classics literary romance
 Dune|Frank Herbert|4.27|21|sci-fi classics reread Hugo Nebula
@@ -77,6 +79,8 @@ Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge|Benjami
 House of Suns|Alastair Reynolds|4.24|18|sci-fi
 Dearborn|Ghassan Zeineddine|4.24|8|short-stories literary contemporary
 Circe|Madeline Miller|4.24|12|fantasy Greek mythology literary
+Theft of Swords|Michael J. Sullivan|4.23|23|fantasy riyria-revelations-1
+The Shadow of the Gods|John Gwynne|4.23|19|fantasy bloodsworn-1
 The Perks of Being a Wallflower|Stephen Chbosky|4.23|6|YA classics contemporary mental-health
 Beautyland|Marie-Helene Bertino|4.23|9|literary sci-fi
 Reform or Revolution and Other Writings|Rosa Luxemburg|4.22|3|nonfiction economics philosophy politics [audio hoopla]
@@ -90,10 +94,10 @@ The Emigrants|Vilhelm Moberg|4.20|17|Sweden historical classics
 The Children of Gods and Fighting Men|Shauna Lawless|4.20|14|historical fantasy 981-Dublin
 Reconstruction|Eric Foner|4.20|31|nonfiction history
 The Invisible Life of Addie LaRue|V.E. Schwab|4.19|17|fantasy historical literary
-The Eye of the World|Robert Jordan|4.19|33|fantasy
+The Eye of the World|Robert Jordan|4.19|33|fantasy wheel-of-time-1
 The Years|Annie Ernaux|4.18|8|France nonfiction memoir literary Nobel
 Paladin of Souls|Lois McMaster Bujold|4.18|16|fantasy Hugo Locus Nebula
-Mind of My Mind|Octavia E. Butler|4.18|8|sci-fi fantasy sequel Patternmaster-2
+Mind of My Mind|Octavia E. Butler|4.18|8|sci-fi fantasy sequel patternmaster-2
 Almond|Won-pyung Sohn|4.18|5|contemporary literary Korea
 Guns of the Dawn|Adrian Tchaikovsky|4.17|21|steampunk
 Anathem|Neal Stephenson|4.17|32|sci-fi fantasy Locus
@@ -118,7 +122,7 @@ Heroes of the Water Monster|Brian Young|4.13|10|fantasy YA
 The Talisman|Peter Straub|4.12|28|horror fantasy
 The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller
 The Girl Who Fell Beneath the Sea|Axie Oh|4.12|9|fantasy YA
-Senlin Ascends|Josiah Bancroft|4.12|14|fantasy
+Senlin Ascends|Josiah Bancroft|4.12|14|fantasy books-of-babel-1
 Elder Race|Adrian Tchaikovsky|4.12|4|sci-fi fantasy
 A Crane Among Wolves|June Hur|4.12|10|historical mystery YA fantasy Korean
 Welcome to the Hyunam-dong Bookshop|Hwang Bo-reum|4.11|8|literary Korea
@@ -147,7 +151,7 @@ A Gathering of Old Men|Ernest J. Gaines|4.08|8|historical classics
 The Vanished Birds|Simon Jimenez|4.07|13|sci-fi literary LGBT
 The Trees|Percival Everett|4.07|8|mystery literary historical Black Mississippi
 The Stars My Destination|Alfred Bester|4.07|8|sci-fi classics
-The Goblin Emperor|Katherine Addison|4.07|18|fantasy
+The Goblin Emperor|Katherine Addison|4.07|18|fantasy osreth-1
 Light From Uncommon Stars|Ryka Aoki|4.07|13|sci-fi fantasy LGBT San-Gabriel-Valley
 Fatelessness|Imre Kertesz|4.07|8|historical Hungary Nobel unread-country
 Enter Ghost|Isabella Hammad|4.07|12|literary contemporary Palestine
@@ -165,7 +169,7 @@ The Witch's Heart|Genevieve Gornichec|4.05|12|fantasy mythology Norse
 The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
 Kokoro|Natsume Soseki|4.05|9|classics Japan
-Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy
+Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy sun-eater-1
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Book of Doors|Gareth Brown|4.04|13|fantasy
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
@@ -181,7 +185,7 @@ A Short History of Reconstruction|Eric Foner|4.02|13|nonfiction history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence|Kristen R. Ghodsee|4.01|5|nonfiction feminism history politics
 The Three Stigmata of Palmer Eldritch|Philip K. Dick|4.01|8|sci-fi
 The Day of the Triffids|John Wyndham|4.01|5|sci-fi horror classics
-Shadow of the Fox|Julie Kagawa|4.01|15|YA fantasy
+Shadow of the Fox|Julie Kagawa|4.01|15|YA fantasy shadow-of-the-fox-1
 Salka Valka|Halldor Laxness|4.01|19|classics Iceland Nobel 1931 unread-country
 Open Throat|Henry Hoke|4.01|2|literary LGBT Hollywood-mountain-lion
 Norwegian Wood|Haruki Murakami|4.01|13|literary romance Japan
@@ -216,10 +220,10 @@ Frankenstein|Mary Shelley|3.97|7|sci-fi classics reread
 Thistlefoot|GennaRose Nethercott|3.96|15|fantasy eastern-Europe mythology
 Black Money|Ross Macdonald|3.96|7|mystery noir
 The Sea, the Sea|Iris Murdoch|3.95|21|literary classics Booker
-The Killing Moon|N. K. Jemisin|3.95|13|fantasy
+The Killing Moon|N. K. Jemisin|3.95|13|fantasy dreamblood-1
 The Big Sleep|Raymond Chandler|3.95|7|mystery noir classics
 Jonny Appleseed|Joshua Whitehead|3.95|6|literary indigenous LGBT
-Dragon Prince|Melanie Rawn|3.95|22|fantasy romance
+Dragon Prince|Melanie Rawn|3.95|22|fantasy romance dragon-prince-1
 When We Were Sisters|Fatimah Asghar|3.94|5|contemporary literary LGBT Carol-Shields-Prize
 More Than Human|Theodore Sturgeon|3.94|8|sci-fi 1953
 Bad Cree|Jessica Johns|3.94|8|horror literary magical-realism indigenous
@@ -230,7 +234,7 @@ Passing|Nella Larsen|3.93|4|classics literary 1929
 Mongrels|Stephen Graham Jones|3.93|10|horror werewolves indigenous
 Black Bottom Saints|Alice Randall|3.93|12|historical Black Detroit
 Bel Canto|Ann Patchett|3.93|11|literary contemporary South America terrorism/hostages Womens-Prize
-Titus Groan|Mervyn Peake|3.92|17|classics fantasy gothic 1946
+Titus Groan|Mervyn Peake|3.92|17|classics fantasy gothic 1946 gormenghast-1
 The Good Lord Bird|James McBride|3.92|15|historical National-Book
 Split Tooth|Tanya Tagaq|3.92|6|poetry historical literary magical-realism indigenous
 Night of the Living Rez|Morgan Talty|3.92|7|contemporary literary indigenous Maine short-stories
@@ -238,7 +242,7 @@ If I Ever Get Out of Here|Eric Gansworth|3.92|10|YA historical indigenous
 The Alchemist|Paulo Coelho|3.91|4|classics fantasy literary
 Semiosis|Sue Burke|3.91|15|sci-fi
 A General Theory of Oblivion|José Eduardo Agualusa|3.91|4|Angola historical literary International-Dublin-Literary unread-country [audio hoopla]
-The Hundred Thousand Kingdoms|N. K. Jemisin|3.90|12|sci-fi Locus
+The Hundred Thousand Kingdoms|N. K. Jemisin|3.90|12|sci-fi Locus inheritance-1
 Still Life|Louise Penny|3.90|10|mystery Quebec
 Neuromancer|William Gibson|3.90|11|sci-fi cyberpunk thriller Hugo Nebula
 Loaded: A Disarming History of the Second Amendment|Roxanne Dunbar-Ortiz|3.90|7|nonfiction history politics race indigenous
@@ -248,18 +252,18 @@ The Library Book|Susan Orlean|3.89|12|nonfiction history true-crime
 The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89|16|humor contemporary literary Pulitzer
 Embassytown|China Miéville|3.89|12|sci-fi Locus
 A Brief History of Seven Killings|Marlon James|3.89|26|historical literary Jamaica Booker
-The Wolf|Leo Carew|3.88|17|fantasy historical
-The Iron King|Julie Kagawa|3.88|14|fantasy romance YA
+The Wolf|Leo Carew|3.88|17|fantasy historical under-the-northern-sky-1
+The Iron King|Julie Kagawa|3.88|14|fantasy romance YA iron-fey-1
 The House Next Door|Anne Rivers Siddons|3.88|11|horror mystery South gothic
-The Helm of Midnight|Marina Lostetter|3.88|22|fantasy horror mystery
+The Helm of Midnight|Marina Lostetter|3.88|22|fantasy horror mystery five-penalties-1
 Lolita|Vladimir Nabokov|3.88|11|literary classics
 The Tusks of Extinction|Ray Nayler|3.87|4|sci-fi
 The Magical Language of Others|E. J. Koh|3.87|5|nonfiction memoir Korea-California
 Cyber Mage|Saad Z. Hossain|3.87|13|sci-fi cyberpunk [audio hoopla]
 All This Could Be Different|Sarah Thankam Mathews|3.87|11|LGBT literary Milwaukee author:Oman/India
-Red Mars|Kim Stanley Robinson|3.86|24|sci-fi Nebula
+Red Mars|Kim Stanley Robinson|3.86|24|sci-fi Nebula mars-1
 Oona Out of Order|Margarita Montimore|3.86|12|sci-fi magical-realism time-travel
-Midnight Riot|Ben Aaronovitch|3.86|10|fantasy mystery London
+Midnight Riot|Ben Aaronovitch|3.86|10|fantasy mystery London rivers-of-london-1
 Jonathan Strange & Mr. Norrell|Susanna Clarke|3.86|32|fantasy historical Hugo Locus World-Fantasy
 I Hotel|Karen Tei Yamashita|3.86|22|historical literary short-stories San-Francisco-1968
 Never Let Me Go|Kazuo Ishiguro|3.85|10|literary sci-fi Nobel
@@ -287,13 +291,13 @@ Remain Silent|Susie Steiner|3.80|10|mystery
 Evergreen|Naomi Hirahara|3.80|9|historical mystery sequel-Clark-and-Division
 The Changeling|Victor LaValle|3.79|14|horror fantasy literary World-Fantasy
 A Head Full of Ghosts|Paul Tremblay|3.79|9|horror mystery thriller New England
-The Grace of Kings|Ken Liu|3.78|22|fantasy Locus
+The Grace of Kings|Ken Liu|3.78|22|fantasy Locus dandelion-dynasty-1
 And Put Away Childish Things|Adrian Tchaikovsky|3.78|5|fantasy sci-fi
 Saints and Misfits|S.K. Ali|3.77|8|contemporary YA Muslim
 History of Violence|Édouard Louis|3.77|5|nonfiction autobiography LGBT France
 Dhalgren|Samuel R. Delany|3.77|35|sci-fi literary LGBT magical-realism
 Strike the Zither|Joan He|3.76|11|fantasy YA historical China-414
-Annihilation|Jeff VanderMeer|3.76|6|sci-fi horror Nebula
+Annihilation|Jeff VanderMeer|3.76|6|sci-fi horror Nebula southern-reach-1
 A Doll's House|Henrik Ibsen|3.76|2|play classics Norway
 The Old Drift|Namwali Serpell|3.75|25|historical literary Zambia unread-country
 Native Speaker|Chang-rae Lee|3.75|11|contemporary literary ABA Korean-American
@@ -304,7 +308,7 @@ Mobility|Lydia Kiesling|3.73|11|historical literary Azerbaijan unread-country
 Lone Women|Victor LaValle|3.73|9|horror historical fantasy
 Chlorine|Jade Song|3.73|8|horror fantasy LGBT
 Babel-17|Samuel R. Delany|3.73|7|sci-fi reread Nebula
-The Gilded Wolves|Roshani Chokshi|3.72|12|YA historical fantasy LGBT Paris-1889
+The Gilded Wolves|Roshani Chokshi|3.72|12|YA historical fantasy LGBT Paris-1889 gilded-wolves-1
 The Annual Migration of Clouds|Premee Mohamed|3.72|5|sci-fi post-apocalyptic climate literary
 Paper Towns|John Green|3.72|8|YA mystery contemporary romance
 American Rust|Philipp Meyer|3.72|13|contemporary mystery Pennsylvania-steel
