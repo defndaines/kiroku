@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Groo: In the Wild | Sergio Aragonés, Mark Evanier | 2024 | U.S. | 5.0 | ebook | 107 | graphic novel, fantasy, humor |
 | Bitter Root, Vol. 2: Rage & Redemption | David F. Walker, Chuck Brown | 2020 | U.S. | 4.0 | print | 200 | graphic novel, fantasy, historical, mystery |
 | This Is How You Lose the Time War | Amal El-Mohtar, Max Gladstone | 2019 | U.S. | 4.5 | audio | 223 | sci-fi, romance, LGBT, reread, Hugo, Nebula, Locus, BSFA |
 | Witch Hat Atelier, Vol. 1 | Kamome Shirahama | 2017 | Japan | 4.5 | print | 204 | graphic novel, manga, fantasy, YA |
