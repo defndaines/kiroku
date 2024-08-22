@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Bitter Root, Vol. 2: Rage & Redemption | David F. Walker, Chuck Brown | 2020 | U.S. | 4.0 | print | 200 | graphic novel, fantasy, historical, mystery |
 | This Is How You Lose the Time War | Amal El-Mohtar, Max Gladstone | 2019 | U.S. | 4.5 | audio | 223 | sci-fi, romance, LGBT, reread, Hugo, Nebula, Locus, BSFA |
 | Witch Hat Atelier, Vol. 1 | Kamome Shirahama | 2017 | Japan | 4.5 | print | 204 | graphic novel, manga, fantasy, YA |
 | Send More Tourists...the Last Ones Were Delicious | Tracey Waddleton | 2019 | Canada | 4.5 | print | 250 | short-stories |

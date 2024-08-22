@@ -120,7 +120,7 @@ The God and the Gumiho|Sophie Kim|4.13|13|fantasy romance
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
 Heroes of the Water Monster|Brian Young|4.13|10|fantasy YA
 The Talisman|Peter Straub|4.12|28|horror fantasy
-The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller
+The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller sequel-initial-insult
 The Girl Who Fell Beneath the Sea|Axie Oh|4.12|9|fantasy YA
 Senlin Ascends|Josiah Bancroft|4.12|14|fantasy books-of-babel-1
 Elder Race|Adrian Tchaikovsky|4.12|4|sci-fi fantasy
@@ -301,6 +301,7 @@ Annihilation|Jeff VanderMeer|3.76|6|sci-fi horror Nebula southern-reach-1
 A Doll's House|Henrik Ibsen|3.76|2|play classics Norway
 The Old Drift|Namwali Serpell|3.75|25|historical literary Zambia unread-country
 Native Speaker|Chang-rae Lee|3.75|11|contemporary literary ABA Korean-American
+Klara and the Sun|Kazuo Ishiguro|3.75|11|sci-fi literary
 All the Lovers in the Night|Mieko Kawakami|3.75|8| contemporary literary Japan
 I'm Waiting for You and Other Stories|Kim Bo-young|3.74|10|sci-fi short-stories
 The Island of Dr. Moreau|H. G. Wells|3.73|5|sci-fi horror classics
@@ -324,6 +325,7 @@ Candide|Voltaire|3.68|4|classics philosophy France
 Body Horror|Anne Elizabeth Moore|3.68|8|nonfiction feminism
 A Time of Changes|Robert Silverberg|3.68|8|sci-fi
 The Luminous Dead|Caitlin Starling|3.67|14|sci-fi horror LGBT
+The Initial Insult|Mindy McGinnis|3.67|8|YA horror thriller
 Girl in a Band|Kim Gordon|3.67|7|nonfiction memoir music
 The Appeal|John Grisham|3.63|13|mystery legal thriller
 Walking Practice|Dolki Min|3.62|4|Korea horror sci-fi LGBT
