@@ -1,8 +1,7 @@
 This Bell Still Rings: My Life of Defiance and Song|Barbara Dane|5.00|488|nonfiction music memoir
 The United States Governed by Six Hundred Thousand Despots: A True Story of Slavery; A Rediscovered Narrative, with a Full Biography|John Swanson Jacobs|5.00|327|history nonfiction memoir race
-California Against the Sea: Visions for Our Vanishing Coastline|Rosanna Xia|4.69|325|nonfiction environment
+California Against the Sea: Visions for Our Vanishing Coastline|Rosanna Xia|4.69|325|nonfiction environment [Spotify 2024-09-24]
 The Will of the Many|James Islington|4.63|639|fantasy
-When the World Fell Silent|Donna Jones Alward|4.54|380|historical Halifax-Nova-Scotia
 Project Hail Mary|Andy Weir|4.51|476|sci-fi
 Walking Through Clear Water in a Pool Painted Black|Cookie Mueller|4.49|151|nonfiction memoir (Pink Flamingos)
 Meet Behind Mars|Renee Simms|4.42|244|short-stories
@@ -20,7 +19,6 @@ Marx at the Margins|Kevin B. Anderson|4.29|336|nonfiction history politics philo
 A Little Luck|Claudia Piñeiro|4.29|211|contemporary literary crime Argentina
 The First Civil Right|Naomi Murakawa|4.27|280|nonfiction postwar prison history
 Ida: A Sword Among Lions|Paula J. Giddings|4.27|800|nonfiction biography history race
-Hogfather|Terry Pratchett|4.25|448|fantasy discworld-20
 Old Man's War|John Scalzi|4.24|318|sci-fi [owned]
 The Fall of Hyperion|Dan Simmons|4.23|517|sci-fi sequel
 The Consuming Fire|John Scalzi|4.21|304|sci-fi sequel-interdependency-2 [owned]
@@ -55,7 +53,6 @@ The Listening Book: Discovering Your Own Music|W. A. Mathieu|4.08|192|nonfiction
 The Hour of the Star|Clarice Lispector|4.08|96|literary
 The Forgotten Beasts of Eld|Patricia A. McKillip|4.08|343|fantasy YA World-Fantasy
 City|Clifford D. Simak|4.08|251|fantasy sci-fi short-stories
-Dreaming the Eagle|Manda Scott|4.07|465|fantasy historical romance Boudica
 Praiseworthy|Alexis Wright|4.05|736|literary Australia Stella-Prize
 Open Water|Caleb Azumah Nelson|4.05|145|contemporary literary
 Eve out of Her Ruins|Ananda Devi|4.05|155|literary Mauritius unread-country
@@ -70,7 +67,7 @@ The Steerswoman|Rosemary Kirstein|4.02|279|fantasy sci-fi
 The Sympathizer|Viet Thanh Nguyen|4.01|371|historical war literary
 Head On|John Scalzi|4.01|335|sci-fi sequel-lock-in-2 [owned]
 Factories in the Field: The Story of Migratory Farm Labor in California|Carey McWilliams|4.01|366|nonfiction history
-The Kaiju Preservation Society|John Scalzi|4.00|264|sci-fi  [owned]
+The Kaiju Preservation Society|John Scalzi|4.00|264|sci-fi [owned]
 The Hearing Test|Eliza Barry Callahan|4.00|163|literary
 The Old Garden|Hwang Sok-yong|3.99|480|Korea historical
 The End of All Things|John Scalzi|3.99|380|sci-fi sequel-old-mans-war-6 [owned]
@@ -85,7 +82,6 @@ Honeybees and Distant Thunder|Riku Onda|3.97|432|literary Japan
 Unlocked: An Oral History of Haden's Syndrome|John Scalzi|3.96|63|sci-fi sequel-lock-in-0.5 [owned]
 The Uninvited|Dorothy Macardle|3.96|342|horror mystery 1942
 The Almanac of the Dead|Leslie Marmon Silko|3.96|763|historical literary indigenous
-Retribution Falls|Chris Wooding|3.96|380|fantasy sci-fi
 On War|Carl Von Clauswitz|3.96|732|nonfiction classics war philosophy reread [owned]
 How to Blow Up a Pipeline|Andreas Malm|3.96|208|nonfiction politics
 Broken Wings|Kahlil Gibran|3.96|132|classics poetry Lebanon 1912
@@ -93,7 +89,6 @@ Octavia's Brood: Science Fiction Stories from Social Justice Movements|Adrienne 
 Nick and Tesla's High-Voltage Danger Lab|Bob Pflugfelder, Steve Hockensmith|3.94|240|mystery science YA
 An Informal History of the Hugos: A Personal Look Back at the Hugo Awards, 1953-2000|Jo Walton|3.94|576|nonfiction history
 After the Coup|John Scalzi|3.94|26|sci-fi sequel-old-mans-war-4.5 [owned]
-Train to Pakistan|Khushwant Singh|3.93|181|classics historical 1956
 The End of Eddy|Édouard Louis|3.92|208|LGBT
 Agent to the Stars|John Scalzi|3.92|286|sci-fi [owned]
 The Three Marias|Rachel de Queiroz|3.91|178|classics 1939 Brazil
@@ -104,7 +99,7 @@ Lock In|John Scalzi|3.91|336|sci-fi [owned]
 The Shadow of the Shadow|Paco Ignacio Taibo II|3.90|240|historical mystery thriller Mexico-1922 half-read
 Starry Field: A Memoir of Lost History|Margaret Juhae Lee|3.90|288|memoir nonfiction Korea
 Johnny Mad Dog|Emmanuel Dongala|3.90|336|Republic of the Congo unread-country
-Stone Mattress|Margaret Atwood|3.89|273|short-stories [owned]
+Stone Mattress|Margaret Atwood|3.89|273|short-stories [owned] [Spotify]
 New Worlds, Old Ways: Speculative Tales from the Caribbean|Karen Lord|3.89|147|fantasy sci-fi short-stories
 A Rage in Harlem|Chester Himes|3.89|151|crime mystery
 Pattern Recognition|William Gibson|3.87|367|mystery sci-fi

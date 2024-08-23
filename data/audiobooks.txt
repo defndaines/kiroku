@@ -5,6 +5,7 @@ The New Fish|Simen Saetre, Kjetil Ostli|4.61|10|nonfiction nature farmed-fish sa
 A Little Devil in America|Hanif Abdurraqib|4.60|10|nonfiction history music Black
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
+When the World Fell Silent|Donna Jones Alward|4.54|13|historical Halifax-Nova-Scotia [Spotify]
 The Spirit Bares Its Teeth|Andrew Joseph White|4.53|11|horror sci-fi LGBT fantasy historical YA
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
 The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.51|16|nonfiction history biography
@@ -73,6 +74,7 @@ The Collected Stories of Lydia Davis|Lydia Davis|4.26|21|short-stories literary
 Stories of Your Life and Others|Ted Chiang|4.26|10|sci-fi short-stories
 Propaganda|Jacques Ellul|4.25|16|nonfiction philosophy politics psychology
 Monday's Not Coming|Tiffany D. Jackson|4.25|10|YA mystery contemporary
+Hogfather|Terry Pratchett|4.25|11|fantasy discworld-20 [Spotify]
 Finding Junie Kim|Ellen Oh|4.25|9|contemporary historical YA
 These Burning Stars|Bethany Jacobs|4.24|15|sci-fi LGBT
 Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge|Benjamin Y. Fong|4.24|8|nonfiction science sociology [audio hoopla]
@@ -155,6 +157,7 @@ The Goblin Emperor|Katherine Addison|4.07|18|fantasy osreth-1
 Light From Uncommon Stars|Ryka Aoki|4.07|13|sci-fi fantasy LGBT San-Gabriel-Valley
 Fatelessness|Imre Kertesz|4.07|8|historical Hungary Nobel unread-country
 Enter Ghost|Isabella Hammad|4.07|12|literary contemporary Palestine
+Dreaming the Eagle|Manda Scott|4.07|465|fantasy historical romance Boudica [Spotify]
 What Strange Paradise|Omar El Akkad|4.06|7|literary Canada African immigrants
 The Words That Remain|Stênio Gardel|4.06|4|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
@@ -218,6 +221,7 @@ Interior Chinatown|Charles Yu|3.97|4|literary contemporary National-Book
 I Am Not Sidney Poitier|Percival Everett|3.97|8|humor contemporary
 Frankenstein|Mary Shelley|3.97|7|sci-fi classics reread
 Thistlefoot|GennaRose Nethercott|3.96|15|fantasy eastern-Europe mythology
+Retribution Falls|Chris Wooding|3.96|14|fantasy sci-fi [Spotify]
 Black Money|Ross Macdonald|3.96|7|mystery noir
 The Sea, the Sea|Iris Murdoch|3.95|21|literary classics Booker
 The Killing Moon|N. K. Jemisin|3.95|13|fantasy dreamblood-1
@@ -228,6 +232,7 @@ When We Were Sisters|Fatimah Asghar|3.94|5|contemporary literary LGBT Carol-Shie
 More Than Human|Theodore Sturgeon|3.94|8|sci-fi 1953
 Bad Cree|Jessica Johns|3.94|8|horror literary magical-realism indigenous
 1Q84|Haruki Murakami|3.94|31|dystopian literary Japan fantasy
+Train to Pakistan|Khushwant Singh|3.93|7|classics historical 1956 [Spotify]
 The Glass Key|Dashiell Hammett|3.93|6|mystery noir
 The Fisherman|John Langan|3.93|11|horror fantasy
 Passing|Nella Larsen|3.93|4|classics literary 1929
