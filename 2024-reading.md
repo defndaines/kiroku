@@ -6,6 +6,8 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Paingod and Other Delusions | Harlan Ellison | 1965 | U.S. | 2.5 | audio | 172 | sci-fi, short-stories, Hugo, Nebula |
+| I Have No Mouth & I Must Scream | Harlan Ellison | 1967 | U.S. | 2.0 | audio | 134 | sci-fi, short-stories, Hugo |
 | Groo: The Most Intelligent Man in the World | Sergio Aragonés, Mark Evanier | 1998 | U.S. | 4.5 | ebook | 112 | graphic novel, fantasy, humor |
 | Groo: In the Wild | Sergio Aragonés, Mark Evanier | 2024 | U.S. | 5.0 | ebook | 107 | graphic novel, fantasy, humor |
 | Bitter Root, Vol. 2: Rage & Redemption | David F. Walker, Chuck Brown | 2020 | U.S. | 4.0 | print | 200 | graphic novel, fantasy, historical, mystery |
