@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Day of the Triffids | John Wyndham | 1951 | U.K. | 4.5 | audio | 228 | sci-fi, dystopian, horror |
 | Lanny | Max Porter | 2019 | U.K. | 4.0 | audio | 210 | literary, horror, fantasy |
 | Paingod and Other Delusions | Harlan Ellison | 1965 | U.S. | 2.5 | audio | 172 | sci-fi, short-stories, Hugo, Nebula |
 | I Have No Mouth & I Must Scream | Harlan Ellison | 1967 | U.S. | 2.0 | audio | 134 | sci-fi, short-stories, Hugo |

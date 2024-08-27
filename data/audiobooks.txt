@@ -139,7 +139,6 @@ Remnant Population|Elizabeth Moon|4.10|12|sci-fi
 My Dark Vanessa|Kate Elizabeth Russell|4.10|16|literary thriller read-after-Lolita
 Jade City|Fonda Lee|4.10|19|fantasy World-Fantasy
 A Wolf at the Schoolhouse Door|Jack Schneider, Jennifer C. Berkshire|4.10|8|nonfiction education
-Unexpected Stories|Octavia E. Butler|4.09|2|sci-fi short-stories
 Tigana|Guy Gavriel Kay|4.09|25|fantasy
 Four Treasures of the Sky|Jenny Tinghui Zhang|4.09|12|historical literary China-U.S.
 Femina: A New History of the Middle Ages|Janina Ramirez|4.09|12|nonfiction feminism history
@@ -187,7 +186,6 @@ Bright Young Women|Jessica Knoll|4.02|13|thriller historical serial-killer
 A Short History of Reconstruction|Eric Foner|4.02|13|nonfiction history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence|Kristen R. Ghodsee|4.01|5|nonfiction feminism history politics
 The Three Stigmata of Palmer Eldritch|Philip K. Dick|4.01|8|sci-fi
-The Day of the Triffids|John Wyndham|4.01|5|sci-fi horror classics
 Shadow of the Fox|Julie Kagawa|4.01|15|YA fantasy shadow-of-the-fox-1
 Salka Valka|Halldor Laxness|4.01|19|classics Iceland Nobel 1931 unread-country
 Open Throat|Henry Hoke|4.01|2|literary LGBT Hollywood-mountain-lion
@@ -212,7 +210,6 @@ Red at the Bone|Jacqueline Woodson|3.98|4|contemporary literary 2001-Brooklyn Bl
 Perdido Street Station|China Miéville|3.98|24|fantasy sci-fi
 Midnight's Children|Salman Rushdie|3.98|25|literary magical-realism historical India Booker
 For Whom the Bell Tolls|Ernest Hemingway|3.98|16|classics literary historical reread Nobel
-Under the Mesquite|Guadalupe García McCall|3.97|3|poetry YA
 South to America: A Journey Below the Mason Dixon to Understand the Soul of a Nation|Imani Perry|3.97|17|nonfiction history memoir South
 Sons of Darkness|Gourav Mohanty|3.97|24|fantasy India
 On the Beach|Nevil Shute|3.97|9|sci-fi classics post-apocalyptic
