@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Unexpected Stories | Octavia E. Butler | 2014 | U.S. | 4.5 | audio | 81 | sci-fi, short-stories |
 | The Day of the Triffids | John Wyndham | 1951 | U.K. | 4.5 | audio | 228 | sci-fi, dystopian, horror |
 | Lanny | Max Porter | 2019 | U.K. | 4.0 | audio | 210 | literary, horror, fantasy |
 | Paingod and Other Delusions | Harlan Ellison | 1965 | U.S. | 2.5 | audio | 172 | sci-fi, short-stories, Hugo, Nebula |
