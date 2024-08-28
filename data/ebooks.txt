@@ -39,6 +39,7 @@ Fuzzy Nation|John Scalzi|4.13|303|sci-fi [owned]
 The Ghost Brigades|John Scalzi|4.12|343|sci-fi sequel-old-mans-war-2 [owned]
 The Crystal Shard|R.A. Salvatore|4.12|344|fantasy
 The Collapsing Empire|John Scalzi|4.12|336|sci-fi [owned]
+Orientalism|Edward W. Said|4.12|424|nonfiction history philosophy
 Khatyn|Ales Adamovich|4.12|330|historical Nazi-occupation
 Inside Out: A Personal History of Pink Floyd|Nick Mason|4.12|360|nonfiction music autobiography
 Childhood's End|Arthur C. Clarke|4.12|224|classics sci-fi

@@ -48,6 +48,7 @@ Shuggie Bain|Douglas Stuart|4.31|18|historical literary LGBT Booker
 Hunting by Stars|Cherie Dimaline|4.31|12|YA sci-fi dystopian indigenous sequel
 All the Frequent Troubles of Our Days|Rebecca Donner|4.31|14|nonfiction biography history Nazi-resistance
 A Deepness in the Sky|Vernor Vinge|4.31|28|sci-fi Hugo sequel-AFUtD
+Warbreaker|Brandon Sanderson|4.30|25|fantasy cosmere-14
 Thelonious Monk|Robin DG Kelley|4.30|26|nonfiction biography music
 The Shadow of the Wind|Carlos Ruiz Zafón|4.30|18|historical mystery literary
 The Lies of Locke Lamora|Scott Lynch|4.30|23|fantasy gentleman-bastard-1
@@ -116,7 +117,7 @@ Terrier|Tamora Pierce|4.15|15|YA fantasy
 Dawn|Octavia E. Butler|4.15|9|sci-fi feminism
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
 The Remains of the Day|Kazuo Ishiguro|4.14|9|literary historical classics
-Song of Solomon|Toni Morrison|4.14|3|classics literary magical-realism Nobel
+Song of Solomon|Toni Morrison|4.14|15|classics literary magical-realism Nobel
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The God and the Gumiho|Sophie Kim|4.13|13|fantasy romance
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
@@ -125,12 +126,12 @@ The Talisman|Peter Straub|4.12|28|horror fantasy
 The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller sequel-initial-insult
 The Girl Who Fell Beneath the Sea|Axie Oh|4.12|9|fantasy YA
 Senlin Ascends|Josiah Bancroft|4.12|14|fantasy books-of-babel-1
-Elder Race|Adrian Tchaikovsky|4.12|4|sci-fi fantasy
 A Crane Among Wolves|June Hur|4.12|10|historical mystery YA fantasy Korean
 Welcome to the Hyunam-dong Bookshop|Hwang Bo-reum|4.11|8|literary Korea
 The Immortal Life of Henrietta Lacks|Rebecca Skloot|4.11|13|nonfiction biography history science
 Storming Heaven|Denise Giardina|4.11|11|historical WVa-miners-strike [audio hoopla]
 Once There Were Wolves|Charlotte McConaghy|4.11|8|mystery Scotland
+Imagined Communities: Reflections on the Origin and Spread of Nationalism|Benedict Anderson|4.11|8|nonfiction history politics sociology reread
 Dark Lord of Derkholm|Diana Wynne Jones|4.11|14|YA fantasy
 Your House Will Pay|Steph Cha|4.10|10|mystery historical literary Korean-Black-relations
 The Lost Flowers of Alice Hart|Holly Ringland|4.10|14|contemporary Australia
