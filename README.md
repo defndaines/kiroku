@@ -3,7 +3,8 @@
 Repository for Historical Documents.
 
 This is a central place for me to store documents that are mostly useful for
-personal reasons, if useful at all.
+personal reasons, if useful at all. Mostly about books I've read or plan to
+read.
 
 ## Books
 
@@ -21,6 +22,7 @@ which award-winning books I've read in the following files.
 * [Andrew Carnegie Medals for Excellence](carnegie-medal.md)
 * [International Dublin Literary Award](dublin-award.md)
 * [Hugo Award](hugo-award.md)
+* [Kirkus Prize](kirkus.md)
 * [Locus Award](locus-award.md)
 * [National Book Award](national-book-award.md)
 * [Nebula Award](nebula-award.md)
@@ -28,8 +30,16 @@ which award-winning books I've read in the following files.
 * [Pulitzer Prize](pulitzer.md)
 * [Women's Prize for Fiction](womens.md)
 * [World Fantasy Award](world-fantasy.md)
-* [The Atlantic's Great American Novels](great-american-novels.md) (Not an
-  award, but a list I'd like to read more of.)
 
-I also try to read books from different countries, and that's tracked in
+Not awards, but lists I'd like to read more of.
+
+* [The Atlantic's Great American Novels](great-american-novels.md)
+* [NYT's Best Books of 21st Century](nyt-100-best-21st-century.md)
+
+I try to read books from different countries, and that's tracked in
 [Countries Read](countries-read.md).
+
+Tracking favorite authors I'd like to read more of.
+
+* [Octavia Butler](octavia.md)
+* [Ursula K. Le Guin](le-guin.md)

@@ -1,0 +1,110 @@
+# The 100 Best Books of the 21st Century
+
+https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+
+As voted on by 503 novelists, nonfiction writers, poets, critics and other
+book lovers—with a little help from the staff of _The New York Times Book
+Review_.
+
+Count: 19
+
+- [ ] 100: _Tree of Smoke_ Denis Johnson, 2007
+- [ ] 99: _How to Be Both_ Ali Smith, 2014
+- [ ] 98: _Bel Canto_ Ann Patchett, 2001
+- [x] 97: _Men We Reaped_ Jesmyn Ward, 2013
+- [ ] 96: _Wayward Lives, Beautiful Experiments_ Saidiya Hartman, 2019
+- [ ] 95: _Bring Up the Bodies_ Hilary Mantel, 2012
+- [ ] 94: _On Beauty_ Zadie Smith, 2005
+- [ ] 93: _Station Eleven_ Emily St. John Mandel, 2014
+- [ ] 92: _The Days of Abandonment_ Elena Ferrante; translated by Ann Goldstein, 2005
+- [ ] 91: _The Human Stain_ Philip Roth, 2000
+- [ ] 90: _The Sympathizer_ Viet Thanh Nguyen, 2015
+- [ ] 89: _The Return_ Hisham Matar, 2016
+- [ ] 88: _The Collected Stories of Lydia Davis_ Lydia Davis, 2010
+- [ ] 87: _Detransition, Baby_ Torrey Peters, 2021
+- [ ] 86: _Frederick Douglass_ David W. Blight, 2018
+- [ ] 85: _Pastoralia_ George Saunders, 2000
+- [ ] 84: _The Emperor of All Maladies_ Siddhartha Mukherjee, 2010
+- [ ] 83: _When We Cease to Understand the World_ Benjamín Labatut; translated by Adrian Nathan West, 2021
+- [ ] 82: _Hurricane Season_ Fernanda Melchor; translated by Sophie Hughes, 2020
+- [ ] 81: _Pulphead_ John Jeremiah Sullivan, 2011
+- [ ] 80: _The Story of the Lost Child_ Elena Ferrante; translated by Ann Goldstein, 2015
+- [ ] 79: _A Manual for Cleaning Women_ Lucia Berlin, 2015
+- [x] 78: _Septology_ Jon Fosse; translated by Damion Searls, 2022
+- [ ] 77: _An American Marriage_ Tayari Jones, 2018
+- [ ] 76: _Tomorrow, and Tomorrow, and Tomorrow_ Gabrielle Zevin, 2022
+- [ ] 75: _Exit West_ Mohsin Hamid, 2017
+- [ ] 74: _Olive Kitteridge_ Elizabeth Strout, 2008
+- [ ] 73: _The Passage of Power_ Robert Caro, 2012
+- [ ] 72: _Secondhand Time_ Svetlana Alexievich; translated by Bela Shayevich, 2016
+- [ ] 71: _The Copenhagen Trilogy_ Tove Ditlevsen; translated by Tiina Nunnally and Michael Favala Goldman, 2021
+- [ ] 70: _All Aunt Hagar’s Children_ Edward P. Jones, 2006
+- [ ] 69: _The New Jim Crow_ Michelle Alexander, 2010
+- [ ] 68: _The Friend_ Sigrid Nunez, 2018
+- [ ] 67: _Far From the Tree_ Andrew Solomon, 2012
+- [ ] 66: _We the Animals_ Justin Torres, 2011
+- [ ] 65: _The Plot Against America_ Philip Roth, 2004
+- [ ] 64: _The Great Believers_ Rebecca Makkai, 2018
+- [ ] 63: _Veronica_ Mary Gaitskill, 2005
+- [ ] 62: _10:04_ Ben Lerner, 2014
+- [ ] 61: _Demon Copperhead_ Barbara Kingsolver, 2022
+- [ ] 60: _Heavy_ Kiese Laymon, 2018
+- [x] 59: _Middlesex_ Jeffrey Eugenides, 2002
+- [ ] 58: _Stay True_ Hua Hsu, 2022
+- [x] 57: _Nickel and Dimed_ Barbara Ehrenreich, 2001
+- [ ] 56: _The Flamethrowers_ Rachel Kushner, 2013
+- [ ] 55: _The Looming Tower_ Lawrence Wright, 2006
+- [ ] 54: _Tenth of December_ George Saunders, 2013
+- [ ] 53: _Runaway_ Alice Munro, 2004
+- [ ] 52: _Train Dreams_ Denis Johnson, 2011
+- [ ] 51: _Life After Life_ Kate Atkinson, 2013
+- [ ] 50: _Trust_ Hernan Diaz, 2022
+- [x] 49: _The Vegetarian_ Han Kang; translated by Deborah Smith, 2016
+- [x] 48: _Persepolis_ Marjane Satrapi, 2003
+- [ ] 47: _A Mercy_ Toni Morrison, 2008
+- [ ] 46: _The Goldfinch_ Donna Tartt, 2013
+- [ ] 45: _The Argonauts_ Maggie Nelson, 2015
+- [x] 44: _The Fifth Season_ N.K. Jemisin, 2015
+- [ ] 43: _Postwar_ Tony Judt, 2005
+- [ ] 42: _A Brief History of Seven Killings_ Marlon James, 2014
+- [x] 41: _Small Things Like These_ Claire Keegan, 2021
+- [ ] 40: _H Is for Hawk_ Helen Macdonald, 2015
+- [ ] 39: _A Visit From the Goon Squad_ Jennifer Egan, 2010
+- [ ] 38: _The Savage Detectives_ Roberto Bolaño; translated by Natasha Wimmer, 2007
+- [ ] 37: _The Years_ Annie Ernaux; translated by Alison L. Strayer, 2018
+- [ ] 36: _Between the World and Me_ Ta-Nehisi Coates, 2015
+- [ ] 35: _Fun Home_ Alison Bechdel, 2006
+- [ ] 34: _Citizen_ Claudia Rankine, 2014
+- [ ] 33: _Salvage the Bones_ Jesmyn Ward, 2011
+- [ ] 32: _The Line of Beauty_ Alan Hollinghurst, 2004
+- [ ] 31: _White Teeth_ Zadie Smith, 2000
+- [x] 30: _Sing, Unburied, Sing_ Jesmyn Ward, 2017
+- [ ] 29: _The Last Samurai_ Helen DeWitt, 2000
+- [ ] 28: _Cloud Atlas_ David Mitchell, 2004
+- [ ] 27: _Americanah_ Chimamanda Ngozi Adichie, 2013
+- [x] 26: _Atonement_ Ian McEwan, 2002
+- [ ] 25: _Random Family_ Adrian Nicole LeBlanc, 2003
+- [x] 24: _The Overstory_ Richard Powers, 2018
+- [x] 23: _Hateship, Friendship, Courtship, Loveship, Marriage_ Alice Munro, 2001
+- [ ] 22: _Behind the Beautiful Forevers_ Katherine Boo, 2012
+- [x] 21: _Evicted_ Matthew Desmond, 2016
+- [ ] 20: _Erasure_ Percival Everett, 2001
+- [ ] 19: _Say Nothing_ Patrick Radden Keefe, 2019
+- [ ] 18: _Lincoln in the Bardo_ George Saunders, 2017
+- [ ] 17: _The Sellout_ Paul Beatty, 2015
+- [x] 16: _The Amazing Adventures of Kavalier & Clay_ Michael Chabon, 2000
+- [x] 15: _Pachinko_ Min Jin Lee, 2017
+- [ ] 14: _Outline_ Rachel Cusk, 2015
+- [x] 13: _The Road_ Cormac McCarthy, 2006
+- [ ] 12: _The Year of Magical Thinking_ Joan Didion, 2005
+- [ ] 11: _The Brief Wondrous Life of Oscar Wao_ Junot Díaz, 2007
+- [ ] 10: _Gilead_ Marilynne Robinson, 2004
+- [ ] 9: _Never Let Me Go_ Kazuo Ishiguro, 2005
+- [ ] 8: _Austerlitz_ W.G. Sebald; translated by Anthea Bell, 2001
+- [x] 7: _The Underground Railroad_ Colson Whitehead, 2016
+- [ ] 6: _2666_ Roberto Bolaño; translated by Natasha Wimmer, 2008
+- [ ] 5: _The Corrections_ Jonathan Franzen, 2001
+- [ ] 4: _The Known World_ Edward P. Jones, 2003
+- [ ] 3: _Wolf Hall_ Hilary Mantel, 2009
+- [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
+- [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012

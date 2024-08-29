@@ -80,7 +80,7 @@ sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 ## Other awards
 
-for award in booker-prize.md carnegie-medal.md dublin-award.md great-american-novels.md locus-award.md national-book-award.md nobel-literature.md pulitzer.md womens.md world-fantasy.md; do
+for award in booker-prize.md carnegie-medal.md dublin-award.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md pulitzer.md womens.md world-fantasy.md; do
   echo $award
   grep -c '\[x\]' $award
 done
