@@ -42,4 +42,6 @@ I try to read books from different countries, and that's tracked in
 Tracking favorite authors I'd like to read more of.
 
 * [Octavia Butler](octavia.md)
+* [N. K. Jemisin](jemisin.md)
+* [Barbara Kingsolver](kingsolver.md)
 * [Ursula K. Le Guin](le-guin.md)

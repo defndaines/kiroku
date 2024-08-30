@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Groo Inferno | Sergio Aragonés, Mark Evanier | 1988 | U.S. | 4.0 | ebook | 93 | graphic novel, fantasy, humor |
 | Elder Race | Adrian Tchaikovsky | 2021 | U.K. | 4.5 | audio | 201 | sci-fi, fantasy, novella |
 | Under the Mesquite | Guadalupe Garcia McCall | 2011 | U.S., Mexico | 4.5 | audio | 224 | poetry, YA, Pura Belpré Award |
 | Unexpected Stories | Octavia E. Butler | 2014 | U.S. | 4.5 | audio | 81 | sci-fi, short-stories |
