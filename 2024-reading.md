@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Witch Hat Atelier, Vol. 4 | Kamome Shirahama | 2018 | Japan | 4.5 | print | 192 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 3 | Kamome Shirahama | 2018 | Japan | 4.5 | print | 190 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 2 | Kamome Shirahama | 2017 | Japan | 4.5 | print | 190 | graphic novel, manga, fantasy, YA |
 | Groo and Rufferto | Sergio Aragonés, Mark Evanier | 2000 | U.S. | 4.0 | ebook | 111 | graphic novel, fantasy, humor |
