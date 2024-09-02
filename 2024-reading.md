@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Witch Hat Atelier, Vol. 6 | Kamome Shirahama | 2019 | Japan | 4.5 | print | 168 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 5 | Kamome Shirahama | 2019 | Japan | 4.5 | print | 188 | graphic novel, manga, fantasy, YA |
 | Caste: The Origins of Our Discontents | Isabel Wilkerson | 2020 | U.S. | 4.0 | audio | 544 | nonfiction, history, race, Goodreads Choice Award, **September** |
 | Witch Hat Atelier, Vol. 4 | Kamome Shirahama | 2018 | Japan | 4.5 | print | 192 | graphic novel, manga, fantasy, YA |
