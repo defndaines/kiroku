@@ -104,6 +104,7 @@ The Eye of the World|Robert Jordan|4.19|33|fantasy wheel-of-time-1
 The Years|Annie Ernaux|4.18|8|France nonfiction memoir literary Nobel
 Paladin of Souls|Lois McMaster Bujold|4.18|16|fantasy Hugo Locus Nebula
 Mind of My Mind|Octavia E. Butler|4.18|8|sci-fi fantasy sequel patternmaster-2
+Children of Ash and Elm: A History of the Vikings|Neil Price|4.18|17|history nonfiction
 Almond|Won-pyung Sohn|4.18|5|contemporary literary Korea
 Guns of the Dawn|Adrian Tchaikovsky|4.17|21|steampunk
 Anathem|Neal Stephenson|4.17|32|sci-fi fantasy Locus
@@ -176,6 +177,7 @@ The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
 Kokoro|Natsume Soseki|4.05|9|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy sun-eater-1
+Whiskey When We're Dry|John Larison|4.04|15|historical
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Book of Doors|Gareth Brown|4.04|13|fantasy
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
@@ -205,6 +207,7 @@ Austerlitz|W.G. Sebald|4.00|7|Germany historical
 Songs Only You Know|Sean Madigan Hoen|3.99|12|nonfiction memoir music biography [hoopla]
 Sinister Graves|Marcie R. Rendon|3.99|6|mystery thriller 1970s-Minnesota indigenous
 Odd Thomas|Dean Koontz|3.99|11|horror mystery thriller
+Master Slave Husband Wife: An Epic Journey from Slavery to Freedom|Ilyon Woo|3.99|13|nonfiction history race
 Close Range: Wyoming Stories|Annie Proulx|3.99|8|short-stories
 Brave New World|Aldous Huxley|3.99|8|sci-fi literary classics dystopian
 The Round House|Louise Erdrich|3.98|13|historical literary mystery indigenous National-Book

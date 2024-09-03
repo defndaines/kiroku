@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Witch Hat Atelier, Vol. 8 | Kamome Shirahama | 2020 | Japan | 4.0 | print | 160 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 7 | Kamome Shirahama | 2020 | Japan | 4.5 | print | 168 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 6 | Kamome Shirahama | 2019 | Japan | 4.5 | print | 168 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 5 | Kamome Shirahama | 2019 | Japan | 4.5 | print | 188 | graphic novel, manga, fantasy, YA |
