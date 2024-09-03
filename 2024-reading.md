@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Groo Meets Tarzan | Sergio Aragonés, Mark Evanier | 2022 | U.S. | 3.0 | ebook | 106 | graphic novel, fantasy, humor |
 | Groo: Play of the Gods | Sergio Aragonés, Mark Evanier | 2018 | U.S. | 3.5 | ebook | 104 | graphic novel, fantasy, humor |
 | Witch Hat Atelier, Vol. 8 | Kamome Shirahama | 2020 | Japan | 4.0 | print | 160 | graphic novel, manga, fantasy, YA |
 | Witch Hat Atelier, Vol. 7 | Kamome Shirahama | 2020 | Japan | 4.5 | print | 168 | graphic novel, manga, fantasy, YA |
