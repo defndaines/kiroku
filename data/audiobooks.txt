@@ -41,7 +41,7 @@ A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
 The Road Back|Erich Maria Remarque|4.32|11|classics Germany sequel-AQotWF
 Happening|Annie Ernaux|4.32|2|memoir nonfiction literary abortion Nobel
 A Day in the Life of Abed Salama|Nathan Thrall|4.32|7|nonfiction history politics Jerusalem
-The Rage of Dragons|Evan Winter|4.31|16|fantasy burning-1
+The Rage of Dragons|Evan Winter|4.31|16|fantasy burning-1 African-inspired
 The Molière Collection|Molière|4.31|9|play France
 The Bloody Crown of Conan|Robert E. Howard|4.31|18|fantasy sequel-2
 The Big Bundle|Max Allan Collins|4.31|8|historical noir
@@ -364,6 +364,7 @@ Darker Than You Think|Jack Williamson|3.50|11|horror sci-fi fantasy werewolves 1
 Victories Greater Than Death|Charlie Jane Anders|3.49|13|sci-fi YA LGBT
 Libertie|Kaitlyn Greenidge|3.49|12|historical Reconstruction Brooklyn
 One-Shot Harry|Gary Phillips|3.46|8|mystery historical 1963-L.A.
+Composite Creatures|Caroline Hardaker|3.46|10|horror sci-fi dystopian
 Give Me Some Truth|Eric Gansworth|3.45|14|YA historical music indigenous
 Under the Pendulum Sun|Jeannette Ng|3.44|13|fantasy horror
 I'm a Fan|Sheena Patel|3.43|5|contemporary literary British

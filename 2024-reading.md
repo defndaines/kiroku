@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Toward Eternity | Anton Hur | 2024 | South Korea | 4.5 | audio | 256 | sci-fi, dystopian, LGBT |
 | The Book of Elsewhere | Keanu Reeves, China Miéville | 2024 | U.S., U.K. | 3.5 | audio | 352 | fantasy, sci-fi |
 | Groo Meets Tarzan | Sergio Aragonés, Mark Evanier | 2022 | U.S. | 3.0 | ebook | 106 | graphic novel, fantasy, humor |
 | Groo: Play of the Gods | Sergio Aragonés, Mark Evanier | 2018 | U.S. | 3.5 | ebook | 104 | graphic novel, fantasy, humor |

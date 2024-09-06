@@ -106,7 +106,6 @@ A Rage in Harlem|Chester Himes|3.89|151|crime mystery
 Pattern Recognition|William Gibson|3.87|367|mystery sci-fi
 Warda|Sonallah Ibrahim|3.86|464|literary 1950s-Cairo
 The Death of Artemio Cruz|Carlos Fuentes|3.86|307|classics literary 1962 Brazil
-Swords and Deviltry|Fritz Leiber|3.86|208|fantasy classics short-stories f&gm-1
 Sinking Bell|Bojan Louis|3.86|192|short-stories indigenous Navajo
 Rupetta|Nike Sulway|3.86|352|sci-fi [owned]
 Redshirts|John Scalzi|3.86|320|sci-fi [owned]
