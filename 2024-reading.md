@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth | Thersa Matsuura | 2024 | Japan | 4.0 | audio | 240 | nonfiction, mythology |
 | Witch Hat Atelier, Vol. 9 | Kamome Shirahama | 2021 | Japan | 4.5 | print | 174 | graphic novel, manga, fantasy, YA |
 | Bitter Root, Vol. 3: Legacy | David F. Walker, Chuck Brown | 2021 | U.S. | 4.0 | print | 152 | graphic novel, fantasy, historical, mystery |
 | Toward Eternity | Anton Hur | 2024 | South Korea | 4.5 | audio | 256 | sci-fi, dystopian, LGBT |
