@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Rent Collectors: Exploitation, Murder, and Redemption in Immigrant LA | Jesse Katz | 2024 | U.S. | 4.5 | audio | 320 | nonfiction, crime |
 | The Savage Sword of Conan #4 | Jim Zub, Patch Zircher, Fred Kennedy, Jeff Shanks, Ron Marz | 2024 | U.S. | 4.0 | print | 66 | graphic novel, fantasy |
 | The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth | Thersa Matsuura | 2024 | Japan | 4.0 | audio | 240 | nonfiction, mythology |
 | Witch Hat Atelier, Vol. 9 | Kamome Shirahama | 2021 | Japan | 4.5 | print | 174 | graphic novel, manga, fantasy, YA |

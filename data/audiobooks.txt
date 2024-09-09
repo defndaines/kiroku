@@ -38,6 +38,7 @@ The Song of Achilles|Madeline Miller|4.33|11|fantasy historical romance
 Stoner|John Williams|4.33|10|classics historical literary
 Humankind: A Hopeful History|Rutger Bregman|4.33|12|nonfiction history philosophy psychology
 A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
+The Story of Jane: The Legendary Underground Feminist Abortion Service|Laura Kaplan|4.32|11|nonfiction history feminism
 The Road Back|Erich Maria Remarque|4.32|11|classics Germany sequel-AQotWF
 Happening|Annie Ernaux|4.32|2|memoir nonfiction literary abortion Nobel
 A Day in the Life of Abed Salama|Nathan Thrall|4.32|7|nonfiction history politics Jerusalem
@@ -78,6 +79,7 @@ Propaganda|Jacques Ellul|4.25|16|nonfiction philosophy politics psychology
 Monday's Not Coming|Tiffany D. Jackson|4.25|10|YA mystery contemporary
 Hogfather|Terry Pratchett|4.25|11|fantasy discworld-20 [Spotify]
 Finding Junie Kim|Ellen Oh|4.25|9|contemporary historical YA
+Wolfsong|T.J. Klune|4.24|19|fantasy werewolves LGBT
 These Burning Stars|Bethany Jacobs|4.24|15|sci-fi LGBT
 Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge|Benjamin Y. Fong|4.24|8|nonfiction science sociology [hoopla]
 House of Suns|Alastair Reynolds|4.24|18|sci-fi
@@ -148,6 +150,7 @@ Tigana|Guy Gavriel Kay|4.09|25|fantasy
 Four Treasures of the Sky|Jenny Tinghui Zhang|4.09|12|historical literary China-U.S.
 Femina: A New History of the Middle Ages|Janina Ramirez|4.09|12|nonfiction feminism history
 10 Minutes 38 Seconds in This Strange World|Elif Shafak|4.09|9|literary contemporary
+We Measure the Earth with Our Bodies|Tsering Yangzom Lama|4.08|15|historical literary Tibet unread-country
 Wandering Stars|Tommy Orange|4.08|10|indigenous historical literary sequel-There-There
 The Humans|Matt Haig|4.08|8|sci-fi
 Stolen|Ann-Helén Laestadius|4.08|13|literary contemporary Sweden indigenous
@@ -233,6 +236,7 @@ The Killing Moon|N. K. Jemisin|3.95|13|fantasy dreamblood-1
 The Big Sleep|Raymond Chandler|3.95|7|mystery noir classics
 Jonny Appleseed|Joshua Whitehead|3.95|6|literary indigenous LGBT
 Dragon Prince|Melanie Rawn|3.95|22|fantasy romance dragon-prince-1
+Afterparties|Anthony Veasna So|3.95|7|short-stories LGBT literary unread-country
 When We Were Sisters|Fatimah Asghar|3.94|5|contemporary literary LGBT Carol-Shields-Prize
 More Than Human|Theodore Sturgeon|3.94|8|sci-fi 1953
 Bad Cree|Jessica Johns|3.94|8|horror literary magical-realism indigenous
