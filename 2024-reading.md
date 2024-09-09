@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 12: Shattered Stones | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 299 | graphic novel, manga, historical, fantasy |
 | Fafhrd and the Gray Mouser Omnibus | Fritz Leiber, Howard Chaykin, Dennis O'Neil, George Alec Effinger | 2024 | U.S. | 3.0 | ebook | 310 | graphic novel, fantasy |
 | The Rent Collectors: Exploitation, Murder, and Redemption in Immigrant LA | Jesse Katz | 2024 | U.S. | 4.5 | audio | 320 | nonfiction, crime |
 | The Savage Sword of Conan #4 | Jim Zub, Patch Zircher, Fred Kennedy, Jeff Shanks, Ron Marz | 2024 | U.S. | 4.0 | print | 66 | graphic novel, fantasy |
