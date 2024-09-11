@@ -175,7 +175,6 @@ A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05|5|classics feminism short-stories 1892
 The Word for World Is Forest|Ursula K. Le Guin|4.05|5|sci-fi Hugo
-The Witch's Heart|Genevieve Gornichec|4.05|12|fantasy mythology Norse
 The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
 Kokoro|Natsume Soseki|4.05|9|classics Japan
