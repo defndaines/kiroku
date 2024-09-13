@@ -251,7 +251,6 @@ Bel Canto|Ann Patchett|3.93|11|literary contemporary South America terrorism/hos
 Titus Groan|Mervyn Peake|3.92|17|classics fantasy gothic 1946 gormenghast-1
 The Good Lord Bird|James McBride|3.92|15|historical National-Book
 Split Tooth|Tanya Tagaq|3.92|6|poetry historical literary magical-realism indigenous
-Night of the Living Rez|Morgan Talty|3.92|7|contemporary literary indigenous Maine short-stories
 If I Ever Get Out of Here|Eric Gansworth|3.92|10|YA historical indigenous
 The Alchemist|Paulo Coelho|3.91|4|classics fantasy literary
 Semiosis|Sue Burke|3.91|15|sci-fi
