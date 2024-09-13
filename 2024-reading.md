@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Witch Hat Atelier, Vol. 11 | Kamome Shirahama | 2022 | Japan | 4.5 | print | 160 | graphic novel, manga, fantasy, YA |
 | The Awl, Vol. 1 | Choi Gyu-seok | 2015 | South Korea | 5.0 | ebook | 248 | graphic novel, manhwa |
 | Witch Hat Atelier, Vol. 10 | Kamome Shirahama | 2022 | Japan | 4.5 | print | 156 | graphic novel, manga, fantasy, YA |
 | Lone Wolf and Cub, Vol. 13: The Moon in the East, the Sun in the West | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical, fantasy |
