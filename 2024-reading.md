@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Stoner | John Williams | 1965 | U.S. | 4.0 | audio | 292 | historical, literary, classics |
 | Witch Hat Atelier, Vol. 12 | Kamome Shirahama | 2023 | Japan | 4.5 | print | 184 | graphic novel, manga, fantasy, YA |
 | Kalevala: The Graphic Novel | Sami Makkonen | 2020 | Finland | 2.5 | ebook | 308 | graphic novel, folklore, fantasy |
 | The Witch's Heart | Genevieve Gornichec | 2021 | U.S. | 5.0 | audio | 359 | fantasy, mythology |
