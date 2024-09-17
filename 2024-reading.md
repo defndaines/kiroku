@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 14: Day of the Demons | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical, fantasy |
 | Night of the Living Rez | Morgan Talty | 2022 | U.S. | 4.5 | audio | 285 | short-stories, literary |
 | Stoner | John Williams | 1965 | U.S. | 4.0 | audio | 292 | historical, literary, classics |
 | Witch Hat Atelier, Vol. 12 | Kamome Shirahama | 2023 | Japan | 4.5 | print | 184 | graphic novel, manga, fantasy, YA |

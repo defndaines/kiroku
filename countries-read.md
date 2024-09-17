@@ -143,16 +143,16 @@ Count: 85
 - [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan; [_Prophet Song_](https://www.goodreads.com/book/show/158875813-prophet-song) Paul Lynch
 - [x] Northern Ireland: [_Milkman_](https://www.goodreads.com/book/show/36047860-milkman) Anna Burns
 - [ ] Costa Rica:
-- [x] New Zealand: [_The Bone People_]() Keri Hulme
+- [x] New Zealand: [_The Bone People_](https://www.goodreads.com/book/show/460635.The_Bone_People) Keri Hulme
 - [x] Oman: [_Celestial Bodies_](https://www.goodreads.com/book/show/49382648-celestial-bodies) Jokha al-Harthi
-- [ ] Kuwait:
+- [ ] Kuwait: _The Book Censor's Library_ ?
 - [ ] Liberia:
 - [ ] Mauritania:
 - [x] Panama: [_The Great Divide_](https://www.goodreads.com/book/show/181110028-the-great-divide) Cristina Henríquez
 - [ ] Croatia: Dubravka Ugrešić ?
 - [ ] Eritrea:
 - [ ] Georgia: Nana Ekvtimishvili ?
-- [ ] Uruguay:
+- [ ] Uruguay: Fernanda Trías ?
 - [ ] Mongolia:
 - [ ] Bosnia and Herzegovina:
 - [ ] Puerto Rico:
