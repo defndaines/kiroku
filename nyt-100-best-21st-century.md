@@ -108,3 +108,69 @@ Count: 19
 - [ ] 3: _Wolf Hall_ Hilary Mantel, 2009
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
 - [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012
+
+## Readers Pick (16)
+
+Only listing the ones not in the original list.
+
+- [ ] 100: _A Man Called Ove_ Fredrik Backman; translated by Henning Koch
+- [ ] 99: _Empire of Pain_ Patrick Radden Keefe
+- [ ] 98: _Shuggie Bain_ Douglas Stuart
+- [ ] 97: _My Year of Rest and Relaxation_ Ottessa Moshfegh
+- [x] 96: _The Vanishing Half_ Brit Bennett
+- [ ] 95: _A Thousand Splendid Suns_ Khaled Hosseini
+- [ ] 94: _The Bee Sting_ Paul Murray
+- [ ] 93: _Remarkably Bright Creatures_ Shelby Van Pelt
+- [x] 92: _Drive Your Plow Over the Bones of the Dead_ Olga Tokarczuk; translated by Antonia Lloyd-Jones
+- [ ] 91: _Project Hail Mary_ Andy Weir
+- [ ] 90: _In the Dream House_ Carmen Maria Machado
+- [ ] 89: _The Glass Castle_ Jeannette Walls
+- [ ] 87: _Girl, Woman, Other_ Bernardine Evaristo
+- [ ] 86: _Life of Pi_ Yann Martel
+- [ ] 85: _When Breath Becomes Air_ Paul Kalanithi
+- [ ] 83: _Let the Great World Spin_ Colum McCann
+- [ ] 82: _Tom Lake_ Ann Patchett
+- [ ] 81: _The Immortal Life of Henrietta Lacks_ Rebecca Skloot
+- [ ] 80: _Deacon King Kong_ James McBride
+- [ ] 79: _1Q84_ Haruki Murakami; translated by Jay Rubin and Philip Gabriel Gabriel
+- [ ] 78: _Kafka on the Shore_ Haruki Murakami; translated by Philip Gabriel Gabriel
+- [ ] 77: _Sapiens_ Yuval Noah Harari
+- [ ] 76: _Just Mercy_ Bryan Stevenson
+- [ ] 75: _The Lincoln Highway_ Amor Towles
+- [ ] 74: _Klara and the Sun_ Kazuo Ishiguro
+- [x] 73: _Harry Potter and the Deathly Hallows_ J.K. Rowling
+- [x] 72: _Crying in H Mart_ Michelle Zauner
+- [ ] 70: _Know My Name_ Chanel Miller
+- [x] 69: _Killers of the Flower Moon_ David Grann
+- [ ] 68: _The Devil in the White City_ Erik Larson
+- [x] 67: _Piranesi_ Susanna Clarke
+- [ ] 66: _Just Kids_ Patti Smith
+- [ ] 61: _North Woods_ Daniel Mason
+- [ ] 60: _The Dutch House_ Ann Patchett
+- [ ] 59: _Where the Crawdads Sing_ Delia Owens
+- [x] 56: _The Hunger Games_ Suzanne Collins
+- [x] 55: _Braiding Sweetgrass_ Robin Wall Kimmerer
+- [ ] 54: _11/22/63_ Stephen King
+- [ ] 52: _The Nightingale_ Kristin Hannah
+- [x] 51: _Caste_ Isabel Wilkerson
+- [x] 50: _James_ Percival Everett
+- [x] 49: _Gone Girl_ Gillian Flynn
+- [x] 48: _On Earth We’re Briefly Gorgeous_ Ocean Vuong
+- [ ] 47: _Lessons in Chemistry_ Bonnie Garmus
+- [ ] 46: _The Song of Achilles_ Madeline Miller
+- [x] 45: _There There_ Tommy Orange
+- [x] 44: _The Heaven & Earth Grocery Store_ James McBride
+- [x] 40: _The Kite Runner_ Khaled Hosseini
+- [ ] 37: _The Nickel Boys_ Colson Whitehead
+- [ ] 35: _The Covenant of Water_ Abraham Verghese
+- [ ] 33: _The Book Thief_ Markus Zusak
+- [ ] 32: _Cloud Cuckoo Land_ Anthony Doerr
+- [ ] 31: _Circe_ Madeline Miller
+- [ ] 28: _Cutting for Stone_ Abraham Verghese
+- [ ] 27: _Normal People_ Sally Rooney
+- [ ] 22: _Hamnet_ Maggie O’Farrell
+- [x] 21: _Homegoing_ Yaa Gyasi
+- [ ] 11: _A Little Life_ Hanya Yanagihara
+- [ ] 6: _Educated_ Tara Westover
+- [ ] 3: _A Gentleman in Moscow_ Amor Towles
+- [ ] 2: _All the Light We Cannot See_ Anthony Doerr
