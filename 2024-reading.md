@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 16: The Gateway into Winter | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 310 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 15: Brothers of the Grass | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 336 | graphic novel, manga, historical, fantasy |
 | Darker Than You Think | Jack Williamson | 1940 | U.S. | 3.5 | audio | 266 | horror, fantasy, sci-fi, classics |
 | Lone Wolf and Cub, Vol. 14: Day of the Demons | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical, fantasy |
