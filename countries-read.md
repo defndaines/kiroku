@@ -12,12 +12,12 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 85
+Count: 86
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
 - [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy's Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
-- [ ] Indonesia:
+- [x] Indonesia: [_Fruit Maps_](https://www.asymptotejournal.com/special-feature/fruit-maps-rio-johan/) Rio Johan; [_Mysteries of Visiocherries_](http://samovar.strangehorizons.com/2021/04/26/mysteries-of-visiocherries-misteri-visiceri/) Rio Johan
 - [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
 - [x] Nigeria\*: [_Binti_](https://www.goodreads.com/book/show/25667918-binti) Nnedi Okorafor
 - [x] Brazil: [_The Posthumous Memoirs of Brás Cubas_](https://www.goodreads.com/book/show/87262.The_Posthumous_Memoirs_of_Br_s_Cubas) Machado de Assis
