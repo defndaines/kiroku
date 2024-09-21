@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Trees | Percival Everett | 2021 | U.S. | 5.0 | audio | 309 | literary, mystery, race |
 | Stories Are Weapons: Psychological Warfare and the American Mind | Annalee Newitz | 2024 | U.S. | 4.5 | audio | 246 | nonfiction, politics, history, psychology, war |
 | Lone Wolf and Cub, Vol. 16: The Gateway into Winter | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 310 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 15: Brothers of the Grass | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 336 | graphic novel, manga, historical, fantasy |

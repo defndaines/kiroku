@@ -35,8 +35,8 @@ The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
 The Unsettling of America: Culture and Agriculture|Wendell Berry|4.34|13|nonfiction food agriculture nature
 The Tainted Cup|Robert Jackson Bennett|4.34|14|fantasy mystery
 The Conquering Sword of Conan|Robert E. Howard|4.34|18|fantasy sequel-3
+Erasure|Percival Everett|4.18|8|literary race
 The Song of Achilles|Madeline Miller|4.33|11|fantasy historical romance
-Stoner|John Williams|4.33|10|classics historical literary
 Humankind: A Hopeful History|Rutger Bregman|4.33|12|nonfiction history philosophy psychology
 A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
 The Story of Jane: The Legendary Underground Feminist Abortion Service|Laura Kaplan|4.32|11|nonfiction history feminism
@@ -160,7 +160,6 @@ Insane: America's Criminal Treatment of Mental Illness|Alisa Roth|4.08|10|nonfic
 Dandelion Wine|Ray Bradbury|4.08|9|sci-fi classics
 A Gathering of Old Men|Ernest J. Gaines|4.08|8|historical classics
 The Vanished Birds|Simon Jimenez|4.07|13|sci-fi literary LGBT
-The Trees|Percival Everett|4.07|8|mystery literary historical Black Mississippi
 The Stars My Destination|Alfred Bester|4.07|8|sci-fi classics
 The Goblin Emperor|Katherine Addison|4.07|18|fantasy osreth-1
 Light From Uncommon Stars|Ryka Aoki|4.07|13|sci-fi fantasy LGBT San-Gabriel-Valley
@@ -195,7 +194,6 @@ Little|Edward Carey|4.02|14|historical Paris-1700s
 Bright Young Women|Jessica Knoll|4.02|13|thriller historical serial-killer
 A Short History of Reconstruction|Eric Foner|4.02|13|nonfiction history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence|Kristen R. Ghodsee|4.01|5|nonfiction feminism history politics
-The Three Stigmata of Palmer Eldritch|Philip K. Dick|4.01|8|sci-fi
 Shadow of the Fox|Julie Kagawa|4.01|15|YA fantasy shadow-of-the-fox-1
 Salka Valka|Halldor Laxness|4.01|19|classics Iceland Nobel 1931 unread-country
 Open Throat|Henry Hoke|4.01|2|literary LGBT Hollywood-mountain-lion
