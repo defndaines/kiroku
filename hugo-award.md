@@ -8,9 +8,9 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 59
+Count: 60
 
-## Best Novel (24)
+## Best Novel (25)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -51,7 +51,7 @@ Count: 59
 - [ ] 1982: C.J. Cherryh _Downbelow Station_
 - [ ] 1983: Isaac Asimov _Foundation's Edge_
 - [ ] 1984: David Brin _Startide Rising_
-- [ ] 1985: William Gibson _Neuromancer_
+- [x] 1985: William Gibson _Neuromancer_
 - [x] 1986: Orson Scott Card _Ender's Game_
 - [x] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: David Brin _The Uplift War_

@@ -257,7 +257,6 @@ Semiosis|Sue Burke|3.91|15|sci-fi
 A General Theory of Oblivion|José Eduardo Agualusa|3.91|4|Angola historical literary International-Dublin-Literary unread-country [hoopla]
 The Hundred Thousand Kingdoms|N. K. Jemisin|3.90|12|sci-fi Locus inheritance-1
 Still Life|Louise Penny|3.90|10|mystery Quebec
-Neuromancer|William Gibson|3.90|11|sci-fi cyberpunk thriller Hugo Nebula
 Loaded: A Disarming History of the Second Amendment|Roxanne Dunbar-Ortiz|3.90|7|nonfiction history politics race indigenous
 The Woman in the Dunes|Kobo Abe|3.89|6|classics literary magical-realism Japan
 The Stone Diaries|Carol Shields|3.89|13|literary historical Pulitzer
