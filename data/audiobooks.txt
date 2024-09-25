@@ -6,7 +6,6 @@ A Little Devil in America|Hanif Abdurraqib|4.60|10|nonfiction history music Blac
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
 Collected Fictions|Jorge Luis Borges|4.57|5|short-stories Argentina magical-realism
 Lonesome Dove|Larry McMurtry|4.54|37|historical classics western Pulitzer
-The Spirit Bares Its Teeth|Andrew Joseph White|4.53|11|horror sci-fi LGBT fantasy historical YA
 Compound Fracture|Andrew Joseph White|4.53|10|horror LGBT YA
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
 The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.51|16|nonfiction history biography
@@ -111,6 +110,7 @@ Children of Ash and Elm: A History of the Vikings|Neil Price|4.18|17|history non
 Almond|Won-pyung Sohn|4.18|5|contemporary literary Korea
 Guns of the Dawn|Adrian Tchaikovsky|4.17|21|steampunk
 Anathem|Neal Stephenson|4.17|32|sci-fi fantasy Locus
+The Last Unicorn|Peter S. Beagle|4.16|8|fantasy YA classics
 The Coming of Conan the Cimmerian|Robert E. Howard|4.16|18|fantasy short-stories
 Skinship|Yoon Choi|4.16|10|literary short-stories
 Recursion|Blake Crouch|4.16|11|sci-fi thriller
@@ -273,6 +273,7 @@ The Tusks of Extinction|Ray Nayler|3.87|4|sci-fi
 The Magical Language of Others|E. J. Koh|3.87|5|nonfiction memoir Korea-California
 Cyber Mage|Saad Z. Hossain|3.87|13|sci-fi cyberpunk [hoopla]
 All This Could Be Different|Sarah Thankam Mathews|3.87|11|LGBT literary Milwaukee author:Oman/India
+The Broken Sword|Poul Anderson|3.86|8|fantasy mythology classics
 Red Mars|Kim Stanley Robinson|3.86|24|sci-fi Nebula mars-1
 Oona Out of Order|Margarita Montimore|3.86|12|sci-fi magical-realism time-travel
 Midnight Riot|Ben Aaronovitch|3.86|10|fantasy mystery London rivers-of-london-1
