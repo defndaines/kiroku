@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Dying Inside | Pete Wentz | 2024 | U.S. | 4.5 | print | 224 | graphic novel, fantasy, YA, thriller, mental health |
 | Neuromancer | William Gibson | 1984 | U.S., Canada | 3.5 | audio | 288 | sci-fi, cyberpunk, thriller, classics, Hugo, Nebula, Philip K. Dick Award |
 | The Three Stigmata of Palmer Eldritch | Philip K. Dick | 1965 | U.S. | 4.0 | audio | 231 | sci-fi, dystopian, classics |
 | The Trees | Percival Everett | 2021 | U.S. | 5.0 | audio | 309 | literary, mystery, race |
