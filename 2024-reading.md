@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Saga, Vol. 7 | Brian K. Vaughan | 2017 | U.S. | 4.5 | ebook | 152 | graphic novel, fantasy, sci-fi, reread |
 | The Spirit Bares Its Teeth | Andrew Joseph White | 2023 | U.S., U.K. | 5.0 | audio | 381 | horror, fantasy, historical, LGBT, YA |
 | Dying Inside | Pete Wentz | 2024 | U.S. | 4.5 | print | 224 | graphic novel, fantasy, YA, thriller, LGBT, mental health |
 | Neuromancer | William Gibson | 1984 | U.S., Canada | 3.5 | audio | 288 | sci-fi, cyberpunk, thriller, classics, Hugo, Nebula, Philip K. Dick Award |
