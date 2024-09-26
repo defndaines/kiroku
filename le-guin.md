@@ -5,7 +5,7 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 ## Annals of the Western Shore:
 - [ ] Gifts (2004)
 - [ ] Voices (2006)
-- [ ] Powers (2007)
+- [ ] Powers (2007) [Nebula]
 
 ## Catwings (Children's books):
 - [ ] Catwings (1988)
@@ -19,10 +19,10 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [x] A Wizard of Earthsea (1968)
 - [ ] The Tombs of Atuan (1971)
 - [ ] The Farthest Shore (1972)
-- [ ] Tehanu (1990)
+- [ ] Tehanu (1990) [Nebula, Locus]
 - [ ] "Dragonfly" (Novella, 1998)
 - [ ] "Darkrose and Diamond" (Short story, October–November 1999)
-- [ ] The Other Wind (2001)
+- [ ] The Other Wind (2001) [World Fantasy]
 - [ ] "The Daughter of Odren" (Short story, Sept 2014)
 - [ ] "Firelight" (Short story, Summer 2018)
 
@@ -32,10 +32,10 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] Planet of Exile (1966)
 - [ ] City of Illusions (1967)
 - [ ] "Winter's King" (Short story, 1969)
-- [x] The Left Hand of Darkness (1969)
+- [x] The Left Hand of Darkness (1969) [Hugo, Nebula]
 - [ ] "Vaster than Empires and More Slow" (Novella, 1971)
 - [ ] "The Word for World Is Forest" (Novella, 1972)
-- [x] The Dispossessed (1974)
+- [x] The Dispossessed (1974) [Hugo, Nebula, Locus]
 - [ ] "The Day Before the Revolution" (Short story, Aug 1974)
 - [ ] "The Shobies' Story" (Short story, 1990)
 - [ ] "Dancing to Ganam" (Short story, Sept 1993)
@@ -47,7 +47,7 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "Coming of Age in Karhide" (Short story, 1995)
 - [ ] "Old Music and the Slave Women" (Novella, Aug 1996)
 - [ ] "Mountain Ways" (Short story, Aug 1996)
-- [ ] The Telling (2000)
+- [ ] The Telling (2000) [Locus]
 
 ## Kesh/Always Coming Home:
 - [ ] "The Visionary" (Short story, Winter 1984)
@@ -74,8 +74,8 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "A Trip to the Head" (Short story, 1970)
 - [ ] "Things" (Short story, 1970)
 - [ ] "The Good Trip" (Short story, Aug 1970)
-- [x] The Lathe of Heaven (1971)
-- [x] "The Ones Who Walk Away from Omelas" (Short story, 1973)
+- [x] The Lathe of Heaven (1971) [Locus]
+- [x] "The Ones Who Walk Away from Omelas" (Short story, 1973) [Hugo]
 - [ ] "Direction of the Road" (Short story, 1973)
 - [ ] "The Field of Vision" (Short story, Oct 1973)
 - [ ] "The Stars Below" (Short story, 1974)
@@ -148,7 +148,8 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "In the drought" (Short story, 1994)
 - [ ] Going out with Peacocks and Other Poems (Poetry collection, 1994)
 - [ ] A Fisherman of the Inland Sea (Collection, 1994)
-- [ ] "Buffalo Gals, Won't You Come Out Tonight" (Short story, 1994)
+- [ ] "Buffalo Gals, Won't You Come Out Tonight" (Short story, 1994) [World
+Fantasy]
 - [ ] "Ether OR" (Short story, Nov 1995)
 - [ ] "Olders" (Short story, Dec 1995)
 - [ ] Unlocking the Air and Other Stories (Collection, 1996)
@@ -169,7 +170,7 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "The Seasons of the Ansarac" (Short story, Feb 2003)
 - [ ] Incredible Good Fortune (Poetry collection, 2006)
 - [ ] Four Different Poems (Poetry collection, 2007)
-- [ ] Lavinia (2008)
+- [ ] Lavinia (2008) [Locus]
 - [ ] Cat Dreams (Children's book, 2009)
 - [ ] "LADeDeDa" (Short story, March 2009)
 - [ ] Out Here: Poems and Images from Steens Mountain Country (Poetry collection, 2010)

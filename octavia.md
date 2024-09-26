@@ -16,12 +16,12 @@ I have a minor goal of reading all of Octavia Butler's work.
 
 ## Parable, or Earthseed series:
 - [x] Parable of the Sower (1993)
-- [ ] Parable of the Talents (1998)
+- [ ] Parable of the Talents (1998) [Nebula]
 
 ## Stand-alones:
 - [x] Kindred (1979)
 - [x] Fledgling (2005)
 
 ## Collections:
-- [x] Bloodchild and Other Stories
+- [x] Bloodchild and Other Stories [Hugo, Locus, Nebula]
 - [x] Unexpected Stories

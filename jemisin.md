@@ -5,7 +5,7 @@ I'd like to read more of Jemisin's work.
 ## Novels
 
 ### Inheritance Trilogy
-- [ ] The Hundred Thousand Kingdoms (2010)
+- [ ] The Hundred Thousand Kingdoms (2010) [Locus]
 - [ ] The Broken Kingdoms (2010)
 - [ ] The Kingdom of Gods (2011)
 - [ ] The Awakened Kingdom (novella) (2014)
@@ -16,15 +16,15 @@ I'd like to read more of Jemisin's work.
 - [ ] The Shadowed Sun (2012)
 
 ### Broken Earth Series
-- [x] The Fifth Season (2015)
-- [x] The Obelisk Gate (2016)
-- [x] The Stone Sky (2017)
+- [x] The Fifth Season (2015) [Hugo]
+- [x] The Obelisk Gate (2016) [Hugo]
+- [x] The Stone Sky (2017) [Hugo, Nebula, Locus]
 
 ### Mass Effect: Andromeda
 - [ ] Mass Effect: Andromeda Initiation (2017)
 
 ### Great Cities Series
-- [x] The City We Became (2020)
+- [x] The City We Became (2020) [Locus]
 - [ ] The World We Make (2022)
 - [x] "The City Born Great" (2016)
 
@@ -57,7 +57,7 @@ I'd like to read more of Jemisin's work.
 - [x] "The Storyteller's Replacement" (2018)
 - [x] "The Elevator Dancer" (2018)
 - [x] "Cuisine des Mémoires" (2018)
-- [ ] "Emergency Skin" (2019)
+- [ ] "Emergency Skin" (2019) [Hugo]
 - [x] "The Ones Who Stay and Fight" (2020)
 - [ ] "Reckless Eyeballing" (2023)
 
@@ -71,4 +71,4 @@ I'd like to read more of Jemisin's work.
 
 ## Comics
 
-- [x] Far Sector #1-12 (2019)
+- [x] Far Sector #1-12 (2019) [Hugo]

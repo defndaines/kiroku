@@ -27,6 +27,7 @@ Jayber Crow|Wendell Berry|4.39|14|historical classics
 A Day of Fallen Night|Samantha Shannon|4.39|39|fantasy LGBT U.K. priory-orange-prequel
 Take My Hand|Dolen Perkins-Valdez|4.38|11|historical literary Black 1973-Alabama
 A Bond Undone|Jin Yong|4.38|18|China fantasy historical sequel-Hero-Born
+A Closed and Common Orbit|Becky Chambers|4.37|11|sci-fi LGBT wayfarers-2
 Warrior Girl Unearthed|Angeline Boulley|4.36|12|YA mystery thriller indigenous
 The Power of the Dog|Don Winslow|4.36|20|mystery thriller drug-trade
 The Art of Losing|Alice Zeniter|4.36|18|literary historical Algeria International-Dublin-Literary unread-country
@@ -34,7 +35,6 @@ The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
 The Unsettling of America: Culture and Agriculture|Wendell Berry|4.34|13|nonfiction food agriculture nature
 The Tainted Cup|Robert Jackson Bennett|4.34|14|fantasy mystery
 The Conquering Sword of Conan|Robert E. Howard|4.34|18|fantasy sequel-3
-Erasure|Percival Everett|4.18|8|literary race
 The Song of Achilles|Madeline Miller|4.33|11|fantasy historical romance
 Humankind: A Hopeful History|Rutger Bregman|4.33|12|nonfiction history philosophy psychology
 A Desolation Called Peace|Arkady Martine|4.33|18|sci-fi LGBT Hugo Locus sequel
@@ -106,6 +106,7 @@ The Eye of the World|Robert Jordan|4.19|33|fantasy wheel-of-time-1
 The Years|Annie Ernaux|4.18|8|France nonfiction memoir literary Nobel
 Paladin of Souls|Lois McMaster Bujold|4.18|16|fantasy Hugo Locus Nebula
 Mind of My Mind|Octavia E. Butler|4.18|8|sci-fi fantasy sequel patternmaster-2
+Erasure|Percival Everett|4.18|8|literary race
 Children of Ash and Elm: A History of the Vikings|Neil Price|4.18|17|history nonfiction
 Almond|Won-pyung Sohn|4.18|5|contemporary literary Korea
 Guns of the Dawn|Adrian Tchaikovsky|4.17|21|steampunk
@@ -162,7 +163,6 @@ A Gathering of Old Men|Ernest J. Gaines|4.08|8|historical classics
 The Vanished Birds|Simon Jimenez|4.07|13|sci-fi literary LGBT
 The Stars My Destination|Alfred Bester|4.07|8|sci-fi classics
 The Goblin Emperor|Katherine Addison|4.07|18|fantasy osreth-1
-Light From Uncommon Stars|Ryka Aoki|4.07|13|sci-fi fantasy LGBT San-Gabriel-Valley
 Fatelessness|Imre Kertesz|4.07|8|historical Hungary Nobel unread-country
 Enter Ghost|Isabella Hammad|4.07|12|literary contemporary Palestine
 Dreaming the Eagle|Manda Scott|4.07|465|fantasy historical romance Boudica [Spotify]
@@ -171,6 +171,7 @@ The Words That Remain|Stênio Gardel|4.06|4|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
 The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers|Jim Morris|4.06|10|nonfiction history science
 Pet Sematary|Stephen King|4.06|16|horror
+Light from Uncommon Stars|Ryka Aoki|4.06|13|sci-fi fantasy LGBT San-Gabriel-Valley
 Equal Rites|Terry Pratchett|4.06|7|fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
