@@ -291,6 +291,7 @@ Blood Music|Greg Bear|3.84|11|sci-fi horror classics
 Winter in the Blood|James Welch|3.83|5|classics literary indigenous
 Confession of the Lioness|Mia Couto|3.83|7|contemporary Mozambique unread-country
 Ceremony|Leslie Marmon Silko|3.83|9|classics historical literary indigenous ABA
+The Haunting of Hill House|Shirley Jackson|3.82|7|horror mystery classics
 The Dog of the South|Charles Portis|3.82|8|humor South
 Maeve Fly|C.J. Leede|3.82|8|horror
 In the Company of Men|Véronique Tadjo|3.82|3|literary historical Ebola Africa
