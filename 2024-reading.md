@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Rebecca | Daphne du Maurier | 1938 | U.K. | 4.0 | audio | 449 | literary, mystery, gothic |
 | Saga, Vol. 10 | Brian K. Vaughan | 2022 | U.S. | 4.0 | ebook | 160 | graphic novel, fantasy, sci-fi |
 | Saga, Vol. 9 | Brian K. Vaughan | 2018 | U.S. | 4.5 | ebook | 160 | graphic novel, fantasy, sci-fi |
 | Saga, Vol. 8 | Brian K. Vaughan | 2017 | U.S. | 4.5 | ebook | 152 | graphic novel, fantasy, sci-fi |

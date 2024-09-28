@@ -204,7 +204,6 @@ Cloud Atlas|David Mitchell|4.01|20|sci-fi literary
 Blindsight|Peter Watts|4.01|12|sci-fi horror
 These Violent Delights|Micah Nemerever|4.00|14|literary thriller LGBT 1970s-Pittsburg
 The Woman in White|Wilkie Collins|4.00|26|classics mystery gothic horror 1859
-My Cousin Rachel|Daphne du Maurier|4.00|12|classics mystery thriller 1951
 Beasts of a Little Land|Juhea Kim|4.00|14|historical literary Korea
 Austerlitz|W.G. Sebald|4.00|7|Germany historical
 Songs Only You Know|Sean Madigan Hoen|3.99|12|nonfiction memoir music biography [hoopla]
