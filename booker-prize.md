@@ -9,9 +9,9 @@ five-person panel consisting of authors, publishers and journalists, as well
 as politicians, actors, artists and musicians, is appointed by the Booker
 Prize Foundation each year to choose the winning book.
 
-Count: 9
+Count: 10
 
-## Booker Prize (5)
+## Booker Prize (6)
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -35,7 +35,7 @@ Count: 9
 - [ ] 1986: Kingsley Amis _The Old Devils_
 - [ ] 1987: Penelope Lively _Moon Tiger_
 - [ ] 1988: Peter Carey _Oscar and Lucinda_
-- [ ] 1989: Kazuo Ishiguro _The Remains of the Day_
+- [x] 1989: Kazuo Ishiguro _The Remains of the Day_
 - [ ] 1990: A. S. Byatt _Possession_
 - [ ] 1991: Ben Okri _The Famished Road_
 - [ ] 1992: Michael Ondaatje _The English Patient_

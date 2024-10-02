@@ -123,7 +123,7 @@ Count: 31
 - [ ] 2014: Patrick Modiano [France]:
 - [x] 2015: Svetlana Alexievich [Belarus]: _The Unwomanly Face of War_
 - [x] 2016: Bob Dylan [U.S.]: _The Freewheelin' Bob Dylan_
-- [x] 2017: Kazuo Ishiguro [U.K.]: _The Buried Giant_
+- [x] 2017: Kazuo Ishiguro [U.K.]: _The Buried Giant_; _The Remains of the Day_
 - [x] 2018: Olga Tokarczuk [Poland]: _Drive Your Plow Over the Bones of the Dead_
 - [ ] 2019: Peter Handke [Austria]:
 - [ ] 2020: Louise Glück [U.S.]:

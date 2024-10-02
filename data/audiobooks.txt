@@ -125,7 +125,6 @@ The Wickwire Watch|Jacquelyn Hagen|4.15|15|fantasy YA steampunk
 Terrier|Tamora Pierce|4.15|15|YA fantasy
 Dawn|Octavia E. Butler|4.15|9|sci-fi feminism
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
-The Remains of the Day|Kazuo Ishiguro|4.14|9|literary historical classics
 Song of Solomon|Toni Morrison|4.14|15|classics literary magical-realism Nobel
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The God and the Gumiho|Sophie Kim|4.13|13|fantasy romance
@@ -170,7 +169,7 @@ What Strange Paradise|Omar El Akkad|4.06|7|literary Canada African immigrants
 The Words That Remain|Stênio Gardel|4.06|4|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
 The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers|Jim Morris|4.06|10|nonfiction history science
-Pet Sematary|Stephen King|4.06|16|horror
+Service Model|Adrian Tchaikovsky|4.06|12|sci-fi dystopian humor
 Light from Uncommon Stars|Ryka Aoki|4.06|13|sci-fi fantasy LGBT San-Gabriel-Valley
 Equal Rites|Terry Pratchett|4.06|7|fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
@@ -190,6 +189,7 @@ Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolber
 Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|11|nonfiction memoir biography L.A.
 A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Locus
 Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland
+Witches, Midwives, and Nurses: A History of Women Healers|Barbara Ehrenreich, Deirdre English|4.02|2|nonfiction history feminism health
 The Ocean at the End of the Lane|Neil Gaiman|4.02|6|fantasy horror magical-realism Locus
 Little|Edward Carey|4.02|14|historical Paris-1700s
 Bright Young Women|Jessica Knoll|4.02|13|thriller historical serial-killer
