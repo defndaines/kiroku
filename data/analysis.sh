@@ -8,6 +8,8 @@ tail -n +9 2024-reading.md | wc -l
 
 tail -n +9 2024-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
 
+tail -n +9 2024-reading.md | grep -v "graphic novel" | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n | grep -v " 1 "
+
 ## Publication Year
 
 ### Books older than 10 year
@@ -46,7 +48,7 @@ tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' |
 
 ### Most common genres
 
-tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "graphic novel" | grep -v "reread" | grep -v "novella" | sort -n | tail
+tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "graphic novel" | grep -v manga | grep -v reread | grep -v novella | sort -n | tail
 
 ## Formats
 
