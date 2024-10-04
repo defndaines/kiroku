@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| My Heart in Braille | Joris Chamblain | 2023 | France | 4.5 | ebook | 78 | graphic novel, romance, YA |
 | A Children's Bible | Lydia Millet | 2020 | U.S. | 3.0 | audio | 224 | literary, dystopian |
 | Saga, Vol. 11 | Brian K. Vaughan | 2023 | U.S. | 4.5 | ebook | 153 | graphic novel, fantasy, sci-fi |
 | Rick and Morty vs. Dungeons & Dragons: Deluxe Edition | Patrick Rothfuss, Jim Zub | 2021 | U.S. | 4.0 | ebook | 312 | graphic novel, humor, fantasy, sci-fi |

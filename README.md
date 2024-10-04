@@ -41,6 +41,7 @@ I try to read books from different countries, and that's tracked in
 
 Tracking favorite authors I'd like to read more of.
 
+* [James Baldwin](baldwin.md)
 * [Octavia Butler](octavia.md)
 * [Becky Chambers](chambers.md)
 * [N. K. Jemisin](jemisin.md)
