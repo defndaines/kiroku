@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Wolfsong | T.J. Klune | 2016 | U.S. | 4.0 | audio | 511 | fantasy, romance, werewolves, LGBT |
 | Pet Sematary | Stephen King | 1983 | U.S. | 4.0 | print | 395 | horror |
 | White Ash, Vol. 1 | Charlie Stickney | 2019 | U.S. | 4.0 | ebook | 184 | graphic novel, fantasy |
 | My Heart in Braille | Joris Chamblain | 2023 | France | 4.5 | ebook | 78 | graphic novel, romance, YA |
@@ -75,7 +76,7 @@ book finished in a month is tagged with the month in **bold**.
 | The Reckoning of Roku | Randy Ribay | 2024 | U.S. | 4.0 | audio | 368 | fantasy, YA |
 | Olive, By the Light of a Blue Moon | Véro Cazot | 2020 | France | 3.5 | ebook | 56 | graphic novel, fantasy |
 | My Brilliant Friend | Elena Ferrante | 2011 | Italy | 3.5 | audio | 331 | historical, literary |
-| The Dispossessed | Ursula K. Le Guin | 1974 | U.S. | 5.0 | print | 387 | sci-fi, classics, Hugo, Locus, Nebula, **August**  |
+| The Dispossessed | Ursula K. Le Guin | 1974 | U.S. | 5.0 | print | 387 | sci-fi, classics, Hugo, Locus, Nebula, **August** |
 | The Road | Cormac McCarthy | 2006 | U.S. | 3.5 | audio | 241 | sci-fi, dystopian, literary, classics, Pulitzer |
 | The Royal Game | Stefan Zweig | 1942 | Austria | 4.5 | audio | 96 | novella, classics, literary |
 | Milkman | Anna Burns | 2018 | Northern Ireland | 5.0 | audio | 352 | literary, historical, Booker, Orwell Prize, NBCC Award, Dublin Literary Award |
@@ -123,7 +124,7 @@ book finished in a month is tagged with the month in **bold**.
 | Robert Silverberg's Belzagor | Philippe Thirault | 2024 | France | 1.0 | ebook | 208 | DNF, sci-fi, graphic novel |
 | Roadside Picnic | Arkady Strugatsky, Boris Strugatsky | 1972 | USSR | 4.0 | audio | 145 | sci-fi, classics |
 | Downward to the Earth | Robert Silverberg | 1969 | U.S. | 4.0 | audio | 176 | sci-fi |
-| Khiêm: Our Journey through the Motherlands | Yasmine Trinh Phan Morissette | 2024 | Canada, Vietnam | 4.0 | ebook | 197 | nonfiction, graphic novel,  memoir, history |
+| Khiêm: Our Journey through the Motherlands | Yasmine Trinh Phan Morissette | 2024 | Canada, Vietnam | 4.0 | ebook | 197 | nonfiction, graphic novel, memoir, history |
 | Lone Wolf and Cub, Vol. 8: Chains of Death | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 304 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 7: Cloud Dragon, Wind Tiger | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Your Utopia | Bora Chung | 2021 | South Korea | 4.0 | audio | 256 | short-stories, sci-fi, horror |
@@ -150,7 +151,7 @@ book finished in a month is tagged with the month in **bold**.
 | the witch doesn't burn in this one | Amanda Lovelace | 2018 | U.S. | 4.5 | audio | 192 | poetry, feminism, nonfiction, Goodreads Choice Award, **June** |
 | And Every Morning the Way Home Gets Longer and Longer | Fredrik Backman | 2015 | Sweden | 4.5 | audio | 97 | novella, contemporary |
 | Hateship, Friendship, Courtship, Loveship, Marriage | Alice Munro | 2001 | Canada | 4.0 | audio | 323 | literary, short-stories, Nobel, Booker |
-| The Swimmers | Julie Otsuka  | 2022 | U.S. | 5.0 | audio | 176 | literary, contemporary, Carnegie Medal |
+| The Swimmers | Julie Otsuka | 2022 | U.S. | 5.0 | audio | 176 | literary, contemporary, Carnegie Medal |
 | The Stone Home | Crystal Hana Kim | 2024 | South Korea, U.S. | 5.0 | audio | 352 | historical, literary |
 | Rebel Girl: My Life as a Feminist Punk | Kathleen Hanna | 2024 | U.S. | 4.5 | audio | 336 | nonfiction, memoir, music, feminism |
 | Seoul Before Sunrise | Samir Dahmani | 2023 | France, South Korea | 3.5 | ebook | 144 | graphic novel, contemporary, LGBT |
