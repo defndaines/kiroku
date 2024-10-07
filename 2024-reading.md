@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Once Our Land | Peter Ricq | 2019 | Canada | 2.5 | ebook | 69 | graphic novel, fantasy |
 | Wolfsong | T.J. Klune | 2016 | U.S. | 4.0 | audio | 511 | fantasy, romance, werewolves, LGBT |
 | Pet Sematary | Stephen King | 1983 | U.S. | 4.0 | print | 395 | horror |
 | White Ash, Vol. 1 | Charlie Stickney | 2019 | U.S. | 4.0 | ebook | 184 | graphic novel, fantasy |
