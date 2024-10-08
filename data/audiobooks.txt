@@ -128,6 +128,7 @@ Song of Solomon|Toni Morrison|4.14|15|classics literary magical-realism Nobel
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The God and the Gumiho|Sophie Kim|4.13|13|fantasy romance
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa
+Steppenwolf|Hermann Hesse|4.13|8|classics philosophy literary
 Heroes of the Water Monster|Brian Young|4.13|10|fantasy YA
 The Talisman|Peter Straub|4.12|28|horror fantasy
 The Last Laugh|Mindy McGinnis|4.12|8|YA horror thriller sequel-initial-insult
@@ -183,6 +184,7 @@ Whiskey When We're Dry|John Larison|4.04|15|historical
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Book of Doors|Gareth Brown|4.04|13|fantasy
 The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
+Startide Rising|David Brin|4.04|17|sci-fi Hugo Nebula Locus
 Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe
 Neighbors and Other Stories|Diane Oliver|4.04|8|short-stories historical literary race
 Field Notes from a Catastrophe: Man, Nature, and Climate Change|Elizabeth Kolbert|4.04|5|nonfiction nature politics science
