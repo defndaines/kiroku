@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Wild Robot | Peter Brown | 2016 | U.S. | 4.0 | print | 288 | YA, sci-fi, fantasy |
 | The Summer Hikaru Died, Vol. 1 | Mokumokuren | 2022 | Japan | 4.0 | ebook | 184 | graphic novel, manga, mystery, horror, LGBT, romance |
 | Dungeons & Dragons 2024 Player's Handbook | Jeremy Crawford, Christopher Perkins, Ben Petrisor, F. Wesley Schneider, Ray Winninger, James Wyatt | 2024 | U.S. | 4.5 | print | 384 | nonfiction, fantasy |
 | Once Our Land | Peter Ricq | 2019 | Canada | 2.5 | ebook | 69 | graphic novel, fantasy |
