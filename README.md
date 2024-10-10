@@ -41,10 +41,10 @@ I try to read books from different countries, and that's tracked in
 
 Tracking favorite authors I'd like to read more of.
 
-* [James Baldwin](baldwin.md)
-* [Octavia Butler](octavia.md)
-* [Becky Chambers](chambers.md)
-* [N. K. Jemisin](jemisin.md)
-* [Barbara Kingsolver](kingsolver.md)
-* [Ursula K. Le Guin](le-guin.md)
-* [China Miéville](miéville.md)
+* [James Baldwin](author/baldwin.md)
+* [Octavia Butler](author/octavia.md)
+* [Becky Chambers](author/chambers.md)
+* [N. K. Jemisin](author/jemisin.md)
+* [Barbara Kingsolver](author/kingsolver.md)
+* [Ursula K. Le Guin](author/le-guin.md)
+* [China Miéville](author/miéville.md)
