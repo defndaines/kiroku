@@ -8,7 +8,7 @@ Academy decides and announces the name of the laureate in early October.
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 31
+Count: 32
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -34,7 +34,7 @@ Count: 31
 - [ ] 1922: Jacinto Benavente [Spain]:
 - [ ] 1923: William Butler Yeats [Ireland]:
 - [ ] 1924: Wladyslaw Stanislaw Reymont [Poland]:
-- [x] 1925: George Bernard Shaw [U.K., Ireland]: _Pygmalion_; _Mrs. Warren's Profession_
+- [x] 1925: George Bernard Shaw [U.K., Ireland]: _Pygmalion_, _Mrs. Warren's Profession_
 - [ ] 1926: Grazia Deledda [Italy]:
 - [ ] 1927: Henri Bergson [France]:
 - [ ] 1928: Sigrid Undset [Norway, Denmark]:
@@ -50,7 +50,7 @@ Count: 31
 - [ ] 1939: Frans Eemil Sillanpää [Finland]:
 - [ ] 1944: Johannes Vilhelm Jensen [Denmark]:
 - [ ] 1945: Gabriela Mistral [Chile]:
-- [x] 1946: Hermann Hesse [Germany, Switzerland]: _Siddhartha_; _Steppenwolf_
+- [x] 1946: Hermann Hesse [Germany, Switzerland]: _Siddhartha_, _Steppenwolf_
 - [ ] 1947: André Paul Guillaume Gide [France]:
 - [x] 1948: Thomas Stearns Eliot [U.K.]: several poems
 - [x] 1949: William Faulkner [U.S.]: _The Sound and the Fury_
@@ -58,7 +58,7 @@ Count: 31
 - [ ] 1951: Pär Fabian Lagerkvist [Sweden]:
 - [ ] 1952: François Mauriac [France]:
 - [ ] 1953: Winston Churchill [U.K.]:
-- [x] 1954: Ernest Hemingway [U.S.]: _For Whom the Bell Tolls_; _A Farewell to Arms_; _The Old Man and the Sea_
+- [x] 1954: Ernest Hemingway [U.S.]: _For Whom the Bell Tolls_, _A Farewell to Arms_, _The Old Man and the Sea_
 - [ ] 1955: Halldór Kiljan Laxness [Iceland]:
 - [ ] 1956: Juan Ramón Jiménez [Spain]:
 - [x] 1957: Albert Camus [France]: _The Stranger_
@@ -66,7 +66,7 @@ Count: 31
 - [ ] 1959: Salvatore Quasimodo [Italy]:
 - [ ] 1960: Saint-John Perse [France]:
 - [ ] 1961: Ivo Andric [Yugoslavia]:
-- [x] 1962: John Steinbeck [U.S.]: _The Grapes of Wrath_; _Of Mice and Men_; _Cannery Row_; _East of Eden_
+- [x] 1962: John Steinbeck [U.S.]: _The Grapes of Wrath_, _Of Mice and Men_, _Cannery Row_, _East of Eden_
 - [ ] 1963: Giorgos Seferis [Greece]:
 - [x] 1964: Jean-Paul Sartre [France]: _No Exit_
 - [ ] 1965: Mikhail Aleksandrovich Sholokhov [Soviet Union]:
@@ -99,7 +99,7 @@ Count: 31
 - [ ] 1990: Octavio Paz [Mexico]:
 - [ ] 1991: Nadine Gordimer [South Africa]:
 - [ ] 1992: Derek Walcott [Saint Lucia]:
-- [x] 1993: Toni Morrison [U.S.]: _Beloved_; _The Source of Self-Regard_
+- [x] 1993: Toni Morrison [U.S.]: _Beloved_, _The Source of Self-Regard_
 - [x] 1994: Kenzaburo Oe [Japan]: _A Personal Matter_
 - [x] 1995: Seamus Heaney [Ireland]: _Beowulf_
 - [ ] 1996: Wislawa Szymborska [Poland]:
@@ -123,10 +123,11 @@ Count: 31
 - [ ] 2014: Patrick Modiano [France]:
 - [x] 2015: Svetlana Alexievich [Belarus]: _The Unwomanly Face of War_
 - [x] 2016: Bob Dylan [U.S.]: _The Freewheelin' Bob Dylan_
-- [x] 2017: Kazuo Ishiguro [U.K.]: _The Buried Giant_; _The Remains of the Day_
+- [x] 2017: Kazuo Ishiguro [U.K.]: _The Buried Giant_, _The Remains of the Day_
 - [x] 2018: Olga Tokarczuk [Poland]: _Drive Your Plow Over the Bones of the Dead_
 - [ ] 2019: Peter Handke [Austria]:
 - [ ] 2020: Louise Glück [U.S.]:
 - [x] 2021: Abdulrazak Gurnah [Tanzania, U.K.]: _Paradise_
-- [x] 2022: Annie Ernaux [France]: _A Woman's Story_; _La place_
+- [x] 2022: Annie Ernaux [France]: _A Woman's Story_, _La place_
 - [x] 2023: Jon Fosse [Norway]: _The Other Name_
+- [x] 2024: Han Kang [South Korea]: _Human Acts_, _The Vegetarian_, _Greek Lessons_, _The White Book_
