@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Whiskey When We're Dry | John Larison | 2018 | U.S. | 4.5 | audio | 416 | historical, western, LGBT |
 | The Summer Hikaru Died, Vol. 4 | Mokumokuren | 2023 | Japan | 4.5 | ebook | 196 | graphic novel, manga, mystery, horror, LGBT, romance |
 | The Summer Hikaru Died, Vol. 3 | Mokumokuren | 2023 | Japan | 4.0 | ebook | 180 | graphic novel, manga, mystery, horror, LGBT, romance |
 | The Summer Hikaru Died, Vol. 2 | Mokumokuren | 2022 | Japan | 4.0 | ebook | 196 | graphic novel, manga, mystery, horror, LGBT, romance |
