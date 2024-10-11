@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 18: Twilight of the Kurokuwa | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 17: The Will of the Fang | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | The Hachioji Specialty: Tengu's Love, Vol. 1 | Tomo Nanao | 2022 | Japan | 4.0 | ebook | 244 | graphic novel, manga, romance, fantasy |
 | Whiskey When We're Dry | John Larison | 2018 | U.S. | 4.5 | audio | 416 | historical, western, LGBT |
