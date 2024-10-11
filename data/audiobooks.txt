@@ -23,6 +23,7 @@ Arch of Triumph|Erich Maria Remarque|4.42|16|historical literary 1939-refugee-in
 Where I'm Calling From|Raymond Carver|4.41|17|short-stories literary
 Betty|Tiffany McDaniel|4.41|18|historical literary Appalachians
 Going Postal|Terry Pratchett|4.40|11|fantasy humor discworld-33
+All the Colors of the Dark|Chris Whitaker|4.40|15|mystery thriller historical
 Jayber Crow|Wendell Berry|4.39|14|historical classics
 A Day of Fallen Night|Samantha Shannon|4.39|39|fantasy LGBT U.K. priory-orange-prequel
 Take My Hand|Dolen Perkins-Valdez|4.38|11|historical literary Black 1973-Alabama
