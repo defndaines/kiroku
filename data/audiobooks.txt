@@ -125,6 +125,7 @@ Terrier|Tamora Pierce|4.15|15|YA fantasy
 Dawn|Octavia E. Butler|4.15|9|sci-fi feminism
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918|Adam Hochschild|4.14|16|nonfiction history
 Song of Solomon|Toni Morrison|4.14|15|classics literary magical-realism Nobel
+If We Were Villains|M.L. Rio|4.14|13|mystery thriller LGBT
 The Mighty Miss Malone|Christopher Paul Curtis|4.13|8|historical YA
 The God and the Gumiho|Sophie Kim|4.13|13|fantasy romance
 The Devil All the Time|Donald Ray Pollock|4.13|9|horror 1960s-Ohio-WVa

@@ -66,7 +66,7 @@ Count: 32
 - [ ] 1959: Salvatore Quasimodo [Italy]:
 - [ ] 1960: Saint-John Perse [France]:
 - [ ] 1961: Ivo Andric [Yugoslavia]:
-- [x] 1962: John Steinbeck [U.S.]: _The Grapes of Wrath_, _Of Mice and Men_, _Cannery Row_, _East of Eden_
+- [x] 1962: John Steinbeck [U.S.]: _The Grapes of Wrath_, _Of Mice and Men_, _Cannery Row_, _East of Eden_, _In Dubious Battle_
 - [ ] 1963: Giorgos Seferis [Greece]:
 - [x] 1964: Jean-Paul Sartre [France]: _No Exit_
 - [ ] 1965: Mikhail Aleksandrovich Sholokhov [Soviet Union]:
