@@ -6,7 +6,7 @@ Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fi
 I'm interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
-Count: 36
+Count: 37
 
 - [x] F. Scott Fitzgerald _The Great Gatsby_ (1925)
 - [ ] Theodore Dreiser _An American Tragedy_ (1925)
@@ -43,7 +43,7 @@ Count: 36
 - [ ] Patricia Highsmith _Deep Water_ (1957)
 - [x] John Okada _No-No Boy_ (1957)
 - [x] Jack Kerouac _On the Road_ (1957)
-- [ ] Shirley Jackson _The Haunting of Hill House_ (1959)
+- [x] Shirley Jackson _The Haunting of Hill House_ (1959)
 - [x] Joseph Heller _Catch-22_ (1961)
 - [x] Madeleine L'Engle _A Wrinkle in Time_ (1962)
 - [ ] James Baldwin _Another Country_ (1962)

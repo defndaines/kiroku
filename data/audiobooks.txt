@@ -109,6 +109,7 @@ Mind of My Mind|Octavia E. Butler|4.18|8|sci-fi fantasy sequel patternmaster-2
 Erasure|Percival Everett|4.18|8|literary race
 Children of Ash and Elm: A History of the Vikings|Neil Price|4.18|17|history nonfiction
 Almond|Won-pyung Sohn|4.18|5|contemporary literary Korea
+Interpreter of Maladies|Jhumpa Lahiri|4.17|6|short-stories, literary
 Guns of the Dawn|Adrian Tchaikovsky|4.17|21|steampunk
 Anathem|Neal Stephenson|4.17|32|sci-fi fantasy Locus
 The Last Unicorn|Peter S. Beagle|4.16|8|fantasy YA classics
@@ -293,7 +294,6 @@ Blood Music|Greg Bear|3.84|11|sci-fi horror classics
 Winter in the Blood|James Welch|3.83|5|classics literary indigenous
 Confession of the Lioness|Mia Couto|3.83|7|contemporary Mozambique unread-country
 Ceremony|Leslie Marmon Silko|3.83|9|classics historical literary indigenous ABA
-The Haunting of Hill House|Shirley Jackson|3.82|7|horror mystery classics
 The Dog of the South|Charles Portis|3.82|8|humor South
 Maeve Fly|C.J. Leede|3.82|8|horror
 In the Company of Men|Véronique Tadjo|3.82|3|literary historical Ebola Africa
