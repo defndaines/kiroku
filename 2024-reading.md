@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Howl's Moving Castle | Diana Wynne Jones | 1986 | U.K. | 4.0 | audio | 329 | fantasy, YA, classics |
 | The Zen Gun | Barrington J. Bayley | 1983 | U.K. | 4.0 | print | 159 | sci-fi |
 | The Haunting of Hill House | Shirley Jackson | 1959 | U.S. | 4.0 | audio | 182 | horror, mystery, classics |
 | Lone Wolf and Cub, Vol. 18: Twilight of the Kurokuwa | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |

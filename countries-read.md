@@ -156,7 +156,7 @@ Count: 86
 - [ ] Mongolia:
 - [ ] Bosnia and Herzegovina:
 - [ ] Puerto Rico:
-- [x] Wales: [_The Mabinogion_](https://www.goodreads.com/book/show/455219.The_Mabinogion); [_Fantastic Mr. Fox_](https://www.goodreads.com/book/show/6693.Fantastic_Mr_Fox) Roald Dahl
+- [x] Wales: [_The Mabinogion_](https://www.goodreads.com/book/show/455219.The_Mabinogion); [_Fantastic Mr. Fox_](https://www.goodreads.com/book/show/6693.Fantastic_Mr_Fox) Roald Dahl; [_Howl's Moving Castle_](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) Diana Wynne Jones
 - [ ] Armenia:
 - [ ] Lithuania:
 - [x] Jamaica: [_Black Leopard, Red Wolf_](https://www.goodreads.com/book/show/50608676-black-leopard-red-wolf) Marlon James
