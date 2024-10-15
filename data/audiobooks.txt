@@ -167,7 +167,7 @@ The Goblin Emperor|Katherine Addison|4.07|18|fantasy osreth-1
 Fatelessness|Imre Kertesz|4.07|8|historical Hungary Nobel unread-country
 Enter Ghost|Isabella Hammad|4.07|12|literary contemporary Palestine
 Dreaming the Eagle|Manda Scott|4.07|465|fantasy historical romance Boudica [Spotify]
-What Strange Paradise|Omar El Akkad|4.06|7|literary Canada African immigrants
+What Strange Paradise|Omar El Akkad|4.06|7|literary Canada African immigrants Giller
 The Words That Remain|Stênio Gardel|4.06|4|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
 The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers|Jim Morris|4.06|10|nonfiction history science
@@ -207,6 +207,7 @@ Cloud Atlas|David Mitchell|4.01|20|sci-fi literary
 Blindsight|Peter Watts|4.01|12|sci-fi horror
 These Violent Delights|Micah Nemerever|4.00|14|literary thriller LGBT 1970s-Pittsburg
 The Woman in White|Wilkie Collins|4.00|26|classics mystery gothic horror 1859
+My Brilliant Life|Kim Ae-ran|4.00|6|literary
 Beasts of a Little Land|Juhea Kim|4.00|14|historical literary Korea
 Austerlitz|W.G. Sebald|4.00|7|Germany historical
 Songs Only You Know|Sean Madigan Hoen|3.99|12|nonfiction memoir music biography [hoopla]
@@ -247,6 +248,7 @@ Bad Cree|Jessica Johns|3.94|8|horror literary magical-realism indigenous
 Train to Pakistan|Khushwant Singh|3.93|7|classics historical 1956 [Spotify]
 The Glass Key|Dashiell Hammett|3.93|6|mystery noir
 The Fisherman|John Langan|3.93|11|horror fantasy
+Shoko's Smile: Stories|Choi Eunyoung|3.93|7|short-stories literary feminism
 Passing|Nella Larsen|3.93|4|classics literary 1929
 Mongrels|Stephen Graham Jones|3.93|10|horror werewolves indigenous
 Black Bottom Saints|Alice Randall|3.93|12|historical Black Detroit
@@ -320,8 +322,10 @@ A Doll's House|Henrik Ibsen|3.76|2|play classics Norway
 The Old Drift|Namwali Serpell|3.75|25|historical literary Zambia unread-country
 Native Speaker|Chang-rae Lee|3.75|11|contemporary literary ABA Korean-American
 Klara and the Sun|Kazuo Ishiguro|3.75|11|sci-fi literary
+Blood of the Old Kings|Sung-Il Kim|3.75|10|fantasy
 All the Lovers in the Night|Mieko Kawakami|3.75|8| contemporary literary Japan
 I'm Waiting for You and Other Stories|Kim Bo-young|3.74|10|sci-fi short-stories
+Clown in a Cornfield|Adam Cesare|3.74|9|horror YA
 The Island of Dr. Moreau|H. G. Wells|3.73|5|sci-fi horror classics
 Mobility|Lydia Kiesling|3.73|11|historical literary Azerbaijan unread-country
 Lone Women|Victor LaValle|3.73|9|horror historical fantasy
@@ -333,6 +337,7 @@ Paper Towns|John Green|3.72|8|YA mystery contemporary romance
 American Rust|Philipp Meyer|3.72|13|contemporary mystery Pennsylvania-steel
 East Goes West: The Making of an Oriental Yankee|Younghill Kang|3.71|16|classics Korean-American 1937
 Delicate Condition|Danielle Valentine|3.71|12|horror feminist-Rosemary's-Baby
+Concerning My Daughter|Hye-Jin Kim|3.71|4|literary LGBT
 Tomb of Sand|Geetanjali Shree|3.70|18|literary India historical Booker
 The Barbarian Nurseries|Héctor Tobar|3.70|16|contemporary literary L.A.
 Claire DeWitt and the City of the Dead|Sara Gran|3.69|9|mystery New Orleans
@@ -357,11 +362,13 @@ Soul Mountain|Gao Xingjian|3.60|19|China Nobel
 The Plotters|Un-su Kim|3.58|10|mystery thriller Korea
 Gulliver's Travels|Jonathan Swift|3.58|5|classics
 Frankenstein in Baghdad|Ahmed Saadawi|3.58|8|horror magical-realism Iraq
+One Hundred Shadows|Hwang Jungeun|3.57|3|literary magical-realism
 Memorial|Bryan Washington|3.57|8|contemporary literary LGBT Japanese-American Black Texas
 Funeral Songs for Dying Girls|Cherie Dimaline|3.57|8|YA fantasy LGBT indigenous
 Tropic of Orange|Karen Tei Yamashita|3.56|10|magical-realism
 The Ones We're Meant to Find|Joan He|3.56|11|YA sci-fi dystopian
 The Family Trade|Charles Stross|3.54|12|steampunk alternate-history
+Flowers of Mold|Ha Seong-nan|3.54|7|short-stories horror literary
 The Tiger Flu|Larissa Lai|3.53|10|sci-fi LGBT
 The End of August|Yu Miri|3.53|28|historical literary Japanese-occupied-Korea-1930s
 White Horse|Erika T. Wurth|3.52|10|horror contemporary literary thriller indigenous

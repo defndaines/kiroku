@@ -12,6 +12,7 @@ Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil Wa
 The Stone Face|William Gardner Smith|4.34|214|literary race
 My Friends|Hisham Matar|4.34|461|literary historical Libya unread-country
 The Day Lasts More than a Hundred Years|Chingiz Aitmatov|4.33|368|sci-fi Kyrgyzstan unread-country
+Scythe|Neal Shusterman|4.32|435|fantasy YA dystopian
 Walkable City: How Downtown Can Save America, One Step at a Time|Jeff Speck|4.31|312|nonfiction design
 The Lions of Al-Rassan|Guy Gavriel Kay|4.30|528|fantasy historical
 Children of Time|Adrian Tchaikovsky|4.30|608|sci-fi series-1
@@ -22,6 +23,7 @@ Ida: A Sword Among Lions|Paula J. Giddings|4.27|800|nonfiction biography history
 Old Man's War|John Scalzi|4.24|318|sci-fi [owned]
 The Fall of Hyperion|Dan Simmons|4.23|517|sci-fi sequel
 The Consuming Fire|John Scalzi|4.21|304|sci-fi sequel-interdependency-2 [owned]
+I'm OK, I'm Pig!|Kim Hyesoon|4.20|160|poetry
 Chevengur|Andrei Platonov|4.20|333|classics literature
 Rikki-Tikki-Tavi|Rudyard Kipling|4.19|54|classics childrens short-stories [owned]
 Joanna Russ: Novels & Stories|Joanna Russ|4.19|852|sci-fi
@@ -54,6 +56,7 @@ The Listening Book: Discovering Your Own Music|W. A. Mathieu|4.08|192|nonfiction
 The Hour of the Star|Clarice Lispector|4.08|96|literary
 The Forgotten Beasts of Eld|Patricia A. McKillip|4.08|343|fantasy YA World-Fantasy
 City|Clifford D. Simak|4.08|251|fantasy sci-fi short-stories
+Autobiography of Death|Kim Hyesoon|4.08|110|poetry
 Praiseworthy|Alexis Wright|4.05|736|literary Australia Stella-Prize
 Open Water|Caleb Azumah Nelson|4.05|145|contemporary literary
 Eve out of Her Ruins|Ananda Devi|4.05|155|literary Mauritius unread-country
@@ -143,11 +146,14 @@ Waylaid|Ed Lin|3.64|200|YA Chinese-American
 Phantasmagoria and Other Poems|Lewis Carroll|3.63|112|poetry classics childrens [owned]
 Red Star|Alexander Bogdanov|3.60|272|1908 sci-fi politics written-by-Bolshevik
 Gather, Darkness!|Fritz Leiber|3.60|172|fantasy horror sci-fi
+Your Republic Is Calling You|Young-ha Kim|3.59|326|thriller
 Every Man a Menace|Patrick Hoffman|3.59|288|mystery thriller
+Fifteen Seconds without Sorrow|Shim Bo-Seon|3.56|84|poetry [hoopla]
 Leiningen versus the Ants|Carl Stephenson|3.54|16|short-stories classics childrens [owned]
 In the Café of Lost Youth|Patrick Modiano|3.54|153|literary Nobel
 Summer of the Big Bachi|Naomi Hirahara|3.52|287|mystery Pasadena
 Soft Apocalypse|Will McIntosh|3.52|239|sci-fi
+Metropole|Ferenc Karinthy|3.52|279|sci-fi dystopian Hungary
 Kairos|Jenny Erpenbeck|3.51|379|historical Booker
 Blood and Guts in High School|Kathy Acker|3.45|165|feminism post-punk
 Picnic on Paradise|Joanna Russ|3.41|152|fantasy sci-fi
