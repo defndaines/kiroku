@@ -5,7 +5,7 @@ adult readers published in the U.S. in the previous year. Administered by the
 American Library Association (ALA), selected by a seven-member selection
 committee of library experts.
 
-Count: 4
+Count: 5
 
 ## Fiction (3)
 
@@ -23,7 +23,7 @@ Count: 4
 - [x] 2023: Julie Otsuka _The Swimmers_
 - [x] 2024: Amanda Peters _The Berry Pickers_
 
-## Nonfiction (1)
+## Nonfiction (2)
 
 - [ ] 2012: Robert K. Massie _Catherine the Great: Portrait of a Woman_
 - [ ] 2013: Timothy Egan _Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis_
@@ -34,6 +34,6 @@ Count: 4
 - [ ] 2019: Kiese Laymon _Heavy: An American Memoir_
 - [ ] 2020: Adam Higginbotham _Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster_
 - [ ] 2021: Rebecca Giggs _Fathoms: The World in the Whale_
-- [ ] 2022: Hanif Abdurraqib _A Little Devil in America: In Praise of Black Performance_
+- [x] 2022: Hanif Abdurraqib _A Little Devil in America: In Praise of Black Performance_
 - [ ] 2023: Ed Yong _An Immense World: How Animal Senses Reveal the Hidden Realms Around Us_
 - [ ] 2024: Roxanna Asgarian _We Were Once a Family: A Story of Love, Death, and Child Removal in America_

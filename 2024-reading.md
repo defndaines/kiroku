@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Little Devil in America: Notes in Praise of Black Performance | Hanif Abdurraqib | 2021 | U.S. | 4.5 | audio | 301 | nonfiction, essays, history, music, race, Carnegie Medal |
 | Lone Wolf and Cub, Vol. 21: Fragrance of Death | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 20: A Taste of Poison | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 19: The Moon in Our Hearts | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
