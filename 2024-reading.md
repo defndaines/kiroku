@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lone Wolf and Cub, Vol. 21: Fragrance of Death | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 20: A Taste of Poison | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 19: The Moon in Our Hearts | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Howl's Moving Castle | Diana Wynne Jones | 1986 | U.K. | 4.0 | audio | 329 | fantasy, YA, classics |

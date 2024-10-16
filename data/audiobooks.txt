@@ -67,6 +67,7 @@ Girl, Woman, Other|Bernardine Evaristo|4.29|11|contemporary LGBT literary Britis
 The Wall|John Hersey|4.28|29|historical Warsaw-ghetto
 The Rediscovery of America|Ned Blackhawk|4.28|17|nonfiction history indigenous National-Book
 The Player of Games|Iain M. Banks|4.28|11|sci-fi culture-2
+Slewfoot: A Tale of Bewitchery|Brom|4.28|14|horror fantasy historical
 Exhalation|Ted Chiang|4.28|11|sci-fi literary short-stories Hugo
 If Beale Street Could Talk|James Baldwin|4.27|7|classics literary romance
 Dune|Frank Herbert|4.27|21|sci-fi classics reread Hugo Nebula
