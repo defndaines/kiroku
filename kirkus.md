@@ -2,9 +2,9 @@
 
 An American literary award conferred by the book review magazine _Kirkus Reviews_.
 
-Count: 5
+Count: 6
 
-## Fiction (2)
+## Fiction (3)
 
 - [ ] 2014: Lily King _Euphoria_
 - [ ] 2015: Hanya Yanagihara _A Little Life_
@@ -16,6 +16,7 @@ Count: 5
 - [ ] 2021: Joy Williams _Harrow_
 - [ ] 2022: Hernan Diaz _Trust_
 - [x] 2023: James McBride _The Heaven & Earth Grocery Store_
+- [x] 2024: Percival Everett _James_
 
 ## Nonfiction (0)
 
@@ -29,6 +30,7 @@ Count: 5
 - [ ] 2021: Brian Broome _Punch Me Up to the Gods: A Memoir_
 - [ ] 2022: Tanaïs _In Sensorium_
 - [ ] 2023: Héctor Tobar _Our Migrant Souls: A Meditation on the Meanings and Myths of "Latino"_
+- [ ] 2024: Adam Higginbotham _Challenger_
 
 ## Young Readers' Literature (3)
 
@@ -42,3 +44,4 @@ Count: 5
 - [ ] 2021: Christina Soontornvat _All Thirteen: The Incredible Cave Rescue of the Thai Boys' Soccer Team_
 - [x] 2022: Harmony Becker _Himawari House_
 - [ ] 2023: Ariel Aberg-Riger _America Redux: Visual Stories From Our Dynamic History_
+- [ ] 2024: Kenneth M. Cadow _Gather_
