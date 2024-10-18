@@ -89,6 +89,16 @@ done
 
 grep "^Count:" [a-z]*.md
 
+# Sort in context
+
+tail -n +9 2024-reading.md | sort -t\| -k 6 -n
+
+# 10 short books
+
+sort -t \| -k 4 -n data/ebooks.txt | head
+
+sort -t \| -k 4 -n data/audiobooks.txt | head
+
 # re-sort
 
 sort -t \| -k 3 -rn data/ebooks.txt -o data/ebooks.txt
@@ -96,9 +106,3 @@ sort -t \| -k 3 -rn data/ebooks.txt -o data/ebooks.txt
 sort -t \| -k 3 -rn data/audiobooks.txt -o data/audiobooks.txt
 
 sort -t \| -k 3 -rn data/printbooks.txt -o data/printbooks.txt
-
-# 10 short books
-
-sort -t \| -k 4 -n data/ebooks.txt | head
-
-sort -t \| -k 4 -n data/audiobooks.txt | head
