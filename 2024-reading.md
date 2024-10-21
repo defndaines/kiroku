@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Republic of False Truths | Alaa Al Aswany | 2018 | Egypt | 5.0 | audio | 452 | historical, politics |
 | Yotsuba&!, Vol. 1 | Kiyohiko Azuma | 2003 | Japan | 4.5 | ebook | 224 | graphic novel, manga, humor, reread |
 | Lone Wolf and Cub, Vol. 28: The Lotus Throne | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 27: Battle's Eve | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 304 | graphic novel, manga, historical, fantasy |

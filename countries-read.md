@@ -27,7 +27,7 @@ Count: 86
 - [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
 - [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr is heavily about the Philippines.
 - [x] Ethiopia: [_Beneath the Lion's Gaze_](https://www.goodreads.com/book/show/6544214-beneath-the-lion-s-gaze) Maaza Mengiste
-- [x] Egypt: [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
+- [x] Egypt: [_The Republic of False Truths_](https://www.goodreads.com/book/show/49097835-the-republic-of-false-truths) Alaa Al Aswany ; [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
 - [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
 - [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer; [_Blind Owl_](https://www.goodreads.com/book/show/58588139-blind-owl) Sadeq Hedayat
 - [x] Türkiye: [_Silent House_](https://www.goodreads.com/book/show/13531059-silent-house) Orhan Pamuk
