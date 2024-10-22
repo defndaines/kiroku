@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Yotsuba&!, Vol. 2 | Kiyohiko Azuma | 2004 | Japan | 4.5 | ebook | 190 | graphic novel, manga, humor |
 | Chainsaw Man, Vol. 1: Dog and Chainsaw | Tatsuki Fujimoto | 2019 | Japan | 4.5 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Honduras: The Making of a Banana Republic | Alison Acker | 1988 | Honduras | 3.5 | print | 138 | nonfiction, history |
 | The Republic of False Truths | Alaa Al Aswany | 2018 | Egypt | 5.0 | audio | 452 | historical, politics |

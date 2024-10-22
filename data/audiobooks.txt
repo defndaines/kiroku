@@ -1,5 +1,6 @@
 They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.69|8|memoir nonfiction Palestine
 The Way of Kings|Brandon Sanderson|4.66|46|fantasy stormlight-archive-1
+California Against the Sea: Visions for Our Vanishing Coastline|Rosanna Xia|4.66|9|nonfiction environment
 The Nightingale|Kristin Hannah|4.63|18|historical WWII occupied France
 The New Fish|Simen Saetre, Kjetil Ostli|4.61|10|nonfiction nature farmed-fish salmon
 They Can't Kill Us Until They Kill Us|Hanif Abdurraqib|4.57|9|nonfiction memoir essays
@@ -9,6 +10,7 @@ Compound Fracture|Andrew Joseph White|4.53|10|horror LGBT YA
 There's Always This Year: On Basketball and Ascension|Hanif Abdurraqib|4.51|9|nonfiction memoir sports Columbus
 The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook|Hampton Sides|4.51|16|nonfiction history biography
 Demon Copperhead|Barbara Kingsolver|4.51|21|historical literary Pulitzer
+There Are Rivers in the Sky|Elif Shafak|4.50|17|historical literary
 All My Rage|Sabaa Tahir|4.50|10|Pakistan YA romance California National-Book
 Wayward Lives, Beautiful Experiments|Saidiya Hartman|4.48|10|nonfiction history feminism race
 The Reformatory|Tananarive Due|4.48|21|horror historical
@@ -68,6 +70,7 @@ The Rediscovery of America|Ned Blackhawk|4.28|17|nonfiction history indigenous N
 The Player of Games|Iain M. Banks|4.28|11|sci-fi culture-2
 Slewfoot: A Tale of Bewitchery|Brom|4.28|14|horror fantasy historical
 Exhalation|Ted Chiang|4.28|11|sci-fi literary short-stories Hugo
+Our Share of Night|Mariana Enríquez|4.27|27|horror historical fantasy LGBT
 If Beale Street Could Talk|James Baldwin|4.27|7|classics literary romance
 Dune|Frank Herbert|4.27|21|sci-fi classics reread Hugo Nebula
 Trickster's Choice|Tamora Pierce|4.26|12|fantasy YA
@@ -108,7 +111,7 @@ Mind of My Mind|Octavia E. Butler|4.18|8|sci-fi fantasy sequel patternmaster-2
 Erasure|Percival Everett|4.18|8|literary race
 Children of Ash and Elm: A History of the Vikings|Neil Price|4.18|17|history nonfiction
 Almond|Won-pyung Sohn|4.18|5|contemporary literary Korea
-Interpreter of Maladies|Jhumpa Lahiri|4.17|6|short-stories, literary
+Interpreter of Maladies|Jhumpa Lahiri|4.17|6|short-stories literary
 Guns of the Dawn|Adrian Tchaikovsky|4.17|21|steampunk
 Anathem|Neal Stephenson|4.17|32|sci-fi fantasy Locus
 The Last Unicorn|Peter S. Beagle|4.16|8|fantasy YA classics
@@ -166,7 +169,7 @@ The Stars My Destination|Alfred Bester|4.07|8|sci-fi classics
 The Goblin Emperor|Katherine Addison|4.07|18|fantasy osreth-1
 Fatelessness|Imre Kertesz|4.07|8|historical Hungary Nobel unread-country
 Enter Ghost|Isabella Hammad|4.07|12|literary contemporary Palestine
-Dreaming the Eagle|Manda Scott|4.07|465|fantasy historical romance Boudica [Spotify]
+Dreaming the Eagle|Manda Scott|4.07|22|fantasy historical romance Boudica [Spotify]
 What Strange Paradise|Omar El Akkad|4.06|7|literary Canada African immigrants Giller
 The Words That Remain|Stênio Gardel|4.06|4|Brazil LGBT
 The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
@@ -193,7 +196,9 @@ Always Running: La Vida Loca: Gang Days in L.A.|Luis J. Rodriguez|4.04|11|nonfic
 A Master of Djinn|P. Djèlí Clark|4.04|16|sci-fi fantasy LGBT mystery Nebula Locus
 Trespasses|Louise Kennedy|4.03|9|historical literary Northern Ireland
 Witches, Midwives, and Nurses: A History of Women Healers|Barbara Ehrenreich, Deirdre English|4.02|2|nonfiction history feminism health
+Walk the Blue Fields|Claire Keegan|4.02|5|short-stories literary
 The Ocean at the End of the Lane|Neil Gaiman|4.02|6|fantasy horror magical-realism Locus
+Metro 2033|Dmitry Glukhovsky|4.02|22|sci-fi dystopian horror fantasy
 Little|Edward Carey|4.02|14|historical Paris-1700s
 Bright Young Women|Jessica Knoll|4.02|13|thriller historical serial-killer
 A Short History of Reconstruction|Eric Foner|4.02|13|nonfiction history
@@ -284,6 +289,7 @@ Oona Out of Order|Margarita Montimore|3.86|12|sci-fi magical-realism time-travel
 Midnight Riot|Ben Aaronovitch|3.86|10|fantasy mystery London rivers-of-london-1
 Jonathan Strange & Mr. Norrell|Susanna Clarke|3.86|32|fantasy historical Hugo Locus World-Fantasy
 I Hotel|Karen Tei Yamashita|3.86|22|historical literary short-stories San-Francisco-1968
+Antarctica|Claire Keegan|3.86|5|short-stories literary
 Never Let Me Go|Kazuo Ishiguro|3.85|10|literary sci-fi Nobel
 Everything I Never Told You|Celeste Ng|3.85|10|mystery historical literary
 Brown Girl in the Ring|Nalo Hopkinson|3.85|8|fantasy Jamaica Canada Locus
