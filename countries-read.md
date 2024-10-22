@@ -12,7 +12,7 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
-Count: 86
+Count: 87
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -111,7 +111,7 @@ Count: 86
 - [ ] Azerbaijan:
 - [ ] Tajikistan:
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
-- [ ] Honduras: Planning to read Acker
+- [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker
 - [ ] Hungary:
 - [ ] United Arab Emirates:
 - [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
