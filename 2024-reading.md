@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Somewhere Beyond the Sea | T.J. Klune | 2024 | U.S. | 5.0 | audio | 406 | fantasy, LGBT, romance |
 | Yotsuba&!, Vol. 3 | Kiyohiko Azuma | 2004 | Japan | 4.5 | ebook | 182 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 2 | Kiyohiko Azuma | 2004 | Japan | 4.5 | ebook | 190 | graphic novel, manga, humor |
 | Chainsaw Man, Vol. 1: Dog and Chainsaw | Tatsuki Fujimoto | 2019 | Japan | 4.5 | ebook | 192 | graphic novel, manga, horror, fantasy |
