@@ -12,7 +12,7 @@ I'd like to read more of Jemisin's work.
 - [ ] Shades in Shadow (triptych) (2015)
 
 ### Dreamblood Duology
-- [ ] The Killing Moon (2012)
+- [x] The Killing Moon (2012)
 - [ ] The Shadowed Sun (2012)
 
 ### Broken Earth Series
@@ -49,7 +49,7 @@ I'd like to read more of Jemisin's work.
 - [x] "Walking Awake" (2014)
 - [x] "Stone Hunger" (2014)
 - [ ] "Sunshine Ninety-Nine" (2015)
-- [ ] "The City Born Great" (2016)
+- [x] "The City Born Great" (2016)
 - [x] "Red Dirt Witch" (2016)
 - [x] "The Evaluators" (2016)
 - [x] "Henosis" (2017)

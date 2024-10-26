@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Killing Moon | N. K. Jemisin | 2012 | U.S. | 4.0 | audio | 428 | fantasy |
 | Yotsuba&!, Vol. 5 | Kiyohiko Azuma | 2006 | Japan | 4.5 | ebook | 204 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 4 | Kiyohiko Azuma | 2005 | Japan | 4.5 | ebook | 190 | graphic novel, manga, humor |
 | Somewhere Beyond the Sea | T.J. Klune | 2024 | U.S. | 5.0 | audio | 406 | fantasy, LGBT, romance |
