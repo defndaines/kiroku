@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Dragon Pearl | Yoon Ha Lee | 2019 | U.S. | 4.5 | print | 312 | sci-fi, YA, fantasy, Korean mythology, Locus |
 | The Killing Moon | N. K. Jemisin | 2012 | U.S. | 4.0 | audio | 428 | fantasy |
 | Yotsuba&!, Vol. 5 | Kiyohiko Azuma | 2006 | Japan | 4.5 | ebook | 204 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 4 | Kiyohiko Azuma | 2005 | Japan | 4.5 | ebook | 190 | graphic novel, manga, humor |

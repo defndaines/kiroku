@@ -7,7 +7,7 @@ Locus Awards are voted on by readers of _Locus_ magazine.
 Besides novels, only including awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 26
+Count: 27
 
 ## Best Novel (4)
 
@@ -165,7 +165,7 @@ Count: 26
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 
-## Best Young Adult (3)
+## Best Young Adult (4)
 
 - [ ] 2003: Neil Gaiman _Coraline_
 - [ ] 2004: Terry Pratchett _The Wee Free Men_
@@ -184,7 +184,7 @@ Count: 26
 - [ ] 2017: Alastair Reynolds _Revenger_
 - [ ] 2018: Nnedi Okorafor _Akata Warrior_
 - [ ] 2019: Justina Ireland _Dread Nation_
-- [ ] 2020: Yoon Ha Lee _Dragon Pearl_
+- [x] 2020: Yoon Ha Lee _Dragon Pearl_
 - [x] 2021: T. Kingfisher _A Wizard's Guide to Defensive Baking_
 - [ ] 2022: Charlie Jane Anders _Victories Greater Than Death_
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
