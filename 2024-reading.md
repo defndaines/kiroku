@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Bottle of Lies: The Inside Story of the Generic Drug Boom | Katherine Eban | 2019 | U.S., India | 5.0 | audio | 512 | nonfiction, science, health |
 | Yotsuba&!, Vol. 8 | Kiyohiko Azuma | 2008 | Japan | 4.5 | ebook | 214 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 7 | Kiyohiko Azuma | 2007 | Japan | 4.5 | ebook | 206 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 6 | Kiyohiko Azuma | 2006 | Japan | 4.5 | ebook | 196 | graphic novel, manga, humor |
