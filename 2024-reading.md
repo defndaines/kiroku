@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Yotsuba&!, Vol. 9 | Kiyohiko Azuma | 2009 | Japan | 4.5 | ebook | 224 | graphic novel, manga, humor, reread |
 | Bottle of Lies: The Inside Story of the Generic Drug Boom | Katherine Eban | 2019 | U.S., India | 5.0 | audio | 512 | nonfiction, science, health |
 | Yotsuba&!, Vol. 8 | Kiyohiko Azuma | 2008 | Japan | 4.5 | ebook | 214 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 7 | Kiyohiko Azuma | 2007 | Japan | 4.5 | ebook | 206 | graphic novel, manga, humor |
