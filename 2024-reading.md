@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Vol. 2: Chainsaw vs. Bat | Tatsuki Fujimoto | 2019 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Yotsuba&!, Vol. 9 | Kiyohiko Azuma | 2009 | Japan | 4.5 | ebook | 224 | graphic novel, manga, humor, reread |
 | Bottle of Lies: The Inside Story of the Generic Drug Boom | Katherine Eban | 2019 | U.S., India | 5.0 | audio | 512 | nonfiction, science, health |
 | Yotsuba&!, Vol. 8 | Kiyohiko Azuma | 2008 | Japan | 4.5 | ebook | 214 | graphic novel, manga, humor |
