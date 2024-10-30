@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| When to Pick a Pomegranate | Yasmeen Abedifard | 2024 | U.S. | 3.5 | ebook | 80 | graphic novel |
 | Yotsuba&!, Vol. 10 | Kiyohiko Azuma | 2010 | Japan | 4.5 | ebook | 224 | graphic novel, manga, humor, reread |
 | Chainsaw Man, Vol. 2: Chainsaw vs. Bat | Tatsuki Fujimoto | 2019 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Yotsuba&!, Vol. 9 | Kiyohiko Azuma | 2009 | Japan | 4.5 | ebook | 224 | graphic novel, manga, humor, reread |
