@@ -395,7 +395,6 @@ Hit Parade of Tears|Izumi Suzuki|3.43|7|Japan short-stories sci-fi literary
 The House of Shattered Wings|Aliette de Bodard|3.40|15|Paris steampunk mystery
 The Long Drop|Denise Mina|3.39|7|historical 1958-Glasgow mystery
 North of Dawn|Nuruddin Farah|3.39|10|literary Somalia unread-country
-Touched|Walter Mosley|3.38|3|sci-fi fantasy horror novella
 Transmission|Hari Kunzru|3.37|10|contemporary India-computer-programmer-immigrant
 Waste Tide|Chen Qiufan|3.33|12|sci-fi China
 Escape Velocity|Victor Manibo|3.23|9|sci-fi
