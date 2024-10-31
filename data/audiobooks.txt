@@ -174,6 +174,7 @@ Enter Ghost|Isabella Hammad|4.07|12|literary contemporary Palestine
 Dreaming the Eagle|Manda Scott|4.07|22|fantasy historical romance Boudica [Spotify]
 What Strange Paradise|Omar El Akkad|4.06|7|literary Canada African immigrants Giller
 The Words That Remain|Stênio Gardel|4.06|4|Brazil LGBT
+The Wind's Twelve Quarters|Ursula K. Le Guin|4.06|11|sci-fi fantasy short-stories
 The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
 The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers|Jim Morris|4.06|10|nonfiction history science
 Service Model|Adrian Tchaikovsky|4.06|12|sci-fi dystopian humor
@@ -182,7 +183,6 @@ Equal Rites|Terry Pratchett|4.06|7|fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05|5|classics feminism short-stories 1892
-The Word for World Is Forest|Ursula K. Le Guin|4.05|5|sci-fi Hugo
 The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
 Kokoro|Natsume Soseki|4.05|9|classics Japan
@@ -232,6 +232,7 @@ Red at the Bone|Jacqueline Woodson|3.98|4|contemporary literary 2001-Brooklyn Bl
 Perdido Street Station|China Miéville|3.98|24|fantasy sci-fi
 Midnight's Children|Salman Rushdie|3.98|25|literary magical-realism historical India Booker
 For Whom the Bell Tolls|Ernest Hemingway|3.98|16|classics literary historical reread Nobel
+Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity|Katherine Boo|3.98|8|nonfiction history povery
 South to America: A Journey Below the Mason Dixon to Understand the Soul of a Nation|Imani Perry|3.97|17|nonfiction history memoir South
 Sons of Darkness|Gourav Mohanty|3.97|24|fantasy India
 On the Beach|Nevil Shute|3.97|9|sci-fi classics post-apocalyptic
@@ -360,6 +361,7 @@ The Luminous Dead|Caitlin Starling|3.67|14|sci-fi horror LGBT
 The Initial Insult|Mindy McGinnis|3.67|8|YA horror thriller
 Pink Slime|Fernanda Trías|3.67|6|horror dystopian Uruguay unread-country
 Girl in a Band|Kim Gordon|3.67|7|nonfiction memoir music
+Ice|Anna Kavan|3.66|6|sci-fi dystopian classics
 The Appeal|John Grisham|3.63|13|mystery legal thriller
 Walking Practice|Dolki Min|3.62|4|Korea horror sci-fi LGBT
 Oreo|Fran Ross|3.62|8|humor classics race

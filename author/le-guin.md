@@ -34,15 +34,15 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "Winter's King" (Short story, 1969)
 - [x] The Left Hand of Darkness (1969) [Hugo, Nebula]
 - [ ] "Vaster than Empires and More Slow" (Novella, 1971)
-- [ ] "The Word for World Is Forest" (Novella, 1972)
+- [x] "The Word for World Is Forest" (Novella, 1972)
 - [x] The Dispossessed (1974) [Hugo, Nebula, Locus]
-- [ ] "The Day Before the Revolution" (Short story, Aug 1974)
+- [ ] "The Day Before the Revolution" (Short story, Aug 1974) [Nebula, Locus]
 - [ ] "The Shobies' Story" (Short story, 1990)
 - [ ] "Dancing to Ganam" (Short story, Sept 1993)
 - [ ] "The Matter of Seggri" (Novella, Spring 1994)
 - [ ] "Another Story" (Novella, Aug 1994)
 - [ ] "Unchosen Love" (Short story, Fall 1994)
-- [ ] "Solitude" (Short story, Dec 1994)
+- [ ] "Solitude" (Short story, Dec 1994) [Nebula]
 - [ ] Four Ways to Forgiveness (Story cycle, 1995)
 - [ ] "Coming of Age in Karhide" (Short story, 1995)
 - [ ] "Old Music and the Slave Women" (Novella, Aug 1996)
@@ -83,9 +83,9 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "Intracom" (Short story, 1974)
 - [ ] "The Eye Altering" (Short story, 1974)
 - [ ] "The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistics" (Short story, 1974)
-- [ ] The Wind's Twelve Quarters (Collection, 1975)
+- [ ] The Wind's Twelve Quarters (Collection, 1975) [Locus]
 - [ ] Wild Angels (Poetry collection, 1975)
-- [ ] "The New Atlantis" (Short story, 1975)
+- [ ] "The New Atlantis" (Short story, 1975) [Locus]
 - [ ] "Mazes" (Short story, 1975)
 - [ ] Dreams Must Explain Themselves (Collection, 1975)
 - [ ] Walking in Cornwall (Chapbook, 1976)
@@ -108,9 +108,9 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "Small Change" (Short story, 1981)
 - [ ] Hard Words and Other Poems (Poetry collection, 1981)
 - [ ] "The Wife's Story" (Short story, 1982)
-- [ ] The Compass Rose (Collection, 1982)
+- [ ] The Compass Rose (Collection, 1982) [Locus]
 - [ ] The Adventure of Cobbler's Rune (Children's book, 1982)
-- [ ] "Sur" (Short story, Feb 1982)
+- [ ] "Sur" (Short story, Feb 1982) [Locus]
 - [ ] "The Spoons in the Basement" (Short story, Aug 1982)
 - [ ] "The Professor's Houses" (Short story, Nov 1982)
 - [ ] "May's Lion" (Short story, 1983)
@@ -158,16 +158,17 @@ Fantasy]
 - [ ] "The Silence of the Asonu" (Short story, 1998)
 - [ ] "The Island of the Immortals" (Short story, Fall 1998)
 - [ ] Sixty Odd (Poetry collection, 1999)
-- [ ] "The Birthday of the World" (Short story, Jan 2000)
+- [ ] "The Birthday of the World" (Short story, Jan 2000) [Locus]
 - [ ] "The Royals of Hegn" (Short story, Feb 2000)
 - [ ] "The Flyers of Gy" (Short story, Nov 2000)
 - [ ] "The Building" (Short story, 2001)
 - [ ] Tom Mouse (Children's book, 2002)
-- [ ] Changing Planes (Collection, 2002)
+- [ ] Changing Planes (Collection, 2002) [Locus]
 - [ ] The Birthday of the World and Other Stories (Collection, 2002)
-- [ ] "The Wild Girls" (Short story, March 2002)
+- [ ] "The Wild Girls" (Short story, March 2002) [Locus]
 - [ ] "Social Dreaming of the Frin" (Short story, Nov 2002)
 - [ ] "The Seasons of the Ansarac" (Short story, Feb 2003)
+- [ ] The Wave in the Mind (Nonfiction, 2005) [Locus]
 - [ ] Incredible Good Fortune (Poetry collection, 2006)
 - [ ] Four Different Poems (Poetry collection, 2007)
 - [ ] Lavinia (2008) [Locus]

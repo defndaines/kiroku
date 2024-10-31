@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Word for World Is Forest | Ursula K. Le Guin | 1972 | U.S. | 5.0 | audio | 160 | sci-fi, classics, Hugo |
 | Touched | Walter Mosley | 2023 | U.S. | 3.5 | audio | 176 | sci-fi, fantasy, horror, novella |
 | Black Coal and Red Bandanas: An Illustrated History of the West Virginia Mine Wars | Raymond Tyler | 2024 | U.S. | 4.0 | ebook | 137 | graphic novel, nonfiction, history |
 | When to Pick a Pomegranate | Yasmeen Abedifard | 2024 | U.S. | 3.5 | ebook | 80 | graphic novel |

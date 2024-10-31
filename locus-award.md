@@ -197,6 +197,8 @@ Count: 27
 
 ## Best Novella (4)
 
+- [ ] 1995: Ursula K. Le Guin _Forgiveness Day_
+- [ ] 2002: Ursula K. Le Guin _The Finder_
 - [x] 2018: Martha Wells _All Systems Red_
 - [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
@@ -205,5 +207,8 @@ Count: 27
 
 ## Best Novelette (2)
 
+- [ ] 1976: Ursula K. Le Guin _The New Atlantis_
+- [ ] 1997: Ursula K. Le Guin _Mountain Ways_
+- [ ] 2001: Ursula K. Le Guin _The Birthday of the World_
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_

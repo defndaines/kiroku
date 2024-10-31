@@ -8,7 +8,7 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 60
+Count: 61
 
 ## Best Novel (25)
 
@@ -94,10 +94,11 @@ Count: 60
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 - [ ] 2024: Emily Tesh _Some Desperate Glory_
 
-## Best Novella (8)
+## Best Novella (9)
 
 - [x] 1944: Antoine de Saint-Exupéry _The Little Prince_
 - [x] 1946: George Orwell _Animal Farm_
+- [x] 1973: Ursula K. Le Guin _The Word for World Is Forest_
 - [x] 2016: Nnedi Okorafor _Binti_
 - [x] 2018: Martha Wells _All Systems Red_
 - [x] 2019: Martha Wells _Artificial Condition_
@@ -109,6 +110,7 @@ Count: 60
 ## Best Novelette (4)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
+- [ ] 1988: Ursula K. Le Guin _Buffalo Gals, Won’t You Come Out Tonight_
 - [x] 2018: Suzanne Palmer _The Secret Life of Bots_
 - [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
 - [ ] 2020: N. K. Jemisin _Emergency Skin_

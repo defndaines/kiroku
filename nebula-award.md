@@ -9,7 +9,7 @@ United States, awarded by the Science Fiction and Fantasy Writers Association
 Besides novel, only including awards when I've read them or plan to read them,
 since those lists are not goals I'm looking to fill in.
 
-Count: 30
+Count: 31
 
 ## Best Novel (14)
 
@@ -86,24 +86,26 @@ Count: 30
 ## Best Novelette (3)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
+- [ ] 1995: Ursula K. Le Guin _Solitude_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 - [x] 2024: Naomi Kritzer _The Year Without Sunshine_
 
 ## Best Short Story (4)
 
 - [x] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
+- [ ] 1974: Ursula K. Le Guin _The Day Before the Revolution_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
 
-## Andre Norton Award (4)
+## Andre Norton Award (5)
 
 - [x] 2008: J. K. Rowling _Harry Potter and the Deathly Hallows_
 - [ ] 2010: Catherynne M. Valente _The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making_
 - [x] 2019: Tomi Adeyemi _Children of Blood and Bone_
 - [x] 2021: Ursula Vernon (as T. Kingfisher) _A Wizard's Guide to Defensive Baking_
 - [x] 2022: Darcie Little Badger _A Snake Falls to Earth_
-- [ ] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
+- [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 
 ## Ray Bradbury Award (10)
 
