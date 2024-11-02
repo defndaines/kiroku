@@ -6,7 +6,8 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| よつばと! 11 | あずまきよひこ | 2011 | Japan | 4.5 | ebook | 224 | graphic novel, manga, humor |
+| The Birchbark House | Louise Erdrich | 1999 | U.S. | 4.5 | audio | 244 | historical, YA |
+| よつばと! 11 | あずまきよひこ | 2011 | Japan | 4.5 | print | 224 | graphic novel, manga, humor, **November**  |
 | The Word for World Is Forest | Ursula K. Le Guin | 1972 | U.S. | 5.0 | audio | 160 | sci-fi, classics, Hugo |
 | Touched | Walter Mosley | 2023 | U.S. | 3.5 | audio | 176 | sci-fi, fantasy, horror, novella |
 | Black Coal and Red Bandanas: An Illustrated History of the West Virginia Mine Wars | Raymond Tyler | 2024 | U.S. | 4.0 | ebook | 137 | graphic novel, nonfiction, history |

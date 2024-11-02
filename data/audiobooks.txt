@@ -189,7 +189,6 @@ Kokoro|Natsume Soseki|4.05|9|classics Japan
 Empire of Silence|Christopher Ruocchio|4.05|26|sci-fi fantasy sun-eater-1
 The Wall|Marlen Haushofer|4.04|9|dystopian literary
 The Book of Doors|Gareth Brown|4.04|13|fantasy
-The Birchbark House|Louise Erdrich|4.04|5|historical YA indigenous
 Startide Rising|David Brin|4.04|17|sci-fi Hugo Nebula Locus
 Nervous Conditions|Tsitsi Dangarembga|4.04|10|historical classics literary Zimbabwe
 Neighbors and Other Stories|Diane Oliver|4.04|8|short-stories historical literary race
