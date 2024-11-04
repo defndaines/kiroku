@@ -33,6 +33,7 @@ A Closed and Common Orbit|Becky Chambers|4.37|11|sci-fi LGBT wayfarers-2
 Warrior Girl Unearthed|Angeline Boulley|4.36|12|YA mystery thriller indigenous
 The Power of the Dog|Don Winslow|4.36|20|mystery thriller drug-trade
 The Art of Losing|Alice Zeniter|4.36|18|literary historical Algeria International-Dublin-Literary unread-country
+In Other Lands|Sarah Rees Brennan|4.36|17|fantasy YA LGBT
 The Cartel|Don Winslow|4.35|23|mystery thriller 2004-drugs
 The Unsettling of America: Culture and Agriculture|Wendell Berry|4.34|13|nonfiction food agriculture nature
 The Tainted Cup|Robert Jackson Bennett|4.34|14|fantasy mystery
@@ -183,6 +184,7 @@ Equal Rites|Terry Pratchett|4.06|7|fantasy humor discworld-3
 A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05|5|classics feminism short-stories 1892
+The Traitor Baru Cormorant|Seth Dickinson|4.05|14|fantasy LGBT sci-fi
 The Housekeeper and the Professor|Yoko Ogawa|4.05|6|contemporary literary Japan
 SPQR: A History of Ancient Rome|Mary Beard|4.05|19|nonfiction history
 Kokoro|Natsume Soseki|4.05|9|classics Japan
@@ -216,6 +218,7 @@ The Woman in White|Wilkie Collins|4.00|26|classics mystery gothic horror 1859
 My Brilliant Life|Kim Ae-ran|4.00|6|literary
 Beasts of a Little Land|Juhea Kim|4.00|14|historical literary Korea
 Austerlitz|W.G. Sebald|4.00|7|Germany historical
+The Bone Fire|György Dragomán|3.99|17|fantasy magical-realism Hungary unread-country
 Songs Only You Know|Sean Madigan Hoen|3.99|12|nonfiction memoir music biography [hoopla]
 Sinister Graves|Marcie R. Rendon|3.99|6|mystery thriller 1970s-Minnesota indigenous
 Odd Thomas|Dean Koontz|3.99|11|horror mystery thriller
