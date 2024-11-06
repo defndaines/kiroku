@@ -50,7 +50,6 @@ The Molière Collection|Molière|4.31|9|play France
 The Bloody Crown of Conan|Robert E. Howard|4.31|18|fantasy sequel-2
 The Big Bundle|Max Allan Collins|4.31|8|historical noir
 Shuggie Bain|Douglas Stuart|4.31|18|historical literary LGBT Booker
-Hunting by Stars|Cherie Dimaline|4.31|12|YA sci-fi dystopian indigenous sequel
 All the Frequent Troubles of Our Days|Rebecca Donner|4.31|14|nonfiction biography history Nazi-resistance
 A Deepness in the Sky|Vernor Vinge|4.31|28|sci-fi Hugo sequel-AFUtD
 Warbreaker|Brandon Sanderson|4.30|25|fantasy cosmere-14

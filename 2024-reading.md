@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Hunting by Stars | Cherie Dimaline | 2021 | Canada | 5.0 | audio | 395 | YA, sci-fi, dystopian |
 | Bungo Stray Dogs, Vol. 1 | Kafka Asagiri | 2013 | Japan | 3.0 | ebook | 196 | graphic novel, manga, fantasy, mystery, YA |
 | The Birchbark House | Louise Erdrich | 1999 | U.S. | 4.5 | audio | 244 | historical, YA |
 | よつばと! 11 | あずまきよひこ | 2011 | Japan | 4.5 | print | 224 | graphic novel, manga, humor, **November**  |
