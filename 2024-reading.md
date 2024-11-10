@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| よつばと! 13 | あずまきよひこ | 2015 | Japan | 4.5 | print | 224 | graphic novel, manga, humor |
 | Tiger Honor | Yoon Ha Lee | 2022 | U.S. | 4.5 | print | 256 | sci-fi, YA, fantasy, Korean mythology |
 | B. Traven: Portrait of a Famous Unknown | Golo | 2007 | France, Mexico | 4.5 | ebook | 136 | nonfiction, graphic novel, history |
 | よつばと! 12 | あずまきよひこ | 2013 | Japan | 4.5 | print | 224 | graphic novel, manga, humor |
