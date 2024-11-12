@@ -282,6 +282,7 @@ The Brief Wondrous Life of Oscar Wao|Junot Díaz|3.89|16|humor contemporary lite
 Embassytown|China Miéville|3.89|12|sci-fi Locus
 A Brief History of Seven Killings|Marlon James|3.89|26|historical literary Jamaica Booker
 The Wolf|Leo Carew|3.88|17|fantasy historical under-the-northern-sky-1
+The Story of the Forest|Linda Grant|3.88|9|historical
 The Iron King|Julie Kagawa|3.88|14|fantasy romance YA iron-fey-1
 The House Next Door|Anne Rivers Siddons|3.88|11|horror mystery South gothic
 The Helm of Midnight|Marina Lostetter|3.88|22|fantasy horror mystery five-penalties-1

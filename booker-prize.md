@@ -72,6 +72,7 @@ Count: 10
 - [ ] 2021: Damon Galgut _The Promise Novel_
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
 - [x] 2023: Paul Lynch _Prophet Song_
+- [ ] 2024: Samantha Harvey _Orbital_
 
 ## International Booker Prize (4)
 
