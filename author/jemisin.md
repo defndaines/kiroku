@@ -13,7 +13,7 @@ I'd like to read more of Jemisin's work.
 
 ### Dreamblood Duology
 - [x] The Killing Moon (2012)
-- [ ] The Shadowed Sun (2012)
+- [x] The Shadowed Sun (2012)
 
 ### Broken Earth Series
 - [x] The Fifth Season (2015) [Hugo]

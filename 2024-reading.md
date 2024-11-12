@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Shadowed Sun | N. K. Jemisin | 2012 | U.S. | 4.0 | audio | 510 | fantasy |
 | The Savage Sword of Conan #5 | Jason Aaron, Michael Kogge | 2024 | U.S. | 4.0 | print | 69 | graphic novel, fantasy |
 | よつばと! 13 | あずまきよひこ | 2015 | Japan | 4.5 | print | 224 | graphic novel, manga, humor |
 | Tiger Honor | Yoon Ha Lee | 2022 | U.S. | 4.5 | print | 256 | sci-fi, YA, fantasy, Korean mythology |
