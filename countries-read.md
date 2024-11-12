@@ -12,6 +12,9 @@ For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
 Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 
+The _New York Times_ has some guides to [Read Your Way Around the
+World](https://www.nytimes.com/series/literary-guides).
+
 Count: 87
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu

@@ -1,5 +1,6 @@
 They Called Me a Lioness: A Palestinian Girl's Fight for Freedom|Ahed Tamimi|4.69|8|memoir nonfiction Palestine
 The Way of Kings|Brandon Sanderson|4.66|46|fantasy stormlight-archive-1
+Libertad|Bessie Flores Zaldivar|4.66|13|YA LGBT Honduras
 California Against the Sea: Visions for Our Vanishing Coastline|Rosanna Xia|4.66|9|nonfiction environment
 The Nightingale|Kristin Hannah|4.63|18|historical WWII occupied France
 The New Fish|Simen Saetre, Kjetil Ostli|4.61|10|nonfiction nature farmed-fish salmon
@@ -19,6 +20,7 @@ When the World Fell Silent|Donna Jones Alward|4.47|13|historical Halifax-Nova-Sc
 How to Say Babylon|Safiya Sinclair|4.47|17|memoir nonfiction feminism
 Crossings|Ben Goldfarb|4.45|12|nonfiction nature science roads
 Brotherless Night|V.V. Ganeshananthan|4.45|13|literary historical Sri Lanka Carol-Shields-Prize Womens-Prize
+Black Against Empire: The History and Politics of the Black Panther Party|Joshua Bloom, Waldo E. Martin Jr.|4.45|18|nonfiction history politics race
 Madonna in a Fur Coat|Sabahattin Ali|4.42|6|Turkey romance
 Arch of Triumph|Erich Maria Remarque|4.42|16|historical literary 1939-refugee-in-Paris
 Where I'm Calling From|Raymond Carver|4.41|17|short-stories literary
@@ -243,6 +245,7 @@ I Am Not Sidney Poitier|Percival Everett|3.97|8|humor contemporary
 Frankenstein|Mary Shelley|3.97|7|sci-fi classics reread
 Thistlefoot|GennaRose Nethercott|3.96|15|fantasy eastern-Europe mythology
 Retribution Falls|Chris Wooding|3.96|14|fantasy sci-fi [Spotify]
+Bolla|Pajtim Statovci|3.96|6|historical LGBT Finland
 Black Money|Ross Macdonald|3.96|7|mystery noir
 The Sea, the Sea|Iris Murdoch|3.95|21|literary classics Booker
 The Big Sleep|Raymond Chandler|3.95|7|mystery noir classics
@@ -371,6 +374,7 @@ The Best of All Possible Worlds|Karen Lord|3.61|12|sci-fi fantasy romance
 The Man in the High Castle|Philip K. Dick|3.60|8|sci-fi dystopian Hugo
 Terminal Boredom|Izumi Suzuki|3.60|6|Japan short-stories dystopian sci-fi
 Soul Mountain|Gao Xingjian|3.60|19|China Nobel
+Offshore|Penelope Fitzgerald|3.59|5|literary Booker
 The Plotters|Un-su Kim|3.58|10|mystery thriller Korea
 Gulliver's Travels|Jonathan Swift|3.58|5|classics
 Frankenstein in Baghdad|Ahmed Saadawi|3.58|8|horror magical-realism Iraq
@@ -387,6 +391,7 @@ White Horse|Erika T. Wurth|3.52|10|horror contemporary literary thriller indigen
 The Premonition|Banana Yoshimoto|3.52|3|contemporary Japan
 Feed Them Silence|Lee Mandelo|3.52|4|horror sci-fi
 Watched|Marina Budhos|3.51|7|contemporary YA Muslim-American
+Dog Park|Sofi Oksanen|3.51|12|historical thriller Finland
 Victories Greater Than Death|Charlie Jane Anders|3.49|13|sci-fi YA LGBT
 Libertie|Kaitlyn Greenidge|3.49|12|historical Reconstruction Brooklyn
 One-Shot Harry|Gary Phillips|3.46|8|mystery historical 1963-L.A.
