@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Yotsuba&!, Vol. 15 | Kiyohiko Azuma | 2021 | Japan | 5.0 | ebook | 256 | graphic novel, manga, humor |
 | Yotsuba&!, Vol. 14 | Kiyohiko Azuma | 2018 | Japan | 4.5 | ebook | 240 | graphic novel, manga, humor |
 | The Shadowed Sun | N. K. Jemisin | 2012 | U.S. | 4.0 | audio | 510 | fantasy |
 | The Savage Sword of Conan #5 | Jason Aaron, Michael Kogge | 2024 | U.S. | 4.0 | print | 69 | graphic novel, fantasy |
