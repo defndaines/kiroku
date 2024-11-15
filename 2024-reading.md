@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Ripple Effects | Jordan Hart | 2022 | U.S. | 4.0 | ebook | 188 | graphic novel, superhero |
 | Service Model | Adrian Tchaikovsky | 2024 | U.K. | 4.5 | audio | 376 | sci-fi, dystopian, humor |
 | Chainsaw Man, Vol. 3: Kill Denji | Tatsuki Fujimoto | 2019 | Japan | 4.5 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Yotsuba&!, Vol. 15 | Kiyohiko Azuma | 2021 | Japan | 5.0 | ebook | 256 | graphic novel, manga, humor |
