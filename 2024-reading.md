@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Vol. 4: The Gun Is Mightier | Tatsuki Fujimoto | 2019 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Ripple Effects | Jordan Hart | 2022 | U.S. | 4.0 | ebook | 188 | graphic novel, superhero |
 | Service Model | Adrian Tchaikovsky | 2024 | U.K. | 4.5 | audio | 376 | sci-fi, dystopian, humor |
 | Chainsaw Man, Vol. 3: Kill Denji | Tatsuki Fujimoto | 2019 | Japan | 4.5 | ebook | 192 | graphic novel, manga, horror, fantasy |
