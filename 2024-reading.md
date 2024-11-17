@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Fox Snare | Yoon Ha Lee | 2023 | U.S. | 4.5 | print | 250 | sci-fi, YA, fantasy, Korean mythology |
 | Worlds of Exile and Illusion: Rocannon’s World, Planet of Exile, City of Illusions | Ursula K. Le Guin | 1966 | U.S. | 4.0 | audio | 370 | sci-fi |
 | Chainsaw Man, Vol. 4: The Gun Is Mightier | Tatsuki Fujimoto | 2019 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Ripple Effects | Jordan Hart | 2022 | U.S. | 4.0 | ebook | 188 | graphic novel, superhero |
