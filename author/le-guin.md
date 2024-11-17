@@ -30,7 +30,7 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "The Dowry of Angyar" (Short story, Sept 1964)
 - [x] Rocannon's World (1966)
 - [x] Planet of Exile (1966)
-- [ ] City of Illusions (1967)
+- [x] City of Illusions (1967)
 - [ ] "Winter's King" (Short story, 1969)
 - [x] The Left Hand of Darkness (1969) [Hugo, Nebula]
 - [ ] "Vaster than Empires and More Slow" (Novella, 1971)
