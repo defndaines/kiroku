@@ -25,7 +25,7 @@ book finished in a month is tagged with the month in **bold**.
 | Hunting by Stars | Cherie Dimaline | 2021 | Canada | 5.0 | audio | 395 | YA, sci-fi, dystopian |
 | Bungo Stray Dogs, Vol. 1 | Kafka Asagiri | 2013 | Japan | 3.0 | ebook | 196 | graphic novel, manga, fantasy, mystery, YA |
 | The Birchbark House | Louise Erdrich | 1999 | U.S. | 4.5 | audio | 244 | historical, YA |
-| よつばと! 11 | あずまきよひこ | 2011 | Japan | 4.5 | print | 224 | graphic novel, manga, humor, **November**  |
+| よつばと! 11 | あずまきよひこ | 2011 | Japan | 4.5 | print | 224 | graphic novel, manga, humor, **November** |
 | The Word for World Is Forest | Ursula K. Le Guin | 1972 | U.S. | 5.0 | audio | 160 | sci-fi, classics, Hugo |
 | Touched | Walter Mosley | 2023 | U.S. | 3.5 | audio | 176 | sci-fi, fantasy, horror, novella |
 | Black Coal and Red Bandanas: An Illustrated History of the West Virginia Mine Wars | Raymond Tyler | 2024 | U.S. | 4.0 | ebook | 137 | graphic novel, nonfiction, history |
@@ -91,6 +91,7 @@ book finished in a month is tagged with the month in **bold**.
 | Neuromancer | William Gibson | 1984 | U.S., Canada | 3.5 | audio | 288 | sci-fi, cyberpunk, thriller, classics, Hugo, Nebula, Philip K. Dick Award |
 | The Three Stigmata of Palmer Eldritch | Philip K. Dick | 1965 | U.S. | 4.0 | audio | 231 | sci-fi, dystopian, classics |
 | The Trees | Percival Everett | 2021 | U.S. | 5.0 | audio | 309 | literary, mystery, race |
+| The Best American Science Fiction and Fantasy 2018 | N. K. Jemisin (editor) | 2018 | U.S. | 4.5 | print | 357 | sci-fi, fantasy, short-stories |
 | Stories Are Weapons: Psychological Warfare and the American Mind | Annalee Newitz | 2024 | U.S. | 4.5 | audio | 246 | nonfiction, politics, history, psychology, war |
 | Lone Wolf and Cub, Vol. 16: The Gateway into Winter | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 310 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 15: Brothers of the Grass | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 336 | graphic novel, manga, historical, fantasy |
