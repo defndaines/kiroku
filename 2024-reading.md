@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Rediscovery of America: Native Peoples and the Unmaking of U.S. History | Ned Blackhawk | 2023 | U.S. | 4.0 | audio | 596 | nonfiction, history, race, National Book Award |
 | She Who Knows | Nnedi Okorafor | 2024 | U.S. | 4.5 | ebook | 112 | fantasy, sci-fi, novella |
 | The Story of the Forest | Linda Grant | 2023 | U.K. | 3.0 | audio | 288 | DNF, historical |
 | Fox Snare | Yoon Ha Lee | 2023 | U.S. | 4.5 | print | 250 | sci-fi, YA, fantasy, Korean mythology |
@@ -227,7 +228,7 @@ book finished in a month is tagged with the month in **bold**.
 | Called by Another Name: A Memoir of the Gwangju Uprising | David Lee Dolinger | 2022 | South Korea, U.S. | 5.0 | print | 270 | nonfiction, history, memoir |
 | The Berry Pickers | Amanda Peters | 2023 | Canada, U.S. | 5.0 | audio | 307 | historical, literary, Carnegie Medal |
 | Artificial Condition | Martha Wells | 2018 | U.S. | 4.0 | audio | 158 | sci-fi, novella, Hugo, Locus |
-| James | Percival Everett | 2024 | U.S. | 5.0 | audio | 303 | literary, historical, Kirkus |
+| James | Percival Everett | 2024 | U.S. | 5.0 | audio | 303 | literary, historical, Kirkus, National Book Award |
 | Black Sun | Rebecca Roanhorse | 2020 | U.S. | 4.5 | audio | 454 | fantasy, historical, LGBT |
 | Earthlings | Sayaka Murata | 2018 | Japan | 4.5 | audio | 247 | literary, magical realism |
 | Juanit | Chris Perez Howard | 2023 | Guam, U.S. | 4.0 | print | 294 | historical, YA |

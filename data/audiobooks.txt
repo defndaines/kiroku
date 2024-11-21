@@ -69,7 +69,6 @@ Letters to a Young Poet|Rainer Maria Rilke|4.29|3|nonfiction poetry essays class
 I Know Why the Caged Bird Sings|Maya Angelou|4.29|10|autobiography nonfiction
 Girl, Woman, Other|Bernardine Evaristo|4.29|11|contemporary LGBT literary British feminism Black Booker
 The Wall|John Hersey|4.28|29|historical Warsaw-ghetto
-The Rediscovery of America|Ned Blackhawk|4.28|17|nonfiction history indigenous National-Book
 The Player of Games|Iain M. Banks|4.28|11|sci-fi culture-2
 Slewfoot: A Tale of Bewitchery|Brom|4.28|14|horror fantasy historical
 Exhalation|Ted Chiang|4.28|11|sci-fi literary short-stories Hugo
