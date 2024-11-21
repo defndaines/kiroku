@@ -56,6 +56,7 @@ The Hour of the Star|Clarice Lispector|4.08|96|literary
 The Forgotten Beasts of Eld|Patricia A. McKillip|4.08|343|fantasy YA World-Fantasy
 City|Clifford D. Simak|4.08|251|fantasy sci-fi short-stories
 Autobiography of Death|Kim Hyesoon|4.08|110|poetry
+The Last Day|Owain Owain|4.07|136|fiction Welsh
 Praiseworthy|Alexis Wright|4.05|736|literary Australia Stella-Prize
 Open Water|Caleb Azumah Nelson|4.05|145|contemporary literary
 Eve out of Her Ruins|Ananda Devi|4.05|155|literary Mauritius unread-country
@@ -72,6 +73,7 @@ Head On|John Scalzi|4.01|335|sci-fi sequel-lock-in-2 [owned]
 Factories in the Field: The Story of Migratory Farm Labor in California|Carey McWilliams|4.01|366|nonfiction history
 The Kaiju Preservation Society|John Scalzi|4.00|264|sci-fi [owned]
 The Hearing Test|Eliza Barry Callahan|4.00|163|literary
+Soda Science: Making the World Safe for Coca-Cola|Susan Greenhalgh|4.00|364|nonfiction science food
 The Old Garden|Hwang Sok-yong|3.99|480|Korea historical
 The End of All Things|John Scalzi|3.99|380|sci-fi sequel-old-mans-war-6 [owned]
 The Bee Sting|Paul Murray|3.99|656|literary

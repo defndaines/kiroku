@@ -27,6 +27,7 @@ Where I'm Calling From|Raymond Carver|4.41|17|short-stories literary
 Betty|Tiffany McDaniel|4.41|18|historical literary Appalachians
 Going Postal|Terry Pratchett|4.40|11|fantasy humor discworld-33
 All the Colors of the Dark|Chris Whitaker|4.40|15|mystery thriller historical
+Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System|Alec Karakatsanis|4.39|4|nonfiction law politics social-justice history race
 Jayber Crow|Wendell Berry|4.39|14|historical classics
 A Day of Fallen Night|Samantha Shannon|4.39|39|fantasy LGBT U.K. priory-orange-prequel
 Take My Hand|Dolen Perkins-Valdez|4.38|11|historical literary Black 1973-Alabama
@@ -299,6 +300,7 @@ Antarctica|Claire Keegan|3.86|5|short-stories literary
 Never Let Me Go|Kazuo Ishiguro|3.85|10|literary sci-fi Nobel
 Everything I Never Told You|Celeste Ng|3.85|10|mystery historical literary
 Brown Girl in the Ring|Nalo Hopkinson|3.85|8|fantasy Jamaica Canada Locus
+The Use of Photography|Annie Ernaux, Marc Marie|3.84|3|nonfiction memoir Nobel [hoopla]
 The Adventures of Augie March|Saul Bellow|3.84|22|literary classics Nobel National-Book
 How High We Go in the Dark|Sequoia Nagamatsu|3.84|9|sci-fi
 Heart Berries|Terese Marie Mailhot|3.84|4|nonfiction memoir indigenous
