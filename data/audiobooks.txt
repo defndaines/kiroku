@@ -305,7 +305,6 @@ How High We Go in the Dark|Sequoia Nagamatsu|3.84|9|sci-fi
 Heart Berries|Terese Marie Mailhot|3.84|4|nonfiction memoir indigenous
 Bluebird, Bluebird|Attica Locke|3.84|9|mystery Black Texas
 Blood Music|Greg Bear|3.84|11|sci-fi horror classics
-Winter in the Blood|James Welch|3.83|5|classics literary indigenous
 Confession of the Lioness|Mia Couto|3.83|7|contemporary Mozambique unread-country
 Ceremony|Leslie Marmon Silko|3.83|9|classics historical literary indigenous ABA
 The Dog of the South|Charles Portis|3.82|8|humor South
