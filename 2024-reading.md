@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| It Lasts Forever and Then It's Over | Anne de Marcken | 2024 | U.S. | 4.0 | print | 128 | literary, dystopian, horror, Ursula K. Le Guin Prize, Novel Prize |
 | Winter in the Blood | James Welch | 1974 | U.S. | 4.0 | audio | 177 | classics, literary |
 | The Rediscovery of America: Native Peoples and the Unmaking of U.S. History | Ned Blackhawk | 2023 | U.S. | 4.0 | audio | 596 | nonfiction, history, race, National Book Award |
 | She Who Knows | Nnedi Okorafor | 2024 | U.S. | 4.5 | ebook | 112 | fantasy, sci-fi, novella |
