@@ -288,7 +288,7 @@ book finished in a month is tagged with the month in **bold**.
 | Legends & Lattes | Travis Baldree | 2022 | U.S. | 4.5 | audio | 296 | fantasy, LGBT |
 | Amiable with Big Teeth | Claude McKay | 2017 | U.S. | 3.5 | audio | 352 | historical, race |
 | The Bone People | Keri Hulme | 1984 | New Zealand, Aotearoa | 4.5 | print | 450 | literary, classics, Booker |
-| The Vanishing Half | Brit Bennett | 2020 | U.S. | 4.5 | audio | 343 | historical, literary, Goodreads Choice Award |
+| The Vanishing Half | Brit Bennett | 2020 | U.S. | 4.5 | audio | 343 | historical, literary, Goodreads Choice Award, Golden Poppy Award |
 | Prophet Song | Paul Lynch | 2023 | Ireland | 5.0 | audio | 244 | dystopian, literary, Booker |
 | The Organ Thieves: The Shocking Story of the First Heart Transplant in the Segregated South | Chip Jones | 2020 | U.S. | 4.0 | audio | 400 | nonfiction, history, medicine |
 | The Last Fallen Realm | Graci Kim | 2023 | U.S., New Zealand | 3.0 | audio | 320 | fantasy, Korean mythology, YA |

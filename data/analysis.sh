@@ -82,7 +82,7 @@ sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 ## Other awards
 
-for award in booker-prize.md carnegie-medal.md dublin-award.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md pulitzer.md womens.md world-fantasy.md; do
+for award in booker-prize.md carnegie-medal.md dublin-award.md golden-poppy.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md pulitzer.md womens.md world-fantasy.md; do
   echo $award
   grep -c '\[x\]' $award
 done
@@ -92,6 +92,15 @@ grep "^Count:" [a-z]*.md
 # Sort in context
 
 tail -n +9 2024-reading.md | sort -t\| -k 6 -n
+
+# Yearly (since 2023) Analysis
+
+git diff dc21ff7 countries-read.md
+
+for f in [a-z]*.md; do
+  head -1 $f
+  git diff dc21ff7 $f | grep "^[-+]Count:"
+done
 
 # 10 short books
 

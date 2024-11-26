@@ -52,6 +52,7 @@ The Rage of Dragons|Evan Winter|4.31|16|fantasy burning-1 African-inspired
 The Molière Collection|Molière|4.31|9|play France
 The Bloody Crown of Conan|Robert E. Howard|4.31|18|fantasy sequel-2
 The Big Bundle|Max Allan Collins|4.31|8|historical noir
+Stormbringer|Michael Moorcock|4.31|28|fantasy classics elric-2
 Shuggie Bain|Douglas Stuart|4.31|18|historical literary LGBT Booker
 All the Frequent Troubles of Our Days|Rebecca Donner|4.31|14|nonfiction biography history Nazi-resistance
 A Deepness in the Sky|Vernor Vinge|4.31|28|sci-fi Hugo sequel-AFUtD
@@ -72,6 +73,7 @@ The Wall|John Hersey|4.28|29|historical Warsaw-ghetto
 The Player of Games|Iain M. Banks|4.28|11|sci-fi culture-2
 Slewfoot: A Tale of Bewitchery|Brom|4.28|14|horror fantasy historical
 Exhalation|Ted Chiang|4.28|11|sci-fi literary short-stories Hugo
+Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed|Dashka Slater|4.28|9|nonfiction race
 Our Share of Night|Mariana Enríquez|4.27|27|horror historical fantasy LGBT
 If Beale Street Could Talk|James Baldwin|4.27|7|classics literary romance
 Dune|Frank Herbert|4.27|21|sci-fi classics reread Hugo Nebula
@@ -181,6 +183,7 @@ The Lottery|Shirley Jackson|4.06|3|horror classics short-stories
 The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers|Jim Morris|4.06|10|nonfiction history science
 Light from Uncommon Stars|Ryka Aoki|4.06|13|sci-fi fantasy LGBT San-Gabriel-Valley
 Equal Rites|Terry Pratchett|4.06|7|fantasy humor discworld-3
+Elric of Melniboné|Michael Moorcock|4.06|24|fantasy classics elric-1
 A Woman of Pleasure|Kiyoko Murata|4.06|8|historical
 Zeitoun|Dave Eggers|4.05|10|nonfiction biography history Katrina
 The Yellow Wallpaper and Other Stories|Charlotte Perkins Gilman|4.05|5|classics feminism short-stories 1892
@@ -215,6 +218,7 @@ Cloud Atlas|David Mitchell|4.01|20|sci-fi literary
 Blindsight|Peter Watts|4.01|12|sci-fi horror
 These Violent Delights|Micah Nemerever|4.00|14|literary thriller LGBT 1970s-Pittsburg
 The Woman in White|Wilkie Collins|4.00|26|classics mystery gothic horror 1859
+The Snow Child|Eowyn Ivey|4.00|11|historical fantasy magical-realism
 My Brilliant Life|Kim Ae-ran|4.00|6|literary
 Beasts of a Little Land|Juhea Kim|4.00|14|historical literary Korea
 Austerlitz|W.G. Sebald|4.00|7|Germany historical
@@ -259,6 +263,7 @@ Bad Cree|Jessica Johns|3.94|8|horror literary magical-realism indigenous
 Train to Pakistan|Khushwant Singh|3.93|7|classics historical 1956 [Spotify]
 The Glass Key|Dashiell Hammett|3.93|6|mystery noir
 The Fisherman|John Langan|3.93|11|horror fantasy
+Smoke Kings|Jahmal Mayfield|3.93|11|thriller race nyt-100-notable-2024
 Shoko's Smile: Stories|Choi Eunyoung|3.93|7|short-stories literary feminism
 Passing|Nella Larsen|3.93|4|classics literary 1929
 Mongrels|Stephen Graham Jones|3.93|10|horror werewolves indigenous
@@ -382,6 +387,7 @@ Memorial|Bryan Washington|3.57|8|contemporary literary LGBT Japanese-American Bl
 Funeral Songs for Dying Girls|Cherie Dimaline|3.57|8|YA fantasy LGBT indigenous
 Tropic of Orange|Karen Tei Yamashita|3.56|10|magical-realism
 The Ones We're Meant to Find|Joan He|3.56|11|YA sci-fi dystopian
+Headshot|Rita Bullwinkel|3.56|5|literary
 The Family Trade|Charles Stross|3.54|12|steampunk alternate-history
 Flowers of Mold|Ha Seong-nan|3.54|7|short-stories horror literary
 The Tiger Flu|Larissa Lai|3.53|10|sci-fi LGBT

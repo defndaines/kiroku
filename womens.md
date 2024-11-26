@@ -1,4 +1,4 @@
-# Women's Prize for Fiction
+# Women's Prize
 
 United Kingdom literary prizes awarded annually to a female author of any
 nationality for original, full-length novel written in English and published
