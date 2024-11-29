@@ -6,7 +6,7 @@ writers and artists who make California their home.
 
 https://caliballiance.org/page/GoldenPoppyAwards
 
-Count: 1
+Count: 2
 
 ## Fiction (1)
 
@@ -15,12 +15,12 @@ Count: 1
 - [ ] 2022: _Properties of Thirst_ Marianne Wiggins
 - [ ] 2023: _The Covenant of Water_ Abraham Verghese
 
-## Nonfiction (0)
+## Nonfiction (1)
 
 - [ ] 2020: _Home Baked: My Mom, Marijuana, and the Stoning of San Francisco_ Alia Volz
 - [ ] 2021: _We Are Each Other's Harvest: Celebrating African American Farmers, Land, and Legacy_ Natalie Baszile
 - [ ] 2022: _California Burning: The Fall of Pacific Gas and Electric—and What It Means for America's Power Grid_ Katherine Blunt
-- [ ] 2023: _California Against the Sea: Visions for Our Vanishing Coastline_ Rosanna Xia
+- [x] 2023: _California Against the Sea: Visions for Our Vanishing Coastline_ Rosanna Xia
 
 ## Mystery (0)
 
