@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| My Body Is a Book of Rules | Elissa Washuta | 2014 | U.S. | 4.0 | print | 189 | nonfiction, memoir, essays, mental health |
 | California Against the Sea: Visions for Our Vanishing Coastline | Rosanna Xia | 2023 | U.S. | 4.0 | audio | 325 | nonfiction, environment, science, nature |
 | Wandering Stars | Tommy Orange | 2024 | U.S. | 4.5 | audio | 315 | historical, literary |
 | It Lasts Forever and Then It's Over | Anne de Marcken | 2024 | U.S. | 4.0 | print | 128 | literary, dystopian, horror, Ursula K. Le Guin Prize, Novel Prize |
