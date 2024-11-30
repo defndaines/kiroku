@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Vol. 5: Minor | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
 | My Body Is a Book of Rules | Elissa Washuta | 2014 | U.S. | 4.0 | print | 189 | nonfiction, memoir, essays, mental health |
 | California Against the Sea: Visions for Our Vanishing Coastline | Rosanna Xia | 2023 | U.S. | 4.0 | audio | 325 | nonfiction, environment, science, nature |
 | Wandering Stars | Tommy Orange | 2024 | U.S. | 4.5 | audio | 315 | historical, literary |
