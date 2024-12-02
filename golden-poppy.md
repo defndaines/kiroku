@@ -6,12 +6,12 @@ writers and artists who make California their home.
 
 https://caliballiance.org/page/GoldenPoppyAwards
 
-Count: 2
+Count: 3
 
-## Fiction (1)
+## Fiction (2)
 
 - [x] 2020: _The Vanishing Half_ Britt Bennett
-- [ ] 2021: _Afterparties_ Anthony Veasna So
+- [x] 2021: _Afterparties_ Anthony Veasna So
 - [ ] 2022: _Properties of Thirst_ Marianne Wiggins
 - [ ] 2023: _The Covenant of Water_ Abraham Verghese
 
@@ -36,10 +36,10 @@ Count: 2
 - [ ] 2022: _Singer Distance_ Ethan Chatagnier
 - [ ] 2023: _Maeve Fly_ C.J. Leede
 
-## Martin Cruz Smith Award: Emerging Diverse Voices (0)
+## Martin Cruz Smith Award: Emerging Diverse Voices (1)
 
 - [ ] 2020: _How Much of These Hills is Gold_ C Pam Zhang
-- [ ] 2021: _Afterparties_ Anthony Veasna So
+- [x] 2021: _Afterparties_ Anthony Veasna So
 - [ ] 2022: _House Number 12 Block Number 3_ Sana Balagamwala
 - [ ] 2023: _First Gen: A Memoir_ Alejandra Campoverdi
 

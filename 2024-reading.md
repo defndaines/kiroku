@@ -6,9 +6,10 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Afterparties | Anthony Veasna So | 2021 | U.S., Cambodia | 4.5 | audio | 272 | short stories, LGBT, literary, Golden Poppy Award, **December** |
 | Chainsaw Man, Vol. 5: Minor | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
 | My Body Is a Book of Rules | Elissa Washuta | 2014 | U.S. | 4.0 | print | 189 | nonfiction, memoir, essays, mental health |
-| California Against the Sea: Visions for Our Vanishing Coastline | Rosanna Xia | 2023 | U.S. | 4.0 | audio | 325 | nonfiction, environment, science, nature |
+| California Against the Sea: Visions for Our Vanishing Coastline | Rosanna Xia | 2023 | U.S. | 4.0 | audio | 325 | nonfiction, environment, science, nature, Golden Poppy Award |
 | Wandering Stars | Tommy Orange | 2024 | U.S. | 4.5 | audio | 315 | historical, literary |
 | It Lasts Forever and Then It's Over | Anne de Marcken | 2024 | U.S. | 4.0 | print | 128 | literary, dystopian, horror, Ursula K. Le Guin Prize, Novel Prize |
 | Winter in the Blood | James Welch | 1974 | U.S. | 4.0 | audio | 177 | classics, literary |
@@ -98,13 +99,13 @@ book finished in a month is tagged with the month in **bold**.
 | Neuromancer | William Gibson | 1984 | U.S., Canada | 3.5 | audio | 288 | sci-fi, cyberpunk, thriller, classics, Hugo, Nebula, Philip K. Dick Award |
 | The Three Stigmata of Palmer Eldritch | Philip K. Dick | 1965 | U.S. | 4.0 | audio | 231 | sci-fi, dystopian, classics |
 | The Trees | Percival Everett | 2021 | U.S. | 5.0 | audio | 309 | literary, mystery, race |
-| The Best American Science Fiction and Fantasy 2018 | N. K. Jemisin (editor) | 2018 | U.S. | 4.5 | print | 357 | sci-fi, fantasy, short-stories |
+| The Best American Science Fiction and Fantasy 2018 | N. K. Jemisin (editor) | 2018 | U.S. | 4.5 | print | 357 | sci-fi, fantasy, short stories |
 | Stories Are Weapons: Psychological Warfare and the American Mind | Annalee Newitz | 2024 | U.S. | 4.5 | audio | 246 | nonfiction, politics, history, psychology, war |
 | Lone Wolf and Cub, Vol. 16: The Gateway into Winter | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 310 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 15: Brothers of the Grass | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 336 | graphic novel, manga, historical, fantasy |
 | Darker Than You Think | Jack Williamson | 1940 | U.S. | 3.5 | audio | 266 | horror, fantasy, sci-fi, classics |
 | Lone Wolf and Cub, Vol. 14: Day of the Demons | Kazuo Koike | 2001 | Japan | 4.5 | ebook | 319 | graphic novel, manga, historical, fantasy |
-| Night of the Living Rez | Morgan Talty | 2022 | U.S. | 4.5 | audio | 285 | short-stories, literary |
+| Night of the Living Rez | Morgan Talty | 2022 | U.S. | 4.5 | audio | 285 | short stories, literary |
 | Stoner | John Williams | 1965 | U.S. | 4.0 | audio | 292 | historical, literary, classics |
 | Witch Hat Atelier, Vol. 12 | Kamome Shirahama | 2023 | Japan | 4.5 | print | 184 | graphic novel, manga, fantasy, YA |
 | Kalevala: The Graphic Novel | Sami Makkonen | 2020 | Finland | 2.5 | ebook | 308 | graphic novel, folklore, fantasy |
@@ -137,17 +138,17 @@ book finished in a month is tagged with the month in **bold**.
 | The Groo Inferno | Sergio Aragonés, Mark Evanier | 1988 | U.S. | 4.0 | ebook | 93 | graphic novel, fantasy, humor |
 | Elder Race | Adrian Tchaikovsky | 2021 | U.K. | 4.5 | audio | 201 | sci-fi, fantasy, novella |
 | Under the Mesquite | Guadalupe Garcia McCall | 2011 | U.S., Mexico | 4.5 | audio | 224 | poetry, YA, Pura Belpré Award |
-| Unexpected Stories | Octavia E. Butler | 2014 | U.S. | 4.5 | audio | 81 | sci-fi, short-stories |
+| Unexpected Stories | Octavia E. Butler | 2014 | U.S. | 4.5 | audio | 81 | sci-fi, short stories |
 | The Day of the Triffids | John Wyndham | 1951 | U.K. | 4.5 | audio | 228 | sci-fi, dystopian, horror |
 | Lanny | Max Porter | 2019 | U.K. | 4.0 | audio | 210 | literary, horror, fantasy |
-| Paingod and Other Delusions | Harlan Ellison | 1965 | U.S. | 2.5 | audio | 172 | sci-fi, short-stories, Hugo, Nebula |
-| I Have No Mouth & I Must Scream | Harlan Ellison | 1967 | U.S. | 2.0 | audio | 134 | sci-fi, short-stories, Hugo |
+| Paingod and Other Delusions | Harlan Ellison | 1965 | U.S. | 2.5 | audio | 172 | sci-fi, short stories, Hugo, Nebula |
+| I Have No Mouth & I Must Scream | Harlan Ellison | 1967 | U.S. | 2.0 | audio | 134 | sci-fi, short stories, Hugo |
 | Groo: The Most Intelligent Man in the World | Sergio Aragonés, Mark Evanier | 1998 | U.S. | 4.5 | ebook | 112 | graphic novel, fantasy, humor |
 | Groo: In the Wild | Sergio Aragonés, Mark Evanier | 2024 | U.S. | 5.0 | ebook | 107 | graphic novel, fantasy, humor |
 | Bitter Root, Vol. 2: Rage & Redemption | David F. Walker, Chuck Brown | 2020 | U.S. | 4.0 | print | 200 | graphic novel, fantasy, historical, mystery |
 | This Is How You Lose the Time War | Amal El-Mohtar, Max Gladstone | 2019 | U.S. | 4.5 | audio | 223 | sci-fi, romance, LGBT, reread, Hugo, Nebula, Locus, BSFA |
 | Witch Hat Atelier, Vol. 1 | Kamome Shirahama | 2017 | Japan | 4.5 | print | 204 | graphic novel, manga, fantasy, YA |
-| Send More Tourists...the Last Ones Were Delicious | Tracey Waddleton | 2019 | Canada | 4.5 | print | 250 | short-stories |
+| Send More Tourists...the Last Ones Were Delicious | Tracey Waddleton | 2019 | Canada | 4.5 | print | 250 | short stories |
 | The Reckoning of Roku | Randy Ribay | 2024 | U.S. | 4.0 | audio | 368 | fantasy, YA |
 | Olive, By the Light of a Blue Moon | Véro Cazot | 2020 | France | 3.5 | ebook | 56 | graphic novel, fantasy |
 | My Brilliant Friend | Elena Ferrante | 2011 | Italy | 3.5 | audio | 331 | historical, literary |
@@ -202,12 +203,12 @@ book finished in a month is tagged with the month in **bold**.
 | Khiêm: Our Journey through the Motherlands | Yasmine Trinh Phan Morissette | 2024 | Canada, Vietnam | 4.0 | ebook | 197 | nonfiction, graphic novel, memoir, history |
 | Lone Wolf and Cub, Vol. 8: Chains of Death | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 304 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 7: Cloud Dragon, Wind Tiger | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
-| Your Utopia | Bora Chung | 2021 | South Korea | 4.0 | audio | 256 | short-stories, sci-fi, horror |
+| Your Utopia | Bora Chung | 2021 | South Korea | 4.0 | audio | 256 | short stories, sci-fi, horror |
 | Lone Wolf and Cub, Vol. 6: Lanterns for the Dead | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
 | A Fire Upon the Deep | Vernor Vinge | 1992 | U.S. | 4.5 | audio | 613 | sci-fi, Hugo |
 | Stamped: Racism, Antiracism, and You | Jason Reynolds, Ibram X. Kendi | 2020 | U.S. | 4.5 | audio | 294 | nonfiction, history, race, politics, YA, Goodreads Choice Award |
 | Women's Liberation and the African Freedom Struggle | Thomas Sankara | 1987 | Burkina Faso | 3.0 | print | 69 | nonfiction, politics, feminism |
-| The Black Lord | Colin Hinckley | 2023 | U.S. | 3.5 | print | 114 | horror, short-stories |
+| The Black Lord | Colin Hinckley | 2023 | U.S. | 3.5 | print | 114 | horror, short stories |
 | Lone Wolf and Cub, Vol. 5: Black Wind | Kazuo Koike | 1997 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
 | Arca | Van Jensen | 2023 | U.S. | 3.5 | ebook | 176 | graphic novel, sci-fi, dystopian |
 | Cover | Brian Michael Bendis | 2022 | U.S. | 4.0 | print | 176 | graphic novel, contemporary |
@@ -225,7 +226,7 @@ book finished in a month is tagged with the month in **bold**.
 | Carmilla | J. Sheridan Le Fanu | 1872 | Ireland, Austria | 4.0 | audio | 108 | novella, gothic, horror, vampires, LGBT, classics |
 | the witch doesn't burn in this one | Amanda Lovelace | 2018 | U.S. | 4.5 | audio | 192 | poetry, feminism, nonfiction, Goodreads Choice Award, **June** |
 | And Every Morning the Way Home Gets Longer and Longer | Fredrik Backman | 2015 | Sweden | 4.5 | audio | 97 | novella, contemporary |
-| Hateship, Friendship, Courtship, Loveship, Marriage | Alice Munro | 2001 | Canada | 4.0 | audio | 323 | literary, short-stories, Nobel, Booker |
+| Hateship, Friendship, Courtship, Loveship, Marriage | Alice Munro | 2001 | Canada | 4.0 | audio | 323 | literary, short stories, Nobel, Booker |
 | The Swimmers | Julie Otsuka | 2022 | U.S. | 5.0 | audio | 176 | literary, contemporary, Carnegie Medal |
 | The Stone Home | Crystal Hana Kim | 2024 | South Korea, U.S. | 5.0 | audio | 352 | historical, literary |
 | Rebel Girl: My Life as a Feminist Punk | Kathleen Hanna | 2024 | U.S. | 4.5 | audio | 336 | nonfiction, memoir, music, feminism |
@@ -247,7 +248,7 @@ book finished in a month is tagged with the month in **bold**.
 | In Shadows: Book One | Hubert | 2022 | France | 4.0 | ebook | 69 | graphic novel, fantasy, mystery |
 | Last of the Talons | Sophie Kim | 2022 | U.S. | 2.0 | audio | 416 | fantasy, romance, YA, Korean mythology |
 | Oak Flat: A Fight for Sacred Land in the American West | Lauren Redniss | 2020 | U.S. | 4.5 | print | 281 | nonfiction, history, nature, politics |
-| The Ones Who Walk Away from Omelas | Ursula K. Le Guin | 1973 | U.S. | 5.0 | ebook | 32 | classics, short-stories, sci-fi, Hugo |
+| The Ones Who Walk Away from Omelas | Ursula K. Le Guin | 1973 | U.S. | 5.0 | ebook | 32 | classics, short stories, sci-fi, Hugo |
 | Greek Lessons | Han Kang | 2011 | South Korea | 4.0 | audio | 192 | literary, contemporary, **May** |
 | The White Book | Han Kang | 2016 | South Korea, Poland | 4.0 | audio | 160 | poetry, contemporary |
 | Emma | Jane Austen | 1815 | U.K. | 4.0 | audio | 474 | classics, literary, romance |
@@ -269,7 +270,7 @@ book finished in a month is tagged with the month in **bold**.
 | Punished for Dreaming: How School Reform Harms Black Children and How We Heal | Bettina L. Love | 2023 | U.S. | 5.0 | audio | 352 | nonfiction, education, race, history |
 | A Small Place | Jamaica Kincaid | 1988 | Antigua | 4.0 | audio | 81 | nonfiction, memoir, history, essays |
 | A Prayer for the Crown-Shy | Becky Chambers | 2022 | U.S. | 5.0 | print | 152 | sci-fi, fantasy, novella, LGBT, Locus |
-| Bloodchild and Other Stories | Octavia E. Butler | 1995 | U.S. | 5.0 | audio | 214 | sci-fi, short-stories, novelette, Hugo, Nebula, Locus |
+| Bloodchild and Other Stories | Octavia E. Butler | 1995 | U.S. | 5.0 | audio | 214 | sci-fi, short stories, novelette, Hugo, Nebula, Locus |
 | The Great Divide | Cristina Henríquez | 2024 | Panama | 4.0 | audio | 321 | historical, literary |
 | The Empress of Salt and Fortune | Nghi Vo | 2020 | U.S. | 4.5 | print | 119 | fantasy, novella, LGBT, Hugo |
 | Nimona | N.D. Stevenson | 2015 | U.S. | 5.0 | print | 266 | graphic novel, fantasy, YA, reread |

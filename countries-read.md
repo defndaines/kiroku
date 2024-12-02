@@ -15,7 +15,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 The _New York Times_ has some guides to [Read Your Way Around the
 World](https://www.nytimes.com/series/literary-guides).
 
-Count: 87
+Count: 88
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -89,7 +89,7 @@ Count: 87
 - [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
 - [x] Guatemala: [_Bitter Fruit_](https://www.goodreads.com/book/show/102729.Bitter_Fruit) Stephen C. Schlesinger, Stephen Kinzer
 - [ ] Chad:
-- [ ] Cambodia:
+- [x] Cambodia: [_Afterparties_](https://www.goodreads.com/book/show/51733706-afterparties) Anthony Veasna So
 - [x] Zimbabwe: [_Avenues by Train_](https://www.goodreads.com/book/show/131086721-avenues-by-train) Farai Mudzingwa
 - [ ] Equatorial Guinea:
 - [ ] Guinea:
