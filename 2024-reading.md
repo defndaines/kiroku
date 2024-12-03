@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Complete Gail Simone Red Sonja | Gail Simone | 2019 | U.S. | 4.0 | ebook | 528 | graphic novel, fantasy |
 | One Hundred Shadows | Hwang Jungeun | 2010 | South Korea | 4.0 | audio | 192 | literary, magical realism |
 | Afterparties | Anthony Veasna So | 2021 | U.S., Cambodia | 4.5 | audio | 272 | short stories, LGBT, literary, Golden Poppy Award, **December** |
 | Chainsaw Man, Vol. 5: Minor | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
