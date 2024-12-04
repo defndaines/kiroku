@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Rascal Does Not Dream of Logical Witch | Hajime Kamoshida | 2022 | Japan | 4.5 | ebook | 324 | graphic novel, manga, contemporary |
 | Wolf Children Ame & Yuki | Mamoru Hosoda | 2012 | Japan | 5.0 | ebook | 528 | graphic novel, manga, fantasy, contemporary |
 | The Complete Gail Simone Red Sonja | Gail Simone | 2019 | U.S. | 4.0 | ebook | 528 | graphic novel, fantasy |
 | One Hundred Shadows | Hwang Jungeun | 2010 | South Korea | 4.0 | audio | 192 | literary, magical realism |
