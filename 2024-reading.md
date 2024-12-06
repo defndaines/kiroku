@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Betty | Tiffany McDaniel | 2020 | U.S. | 4.5 | audio | 480 | historical, literary, Ohioana Book Award |
 | Rascal Does Not Dream of Logical Witch | Hajime Kamoshida | 2022 | Japan | 4.5 | ebook | 324 | graphic novel, manga, contemporary |
 | Wolf Children Ame & Yuki | Mamoru Hosoda | 2012 | Japan | 5.0 | ebook | 528 | graphic novel, manga, fantasy, contemporary |
 | The Complete Gail Simone Red Sonja | Gail Simone | 2019 | U.S. | 4.0 | ebook | 528 | graphic novel, fantasy |
@@ -67,7 +68,7 @@ book finished in a month is tagged with the month in **bold**.
 | Lone Wolf and Cub, Vol. 24: In These Small Hands | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 23: Tears of Ice | Kazuo Koike | 2002 | Japan | 4.0 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 22: Heaven and Earth | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 288 | graphic novel, manga, historical, fantasy |
-| A Little Devil in America: Notes in Praise of Black Performance | Hanif Abdurraqib | 2021 | U.S. | 4.5 | audio | 301 | nonfiction, essays, history, music, race, Carnegie Medal |
+| A Little Devil in America: Notes in Praise of Black Performance | Hanif Abdurraqib | 2021 | U.S. | 4.5 | audio | 301 | nonfiction, essays, history, music, race, Carnegie Medal, Ohioana Book Award |
 | Lone Wolf and Cub, Vol. 21: Fragrance of Death | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 20: A Taste of Poison | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
 | Lone Wolf and Cub, Vol. 19: The Moon in Our Hearts | Kazuo Koike | 2002 | Japan | 4.5 | ebook | 320 | graphic novel, manga, historical, fantasy |
