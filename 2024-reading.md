@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Goodnight Paradise | Joshua Dysart | 2018 | U.S. | 4.5 | ebook | 158 | graphic novel, crime, mystery |
 | Betty | Tiffany McDaniel | 2020 | U.S. | 4.5 | audio | 480 | historical, literary, Ohioana Book Award |
 | Rascal Does Not Dream of Logical Witch | Hajime Kamoshida | 2022 | Japan | 4.5 | ebook | 324 | graphic novel, manga, contemporary |
 | Wolf Children Ame & Yuki | Mamoru Hosoda | 2012 | Japan | 5.0 | ebook | 528 | graphic novel, manga, fantasy, contemporary |
