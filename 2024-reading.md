@@ -6,6 +6,10 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Vol. 9: Bath | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
+| Chainsaw Man, Vol. 8: Super Mess | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
+| Chainsaw Man, Vol. 7: In a Dream | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
+| Chainsaw Man, Vol. 6: Boom Boom Boom | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Goodnight Paradise | Joshua Dysart | 2018 | U.S. | 4.5 | ebook | 158 | graphic novel, crime, mystery |
 | Betty | Tiffany McDaniel | 2020 | U.S. | 4.5 | audio | 480 | historical, literary, Ohioana Book Award |
 | Rascal Does Not Dream of Logical Witch | Hajime Kamoshida | 2022 | Japan | 4.5 | ebook | 324 | graphic novel, manga, contemporary |
