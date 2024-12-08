@@ -128,6 +128,6 @@ Count: 32
 - [ ] 2019: Peter Handke [Austria]:
 - [ ] 2020: Louise Glück [U.S.]:
 - [x] 2021: Abdulrazak Gurnah [Tanzania, U.K.]: _Paradise_
-- [x] 2022: Annie Ernaux [France]: _A Woman's Story_, _La place_
+- [x] 2022: Annie Ernaux [France]: _Happening_, _A Woman's Story_, _La place_
 - [x] 2023: Jon Fosse [Norway]: _The Other Name_
 - [x] 2024: Han Kang [South Korea]: _Human Acts_, _The Vegetarian_, _Greek Lessons_, _The White Book_
