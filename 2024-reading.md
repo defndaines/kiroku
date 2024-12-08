@@ -6,6 +6,8 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Woman in the Dunes | Kōbō Abe | 1962 | Japan | 4.5 | audio | 241 | classics, literary, magical realism,
+reread |
 | Chainsaw Man, Vol. 10: A Dog's Feeling | Tatsuki Fujimoto | 2021 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Happening | Annie Ernaux | 2000 | France | 5.0 | audio | 96 | nonfiction, memoir, literary, feminism, Nobel |
 | Chainsaw Man, Vol. 9: Bath | Tatsuki Fujimoto | 2020 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |

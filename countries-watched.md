@@ -131,7 +131,7 @@ Count: 73
 - [ ] Lebanon
 - [x] Palestine: [Paradise Now](https://www.imdb.com/title/tt0445620/); [Born in Gaza](https://www.imdb.com/title/tt4205416/)
 - [x] Scotland: [Trainspotting](https://www.imdb.com/title/tt0117951/)
-- [x] Uganda: [The Last King of Scotland](https://www.imdb.com/title/tt0455590/)
+- [x] Uganda: [The Last King of Scotland](https://www.imdb.com/title/tt0455590/); [Mississippi Masala](https://www.imdb.com/title/tt0102456/)
 - [ ] Slovakia
 - [x] Ireland\*: [The Wonder](https://www.imdb.com/title/tt9288822/)
 - [x] Northern Ireland: [Derry Girls](https://www.imdb.com/title/tt7120662/)
