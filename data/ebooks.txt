@@ -109,6 +109,7 @@ Starry Field: A Memoir of Lost History | Margaret Juhae Lee | 3.90 | 288 | memoi
 Johnny Mad Dog | Emmanuel Dongala | 3.90 | 336 | Republic, of, the, Congo, unread-country
 Stone Mattress | Margaret Atwood | 3.89 | 273 | short stories, [owned], [Spotify]
 New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 3.89 | 147 | fantasy, sci-fi, short stories
+Karl Marx: A Nineteenth-Century Life | Jonathan Sperber | 3.89 | 648 | nonfiction, biography, history, politics, economics, Jared-booktube-rec
 A Rage in Harlem | Chester Himes | 3.89 | 151 | crime, mystery
 Pattern Recognition | William Gibson | 3.87 | 367 | mystery, sci-fi
 Warda | Sonallah Ibrahim | 3.86 | 464 | literary, 1950s Cairo
@@ -116,6 +117,7 @@ The Death of Artemio Cruz | Carlos Fuentes | 3.86 | 307 | classics, literary, 19
 Sinking Bell | Bojan Louis | 3.86 | 192 | short stories, indigenous, Navajo
 Rupetta | Nike Sulway | 3.86 | 352 | sci-fi, [owned]
 Redshirts | John Scalzi | 3.86 | 320 | sci-fi, [owned]
+The Use of Photography | Annie Ernaux, Marc Marie | 3.85 | 127 | nonfiction, memoir, Nobel
 Hills Like White Elephants | Ernest Hemingway | 3.85 | 6 | classics, short stories, Nobel
 The Thorn Puller | Hiromi Ito | 3.84 | 300 | contemporary, literary, Japan, U.S.
 Mumbo Jumbo | Ishmael Reed | 3.84 | 224 | classics, literary, race, historical
@@ -159,6 +161,9 @@ Metropole | Ferenc Karinthy | 3.52 | 279 | sci-fi, dystopian, Hungary, unread-co
 Kairos | Jenny Erpenbeck | 3.51 | 379 | historical, Booker
 Blood and Guts in High School | Kathy Acker | 3.45 | 165 | feminism, post-punk
 Picnic on Paradise | Joanna Russ | 3.41 | 152 | fantasy, sci-fi
+Nails and Eyes | Kaori Fujino | 3.41 | 138 | horror, short stories
 Blood Kin | Steve Rasnic Tem | 3.40 | 288 | fantasy, horror, Bram Stoker
+The Factory | Hiroko Oyamada | 3.34 | 116 | magical realism, novella
 The Interrogation | J.M.G. Le Clezio | 3.28 | 243 | Nobel
 Cannibals | Shinya Tanaka | 2.93 | 70 | literary, Japan
+Citizen Marx: Republicanism and the Formation of Karl Marx’s Social and Political Thought | Bruno Leipold | 0.00 | 440 | nonfiction, politics, history, philosophy
