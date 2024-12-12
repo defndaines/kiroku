@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Vol. 12: Bird and War | Tatsuki Fujimoto | 2022 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
 | Chainsaw Man, Vol. 11: Go Get 'Em, Chainsaw Man | Tatsuki Fujimoto | 2021 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | A Sorceress Comes to Call | T. Kingfisher | 2024 | U.S. | 4.5 | audio | 327 | fantasy, horror |
 | The Woman in the Dunes | Kōbō Abe | 1962 | Japan | 4.5 | audio | 241 | classics, literary, magical realism, reread |
