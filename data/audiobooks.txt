@@ -195,6 +195,7 @@ The Book of Doors | Gareth Brown | 4.04 | 13 | fantasy
 Startide Rising | David Brin | 4.04 | 17 | sci-fi, Hugo, Nebula, Locus
 Nervous Conditions | Tsitsi Dangarembga | 4.04 | 10 | historical, classics, literary, Zimbabwe
 Neighbors and Other Stories | Diane Oliver | 4.04 | 8 | short stories, historical, literary, race
+Metal from Heaven | August Clarke | 4.04 | 15 | fantasy, LGBT, sci-fi, our-opinions-are-correct-rec
 Field Notes from a Catastrophe: Man, Nature, and Climate Change | Elizabeth Kolbert | 4.04 | 5 | nonfiction, nature, politics, science
 Always Running: La Vida Loca: Gang Days in L.A. | Luis J. Rodriguez | 4.04 | 11 | nonfiction, memoir, biography, L.A.
 A Master of Djinn | P. Djèlí Clark | 4.04 | 16 | sci-fi, fantasy, LGBT, mystery, Nebula, Locus
@@ -207,6 +208,7 @@ Little | Edward Carey | 4.02 | 14 | historical, Paris 1700s
 Bright Young Women | Jessica Knoll | 4.02 | 13 | thriller, historical, serial killer
 A Short History of Reconstruction | Eric Foner | 4.02 | 13 | nonfiction, history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence | Kristen R. Ghodsee | 4.01 | 5 | nonfiction, feminism, history, politics
+The Fox Wife | Yangsze Choo | 4.01 | 15 | fantasy, historical, mythology, our-opinions-are-correct-rec
 Shadow of the Fox | Julie Kagawa | 4.01 | 15 | YA, fantasy, shadow-of-the-fox-1
 Salka Valka | Halldor Laxness | 4.01 | 19 | classics, Iceland, Nobel, 1931, unread-country
 Open Throat | Henry Hoke | 4.01 | 2 | literary, LGBT, Hollywood mountain lion
@@ -324,6 +326,7 @@ The Plague of Doves | Louise Erdrich | 3.80 | 11 | historical, mystery, indigeno
 Remain Silent | Susie Steiner | 3.80 | 10 | mystery
 Evergreen | Naomi Hirahara | 3.80 | 9 | historical, mystery, sequel Clark and Division
 The Changeling | Victor LaValle | 3.79 | 14 | horror, fantasy, literary, World Fantasy
+African Europeans: An Untold History | Olivette Otélé | 3.79 | 9 | nonfiction, history, race, our-opinions-are-correct-rec
 A Head Full of Ghosts | Paul Tremblay | 3.79 | 9 | horror, mystery, thriller, New, England
 The Grace of Kings | Ken Liu | 3.78 | 22 | fantasy, Locus, dandelion-dynasty-1
 And Put Away Childish Things | Adrian Tchaikovsky | 3.78 | 5 | fantasy, sci-fi
