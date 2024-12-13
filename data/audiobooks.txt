@@ -63,6 +63,7 @@ Tell Me How Long the Train's Been Gone | James Baldwin | 4.30 | 15 | classics, L
 Leviathan Wakes | James S.A. Corey | 4.30 | 21 | sci-fi, expanse-1
 From Here to Eternity | Caitlin Doughty | 4.30 | 6 | nonfiction, death, science, travel
 Another Country | James Baldwin | 4.30 | 16 | literary, classics, LGBT
+The Great Believers | Rebecca Makkai | 4.29 | 18 | historical, LGBT, literary, Carnegie Medal
 Solenoid | Mircea Cărtărescu | 4.29 | 34 | literary, Romania, International Dublin Literary
 Letters to a Young Poet | Rainer Maria Rilke | 4.29 | 3 | nonfiction, poetry, essays, classics, Austria
 I Know Why the Caged Bird Sings | Maya Angelou | 4.29 | 10 | autobiography, nonfiction
@@ -182,7 +183,7 @@ The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden De
 Light from Uncommon Stars | Ryka Aoki | 4.06 | 13 | sci-fi, fantasy, LGBT, San Gabriel Valley
 Equal Rites | Terry Pratchett | 4.06 | 7 | fantasy, humor, discworld-3
 Elric of Melniboné | Michael Moorcock | 4.06 | 24 | fantasy, classics, elric-1
-A Woman of Pleasure | Kiyoko Murata | 4.06 | 8 | historical
+A Woman of Pleasure | Kiyoko Murata | 4.06 | 8 | historical, Willow-rec
 Zeitoun | Dave Eggers | 4.05 | 10 | nonfiction, biography, history, Katrina
 The Yellow Wallpaper and Other Stories | Charlotte Perkins Gilman | 4.05 | 5 | classics, feminism, short stories, 1892
 The Traitor Baru Cormorant | Seth Dickinson | 4.05 | 14 | fantasy, LGBT, sci-fi
@@ -245,6 +246,7 @@ On the Beach | Nevil Shute | 3.97 | 9 | sci-fi, classics, post-apocalyptic
 Man Made Monsters | Andrea L. Rogers | 3.97 | 8 | historical, indigenous, horror, short stories, YA
 Interior Chinatown | Charles Yu | 3.97 | 4 | literary, contemporary, National Book
 I Am Not Sidney Poitier | Percival Everett | 3.97 | 8 | humor, contemporary
+Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America | Steven J. Ross | 3.97 | 14 | nonfiction, history, VillageWell-rec
 Frankenstein | Mary Shelley | 3.97 | 7 | sci-fi, classics, reread
 Thistlefoot | GennaRose Nethercott | 3.96 | 15 | fantasy, eastern Europe, mythology
 Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, [Spotify]
@@ -270,6 +272,7 @@ Black Bottom Saints | Alice Randall | 3.93 | 12 | historical, Black, Detroit
 Bel Canto | Ann Patchett | 3.93 | 11 | literary, contemporary, South, America, terrorism/hostages, Womens Prize
 Titus Groan | Mervyn Peake | 3.92 | 17 | classics, fantasy, gothic, 1946, gormenghast-1
 The Good Lord Bird | James McBride | 3.92 | 15 | historical, National Book
+The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.92 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Split Tooth | Tanya Tagaq | 3.92 | 6 | poetry, historical, literary, magical realism, indigenous
 If I Ever Get Out of Here | Eric Gansworth | 3.92 | 10 | YA, historical, indigenous
 Wolf Hall | Hilary Mantel | 3.91 | 23 | historical, literary, Booker
@@ -336,6 +339,7 @@ History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGB
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
 Strike the Zither | Joan He | 3.76 | 11 | fantasy, YA, historical, China 414
 Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
+Blood of the Old Kings | Sung-Il Kim | 3.76 | 10 | fantasy, Willow-rec
 Annihilation | Jeff VanderMeer | 3.76 | 6 | sci-fi, horror, Nebula, southern-reach-1
 A Doll's House | Henrik Ibsen | 3.76 | 2 | play, classics, Norway
 The Old Drift | Namwali Serpell | 3.75 | 25 | historical, literary, Zambia, unread-country
