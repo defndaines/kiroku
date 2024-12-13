@@ -23,7 +23,7 @@ Old Man's War | John Scalzi | 4.24 | 318 | sci-fi, [owned]
 The Fall of Hyperion | Dan Simmons | 4.23 | 517 | sci-fi, sequel
 The Consuming Fire | John Scalzi | 4.21 | 304 | sci-fi, sequel-interdependency-2, [owned]
 I'm OK, I'm Pig! | Kim Hyesoon | 4.20 | 160 | poetry
-Chevengur | Andrei Platonov | 4.20 | 333 | classics, literature
+Chevengur | Andrei Platonov | 4.20 | 333 | classics, literary
 Rikki-Tikki-Tavi | Rudyard Kipling | 4.19 | 54 | classics, childrens, short stories, [owned]
 Joanna Russ: Novels & Stories | Joanna Russ | 4.19 | 852 | sci-fi
 Flood Song | Sherwin Bitsui | 4.19 | 120 | nonfiction, poetry, Navajo, indigenous
@@ -143,6 +143,7 @@ I Want to Keep Smashing Myself Until I Am Whole | Elias Canetti | 3.71 | 416 | l
 The President's Brain Is Missing | John Scalzi | 3.69 | 29 | sci-fi, [owned]
 Familiar Things | Hwang Sok-yong | 3.68 | 224 | Korea, contemporary, magical realism
 Candide | Voltaire | 3.68 | 129 | classics, philosophy, France, [owned]
+Lost in the Garden | Adam S. Leslie | 3.66 | 446 | horror, magical realism, thriller, Willow-rec
 Your Hatemail Will Be Graded | John Scalzi | 3.65 | 368 | nonfiction, essays, [owned]
 Re: Colonised Planet 5, Shikasta | Doris Lessing | 3.65 | 365 | sci-fi, fantasy, Nobel
 Xala | Ousmane Sembène | 3.64 | 112 | literary, Senegal

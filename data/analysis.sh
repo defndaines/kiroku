@@ -66,6 +66,11 @@ tail -n +9 2024-reading.md | grep " 5.0 " | cut -d \| -f 2-3
 
 tail -n +9 2024-reading.md | cut -d \| -f 8 | sort -n
 
+## Sort in context
+
+tail -n +9 2024-reading.md | sort -t\| -k 6 -n
+
+
 # Awards
 
 ## Hugo Novels Read
@@ -89,11 +94,7 @@ done
 
 grep "^Count:" [a-z]*.md
 
-# Sort in context
-
-tail -n +9 2024-reading.md | sort -t\| -k 6 -n
-
-# Yearly (since 2023) Analysis
+## Yearly (since 2023) Analysis
 
 git diff dc21ff7 countries-read.md
 
@@ -102,13 +103,17 @@ for f in [a-z]*.md; do
   git diff dc21ff7 $f | grep "^[-+]Count:"
 done
 
-# 10 short books
+## TBR Documents
+
+cut -d \| -f 5 data/audiobooks.txt | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "graphic novel" | grep -v manga | grep -v reread | grep -v novella | sort -n | tail
+
+### 10 short books
 
 sort -t \| -k 4 -n data/ebooks.txt | head
 
 sort -t \| -k 4 -n data/audiobooks.txt | head
 
-# re-sort
+### re-sort
 
 sort -t \| -k 3 -rn data/ebooks.txt -o data/ebooks.txt
 
