@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Vol. 14: I Wanna See Penguins! | Tatsuki Fujimoto | 2023 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
 | Chainsaw Man, Vol. 13: Spoiler | Tatsuki Fujimoto | 2023 | Japan | 4.0 | ebook | 184 | graphic novel, manga, horror, fantasy |
 | Chainsaw Man, Vol. 12: Bird and War | Tatsuki Fujimoto | 2022 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
 | Chainsaw Man, Vol. 11: Go Get 'Em, Chainsaw Man | Tatsuki Fujimoto | 2021 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
