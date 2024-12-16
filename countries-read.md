@@ -118,8 +118,8 @@ Count: 88
 - [ ] Hungary:
 - [ ] United Arab Emirates:
 - [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
-- [x] Austria: Sigmund Freud; Stefan Zweig
-- [x] Switzerland: Hermann Hesse; Jean-Jacques Rousseau
+- [x] Austria: Sigmund Freud; [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer
+- [x] Switzerland: [_Siddhartha_](https://www.goodreads.com/book/show/52036.Siddhartha) Hermann Hesse; Jean-Jacques Rousseau
 - [ ] Sierra Leone:
 - [ ] Togo:
 - [ ] Hong Kong:
