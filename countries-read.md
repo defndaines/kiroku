@@ -15,7 +15,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 The _New York Times_ has some guides to [Read Your Way Around the
 World](https://www.nytimes.com/series/literary-guides).
 
-Count: 88
+Count: 89
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -115,7 +115,7 @@ Count: 88
 - [ ] Tajikistan:
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
 - [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker
-- [ ] Hungary:
+- [x] Hungary: [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész
 - [ ] United Arab Emirates:
 - [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
 - [x] Austria: Sigmund Freud; [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer

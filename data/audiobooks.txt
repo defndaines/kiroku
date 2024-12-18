@@ -173,7 +173,6 @@ A Gathering of Old Men | Ernest J. Gaines | 4.08 | 8 | historical, classics
 The Vanished Birds | Simon Jimenez | 4.07 | 13 | sci-fi, literary, LGBT
 The Stars My Destination | Alfred Bester | 4.07 | 8 | sci-fi, classics
 The Goblin Emperor | Katherine Addison | 4.07 | 18 | fantasy, osreth-1
-Fatelessness | Imre Kertesz | 4.07 | 8 | historical, Hungary, Nobel, unread-country
 Enter Ghost | Isabella Hammad | 4.07 | 12 | literary, contemporary, Palestine
 Dreaming the Eagle | Manda Scott | 4.07 | 22 | fantasy, historical, romance, Boudica, [Spotify]
 What Strange Paradise | Omar El Akkad | 4.06 | 7 | literary, Canada, African immigrants, Giller
@@ -224,7 +223,7 @@ The Snow Child | Eowyn Ivey | 4.00 | 11 | historical, fantasy, magical realism
 My Brilliant Life | Kim Ae-ran | 4.00 | 6 | literary
 Beasts of a Little Land | Juhea Kim | 4.00 | 14 | historical, literary, Korea
 Austerlitz | W.G. Sebald | 4.00 | 7 | Germany, historical
-The Bone Fire | György Dragomán | 3.99 | 17 | fantasy, magical realism, Hungary, unread-country
+The Bone Fire | György Dragomán | 3.99 | 17 | fantasy, magical realism, Hungary
 Songs Only You Know | Sean Madigan Hoen | 3.99 | 12 | nonfiction, memoir, music, biography, [hoopla]
 Sinister Graves | Marcie R. Rendon | 3.99 | 6 | mystery, thriller, 1970s Minnesota, indigenous
 Odd Thomas | Dean Koontz | 3.99 | 11 | horror, mystery, thriller

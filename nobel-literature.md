@@ -8,7 +8,7 @@ Academy decides and announces the name of the laureate in early October.
 List of Nobel Prize winners, identified by whether I've read them or seen them
 in the case of plays.
 
-Count: 32
+Count: 33
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -108,7 +108,7 @@ Count: 32
 - [ ] 1999: Günter Grass [Germany]:
 - [ ] 2000: Gao Xingjian [France, China]:
 - [ ] 2001: Vidiadhar Surajprasad Naipaul [U.K., Trinidad and Tobago]:
-- [ ] 2002: Imre Kertész [Hungary]:
+- [x] 2002: Imre Kertész [Hungary]:
 - [ ] 2003: John M. Coetzee [South Africa]:
 - [ ] 2004: Elfriede Jelinek [Austria]:
 - [ ] 2005: Harold Pinter [U.K.]:

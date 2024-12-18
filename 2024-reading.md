@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Fatelessness | Imre Kertész | 1975 | Hungary | 3.5 | audio | 262 | historical, literary, war, Nobel |
 | The Wall | Marlen Haushofer | 1963 | Austria | 4.5 | audio | 240 | dystopian, literary, sci-fi, post-apocalyptic |
 | Chainsaw Man, Vol. 15: Hors D'oeuvre | Tatsuki Fujimoto | 2023 | Japan | 4.0 | ebook | 200 | graphic novel, manga, horror, fantasy |
 | Chainsaw Man, Vol. 14: I Wanna See Penguins! | Tatsuki Fujimoto | 2023 | Japan | 4.0 | ebook | 192 | graphic novel, manga, horror, fantasy |
