@@ -21,11 +21,10 @@ Everyone Who Is Gone Is Here: The United States, Central America, and the Making
 Crossings | Ben Goldfarb | 4.45 | 12 | nonfiction, nature, science, roads
 Brotherless Night | V.V. Ganeshananthan | 4.45 | 13 | literary, historical, Sri Lanka, Carol Shields Prize, Womens Prize
 Black Against Empire: The History and Politics of the Black Panther Party | Joshua Bloom, Waldo E. Martin Jr. | 4.45 | 18 | nonfiction, history, politics, race
-Madonna in a Fur Coat | Sabahattin Ali | 4.42 | 6 | Türkiye, romance
 Arch of Triumph | Erich Maria Remarque | 4.42 | 16 | historical, literary, 1939 refugee in Paris
 Where I'm Calling From | Raymond Carver | 4.41 | 17 | short stories, literary
+Madonna in a Fur Coat | Sabahattin Ali | 4.41 | 6 | Türkiye, romance
 Going Postal | Terry Pratchett | 4.40 | 11 | fantasy, humor, discworld-33
-All the Colors of the Dark | Chris Whitaker | 4.40 | 15 | mystery, thriller, historical
 Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System | Alec Karakatsanis | 4.39 | 4 | nonfiction, law, politics, social justice, history, race
 Jayber Crow | Wendell Berry | 4.39 | 14 | historical, classics
 A Day of Fallen Night | Samantha Shannon | 4.39 | 39 | fantasy, LGBT, U.K., priory-orange-prequel
@@ -38,14 +37,15 @@ The Art of Losing | Alice Zeniter | 4.36 | 18 | literary, historical, Algeria, I
 In Other Lands | Sarah Rees Brennan | 4.36 | 17 | fantasy, YA, LGBT
 The Cartel | Don Winslow | 4.35 | 23 | mystery, thriller, 2004 drugs
 The Unsettling of America: Culture and Agriculture | Wendell Berry | 4.34 | 13 | nonfiction, food, agriculture, nature
-The Tainted Cup | Robert Jackson Bennett | 4.34 | 14 | fantasy, mystery
 The Conquering Sword of Conan | Robert E. Howard | 4.34 | 18 | fantasy, sequel-3
+All the Colors of the Dark | Chris Whitaker | 4.34 | 15 | mystery, thriller, historical, Emily-Fox-rec
 The Song of Achilles | Madeline Miller | 4.33 | 11 | fantasy, historical, romance
 Humankind: A Hopeful History | Rutger Bregman | 4.33 | 12 | nonfiction, history, philosophy, psychology
 A Desolation Called Peace | Arkady Martine | 4.33 | 18 | sci-fi, LGBT, Hugo, Locus, sequel
 The Story of Jane: The Legendary Underground Feminist Abortion Service | Laura Kaplan | 4.32 | 11 | nonfiction, history, feminism
 The Road Back | Erich Maria Remarque | 4.32 | 11 | classics, Germany, sequel-AQotWF
 A Day in the Life of Abed Salama | Nathan Thrall | 4.32 | 7 | nonfiction, history, politics, Jerusalem
+The Tainted Cup | Robert Jackson Bennett | 4.31 | 14 | fantasy, mystery, Emily-Fox-rec
 The Rage of Dragons | Evan Winter | 4.31 | 16 | fantasy, African inspired, burning-1
 The Molière Collection | Molière | 4.31 | 9 | play, France
 The Bloody Crown of Conan | Robert E. Howard | 4.31 | 18 | fantasy, sequel-2
@@ -163,7 +163,7 @@ A Wolf at the Schoolhouse Door | Jack Schneider, Jennifer C. Berkshire | 4.10 | 
 Tigana | Guy Gavriel Kay | 4.09 | 25 | fantasy
 Four Treasures of the Sky | Jenny Tinghui Zhang | 4.09 | 12 | historical, literary, China-U.S.
 Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonfiction, feminism, history
-10 Minutes 38 Seconds in This Strange World | Elif Shafak | 4.09 | 9 | literary, contemporary
+10 Minutes 38 Seconds in This Strange World | Elif Shafak | 4.09 | 9 | literary, contemporary, Emily-Fox-rec
 We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 4.08 | 15 | historical, literary, Tibet, unread-country
 The Humans | Matt Haig | 4.08 | 8 | sci-fi
 Stolen | Ann-Helén Laestadius | 4.08 | 13 | literary, contemporary, Sweden, indigenous
@@ -172,7 +172,7 @@ Dandelion Wine | Ray Bradbury | 4.08 | 9 | sci-fi, classics
 A Gathering of Old Men | Ernest J. Gaines | 4.08 | 8 | historical, classics
 The Vanished Birds | Simon Jimenez | 4.07 | 13 | sci-fi, literary, LGBT
 The Stars My Destination | Alfred Bester | 4.07 | 8 | sci-fi, classics
-The Goblin Emperor | Katherine Addison | 4.07 | 18 | fantasy, osreth-1
+The Goblin Emperor | Katherine Addison | 4.07 | 18 | fantasy, osreth-1, Emily-Fox-rec
 Enter Ghost | Isabella Hammad | 4.07 | 12 | literary, contemporary, Palestine
 Dreaming the Eagle | Manda Scott | 4.07 | 22 | fantasy, historical, romance, Boudica, [Spotify]
 What Strange Paradise | Omar El Akkad | 4.06 | 7 | literary, Canada, African immigrants, Giller
@@ -337,6 +337,7 @@ The Devourers | Indra Das | 3.77 | 13 | fantasy, horror, LGBT, India, Jemisin-re
 Saints and Misfits | S.K. Ali | 3.77 | 8 | contemporary, YA, Muslim
 History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGBT, France
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
+The Knowledge: How to Rebuild Our World from Scratch | Lewis Dartnell | 3.76 | 9 | nonfiction, science, technology, history
 Strike the Zither | Joan He | 3.76 | 11 | fantasy, YA, historical, 414 China
 Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
 Blood of the Old Kings | Sung-Il Kim | 3.76 | 10 | fantasy, Willow-rec
@@ -349,6 +350,7 @@ Blood of the Old Kings | Sung-Il Kim | 3.75 | 10 | fantasy
 All the Lovers in the Night | Mieko Kawakami | 3.75 | 8 | contemporary, literary, Japan
 I'm Waiting for You and Other Stories | Kim Bo-young | 3.74 | 10 | sci-fi, short stories
 Clown in a Cornfield | Adam Cesare | 3.74 | 9 | horror, YA
+1177 B.C.: The Year Civilization Collapsed | Eric H. Cline | 3.74 | 11 | nonfiction, history, archeology
 The Island of Dr. Moreau | H. G. Wells | 3.73 | 5 | sci-fi, horror, classics
 Mobility | Lydia Kiesling | 3.73 | 11 | historical, literary, Azerbaijan, unread-country
 Lone Women | Victor LaValle | 3.73 | 9 | horror, historical, fantasy
