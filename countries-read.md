@@ -28,7 +28,7 @@ Count: 90
 - [x] Russia\*: [_The Autobiography of a Sexually Emancipated Communist Woman_](https://www.goodreads.com/book/show/13025259-the-autobiography-of-a-sexually-emancipated-communist-woman) Aleksandra Kollontai; [_Cement_](https://www.goodreads.com/book/show/143523.Cement) Feodor Gladkov
 - [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
 - [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
-- [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr is heavily about the Philippines.
+- [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr
 - [x] Ethiopia: [_Beneath the Lion's Gaze_](https://www.goodreads.com/book/show/6544214-beneath-the-lion-s-gaze) Maaza Mengiste
 - [x] Egypt: [_The Republic of False Truths_](https://www.goodreads.com/book/show/49097835-the-republic-of-false-truths) Alaa Al Aswany ; [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
 - [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
@@ -42,7 +42,7 @@ Count: 90
 - [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes; [_Crossroads: I Live Where I Like_](https://www.goodreads.com/book/show/53125734-crossroads) Koni Benson
 - [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa; [_My Brilliant Friend_](https://www.goodreads.com/book/show/35036409-my-brilliant-friend) Elena Ferrante
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
-- [x] Myanmar: [_From the Land of Green Ghosts: A Burmese Odyssey_](https://www.goodreads.com/book/show/103148.From_the_Land_of_Green_Ghosts) Pascal Khoo Thwe 
+- [x] Myanmar: [_From the Land of Green Ghosts: A Burmese Odyssey_](https://www.goodreads.com/book/show/103148.From_the_Land_of_Green_Ghosts) Pascal Khoo Thwe
 - [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden; Gabriel García Márquez ?
 - [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
 - [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang; [_Mater 2–10_](https://www.goodreads.com/book/show/63241868-mater-2-10) Hwang Sok-yong
@@ -115,7 +115,7 @@ Count: 90
 - [ ] Tajikistan:
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
 - [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker
-- [x] Hungary: [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész
+- [x] Hungary: [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész; [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán 
 - [ ] United Arab Emirates:
 - [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
 - [x] Austria: Sigmund Freud; [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer

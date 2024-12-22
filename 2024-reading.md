@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Bone Fire | György Dragomán | 2014 | Hungary | 4.5 | audio | 482 | fantasy, magical realism |
 | From the Land of Green Ghosts: A Burmese Odyssey | Pascal Khoo Thwe | 2002 | Myanmar | 4.0 | print | 300 | nonfiction, memoir, history, Kiriyama Prize |
 | Castle Waiting, Vol. 1 | Linda Medley | 2006 | U.S. | 4.0 | ebook | 457 | graphic novel, fantasy, fairy tales, mythology, humor |
 | Fatelessness | Imre Kertész | 1975 | Hungary | 3.5 | audio | 262 | historical, literary, war, Nobel |
