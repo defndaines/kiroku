@@ -15,7 +15,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 The _New York Times_ has some guides to [Read Your Way Around the
 World](https://www.nytimes.com/series/literary-guides).
 
-Count: 89
+Count: 90
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -42,7 +42,7 @@ Count: 89
 - [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes; [_Crossroads: I Live Where I Like_](https://www.goodreads.com/book/show/53125734-crossroads) Koni Benson
 - [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa; [_My Brilliant Friend_](https://www.goodreads.com/book/show/35036409-my-brilliant-friend) Elena Ferrante
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
-- [ ] Myanmar:
+- [x] Myanmar: [_From the Land of Green Ghosts: A Burmese Odyssey_](https://www.goodreads.com/book/show/103148.From_the_Land_of_Green_Ghosts) Pascal Khoo Thwe 
 - [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden; Gabriel García Márquez ?
 - [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
 - [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang; [_Mater 2–10_](https://www.goodreads.com/book/show/63241868-mater-2-10) Hwang Sok-yong
