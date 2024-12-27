@@ -15,7 +15,7 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 The _New York Times_ has some guides to [Read Your Way Around the
 World](https://www.nytimes.com/series/literary-guides).
 
-Count: 90
+Count: 91
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -129,7 +129,7 @@ Count: 90
 - [ ] Libya:
 - [x] El Salvador: [_Solito_](https://www.goodreads.com/book/show/59900688-solito) Javier Zamora
 - [ ] Nicaragua: Claribel Alegría ?
-- [ ] Serbia:
+- [ ] Serbia: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [ ] Bulgaria:
 - [ ] Paraguay:
 - [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
@@ -137,7 +137,7 @@ Count: 90
 - [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Singapore:
 - [ ] Central African Republic:
-- [x] Finland: [_Kalevala: The Graphic Novel_](https://www.goodreads.com/book/show/194925833-kalevala) Sami Makkonen
+- [x] Finland: [_Kalevala: The Graphic Novel_](https://www.goodreads.com/book/show/194925833-kalevala) Sami Makkonen; [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [x] Lebanon: [_A Game for Swallows: To Die, To Leave, To Return_](https://www.goodreads.com/book/show/13773346-a-game-for-swallows) Zeina Abirached
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
@@ -175,7 +175,7 @@ Count: 90
 - [ ] Latvia:
 - [ ] North Macedonia:
 - [ ] Guinea-Bissau:
-- [ ] Kosovo:
+- [x] Kosovo: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [ ] Bahrain:
 - [ ] Equatorial Guinea:
 - [ ] Estonia:
