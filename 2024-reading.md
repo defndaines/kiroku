@@ -6,6 +6,9 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #6 | Jason Aaron, Michael Downs, Matthew John | 2024 | U.S. | 4.5 | print | 64 | graphic novel, fantasy |
+| Freddie The Fix #1 | Garth Ennis | 2024 | U.S. | 4.0 | print | 80 | graphic novel, supernatural |
+| The City Beneath Her Feet | James Tynion IV | 2024 | U.S. | 4.5 | print | 48 | graphic novel |
 | Bolla | Pajtim Statovci | 2019 | Finland, Kosovo, Serbia | 4.0 | 240 | audio | historical, LGBT, war |
 | Chainsaw Man, Vol. 16: Ordinary Happiness | Tatsuki Fujimoto | 2023 | Japan | 4.0 | ebook | 184 | graphic novel, manga, horror, fantasy |
 | The Bone Fire | György Dragomán | 2014 | Hungary | 4.5 | audio | 482 | fantasy, magical realism |
