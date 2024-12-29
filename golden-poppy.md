@@ -6,7 +6,7 @@ writers and artists who make California their home.
 
 https://caliballiance.org/page/GoldenPoppyAwards
 
-Count: 3
+Count: 4
 
 ## Fiction (2)
 
@@ -58,11 +58,11 @@ Count: 3
 - [ ] 2022: _New From Here_ Kelly Yang
 - [ ] 2023: _Big Tree_ Brian Selznick
 
-## Young Adult (0)
+## Young Adult (1)
 
 - [ ] 2020: _Raybearer_ Jordan Ifueko
 - [ ] 2021: _Squad_ Maggie Tokuda-Hall, illustrated by Lisa Sterle
-- [ ] 2022: _All My Rage_ Sabaa Tahir
+- [x] 2022: _All My Rage_ Sabaa Tahir
 - [ ] 2023: _A Study in Drowning_ by Ava Reid
 
 ## Children's Nonfiction (0)

@@ -6,7 +6,7 @@ publishers nominate books, but panelists may request particular nominations
 from publishers. Each panel comprises five judges, including writers,
 librarians, booksellers, and literary critics.
 
-Count: 15
+Count: 16
 
 ## Fiction (7)
 
@@ -147,7 +147,7 @@ Count: 15
 - [x] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History_
 - [ ] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
 
-## Young People's Literature (2)
+## Young People's Literature (3)
 
 - [ ] 1996: Victor Martinez _Parrott in the Oven: MiVida_
 - [ ] 1997: Han Nolan _Dancing on the Edge_
@@ -175,7 +175,7 @@ Count: 15
 - [ ] 2019: Martin W. Sandler _1919 The Year That Changed America_
 - [ ] 2020: Kacen Callender _King and the Dragonflies_
 - [ ] 2021: Malinda Lo _Last Night at the Telegraph Club_
-- [ ] 2022: Sabaa Tahir _All My Rage_
+- [x] 2022: Sabaa Tahir _All My Rage_
 - [ ] 2023: Dan Santat _A First Time for Everything_
 - [ ] 2024: Shifa Saltagi Safadi _Kareem Between_
 

@@ -6,6 +6,7 @@ book finished in a month is tagged with the month in **bold**.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| All My Rage | Sabaa Tahir | 2022 | U.S., Pakistan | 4.5 | audio | 376 | YA, romance, National Book Award, Golden Poppy Award |
 | The Savage Sword of Conan #6 | Jason Aaron, Michael Downs, Matthew John | 2024 | U.S. | 4.5 | print | 64 | graphic novel, fantasy |
 | Freddie The Fix #1 | Garth Ennis | 2024 | U.S. | 4.0 | print | 80 | graphic novel, supernatural |
 | The City Beneath Her Feet | James Tynion IV | 2024 | U.S. | 4.5 | print | 48 | graphic novel |
