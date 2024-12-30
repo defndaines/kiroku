@@ -4,6 +4,10 @@
 
 tail -n +9 2024-reading.md | wc -l
 
+tail -n +9 2024-reading.md | grep -vc "graphic novel"
+
+tail -n +9 2024-reading.md | grep -c "graphic novel"
+
 ## Authors
 
 tail -n +9 2024-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
@@ -24,6 +28,8 @@ grep -c '| 202[34]' 2024-reading.md
 
 tail -n +9 2024-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
 
+tail -n +9 2024-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
+
 ### Non-U.S. or U.K. works
 
 tail -n +9 2024-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | sort -u
@@ -38,21 +44,31 @@ tail -n +9 2024-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | grep -vc "U\."
 
 tail -n +9 2024-reading.md | grep -vc "nonfiction"
 
+tail -n +9 2024-reading.md | grep -v "graphic novel" | grep -vc "nonfiction"
+
 ### Nonfiction count
 
 tail -n +9 2024-reading.md | grep -c "nonfiction"
+
+tail -n +9 2024-reading.md | grep -v "graphic novel" | grep -c "nonfiction"
 
 ### Genre full list
 
 tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
+tail -n +9 2024-reading.md | grep -v "graphic novel"
+
 ### Most common genres
 
-tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "graphic novel" | grep -v manga | grep -v reread | grep -v novella | sort -n | tail
+tail -n +9 2024-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "graphic novel" | grep -v manga | grep -v reread | grep -v novella | sort -nr | head
 
 ## Formats
 
 tail -n +9 2024-reading.md | cut -d \| -f 7 | sort | uniq -c
+
+tail -n +9 2024-reading.md | grep -v "graphic novel" | cut -d \| -f 7 | sort | uniq -c
+
+tail -n +9 2024-reading.md | grep "graphic novel" | cut -d \| -f 7 | sort | uniq -c
 
 ## Ratings
 
@@ -66,10 +82,11 @@ tail -n +9 2024-reading.md | grep " 5.0 " | cut -d \| -f 2-3
 
 tail -n +9 2024-reading.md | cut -d \| -f 8 | sort -n
 
+tail -n +9 2024-reading.md | grep -v "graphic novel" | cut -d \| -f 8 | sort -n
+
 ## Sort in context
 
 tail -n +9 2024-reading.md | sort -t\| -k 6 -n
-
 
 # Awards
 
