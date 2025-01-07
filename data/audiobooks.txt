@@ -8,7 +8,6 @@ Collected Fictions | Jorge Luis Borges | 4.57 | 5 | short stories, Argentina, ma
 Lonesome Dove | Larry McMurtry | 4.54 | 37 | historical, classics, western, Pulitzer
 Compound Fracture | Andrew Joseph White | 4.53 | 10 | horror, LGBT, YA
 There's Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 4.51 | 9 | nonfiction, memoir, sports, Columbus
-The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook | Hampton Sides | 4.51 | 16 | nonfiction, history, biography
 Demon Copperhead | Barbara Kingsolver | 4.51 | 21 | historical, literary, Pulitzer
 There Are Rivers in the Sky | Elif Shafak | 4.50 | 17 | historical, literary
 Wayward Lives, Beautiful Experiments | Saidiya Hartman | 4.48 | 10 | nonfiction, history, feminism, race
@@ -80,6 +79,7 @@ The Street | Ann Petry | 4.26 | 13 | classics, 1940s Harlem, Black
 The Forest of Vanishing Stars | Kristin Harmel | 4.26 | 11 | historical, literary, Germany, Jewish refugees
 The Collected Stories of Lydia Davis | Lydia Davis | 4.26 | 21 | short stories, literary
 Stories of Your Life and Others | Ted Chiang | 4.26 | 10 | sci-fi, short stories
+Lonely Castle in the Mirror | Mizuki Tsujimura | 4.26 | 13 | fantasy, magical realism, YA, Lit-by-Iris-rec
 Propaganda | Jacques Ellul | 4.25 | 16 | nonfiction, philosophy, politics, psychology
 Monday's Not Coming | Tiffany D. Jackson | 4.25 | 10 | YA, mystery, contemporary
 Hogfather | Terry Pratchett | 4.25 | 11 | fantasy, discworld-20, [Spotify]
