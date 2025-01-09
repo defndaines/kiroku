@@ -114,8 +114,8 @@ Count: 91
 - [ ] Azerbaijan:
 - [ ] Tajikistan:
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
-- [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker
-- [x] Hungary: [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész; [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán 
+- [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker; [_Soldiers and Kings: Survival and Hope in the World of Human Smuggling_](https://www.goodreads.com/book/show/165938555-soldiers-and-kings) Jason De León
+- [x] Hungary: [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész; [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán
 - [ ] United Arab Emirates:
 - [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
 - [x] Austria: Sigmund Freud; [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer

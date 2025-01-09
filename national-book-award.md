@@ -6,7 +6,7 @@ publishers nominate books, but panelists may request particular nominations
 from publishers. Each panel comprises five judges, including writers,
 librarians, booksellers, and literary critics.
 
-Count: 16
+Count: 17
 
 ## Fiction (7)
 
@@ -93,7 +93,7 @@ Count: 16
 - [ ] 2023: Justin Torres _Blackouts_
 - [x] 2024: Percival Everett _James_
 
-## Nonfiction (3)
+## Nonfiction (4)
 
 - [ ] 1950: Ralph L. Rusk _The Life of Ralph Waldo Emerson_
 - [ ] 1951: Newton Arvin _Herman Melville_
@@ -145,7 +145,7 @@ Count: 16
 - [ ] 2021: Tiya Miles _All That She Carried: The Journey of Ashley’s Sack, a Black Family Keepsake_
 - [ ] 2022: Imani Perry _South to America: A Journey Below the Mason-Dixon To Understand the Soul of a Nation_
 - [x] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History_
-- [ ] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
+- [x] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
 
 ## Young People's Literature (3)
 
