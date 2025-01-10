@@ -1,31 +1,27 @@
-They Called Me a Lioness: A Palestinian Girl's Fight for Freedom | Ahed Tamimi | 4.69 | 8 | memoir, nonfiction, Palestine
-The Way of Kings | Brandon Sanderson | 4.66 | 46 | fantasy, stormlight-archive-1
-Libertad | Bessie Flores Zaldivar | 4.66 | 13 | YA, LGBT, Honduras
-The Nightingale | Kristin Hannah | 4.63 | 18 | historical, WWII, occupied France
-The New Fish | Simen Saetre, Kjetil Ostli | 4.61 | 10 | nonfiction, nature, farmed fish, salmon
-They Can't Kill Us Until They Kill Us | Hanif Abdurraqib | 4.57 | 9 | nonfiction, memoir, essays
+They Called Me a Lioness: A Palestinian Girl's Fight for Freedom | Ahed Tamimi | 4.68 | 8 | memoir, nonfiction, Palestine
+The Way of Kings | Brandon Sanderson | 4.67 | 46 | fantasy, stormlight-archive-1
+The Nightingale | Kristin Hannah | 4.64 | 18 | historical, WWII, occupied France
+Libertad | Bessie Flores Zaldivar | 4.60 | 13 | YA, LGBT, Honduras
 Collected Fictions | Jorge Luis Borges | 4.57 | 5 | short stories, Argentina, magical realism
+They Can't Kill Us Until They Kill Us | Hanif Abdurraqib | 4.56 | 9 | nonfiction, memoir, essays
+The New Fish | Simen Saetre, Kjetil Ostli | 4.56 | 10 | nonfiction, nature, farmed fish, salmon
 Lonesome Dove | Larry McMurtry | 4.54 | 37 | historical, classics, western, Pulitzer
 Compound Fracture | Andrew Joseph White | 4.53 | 10 | horror, LGBT, YA
-There's Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 4.51 | 9 | nonfiction, memoir, sports, Columbus
-Demon Copperhead | Barbara Kingsolver | 4.51 | 21 | historical, literary, Pulitzer
-There Are Rivers in the Sky | Elif Shafak | 4.50 | 17 | historical, literary
-Wayward Lives, Beautiful Experiments | Saidiya Hartman | 4.48 | 10 | nonfiction, history, feminism, race
-The Reformatory | Tananarive Due | 4.48 | 21 | horror, historical
-The Final Empire | Brandon Sanderson | 4.48 | 25 | fantasy, mistborn-1
-When the World Fell Silent | Donna Jones Alward | 4.47 | 13 | historical, Halifax Nova Scotia, [Spotify]
-How to Say Babylon | Safiya Sinclair | 4.47 | 17 | memoir, nonfiction, feminism
-Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis | Jonathan Blitzer | 4.47 | 18 | nonfiction, history, politics, nyt-10-best-2024
-Crossings | Ben Goldfarb | 4.45 | 12 | nonfiction, nature, science, roads
-Brotherless Night | V.V. Ganeshananthan | 4.45 | 13 | literary, historical, Sri Lanka, Carol Shields Prize, Womens Prize
-Black Against Empire: The History and Politics of the Black Panther Party | Joshua Bloom, Waldo E. Martin Jr. | 4.45 | 18 | nonfiction, history, politics, race
-Arch of Triumph | Erich Maria Remarque | 4.42 | 16 | historical, literary, 1939 refugee in Paris
+Mistborn: The Final Empire | Brandon Sanderson | 4.49 | 25 | fantasy, mistborn-1 (start here)
+Demon Copperhead | Barbara Kingsolver | 4.49 | 21 | historical, literary, Pulitzer
+Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis | Jonathan Blitzer | 4.48 | 18 | nonfiction, history, politics, nyt-10-best-2024
+The Reformatory | Tananarive Due | 4.46 | 21 | horror, historical
+Brotherless Night | V.V. Ganeshananthan | 4.46 | 13 | literary, historical, Sri Lanka, Carol Shields Prize, Womens Prize
+Black Against Empire: The History and Politics of the Black Panther Party | Joshua Bloom, Waldo E. Martin Jr. | 4.46 | 18 | nonfiction, history, politics, race
+Wayward Lives, Beautiful Experiments | Saidiya Hartman | 4.45 | 10 | nonfiction, history, feminism, race
+There Are Rivers in the Sky | Elif Shafak | 4.45 | 17 | historical, literary
+Crossings: How Road Ecology Is Shaping the Future of Our Planet | Ben Goldfarb | 4.44 | 12 | nonfiction, nature, science, roads
+Arch of Triumph | Erich Maria Remarque | 4.43 | 16 | historical, literary, 1939 refugee in Paris
 Where I'm Calling From | Raymond Carver | 4.41 | 17 | short stories, literary
 Madonna in a Fur Coat | Sabahattin Ali | 4.41 | 6 | Türkiye, romance
 Going Postal | Terry Pratchett | 4.40 | 11 | fantasy, humor, discworld-33
 Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System | Alec Karakatsanis | 4.39 | 4 | nonfiction, law, politics, social justice, history, race
 Jayber Crow | Wendell Berry | 4.39 | 14 | historical, classics
-A Day of Fallen Night | Samantha Shannon | 4.39 | 39 | fantasy, LGBT, U.K., priory-orange-prequel
 Take My Hand | Dolen Perkins-Valdez | 4.38 | 11 | historical, literary, Black, 1973 Alabama
 A Bond Undone | Jin Yong | 4.38 | 18 | China, fantasy, historical, sequel-Hero-Born
 A Closed and Common Orbit | Becky Chambers | 4.37 | 11 | sci-fi, LGBT, wayfarers-2
@@ -33,6 +29,7 @@ Warrior Girl Unearthed | Angeline Boulley | 4.36 | 12 | YA, mystery, thriller, i
 The Power of the Dog | Don Winslow | 4.36 | 20 | mystery, thriller, drug trade
 The Art of Losing | Alice Zeniter | 4.36 | 18 | literary, historical, Algeria, International Dublin Literary, unread-country
 In Other Lands | Sarah Rees Brennan | 4.36 | 17 | fantasy, YA, LGBT
+There's Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 4.35 | 9 | nonfiction, memoir, sports, Columbus
 The Cartel | Don Winslow | 4.35 | 23 | mystery, thriller, 2004 drugs
 The Unsettling of America: Culture and Agriculture | Wendell Berry | 4.34 | 13 | nonfiction, food, agriculture, nature
 The Conquering Sword of Conan | Robert E. Howard | 4.34 | 18 | fantasy, sequel-3
@@ -52,7 +49,6 @@ Stormbringer | Michael Moorcock | 4.31 | 28 | fantasy, classics, elric-2
 Shuggie Bain | Douglas Stuart | 4.31 | 18 | historical, literary, LGBT, Booker
 All the Frequent Troubles of Our Days | Rebecca Donner | 4.31 | 14 | nonfiction, biography, history, Nazi resistance
 A Deepness in the Sky | Vernor Vinge | 4.31 | 28 | sci-fi, Hugo, sequel-AFUtD
-Warbreaker | Brandon Sanderson | 4.30 | 25 | fantasy, cosmere-14
 Thelonious Monk | Robin DG Kelley | 4.30 | 26 | nonfiction, biography, music
 The Shadow of the Wind | Carlos Ruiz Zafón | 4.30 | 18 | historical, mystery, literary
 The Lies of Locke Lamora | Scott Lynch | 4.30 | 23 | fantasy, gentleman-bastard-1
@@ -61,6 +57,7 @@ Tell Me How Long the Train's Been Gone | James Baldwin | 4.30 | 15 | classics, L
 Leviathan Wakes | James S.A. Corey | 4.30 | 21 | sci-fi, expanse-1
 From Here to Eternity | Caitlin Doughty | 4.30 | 6 | nonfiction, death, science, travel
 Another Country | James Baldwin | 4.30 | 16 | literary, classics, LGBT
+When the World Fell Silent | Donna Jones Alward | 4.29 | 13 | historical, Halifax Nova Scotia, [Spotify]
 The Great Believers | Rebecca Makkai | 4.29 | 18 | historical, LGBT, literary, Carnegie Medal
 Solenoid | Mircea Cărtărescu | 4.29 | 34 | literary, Romania, International Dublin Literary
 Letters to a Young Poet | Rainer Maria Rilke | 4.29 | 3 | nonfiction, poetry, essays, classics, Austria
@@ -73,7 +70,6 @@ Exhalation | Ted Chiang | 4.28 | 11 | sci-fi, literary, short stories, Hugo
 Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed | Dashka Slater | 4.28 | 9 | nonfiction, race
 Our Share of Night | Mariana Enríquez | 4.27 | 27 | horror, historical, fantasy, LGBT
 If Beale Street Could Talk | James Baldwin | 4.27 | 7 | classics, literary, romance
-Dune | Frank Herbert | 4.27 | 21 | sci-fi, classics, reread, Hugo, Nebula
 Trickster's Choice | Tamora Pierce | 4.26 | 12 | fantasy, YA
 The Street | Ann Petry | 4.26 | 13 | classics, 1940s Harlem, Black
 The Forest of Vanishing Stars | Kristin Harmel | 4.26 | 11 | historical, literary, Germany, Jewish refugees
@@ -212,7 +208,6 @@ Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Inde
 The Fox Wife | Yangsze Choo | 4.01 | 15 | fantasy, historical, mythology, our-opinions-are-correct-rec
 Shadow of the Fox | Julie Kagawa | 4.01 | 15 | YA, fantasy, shadow-of-the-fox-1
 Salka Valka | Halldor Laxness | 4.01 | 19 | classics, Iceland, Nobel, 1931, unread-country
-Open Throat | Henry Hoke | 4.01 | 2 | literary, LGBT, Hollywood mountain lion
 Norwegian Wood | Haruki Murakami | 4.01 | 13 | literary, romance, Japan
 No Longer Human | Osamu Dazai | 4.01 | 4 | literary, classics, Japan
 Cloud Atlas | David Mitchell | 4.01 | 20 | sci-fi, literary
@@ -413,4 +408,3 @@ Waste Tide | Chen Qiufan | 3.32 | 12 | sci-fi, China
 Dare Me | Megan Abbott | 3.24 | 9 | contemporary, mystery, thriller, YA, cheerleaders
 Everfair | Nisi Shawl | 3.20 | 13 | fantasy, steampunk, Jemisin-rec
 City of Ash and Red | Hye-Young Pyun | 3.14 | 6 | horror, sci-fi, Korea, Kafkaesque
-Escape Velocity | Victor Manibo | 3.13 | 9 | sci-fi
