@@ -315,6 +315,7 @@ In the Company of Men | Véronique Tadjo | 3.82 | 3 | literary, historical, Ebol
 Hild | Nicola Griffith | 3.82 | 24 | historical, fantasy, LGBT, England
 A Farewell to Arms | Ernest Hemingway | 3.82 | 9 | war, Nobel
 The Vaster Wilds | Lauren Groff | 3.81 | 7 | historical, literary, America
+The Decagon House Murders | Yukito Ayatsuji | 3.81 | 9 | mystery
 Nova | Samuel R. Delany | 3.81 | 9 | sci-fi
 Heaven | Mieko Kawakami | 3.81 | 6 | contemporary, literary, Japan
 To the Lighthouse | Virginia Woolf | 3.80 | 8 | literary, classics
@@ -323,6 +324,7 @@ Remain Silent | Susie Steiner | 3.80 | 10 | mystery
 Evergreen | Naomi Hirahara | 3.80 | 9 | historical, mystery, sequel-Clark-and-Division
 The Changeling | Victor LaValle | 3.79 | 14 | horror, fantasy, literary, World Fantasy
 African Europeans: An Untold History | Olivette Otélé | 3.79 | 9 | nonfiction, history, race, our-opinions-are-correct-rec
+A Pale View of Hills | Kazuo Ishiguro | 3.79 | 6 | historical, literary, Nobel
 A Head Full of Ghosts | Paul Tremblay | 3.79 | 9 | horror, mystery, thriller, New England
 The Grace of Kings | Ken Liu | 3.78 | 22 | fantasy, Locus, dandelion-dynasty-1
 And Put Away Childish Things | Adrian Tchaikovsky | 3.78 | 5 | fantasy, sci-fi
@@ -332,6 +334,7 @@ History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGB
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
 The Knowledge: How to Rebuild Our World from Scratch | Lewis Dartnell | 3.76 | 9 | nonfiction, science, technology, history
 Strike the Zither | Joan He | 3.76 | 11 | fantasy, YA, historical, 414 China
+Kusamakura | Natsume Sōseki | 3.76 | 7 | literary, classics
 Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
 Blood of the Old Kings | Sung-Il Kim | 3.76 | 10 | fantasy, Willow-rec
 Annihilation | Jeff VanderMeer | 3.76 | 6 | sci-fi, horror, Nebula, southern-reach-1
