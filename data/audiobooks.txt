@@ -91,6 +91,7 @@ The Shadow of the Gods | John Gwynne | 4.23 | 19 | fantasy, bloodsworn-1
 The Perks of Being a Wallflower | Stephen Chbosky | 4.23 | 6 | YA, classics, contemporary, mental health
 Martyr! | Kaveh Akbar | 4.23 | 11 | literary, LGBT, nyt-10-best-2024
 Beautyland | Marie-Helene Bertino | 4.23 | 9 | literary, sci-fi
+The Blacktongue Thief | Christopher Buehlman | 4.22 | 13 | fantasy, horror
 Reform or Revolution and Other Writings | Rosa Luxemburg | 4.22 | 3 | nonfiction, economics, philosophy, politics, [hoopla]
 Halfway Home | Reuben Jonathan Miller | 4.22 | 8 | nonfiction, sociology, race, incarceration
 Revolutionary Spring | Christopher Clark | 4.21 | 33 | nonfiction, 1848, history
@@ -190,7 +191,7 @@ Empire of Silence | Christopher Ruocchio | 4.05 | 26 | sci-fi, fantasy, sun-eate
 Alien Clay | Adrian Tchaikovsky | 4.05 | 14 | sci-fi
 The Book of Doors | Gareth Brown | 4.04 | 13 | fantasy
 Startide Rising | David Brin | 4.04 | 17 | sci-fi, Hugo, Nebula, Locus
-Nervous Conditions | Tsitsi Dangarembga | 4.04 | 10 | historical, classics, literary, Zimbabwe
+Nervous Conditions | Tsitsi Dangarembga | 4.04 | 10 | historical, classics, literary, Zimbabwe, Emmie-rec
 Neighbors and Other Stories | Diane Oliver | 4.04 | 8 | short stories, historical, literary, race
 Metal from Heaven | August Clarke | 4.04 | 15 | fantasy, LGBT, sci-fi, our-opinions-are-correct-rec
 Field Notes from a Catastrophe: Man, Nature, and Climate Change | Elizabeth Kolbert | 4.04 | 5 | nonfiction, nature, politics, science
@@ -199,9 +200,9 @@ A Master of Djinn | P. Djèlí Clark | 4.04 | 16 | sci-fi, fantasy, LGBT, myster
 Trespasses | Louise Kennedy | 4.03 | 9 | historical, literary, Northern, Ireland
 Witches, Midwives, and Nurses: A History of Women Healers | Barbara Ehrenreich, Deirdre English | 4.02 | 2 | nonfiction, history, feminism, health
 Walk the Blue Fields | Claire Keegan | 4.02 | 5 | short stories, literary
-The Ocean at the End of the Lane | Neil Gaiman | 4.02 | 6 | fantasy, horror, magical realism, Locus
 Metro 2033 | Dmitry Glukhovsky | 4.02 | 22 | sci-fi, dystopian, horror, fantasy
 Little | Edward Carey | 4.02 | 14 | historical, 1700s Paris
+Fortune Favors the Dead | Stephen Spotswood | 4.02 | 9 | mystery, historical, LGBT, Sunny-Lu-rec
 Bright Young Women | Jessica Knoll | 4.02 | 13 | thriller, historical, serial killer
 A Short History of Reconstruction | Eric Foner | 4.02 | 13 | nonfiction, history
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence | Kristen R. Ghodsee | 4.01 | 5 | nonfiction, feminism, history, politics
@@ -264,6 +265,7 @@ Mongrels | Stephen Graham Jones | 3.93 | 10 | horror, werewolves, indigenous
 Black Bottom Saints | Alice Randall | 3.93 | 12 | historical, Black, Detroit
 Bel Canto | Ann Patchett | 3.93 | 11 | literary, contemporary, South, America, terrorism/hostages, Womens Prize
 Titus Groan | Mervyn Peake | 3.92 | 17 | classics, fantasy, gothic, 1946, gormenghast-1
+The Lions' Den | Iris Mwanza | 3.92 | 7 | LGBT, mystery, unread-country, Zambia, Eric-Karl-Anderson-rec
 The Good Lord Bird | James McBride | 3.92 | 15 | historical, National Book
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.92 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Split Tooth | Tanya Tagaq | 3.92 | 6 | poetry, historical, literary, magical realism, indigenous
@@ -339,7 +341,6 @@ Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
 Blood of the Old Kings | Sung-Il Kim | 3.76 | 10 | fantasy, Willow-rec
 Annihilation | Jeff VanderMeer | 3.76 | 6 | sci-fi, horror, Nebula, southern-reach-1
 A Doll's House | Henrik Ibsen | 3.76 | 2 | play, classics, Norway
-The Old Drift | Namwali Serpell | 3.75 | 25 | historical, literary, Zambia, unread-country
 Native Speaker | Chang-rae Lee | 3.75 | 11 | contemporary, literary, ABA, Korean-American
 Klara and the Sun | Kazuo Ishiguro | 3.75 | 11 | sci-fi, literary
 Blood of the Old Kings | Sung-Il Kim | 3.75 | 10 | fantasy
@@ -347,6 +348,7 @@ All the Lovers in the Night | Mieko Kawakami | 3.75 | 8 | contemporary, literary
 I'm Waiting for You and Other Stories | Kim Bo-young | 3.74 | 10 | sci-fi, short stories
 Clown in a Cornfield | Adam Cesare | 3.74 | 9 | horror, YA
 1177 B.C.: The Year Civilization Collapsed | Eric H. Cline | 3.74 | 11 | nonfiction, history, archeology
+The Old Drift | Namwali Serpell | 3.73 | 25 | historical, literary, Zambia, unread-country
 The Island of Dr. Moreau | H. G. Wells | 3.73 | 5 | sci-fi, horror, classics
 Mobility | Lydia Kiesling | 3.73 | 11 | historical, literary, Azerbaijan, unread-country
 Lone Women | Victor LaValle | 3.73 | 9 | horror, historical, fantasy
@@ -372,6 +374,7 @@ Body Horror | Anne Elizabeth Moore | 3.68 | 8 | nonfiction, feminism
 A Time of Changes | Robert Silverberg | 3.68 | 8 | sci-fi
 The Luminous Dead | Caitlin Starling | 3.67 | 14 | sci-fi, horror, LGBT
 The Initial Insult | Mindy McGinnis | 3.67 | 8 | YA, horror, thriller
+The Hurricane Wars | Thea Guanzon | 3.67 | 17 | romantasy, Willow-rec
 Pink Slime | Fernanda Trías | 3.67 | 6 | horror, dystopian, Uruguay, unread-country
 Girl in a Band | Kim Gordon | 3.67 | 7 | nonfiction, memoir, music
 Ice | Anna Kavan | 3.66 | 6 | sci-fi, dystopian, classics
