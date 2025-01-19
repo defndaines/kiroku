@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Knife: Meditations After an Attempted Murder | Salman Rushdie | 2024 | U.S.  | 4.0 | audio | 209 | nonfiction, memoir, crime |
 | Butter: A Novel of Food and Murder | Asako Yuzuki | 2017 | Japan | 4.5 | audio | 452 | thriller, mystery, crime |
 | Headshot | Rita Bullwinkel | 2024 | U.S. | 3.5 | audio | 224 | literary, sports |
 | The United States Governed by Six Hundred Thousand Despots: A True Story of Slavery; A Rediscovered Narrative, with a Full Biography | John Swanson Jacobs | 1855 | U.S., Australia | 4.0 | print | 109 | history, nonfiction, memoir, race |
