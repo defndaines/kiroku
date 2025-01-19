@@ -85,6 +85,7 @@ Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge | Benja
 House of Suns | Alastair Reynolds | 4.24 | 18 | sci-fi
 Dearborn | Ghassan Zeineddine | 4.24 | 8 | short stories, literary, contemporary
 Circe | Madeline Miller | 4.24 | 12 | fantasy, Greek, mythology, literary
+Black Butterflies | Priscilla Morris | 4.24 | 7 | literary, historical, war, unread-country, Bosnia and Herzegovina
 Theft of Swords | Michael J. Sullivan | 4.23 | 23 | fantasy, riyria-revelations-1
 The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin | Ursula K. Le Guin | 4.23 | 26 | short stories, fantasy, sci-fi
 The Shadow of the Gods | John Gwynne | 4.23 | 19 | fantasy, bloodsworn-1
@@ -269,6 +270,7 @@ The Lions' Den | Iris Mwanza | 3.92 | 7 | LGBT, mystery, unread-country, Zambia,
 The Good Lord Bird | James McBride | 3.92 | 15 | historical, National Book
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.92 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Split Tooth | Tanya Tagaq | 3.92 | 6 | poetry, historical, literary, magical realism, indigenous
+No Right to An Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline A. Jones | 3.92 | 17 | nonfiction, history, politics, war
 If I Ever Get Out of Here | Eric Gansworth | 3.92 | 10 | YA, historical, indigenous
 Wolf Hall | Hilary Mantel | 3.91 | 23 | historical, literary, Booker
 The Alchemist | Paulo Coelho | 3.91 | 4 | classics, fantasy, literary
