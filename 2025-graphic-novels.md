@@ -1,6 +1,7 @@
 # Graphic Novels Read in 2025
 
-Separating out graphic novels, comics, and manga from other books read.
+Separating out graphic novels and manga from other books read. Typically not
+including single-issue comic books in the standard format.
 
 Tags to include information such as genre. The most recently finished book is
 on top.

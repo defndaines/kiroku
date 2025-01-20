@@ -4,7 +4,7 @@
 
 tail -n +8 2025-reading.md | wc -l
 
-tail -n +10 2025-graphic-novels.md | wc -l
+tail -n +11 2025-graphic-novels.md | wc -l
 
 ## Authors
 
@@ -42,19 +42,19 @@ tail -n +8 2025-reading.md | grep -vc "U\.[SK]\."
 
 tail -n +8 2025-reading.md | grep -vc "nonfiction"
 
-tail -n +10 2025-graphic-novels.md | grep -vc "nonfiction"
+tail -n +11 2025-graphic-novels.md | grep -vc "nonfiction"
 
 ### Nonfiction count
 
 tail -n +8 2025-reading.md | grep -c "nonfiction"
 
-tail -n +10 2025-graphic-novels.md | grep -c "nonfiction"
+tail -n +11 2025-graphic-novels.md | grep -c "nonfiction"
 
 ### Genre full list
 
 tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
-tail -n +10 2025-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+tail -n +11 2025-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
 ### Most common genres
 
@@ -64,7 +64,7 @@ tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' |
 
 tail -n +8 2025-reading.md | cut -d \| -f 7 | sort | uniq -c
 
-tail -n +10 2025-graphic-novels.md | cut -d \| -f 7 | sort | uniq -c
+tail -n +11 2025-graphic-novels.md | cut -d \| -f 7 | sort | uniq -c
 
 ## Ratings
 
@@ -80,9 +80,9 @@ tail -n +8 2025-reading.md | cut -d \| -f 8 | sort -n
 
 tail -n +8 2025-reading.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
-tail -n +10 2025-graphic-novels.md | cut -d \| -f 8 | sort -n
+tail -n +11 2025-graphic-novels.md | cut -d \| -f 8 | sort -n
 
-tail -n +10 2025-graphic-novels.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +11 2025-graphic-novels.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
 ## Sort in context (e.g., rating [6] or pages [8])
 
