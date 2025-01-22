@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| H.P. Lovecraft's The Call of Cthulhu | Tanabe Gou | 2019 | Japan | 4.5 | ebook | 282 | horror, manga, literary, fantasy, historical |
 | War on Gaza | Joe Sacco | 2024 | U.S., Palestine, Israel | 5.0 | print | 32 | nonfiction, war, genocide |
 | Traveling to Mars | Mark Russell | 2024 | U.S. | 4.5 | ebook | 228 | sci-fi |
 | We Sing From the Heart: How The Slants® Took Their Fight for Free Speech to the Supreme Court | Mia Wenjen | 2024 | U.S. | 3.5 | ebook | 37 | nonfiction, history, music, biography |

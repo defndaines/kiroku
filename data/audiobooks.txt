@@ -161,7 +161,7 @@ A Wolf at the Schoolhouse Door | Jack Schneider, Jennifer C. Berkshire | 4.10 | 
 Tigana | Guy Gavriel Kay | 4.09 | 25 | fantasy
 Four Treasures of the Sky | Jenny Tinghui Zhang | 4.09 | 12 | historical, literary, China-U.S.
 Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonfiction, feminism, history
-10 Minutes 38 Seconds in This Strange World | Elif Shafak | 4.09 | 9 | literary, contemporary, Emily-Fox-rec
+10 Minutes 38 Seconds in This Strange World | Elif Shafak | 4.09 | 9 | literary, contemporary, Emily-Fox-rec, Emmie-rec
 We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 4.08 | 15 | historical, literary, Tibet, unread-country
 The Humans | Matt Haig | 4.08 | 8 | sci-fi
 Stolen | Ann-Helén Laestadius | 4.08 | 13 | literary, contemporary, Sweden, indigenous
@@ -345,7 +345,6 @@ Annihilation | Jeff VanderMeer | 3.76 | 6 | sci-fi, horror, Nebula, southern-rea
 A Doll's House | Henrik Ibsen | 3.76 | 2 | play, classics, Norway
 Native Speaker | Chang-rae Lee | 3.75 | 11 | contemporary, literary, ABA, Korean-American
 Klara and the Sun | Kazuo Ishiguro | 3.75 | 11 | sci-fi, literary
-Blood of the Old Kings | Sung-Il Kim | 3.75 | 10 | fantasy
 All the Lovers in the Night | Mieko Kawakami | 3.75 | 8 | contemporary, literary, Japan
 I'm Waiting for You and Other Stories | Kim Bo-young | 3.74 | 10 | sci-fi, short stories
 Clown in a Cornfield | Adam Cesare | 3.74 | 9 | horror, YA

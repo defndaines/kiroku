@@ -61,7 +61,6 @@ The Last Day | Owain Owain | 4.07 | 136 | fiction, Welsh
 Praiseworthy | Alexis Wright | 4.05 | 736 | literary, Australia, Stella Prize
 Open Water | Caleb Azumah Nelson | 4.05 | 145 | contemporary, literary
 Eve out of Her Ruins | Ananda Devi | 4.05 | 155 | literary, Mauritius, unread-country
-Beauty Is a Wound | Eka Kurniawan | 4.05 | 470 | historical, magical realism, Indonesia, unread-country
 The Tale of the Heike | Royall Tyler | 4.04 | 489 | classics, historical, Japan
 Night Prayers | Santiago Gamboa | 4.04 | 320 | contemporary, crime, Colombia
 Mis(h)adra | Iasmin Omar Ata | 4.04 | 288 | comics, Arab-American
@@ -119,7 +118,6 @@ The Death of Artemio Cruz | Carlos Fuentes | 3.86 | 307 | classics, literary, 19
 Sinking Bell | Bojan Louis | 3.86 | 192 | short stories, indigenous, Navajo
 Rupetta | Nike Sulway | 3.86 | 352 | sci-fi, [owned]
 Redshirts | John Scalzi | 3.86 | 320 | sci-fi, [owned]
-The Use of Photography | Annie Ernaux, Marc Marie | 3.85 | 127 | nonfiction, memoir, Nobel
 Hills Like White Elephants | Ernest Hemingway | 3.85 | 6 | classics, short stories, Nobel
 The Thorn Puller | Hiromi Ito | 3.84 | 300 | contemporary, literary, Japan, U.S.
 Mumbo Jumbo | Ishmael Reed | 3.84 | 224 | classics, literary, race, historical
