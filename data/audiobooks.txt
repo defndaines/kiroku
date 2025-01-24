@@ -1,15 +1,15 @@
 They Called Me a Lioness: A Palestinian Girl's Fight for Freedom | Ahed Tamimi | 4.68 | 8 | memoir, nonfiction, Palestine
 The Way of Kings | Brandon Sanderson | 4.67 | 46 | fantasy, stormlight-archive-1
 The Nightingale | Kristin Hannah | 4.64 | 18 | historical, WWII, occupied France
-Libertad | Bessie Flores Zaldivar | 4.60 | 13 | YA, LGBT, Honduras
+Libertad | Bessie Flores Zaldivar | 4.59 | 13 | YA, LGBT, Honduras
 Collected Fictions | Jorge Luis Borges | 4.57 | 5 | short stories, Argentina, magical realism
 They Can't Kill Us Until They Kill Us | Hanif Abdurraqib | 4.56 | 9 | nonfiction, memoir, essays
 The New Fish | Simen Saetre, Kjetil Ostli | 4.56 | 10 | nonfiction, nature, farmed fish, salmon
 Lonesome Dove | Larry McMurtry | 4.54 | 37 | historical, classics, western, Pulitzer
-Compound Fracture | Andrew Joseph White | 4.53 | 10 | horror, LGBT, YA
 Mistborn: The Final Empire | Brandon Sanderson | 4.49 | 25 | fantasy, mistborn-1 (start here)
 Demon Copperhead | Barbara Kingsolver | 4.49 | 21 | historical, literary, Pulitzer
-Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis | Jonathan Blitzer | 4.48 | 18 | nonfiction, history, politics, nyt-10-best-2024
+Compound Fracture | Andrew Joseph White | 4.49 | 10 | horror, LGBT, YA
+Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis | Jonathan Blitzer | 4.47 | 18 | nonfiction, history, politics, nyt-10-best-2024
 The Reformatory | Tananarive Due | 4.46 | 21 | horror, historical
 Brotherless Night | V.V. Ganeshananthan | 4.46 | 13 | literary, historical, Sri Lanka, Carol Shields Prize, Womens Prize
 Black Against Empire: The History and Politics of the Black Panther Party | Joshua Bloom, Waldo E. Martin Jr. | 4.46 | 18 | nonfiction, history, politics, race
@@ -17,27 +17,28 @@ Wayward Lives, Beautiful Experiments | Saidiya Hartman | 4.45 | 10 | nonfiction,
 There Are Rivers in the Sky | Elif Shafak | 4.45 | 17 | historical, literary
 Crossings: How Road Ecology Is Shaping the Future of Our Planet | Ben Goldfarb | 4.44 | 12 | nonfiction, nature, science, roads
 Arch of Triumph | Erich Maria Remarque | 4.43 | 16 | historical, literary, 1939 refugee in Paris
+The Barn: The Secret History of a Murder in Mississippi | Wright Thompson | 4.42 | 12 | nonfiction, history, crime, race
 Where I'm Calling From | Raymond Carver | 4.41 | 17 | short stories, literary
 Madonna in a Fur Coat | Sabahattin Ali | 4.41 | 6 | Türkiye, romance
 Going Postal | Terry Pratchett | 4.40 | 11 | fantasy, humor, discworld-33
 Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System | Alec Karakatsanis | 4.39 | 4 | nonfiction, law, politics, social justice, history, race
 Jayber Crow | Wendell Berry | 4.39 | 14 | historical, classics
-Take My Hand | Dolen Perkins-Valdez | 4.38 | 11 | historical, literary, Black, 1973 Alabama
 A Bond Undone | Jin Yong | 4.38 | 18 | China, fantasy, historical, sequel-Hero-Born
 A Closed and Common Orbit | Becky Chambers | 4.37 | 11 | sci-fi, LGBT, wayfarers-2
 Warrior Girl Unearthed | Angeline Boulley | 4.36 | 12 | YA, mystery, thriller, indigenous
 The Power of the Dog | Don Winslow | 4.36 | 20 | mystery, thriller, drug trade
 The Art of Losing | Alice Zeniter | 4.36 | 18 | literary, historical, Algeria, International Dublin Literary, unread-country
+Take My Hand | Dolen Perkins-Valdez | 4.36 | 11 | historical, literary, Black, 1973 Alabama
 In Other Lands | Sarah Rees Brennan | 4.36 | 17 | fantasy, YA, LGBT
 There's Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 4.35 | 9 | nonfiction, memoir, sports, Columbus
 The Cartel | Don Winslow | 4.35 | 23 | mystery, thriller, 2004 drugs
 The Unsettling of America: Culture and Agriculture | Wendell Berry | 4.34 | 13 | nonfiction, food, agriculture, nature
 The Conquering Sword of Conan | Robert E. Howard | 4.34 | 18 | fantasy, sequel-3
 All the Colors of the Dark | Chris Whitaker | 4.34 | 15 | mystery, thriller, historical, Emily-Fox-rec
+The Story of Jane: The Legendary Underground Feminist Abortion Service | Laura Kaplan | 4.33 | 11 | nonfiction, history, feminism
 The Song of Achilles | Madeline Miller | 4.33 | 11 | fantasy, historical, romance
 Humankind: A Hopeful History | Rutger Bregman | 4.33 | 12 | nonfiction, history, philosophy, psychology
 A Desolation Called Peace | Arkady Martine | 4.33 | 18 | sci-fi, LGBT, Hugo, Locus, sequel
-The Story of Jane: The Legendary Underground Feminist Abortion Service | Laura Kaplan | 4.32 | 11 | nonfiction, history, feminism
 The Road Back | Erich Maria Remarque | 4.32 | 11 | classics, Germany, sequel-AQotWF
 A Day in the Life of Abed Salama | Nathan Thrall | 4.32 | 7 | nonfiction, history, politics, Jerusalem
 The Tainted Cup | Robert Jackson Bennett | 4.31 | 14 | fantasy, mystery, Emily-Fox-rec
@@ -62,10 +63,10 @@ The Great Believers | Rebecca Makkai | 4.29 | 18 | historical, LGBT, literary, C
 Solenoid | Mircea Cărtărescu | 4.29 | 34 | literary, Romania, International Dublin Literary
 Letters to a Young Poet | Rainer Maria Rilke | 4.29 | 3 | nonfiction, poetry, essays, classics, Austria
 I Know Why the Caged Bird Sings | Maya Angelou | 4.29 | 10 | autobiography, nonfiction
-Girl, Woman, Other | Bernardine Evaristo | 4.29 | 11 | contemporary, LGBT, literary, British, feminism, Black, Booker
 The Wall | John Hersey | 4.28 | 29 | historical, Warsaw ghetto
 The Player of Games | Iain M. Banks | 4.28 | 11 | sci-fi, culture-2
 Slewfoot: A Tale of Bewitchery | Brom | 4.28 | 14 | horror, fantasy, historical
+Girl, Woman, Other | Bernardine Evaristo | 4.28 | 11 | contemporary, LGBT, literary, British, feminism, Black, Booker
 Exhalation | Ted Chiang | 4.28 | 11 | sci-fi, literary, short stories, Hugo
 Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed | Dashka Slater | 4.28 | 9 | nonfiction, race
 Our Share of Night | Mariana Enríquez | 4.27 | 27 | horror, historical, fantasy, LGBT
@@ -109,12 +110,12 @@ The Eye of the World | Robert Jordan | 4.19 | 33 | fantasy, wheel-of-time-1
 The Years | Annie Ernaux | 4.18 | 8 | France, nonfiction, memoir, literary, Nobel
 Paladin of Souls | Lois McMaster Bujold | 4.18 | 16 | fantasy, Hugo, Locus, Nebula
 Mind of My Mind | Octavia E. Butler | 4.18 | 8 | sci-fi, fantasy, sequel, patternmaster-2
+Guns of the Dawn | Adrian Tchaikovsky | 4.18 | 21 | steampunk
 Erasure | Percival Everett | 4.18 | 8 | literary, race
 Children of Ash and Elm: A History of the Vikings | Neil Price | 4.18 | 17 | history, nonfiction
 Almond | Won-pyung Sohn | 4.18 | 5 | contemporary, literary, Korea
 The Horse | Willy Vlautin | 4.17 | 6 | literary, Jason-De_León-rec
 Interpreter of Maladies | Jhumpa Lahiri | 4.17 | 6 | short stories, literary
-Guns of the Dawn | Adrian Tchaikovsky | 4.17 | 21 | steampunk
 Anathem | Neal Stephenson | 4.17 | 32 | sci-fi, fantasy, Locus
 We Still Belong | Christine Day | 4.16 | 4 | YA, indigenous
 The Last Unicorn | Peter S. Beagle | 4.16 | 8 | fantasy, YA, classics
@@ -163,6 +164,7 @@ Four Treasures of the Sky | Jenny Tinghui Zhang | 4.09 | 12 | historical, litera
 Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonfiction, feminism, history
 10 Minutes 38 Seconds in This Strange World | Elif Shafak | 4.09 | 9 | literary, contemporary, Emily-Fox-rec, Emmie-rec
 We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 4.08 | 15 | historical, literary, Tibet, unread-country
+The Yellow Wallpaper and Other Stories | Charlotte Perkins Gilman | 4.08 | 5 | classics, feminism, short stories, 1892
 The Humans | Matt Haig | 4.08 | 8 | sci-fi
 Stolen | Ann-Helén Laestadius | 4.08 | 13 | literary, contemporary, Sweden, indigenous
 Insane: America's Criminal Treatment of Mental Illness | Alisa Roth | 4.08 | 10 | nonfiction, politics, psychology, mental health
@@ -183,7 +185,6 @@ Equal Rites | Terry Pratchett | 4.06 | 7 | fantasy, humor, discworld-3
 Elric of Melniboné | Michael Moorcock | 4.06 | 24 | fantasy, classics, elric-1
 A Woman of Pleasure | Kiyoko Murata | 4.06 | 8 | historical, Willow-rec
 Zeitoun | Dave Eggers | 4.05 | 10 | nonfiction, biography, history, Katrina
-The Yellow Wallpaper and Other Stories | Charlotte Perkins Gilman | 4.05 | 5 | classics, feminism, short stories, 1892
 The Traitor Baru Cormorant | Seth Dickinson | 4.05 | 14 | fantasy, LGBT, sci-fi
 The Housekeeper and the Professor | Yoko Ogawa | 4.05 | 6 | contemporary, literary, Japan
 SPQR: A History of Ancient Rome | Mary Beard | 4.05 | 19 | nonfiction, history
@@ -268,7 +269,6 @@ Bel Canto | Ann Patchett | 3.93 | 11 | literary, contemporary, South, America, t
 Titus Groan | Mervyn Peake | 3.92 | 17 | classics, fantasy, gothic, 1946, gormenghast-1
 The Lions' Den | Iris Mwanza | 3.92 | 7 | LGBT, mystery, unread-country, Zambia, Eric-Karl-Anderson-rec
 The Good Lord Bird | James McBride | 3.92 | 15 | historical, National Book
-The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.92 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Split Tooth | Tanya Tagaq | 3.92 | 6 | poetry, historical, literary, magical realism, indigenous
 No Right to An Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline A. Jones | 3.92 | 17 | nonfiction, history, politics, war
 If I Ever Get Out of Here | Eric Gansworth | 3.92 | 10 | YA, historical, indigenous
@@ -290,6 +290,7 @@ The Wolf | Leo Carew | 3.88 | 17 | fantasy, historical, under-the-northern-sky-1
 The Iron King | Julie Kagawa | 3.88 | 14 | fantasy, romance, YA, iron-fey-1
 The House Next Door | Anne Rivers Siddons | 3.88 | 11 | horror, mystery, South, gothic
 The Helm of Midnight | Marina Lostetter | 3.88 | 22 | fantasy, horror, mystery, five-penalties-1
+The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.88 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Lolita | Vladimir Nabokov | 3.88 | 11 | literary, classics
 The Tusks of Extinction | Ray Nayler | 3.87 | 4 | sci-fi
 The Magical Language of Others | E. J. Koh | 3.87 | 5 | nonfiction, memoir, Korea–California
@@ -338,6 +339,7 @@ History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGB
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
 The Knowledge: How to Rebuild Our World from Scratch | Lewis Dartnell | 3.76 | 9 | nonfiction, science, technology, history
 Strike the Zither | Joan He | 3.76 | 11 | fantasy, YA, historical, 414 China
+Stay and Fight | Madeline Ffitch | 3.76 | 13 | literary, LGBT, Appalachian Ohio
 Kusamakura | Natsume Sōseki | 3.76 | 7 | literary, classics
 Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
 Blood of the Old Kings | Sung-Il Kim | 3.76 | 10 | fantasy, Willow-rec
