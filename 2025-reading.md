@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Witchcraft for Wayward Girls | Grady Hendrix | 2025 | U.S. | 4.0 | audio | 496 | horror, fantasy, historical |
 | The Buddha in the Attic | Julie Otsuka | 2011 | U.S. | 5.0 | audio | 144 | historical, literary |
 | Knife: Meditations After an Attempted Murder | Salman Rushdie | 2024 | U.S.  | 4.0 | audio | 209 | nonfiction, memoir, crime |
 | Butter: A Novel of Food and Murder | Asako Yuzuki | 2017 | Japan | 4.5 | audio | 452 | thriller, mystery, crime |
