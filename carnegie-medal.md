@@ -5,9 +5,9 @@ adult readers published in the U.S. in the previous year. Administered by the
 American Library Association (ALA), selected by a seven-member selection
 committee of library experts.
 
-Count: 5
+Count: 6
 
-## Fiction (3)
+## Fiction (4)
 
 - [ ] 2012: Anne Enright _The Forgotten Waltz_
 - [ ] 2013: Richard Ford _Canada_
@@ -22,6 +22,7 @@ Count: 5
 - [ ] 2022: Tom Lin _The Thousand Crimes of Ming Tsu_
 - [x] 2023: Julie Otsuka _The Swimmers_
 - [x] 2024: Amanda Peters _The Berry Pickers_
+- [x] 2025: Percival Everett _James_
 
 ## Nonfiction (2)
 
@@ -37,3 +38,4 @@ Count: 5
 - [x] 2022: Hanif Abdurraqib _A Little Devil in America: In Praise of Black Performance_
 - [ ] 2023: Ed Yong _An Immense World: How Animal Senses Reveal the Hidden Realms Around Us_
 - [ ] 2024: Roxanna Asgarian _We Were Once a Family: A Story of Love, Death, and Child Removal in America_
+- [ ] 2025: Kevin Fedarko _A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon_
