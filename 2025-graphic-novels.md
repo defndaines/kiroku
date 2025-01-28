@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Bear Pirate Viking Queen | Sean Lewis | 2024 | U.S., U.K. | 4.0 | ebook | 153 | historical, fantasy, colonialism |
 | The Awl, Vol. 2 | Choi Gyu-seok | 2015 | South Korea | 5.0 | ebook | 220 | manhwa, labor |
 | H.P. Lovecraft's The Call of Cthulhu | Tanabe Gou | 2019 | Japan | 4.5 | ebook | 282 | horror, manga, literary, fantasy, historical |
 | War on Gaza | Joe Sacco | 2024 | U.S., Palestine, Israel | 5.0 | print | 32 | nonfiction, war, genocide |
