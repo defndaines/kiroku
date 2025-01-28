@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Nickel Boys | Colson Whitehead | 2019 | U.S. | 5.0 | audio | 213 | historical, literary, race, Pulitzer, Kirkus, Orwell Prize Political Fiction |
 | The Horse | Willy Vlautin | 2024 | U.S. | 4.5 | audio | 194 | literary, music |
 | Witchcraft for Wayward Girls | Grady Hendrix | 2025 | U.S. | 4.0 | audio | 496 | horror, fantasy, historical |
 | The Buddha in the Attic | Julie Otsuka | 2011 | U.S. | 5.0 | audio | 144 | historical, literary |

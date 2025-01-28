@@ -2,16 +2,16 @@
 
 An American literary award conferred by the book review magazine _Kirkus Reviews_.
 
-Count: 6
+Count: 7
 
-## Fiction (3)
+## Fiction (4)
 
 - [ ] 2014: Lily King _Euphoria_
 - [ ] 2015: Hanya Yanagihara _A Little Life_
 - [ ] 2016: C. E. Morgan _The Sport of Kings_
 - [ ] 2017: Lesley Nneka Arimah _What It Means When a Man Falls from the Sky_
 - [x] 2018: Ling Ma _Severance_
-- [ ] 2019: Colson Whitehead _The Nickel Boys_
+- [x] 2019: Colson Whitehead _The Nickel Boys_
 - [ ] 2020: Raven Leilani _Luster_
 - [ ] 2021: Joy Williams _Harrow_
 - [ ] 2022: Hernan Diaz _Trust_

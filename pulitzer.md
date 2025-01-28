@@ -9,9 +9,9 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 22
+Count: 23
 
-## Fiction (18)
+## Fiction (19)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -105,7 +105,7 @@ Count: 22
 - [x] 2017: Colson Whitehead, _The Underground Railroad_
 - [ ] 2018: Andrew Sean Greer, _Less_
 - [x] 2019: Richard Powers, _The Overstory_
-- [ ] 2020: Colson Whitehead, _The Nickel Boys_
+- [x] 2020: Colson Whitehead, _The Nickel Boys_
 - [x] 2021: Louise Erdrich, _The Night Watchman_
 - [ ] 2022: Joshua Cohen, _The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family_
 - [ ] 2023: Hernan Diaz, _Trust_

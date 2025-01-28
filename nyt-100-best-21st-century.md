@@ -109,7 +109,7 @@ Count: 19
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
 - [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012
 
-## Readers Pick (16)
+## Readers Pick (17)
 
 Only listing the ones not in the original list.
 
@@ -161,7 +161,7 @@ Only listing the ones not in the original list.
 - [x] 45: _There There_ Tommy Orange
 - [x] 44: _The Heaven & Earth Grocery Store_ James McBride
 - [x] 40: _The Kite Runner_ Khaled Hosseini
-- [ ] 37: _The Nickel Boys_ Colson Whitehead
+- [x] 37: _The Nickel Boys_ Colson Whitehead
 - [ ] 35: _The Covenant of Water_ Abraham Verghese
 - [ ] 33: _The Book Thief_ Markus Zusak
 - [ ] 32: _Cloud Cuckoo Land_ Anthony Doerr
