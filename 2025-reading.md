@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| African Europeans: An Untold History | Olivette Otélé | 2020 | U.K., Cameroon | 3.5 | audio | 288 | nonfiction, history, race |
 | The Nickel Boys | Colson Whitehead | 2019 | U.S. | 5.0 | audio | 213 | historical, literary, race, Pulitzer, Kirkus, Orwell Prize Political Fiction |
 | The Horse | Willy Vlautin | 2024 | U.S. | 4.5 | audio | 194 | literary, music |
 | Witchcraft for Wayward Girls | Grady Hendrix | 2025 | U.S. | 4.0 | audio | 496 | horror, fantasy, historical |
