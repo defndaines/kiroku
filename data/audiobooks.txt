@@ -344,7 +344,6 @@ Stay and Fight | Madeline Ffitch | 3.76 | 13 | literary, LGBT, Appalachian Ohio
 Kusamakura | Natsume Sōseki | 3.76 | 7 | literary, classics
 Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
 Blood of the Old Kings | Sung-Il Kim | 3.76 | 10 | fantasy, Willow-rec
-Annihilation | Jeff VanderMeer | 3.76 | 6 | sci-fi, horror, Nebula, southern-reach-1
 A Doll's House | Henrik Ibsen | 3.76 | 2 | play, classics, Norway
 Native Speaker | Chang-rae Lee | 3.75 | 11 | contemporary, literary, ABA, Korean-American
 Klara and the Sun | Kazuo Ishiguro | 3.75 | 11 | sci-fi, literary
@@ -396,6 +395,7 @@ Frankenstein in Baghdad | Ahmed Saadawi | 3.58 | 8 | horror, magical realism, Ir
 Memorial | Bryan Washington | 3.57 | 8 | contemporary, literary, LGBT, Japanese-American, Black, Texas
 Tropic of Orange | Karen Tei Yamashita | 3.56 | 10 | magical realism
 The Ones We're Meant to Find | Joan He | 3.56 | 11 | YA, sci-fi, dystopian
+Authority | Jeff VanderMeer | 3.55 | 11 | sci-fi, horror, southern-reach-2
 The Family Trade | Charles Stross | 3.54 | 12 | steampunk, alternate history
 Flowers of Mold | Ha Seong-nan | 3.54 | 7 | short stories, horror, literary
 The Tiger Flu | Larissa Lai | 3.53 | 10 | sci-fi, LGBT

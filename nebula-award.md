@@ -9,9 +9,9 @@ United States, awarded by the Science Fiction and Fantasy Writers Association
 Besides novel, only including awards when I've read them or plan to read them,
 since those lists are not goals I'm looking to fill in.
 
-Count: 31
+Count: 32
 
-## Best Novel (14)
+## Best Novel (15)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -63,7 +63,7 @@ Count: 31
 - [ ] 2012: Jo Walton _Among Others_
 - [ ] 2013: Kim Stanley Robinson _2312_
 - [ ] 2014: Ann Leckie _Ancillary Justice_
-- [ ] 2015: Jeff VanderMeer _Annihilation_
+- [x] 2015: Jeff VanderMeer _Annihilation_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
 - [x] 2018: N. K. Jemisin _The Stone Sky_
