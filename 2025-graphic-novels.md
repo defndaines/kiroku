@@ -8,8 +8,9 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Reckless | Ed Brubaker | 2020 | U.S. | 4.5 | ebook | 144 | crime, mystery, noir |
 | Sea Serpent’s Heir Book Three: Queen of Mercy | Mairghread Scott | 2024 | U.S. | 4.0 | ebook | 130 | fantasy, YA |
-| Sea Serpent’s Heir Book Two: Black Wave | Mairghread Scott | 2023 | U.S. | 4.5 | ebook | 134 | fantasy, YA |
+| Sea Serpent’s Heir Book Two: Black Wave | Mairghread Scott | 2023 | U.S. | 4.0 | ebook | 134 | fantasy, YA |
 | Witch Hat Atelier, Vol. 13 | Kamome Shirahama | 2024 | Japan | 4.5 | print | 180 | graphic novel, manga, fantasy, YA |
 | Sea Serpent’s Heir Book One: Pirate’s Daughter | Mairghread Scott | 2022 | U.S. | 4.5 | ebook | 144 | fantasy, YA |
 | Bear Pirate Viking Queen | Sean Lewis | 2024 | U.S., U.K. | 4.0 | ebook | 153 | historical, fantasy, colonialism |
