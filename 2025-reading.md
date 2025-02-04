@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Notes of a Native Son | James Baldwin | 1955 | U.S., France | 4.5 | audio | 192 | nonfiction, essays, race, memoir |
 | Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System | Alec Karakatsanis | 2019 | U.S. | 5.0 | audio | 234 | nonfiction, law, politics, social justice, history, race |
 | Annihilation | Jeff VanderMeer | 2014 | U.S. | 4.5 | audio | 195 | sci-fi, horror, Nebula |
 | African Europeans: An Untold History | Olivette Otélé | 2020 | U.K., Cameroon | 3.5 | audio | 288 | nonfiction, history, race |

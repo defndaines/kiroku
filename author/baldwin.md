@@ -27,7 +27,7 @@ I want to read more James Baldwin.
 
 ## Essays
 
-- [ ] Notes of a Native Son (1955)
+- [x] Notes of a Native Son (1955)
 - [ ] Nobody Knows My Name: More Notes of a Native Son (1961)
 - [x] The Fire Next Time (1963)
 - [ ] No Name in the Street (1972)
