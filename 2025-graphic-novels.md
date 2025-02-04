@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Little Monsters | Jeff Lemire | 2024 | U.S., Canada | 4.5 | ebook | 325 | horror, dystopian, supernatural |
 | Reckless | Ed Brubaker | 2020 | U.S. | 4.5 | ebook | 144 | crime, mystery, noir |
 | Sea Serpent’s Heir Book Three: Queen of Mercy | Mairghread Scott | 2024 | U.S. | 4.0 | ebook | 130 | fantasy, YA |
 | Sea Serpent’s Heir Book Two: Black Wave | Mairghread Scott | 2023 | U.S. | 4.0 | ebook | 134 | fantasy, YA |
