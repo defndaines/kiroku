@@ -6,13 +6,13 @@ As voted on by 503 novelists, nonfiction writers, poets, critics and other
 book lovers—with a little help from the staff of _The New York Times Book
 Review_.
 
-Count: 19
+Count: 20
 
 - [ ] 100: _Tree of Smoke_ Denis Johnson, 2007
 - [ ] 99: _How to Be Both_ Ali Smith, 2014
 - [ ] 98: _Bel Canto_ Ann Patchett, 2001
 - [x] 97: _Men We Reaped_ Jesmyn Ward, 2013
-- [ ] 96: _Wayward Lives, Beautiful Experiments_ Saidiya Hartman, 2019
+- [x] 96: _Wayward Lives, Beautiful Experiments_ Saidiya Hartman, 2019
 - [ ] 95: _Bring Up the Bodies_ Hilary Mantel, 2012
 - [ ] 94: _On Beauty_ Zadie Smith, 2005
 - [ ] 93: _Station Eleven_ Emily St. John Mandel, 2014
