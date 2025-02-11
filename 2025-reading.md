@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Sword of Kaigen | M.L. Wang | 2019 | U.S. | 4.0 | print | 617 | fantasy |
 | Wayward Lives, Beautiful Experiments | Saidiya Hartman | 2019 | U.S. | 4.0 | audio | 441 | nonfiction, history, feminism, race, LGBT |
 | Notes of a Native Son | James Baldwin | 1955 | U.S., France | 4.5 | audio | 192 | nonfiction, essays, race, memoir |
 | Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System | Alec Karakatsanis | 2019 | U.S. | 5.0 | audio | 234 | nonfiction, law, politics, social justice, history, race |
