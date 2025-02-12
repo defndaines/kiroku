@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Outcast, Vol. 1: A Darkness Surrounds Him | Robert Kirkman | 2015 | U.S. | 3.5 | ebook | 152 | horror, fantasy |
 | Fatale Compendium | Ed Brubaker | 2015 | U.S. | 4.5 | ebook | 627 | horror, crime |
 | William of Newbury | Michael Avon Oeming | 2025 | U.S., U.K. | 4.0 | print | 112 | historical, fantasy |
 | Chainsaw Man, Vol. 17 | Tatsuki Fujimoto | 2024 | Japan | 4.0 | ebook | 184 | graphic novel, manga, horror, fantasy |
