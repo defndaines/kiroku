@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Reformatory | Tananarive Due | 2023 | U.S | 5.0 | audio | 576 | horror, historical, Bram Stoker Award, World Fantasy Award, Shirley Jackson Award |
 | The Sword of Kaigen | M.L. Wang | 2019 | U.S. | 4.0 | print | 617 | fantasy |
 | Wayward Lives, Beautiful Experiments | Saidiya Hartman | 2019 | U.S. | 4.0 | audio | 441 | nonfiction, history, feminism, race, LGBT |
 | Notes of a Native Son | James Baldwin | 1955 | U.S., France | 4.5 | audio | 192 | nonfiction, essays, race, memoir |
