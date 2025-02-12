@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| William of Newbury | Michael Avon Oeming | 2025 | U.S., U.K. | 4.0 | print | 112 | historical, fantasy |
 | Chainsaw Man, Vol. 17 | Tatsuki Fujimoto | 2024 | Japan | 4.0 | ebook | 184 | graphic novel, manga, horror, fantasy |
 | Little Monsters | Jeff Lemire | 2024 | U.S., Canada | 4.5 | ebook | 325 | horror, dystopian, supernatural |
 | Reckless | Ed Brubaker | 2020 | U.S. | 4.5 | ebook | 144 | crime, mystery, noir |
