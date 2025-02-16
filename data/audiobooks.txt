@@ -127,6 +127,7 @@ Whiskey Tender: A Memoir | Deborah Jackson Taffa | 4.15 | 12 | nonfiction, indig
 The Wind-up Bird Chronicle | Haruki Murakami | 4.15 | 26 | contemporary, literary, magical realism, Japan
 The Wickwire Watch | Jacquelyn Hagen | 4.15 | 15 | fantasy, YA, steampunk
 Terrier | Tamora Pierce | 4.15 | 15 | YA, fantasy
+Punished | Ann-Helén Laestadius | 4.15 | 13 | historical, indigenous, Sweden
 Dawn | Octavia E. Butler | 4.15 | 9 | sci-fi, feminism
 To End All Wars: A Story of Loyalty and Rebellion, 1914-1918 | Adam Hochschild | 4.14 | 16 | nonfiction, history
 Song of Solomon | Toni Morrison | 4.14 | 15 | classics, literary, magical realism, Nobel
@@ -162,7 +163,6 @@ Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonficti
 We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 4.08 | 15 | historical, literary, Tibet, unread-country
 The Yellow Wallpaper and Other Stories | Charlotte Perkins Gilman | 4.08 | 5 | classics, feminism, short stories, 1892
 The Humans | Matt Haig | 4.08 | 8 | sci-fi, Emily-Fox-rec
-Stolen | Ann-Helén Laestadius | 4.08 | 13 | literary, contemporary, Sweden, indigenous
 Insane: America's Criminal Treatment of Mental Illness | Alisa Roth | 4.08 | 10 | nonfiction, politics, psychology, mental health
 Dandelion Wine | Ray Bradbury | 4.08 | 9 | sci-fi, classics
 A Gathering of Old Men | Ernest J. Gaines | 4.08 | 8 | historical, classics
@@ -300,6 +300,7 @@ Midnight Riot | Ben Aaronovitch | 3.86 | 10 | fantasy, mystery, London, rivers-o
 Jonathan Strange & Mr. Norrell | Susanna Clarke | 3.86 | 32 | fantasy, historical, Hugo, Locus, World Fantasy
 I Hotel | Karen Tei Yamashita | 3.86 | 22 | historical, literary, short stories, 1968 San Francisco
 Antarctica | Claire Keegan | 3.86 | 5 | short stories, literary
+Rednecks | Taylor Brown | 3.85 | 11 | historical, Battle of Blair Mountain
 Never Let Me Go | Kazuo Ishiguro | 3.85 | 10 | literary, sci-fi, Nobel
 Everything I Never Told You | Celeste Ng | 3.85 | 10 | mystery, historical, literary
 Brown Girl in the Ring | Nalo Hopkinson | 3.85 | 8 | fantasy, Jamaica, Canada, Locus

@@ -97,7 +97,7 @@ Count: 75
 - [x] Cuba: [Strawberry and Chocolate](https://www.imdb.com/title/tt0106966/) _Fresa y chocolate_
 - [ ] Czech Republic: [ANIMA](https://www.imdb.com/title/tt10516984/)
 - [x] Dominican Republic: [Un Adiós para Lilí](https://www.imdb.com/title/tt24056164/)
-- [x] Sweden: [Ådalen 31](https://www.imdb.com/title/tt0065261/); [One More Time](https://www.imdb.com/title/tt21216870/)
+- [x] Sweden: [Ådalen 31](https://www.imdb.com/title/tt0065261/); [Stolen](https://www.imdb.com/title/tt21955196/) [One More Time](https://www.imdb.com/title/tt21216870/)
 - [x] Greece: [Z](https://www.imdb.com/title/tt0065234/)
 - [ ] Portugal
 - [ ] Azerbaijan
