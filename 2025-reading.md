@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline Jones | 2023 | U.S. | 4.5 | audio | 544 | nonfiction, history, race, Pulitzer |
 | Kusamakura | Natsume Sōseki | 1906 | Japan | 3.5 | audio | 152 | literary, classics |
 | The Reformatory | Tananarive Due | 2023 | U.S | 5.0 | audio | 576 | horror, historical, Bram Stoker Award, World Fantasy Award, Shirley Jackson Award |
 | The Sword of Kaigen | M.L. Wang | 2019 | U.S. | 4.0 | print | 617 | fantasy |

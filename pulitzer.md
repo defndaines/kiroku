@@ -9,7 +9,7 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 23
+Count: 24
 
 ## Fiction (19)
 
@@ -162,7 +162,7 @@ Count: 23
 - [ ] 2023: Robert Samuels and Toluse Olorunnipa, _His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice_
 - [ ] 2024: Nathan Thrall, _A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy_
 
-## History
+## History (1)
 
 - [ ] 1980: Leon F. Litwack, _Been in the Storm So Long: The Aftermath of Slavery_
 - [ ] 1981: Lawrence A. Cremin, _American Education: The National Experience, 1783–1876_
@@ -208,4 +208,4 @@ Count: 23
 - [ ] 2022: Nicole Eustace, _Covered with Night: A Story of Murder and Indigenous Justice in Early America_
 - [ ] 2022: Ada Ferrer, _Cuba: An American History_
 - [ ] 2023: Jefferson Cowie, _Freedom's Dominion: A Saga of White Resistance to Federal Power_
-- [ ] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
+- [x] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
