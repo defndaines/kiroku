@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Alien Clay | Adrian Tchaikovsky | 2024 | U.K. | 5.0 | audio | 396 | sci-fi |
 | We Do Not Part | Han Kang | 2021 | South Korea | 5.0 | print | 272 | historical, literary |
 | No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline Jones | 2023 | U.S. | 4.5 | audio | 544 | nonfiction, history, race, Pulitzer |
 | Kusamakura | Natsume Sōseki | 1906 | Japan | 3.5 | audio | 152 | literary, classics |
