@@ -1,0 +1,309 @@
+# Ohioana Book Awards
+
+Established in 1942, the Ohio Book Awards recognize Ohio authors and
+illustrators for outstanding books published each calendar year. Current
+judges are librarians, professors, historians, avid readers in a particular
+category, authors/poets, reviewers, bookstore owners/buyers/employees, etc.
+
+https://www.ohioana.org/programs/ohio-book-awards/
+
+Count: 6
+
+## Fiction (2)
+
+- [ ] 1943: Martin Joseph Freeman _Bitter Honey_
+- [ ] 1944: Ann Steward _Take Nothing for Your Journey_
+- [ ] 1945: Daphne McVicker _The Queen Was In the Kitchen_
+- [ ] 1945: Henrietta Buckmaster _Deep River_
+- [ ] 1946: Dorothy James Roberts _A Durable Fire_
+- [ ] 1947: Janet Hart Diebold _Mandrake Root_
+- [ ] 1947: Jo Sinclair _Wasteland_
+- [ ] 1948: George Freitag _The Lost Land_
+- [ ] 1949: Virgil Scott _The Hickory Stick_
+- [ ] 1950: Robert Kossuth Marshall _Little Squire Jim_
+- [ ] 1951: Amy Kelly _Eleanor of Aquitaine & the Four Kings_
+- [ ] 1952: Susanne McConnaughey _Point Venus_
+- [ ] 1952: William Fridley _A Time to Go Home_
+- [ ] 1953: William D. Ellis _The Bounty Lands_
+- [ ] 1955: Agatha Young _Clown of the Gods_
+- [ ] 1956: Jo Sinclair _The Changelings_
+- [ ] 1957: Herbert Gold _The Man Who Was Not With It_
+- [ ] 1958: Charles O. Locke _The Hell Bent Kid_
+- [ ] 1959: Anne Chamberlain _The Darkest Bough_
+- [ ] 1960: Peter Taylor _Happy Families Are All Alike_
+- [ ] 1961: Jo Sinclair _Anna Teller_
+- [ ] 1962: Raymond DeCapite _A Lost King_
+- [ ] 1963: Hiram Haydn _The Hands of Esau_
+- [ ] 1964: Josephine W. Johnson _The Dark Traveler_
+- [ ] 1965: Jack Matthews _Bitter Knowledge_
+- [ ] 1966: Fletcher Knebel _The Night of Camp David_
+- [ ] 1967: William Harrington _Yoshar the Soldier_
+- [ ] 1968: Allan Eckert _The Frontiersmen_
+- [ ] 1968: Bentz Plagemann _The Heart of Silence_
+- [ ] 1969: James McConkey _Crossroads_
+- [ ] 1970: Robert L. Fish _The Xavier Affair_
+- [x] 1972: Erma Bombeck _Just Wait Till You Have Children of Your_
+- [ ] 1973: Hannah Green _The Dead of the House_
+- [ ] 1975: Toni Morrison _Sula_
+- [ ] 1976: Nancy Lenz Harvey _The Rose & the Thorn_
+- [ ] 1977: Robert Canzoneri _A Highly Ramified Tree_
+- [ ] 1978: John Jakes _The American Bicentennial Series (Vol.I-VIII)_
+- [ ] 1979: Nicholas Guild _The Summer Soldier_
+- [ ] 1980: David Wagoner _The Hanging Garden_
+- [ ] 1980: Ruth Beebe Hill _Hanta Yo: An American Saga_
+- [ ] 1981: Helen Faye Rosenblum _Minerva's Turn_
+- [ ] 1982: Thomas Berger _Reinhart's Women_
+- [ ] 1983: Helen Hooven Santmyer _...And Ladies of the Club_
+- [ ] 1984: Richard A. Hawley _The Headmaster's Papers_
+- [ ] 1985: Robert Skimin _Chikara!_
+- [ ] 1986: Hugh Nissenson _The Tree of Life_
+- [ ] 1986: Nancy Pelletier _The Rearrangement_
+- [ ] 1987: George Dell _The Earth Abideth_
+- [ ] 1988: Don Robertson _The Ideal, Genuine Man_
+- [ ] 1989: Kay Boyle _Life Being the Best and Other Stories_
+- [ ] 1990: Lee K. Abbott _Dreams of Distant Lives_
+- [ ] 1991: Nancy Zafris _The People I Know_
+- [ ] 1992: Kay Sloan _Worry Beads_
+- [ ] 1993: Eve Horowitz _Plain Jane_
+- [ ] 1994: Abby Frucht _Are You Mine?_
+- [ ] 1995: Merrill Gilfillan, Jr. _Sworn Before Cranes_
+- [ ] 1996: Elizabeth Arthur _Antarctic Navigation_
+- [ ] 1997: Erin McGraw _Lies of the Saints_
+- [ ] 1998: Constance Pierce _Hope Mills_
+- [ ] 1999: Toni Morrison _Paradise_
+- [ ] 2000: Terri Paul _Glass Hearts_
+- [ ] 2001: Elizabeth George _In Pursuit of the Proper Sinner_
+- [ ] 2002: Dan Chaon _Among the Missing_
+- [ ] 2003: Anthony Doerr _The Shell Collector_
+- [ ] 2004: Toni Morrison _Love_
+- [ ] 2005: Anthony Doerr _About Grace_
+- [ ] 2006: Michael Cunningham _Specimen Days_
+- [ ] 2007: Ellis Avery _The Teahouse Fire_
+- [ ] 2008: Robert Olmstead _Coal Black Horse_
+- [ ] 2009: P.F. Kluge _Gone Tomorrow_
+- [ ] 2010: Dan Chaon _Await Your Reply_
+- [ ] 2011: Anthony Doerr _Memory Wall_
+- [ ] 2012: Paula McLain _The Paris Wife_
+- [ ] 2013: Robert Olmstead _The Coldest Night_
+- [ ] 2014: Beth Hoffman _Looking for Me_
+- [ ] 2015: Anthony Doerr _All the Light We Cannot See_
+- [ ] 2016: Mary Doria Russell _Epitaph_
+- [ ] 2017: Marisa Sliver _Little Nothing_
+- [ ] 2018: Celeste Ng _Little Fires Everywhere_
+- [ ] 2019: Moriel Rothman-Zecher _Sadness is a White Bird_
+- [ ] 2020: Salvatore Scibona _The Volunteer_
+- [ ] 2021: Carter Sickels _The Prettiest Star_
+- [ ] 2022: Anthony Doerr _Cloud Cuckoo Land_
+- [ ] 2023: Celeste Ng _Our Missing Hearts_
+- [x] 2024: James McBride _The Heaven and Earth Grocery Store_
+
+## Nonfiction (1)
+
+- [ ] 1942: James B. Reston _Prelude to Victory_
+- [ ] 1942: Walter Havighurst _The Long Ships Passing_
+- [ ] 1942: Willard M. Kiplinger _Washington is Like That_
+- [ ] 1943: Clarence A. Mills _Climate Makes the Man_
+- [ ] 1943: Robert Emmett Taylor _No Royal Road_
+- [ ] 1943: William E. S. Flory _Prisoners of War_
+- [ ] 1944: Gordon S. Seagrave _Burma Surgeon_
+- [ ] 1945: Algo D. Henderson _Vitalizing Liberal Education_
+- [ ] 1945: Foster R. Dulles _The Road to Teheran, 1781–1943_
+- [ ] 1945: Ralph Sockman _Date With Destiny_
+- [ ] 1946: Arthur Schlesinger, Jr. _The Age of Jackson_
+- [ ] 1946: Carl F. Wittke _Against the Current: Life of Karl Heinzen_
+- [ ] 1947: Joshua Loth Liebman _Peace of Mind_
+- [ ] 1949: F. Ridgely Torrence _The Story of John Hope Greene_
+- [ ] 1949: Howard Robinson _The British Post Office Cuyahoga_
+- [ ] 1949: John Ward Ostrom _The Letters of Edgar Allan Poe_
+- [ ] 1949: May Hill Arbuthnot _Children and Books_
+- [ ] 1949: Sr. Miriam Joseph _Shakespeare's Use of the Arts of Language_
+- [ ] 1950: Edward Nicholas _The Hours and the Ages: A Sequence of Americans_
+- [ ] 1950: III Rodgers, Andrew Denny _Liberty Hyde Bailey Franklin_
+- [ ] 1950: Norman Vincent Peale _A Guide to Confident Living Greene_
+- [ ] 1952: Bruce Catton _Mr. Lincoln's Army_
+- [ ] 1952: Ernest G. Schwiebert _Luther & His Times_
+- [ ] 1953: Gordon K. Chalmers _The Republic & the Person_
+- [ ] 1953: Howard Swiggett _The Extraordinary Mr. Morris_
+- [ ] 1953: Lynn James Radcliffe _Making Prayer Real_
+- [ ] 1954: Roger L. Shinn _Christianity & the Problem of History_
+- [ ] 1955: Arthur Loesser _Men, Women & Pianos_
+- [ ] 1956: John F. Cady _Roots of French Imperialism in Eastern Asia_
+- [ ] 1957: Bruce Catton _This Hallowed Ground_
+- [ ] 1958: Arthur Schlesinger, Jr. _The Crisis of the Old Order, 1919-1933_
+- [ ] 1958: Paul Murray Kendall _Warwick the Kingmaker_
+- [ ] 1959: Arthur Schlesinger _Prelude to Independence: Newspaper War on Britain 1764-1776_
+- [ ] 1959: Sally Carrighar _Moonlight at Midday_
+- [ ] 1960: Harry V. Jaffa _Crisis of the House Divided_
+- [ ] 1960: Nelson Glueck _Rivers in the Desert_
+- [ ] 1961: Louis Filler _The Crusade Against Slavery_
+- [ ] 1962: Bruce Catton _The Coming Fury_
+- [ ] 1963: Paul Murray Kendall _The Yorkist Age_
+- [ ] 1964: Charles Allen Smart _Viva Juarez!_
+- [ ] 1964: Lucy L. Notestein _Hill Towns of Italy_
+- [ ] 1965: Sherman E. Lee _A History of Far Eastern Art_
+- [ ] 1966: Rutherford Platt _The Great American Forest_
+- [ ] 1967: John B. Martin _Overtaken by Events_
+- [ ] 1967: Louis Filler _The Unknown Edwin Markham_
+- [ ] 1969: Nelson Glueck _The River Jordan_
+- [ ] 1970: Charles G. Rousculp _Chalk Dust on My Shoulder_
+- [ ] 1971: Jesse Owens _Blackthink_
+- [ ] 1972: Charles M. Cummings _Yankee Quaker Confederate General_
+- [ ] 1973: J. Allen Hynek _The UFO Experience: A Scientific Inquiry_
+- [ ] 1974: Donald Smythe _Guerrilla Warrior: The Early Life of John J. Pershing_
+- [ ] 1974: Mahonri Sharp Young _The Eight_
+- [ ] 1975: Algis Ruksenas _Day of Shame_
+- [ ] 1975: Michael Campbell, Jay H. Lehr _Water Well Technology_
+- [ ] 1976: Ed Mason _Signers of the Constitution_
+- [ ] 1976: Ed Mason _Signers of the Declaration of Independence_
+- [ ] 1976: Ruby V. Redinger _George Eliot: The Emergent Self_
+- [ ] 1977: Terry Waldo _This is Ragtime_
+- [ ] 1978: Paul Colinvaux _Why Big Fierce Animals Are Rare_
+- [ ] 1979: John D. Unruh, Jr. _The Plains Across_
+- [ ] 1980: Thomas Fensch _Steinbeck and Covici: The Story of a Friendship_
+- [ ] 1981: Allan R. Millett _Semper Fidelis: The History of the United States Marine Corps_
+- [ ] 1982: Jacob Rader Marcus _The American Jewish Woman_
+- [ ] 1983: Lawrence Friedman _Gregarious Saints_
+- [ ] 1983: Milton B. Trautman (for his works)
+- [ ] 1984: R. David Edmunds _The Shawnee Prophet_
+- [ ] 1985: Allen G. Noble _Wood, Brick & Stone..._
+- [ ] 1985: Michael Mott _The Seven Mountains of Thomas Merton_
+- [ ] 1986: Donald A. Hutslar _The Architecture of Migration_
+- [ ] 1987: Andrew R. L. Cayton _The Frontier Republic_
+- [ ] 1988: Nikki Giovanni _Sacred Cows...and Other Edibles_
+- [ ] 1989: Merrill Gilfillan, Jr. _Magpie Rising_
+- [ ] 1990: David Rains Wallace _Bulow Hammock_
+- [ ] 1991: Geoffrey C. Ward _A First-Class Temperament: The Emergence of Franklin Roosevelt_
+- [ ] 1992: Melissa Fay Greene _Praying for Sheetrock_
+- [ ] 1993: John Marszalek _Sherman: A Soldier's Passion for Order_
+- [ ] 1994: Scott Russell Sanders _Staying Put_
+- [ ] 1995: Ian Frazier _Family_
+- [ ] 1996: Dawn Powell _The Diaries of Dawn Powell, 1931-1965_
+- [ ] 1996: Tim Page _The Diaries of Dawn Powell, 1931-1965_
+- [ ] 1997: David Quammen _The Song of the Dodo_
+- [ ] 1998: Wil Haygood _The Haygoods of Columbus_
+- [ ] 1999: Peter Morton Coan _Ellis Island Interviews_
+- [ ] 2000: John Glenn _John Glenn: A Memoir_
+- [ ] 2001: Frank F. Mathias _The GI Generation: A Memoir_
+- [ ] 2002: Antwone Quentin Fisher _Finding Fish_
+- [ ] 2003: Julie Salamon _Facing the Wind_
+- [ ] 2004: Ann Hagedorn _Beyond the River: The Untold Story of the Heroes of the Underground Railroad_
+- [ ] 2004: Michael Dirda _An Open Book: Coming of Age in the Heartland_
+- [ ] 2005: Julie Salamon _Rambam's Ladder: A Meditation on Generosity and Why It Is Necessary to Give_
+- [ ] 2005: Paul Zimmer _Trains in the Distance_
+- [ ] 2006: Saundra Rose Maley, Anne Wright _A Wild Perfection: The Selected Letters of James Wright_
+- [ ] 2007: Douglas Brinkley _The Great Deluge: Hurricane Katrina, New Orleans, and the Mississippi Gulf Coast_
+- [ ] 2008: Ann Hagedorn _Savage Peace: Hope and Fear in America 1919_
+- [ ] 2009: Peter Mansoor _Baghdad at Sunrise: A Brigade Commander's War_
+- [ ] 2010: Gail Collins _When Everything Changes: The Amazing Journey of American Women from 1960 to the Present_
+- [ ] 2011: Ted Gup _A Secret Gift: How One Man's Kindness—And a Trove of Letters—Revealed the Hidden Story of the Great Depression_
+- [ ] 2012: Susan Orlean _Rin Tin Tin: The Life and the Legend_
+- [ ] 2013: Julie Zickefoose _The Bluebird Effect: Uncommon Bonds with Common Birds_
+- [ ] 2014: Brad Ricca _Super Boys: The Amazing Adventures of Jerry Siegel and Joe Shuster—The Creators of Superman_
+- [ ] 2015: Ann Hagedorn _The Invisible Soldiers: How America Outsourced Our Security_
+- [ ] 2016: Wil Haygood _Showdown: Thurgood Marshall and the Supreme Court Nomination That Changed America_
+- [ ] 2017: Douglas Brinkley _Rightful Heritage: Franklin D. Roosevelt and the Land of America_
+- [ ] 2018: Deanne Stillman _Blood Brothers_
+- [ ] 2019: David Giffels _Furnishing Eternity_
+- [ ] 2020: Jeannie Vanasco _Things We Didn't Talk About When I Was A Girl_
+- [ ] 2021: Aimee Nezhukumatathil _World of Wonders_
+- [x] 2022: Hanif Abdurraqib _A Little Devil in America: Notes in Praise of Black Performance_
+- [ ] 2023: Ross Gay _Inciting Joy_
+- [ ] 2024: Sarah Lohman _Endangered Eating: America's Vanishing Foods_
+
+## About Ohio (2)
+
+- [ ] 1944: Fred Charters Kelly _The Wright Brothers_
+- [ ] 1944: Philip Dillon Jordan _Ohio Comes of Age (History of the State of Ohio, Volume 5)_
+- [ ] 1945: Bob Hope _I Never Left Home_
+- [ ] 1946: Howard Riley Raper _Man Against Pain_
+- [ ] 1947: James M. Cox _Journey Through My Years: An Autobiography_
+- [ ] 1947: Walter Havighurst _Land of Promise_
+- [ ] 1948: Grace Crile, George Crile, Sr. _George Crile: An Autobiography_
+- [ ] 1951: Mary L. Jobe Akeley _Congo Eden_
+- [ ] 1952: Norman Thomas _A Socialist's Faith_
+- [ ] 1954: Clarence E. Macartney _Grant and His Generals_
+- [ ] 1954: Rollo W. Brown _The Hills Are Strong_
+- [ ] 1957: Marva Robins Belden, Thomas G. Belden _So Fell the Angels_
+- [ ] 1959: Alfred B. Sears _Thomas Worthington: Father of Ohio Statehood_
+- [ ] 1960: Margaret Leech _In the Days of McKinley_
+- [ ] 1963: Walter Sutton _The Western Book Trade_
+- [ ] 1964: H. Wayne Morgan _William McKinley & His America_
+- [ ] 1966: Alpheus Thomas Mason _William Howard Taft: Chief Justice_
+- [ ] 1966: Leslie C. Peltier _Starlight Nights_
+- [ ] 1968: Richard O'Connor _Ambrose Bierce: A Biography_
+- [ ] 1969: Charles Sawyer _Concerns of a Conservative Democrat_
+- [ ] 1970: Lawrence A. Frost _The Thomas A. Edison Album_
+- [ ] 1970: Robert M. Crunden _A Hero in Spite of Himself: Brand Whitlock_
+- [ ] 1971: John Unterecker _Voyager: A Life of Hart Crane_
+- [ ] 1971: William Manners _T R & Will_
+- [ ] 1972: John M. Taylor _Garfield of Ohio: The Available Man_
+- [ ] 1972: Kenneth S. Lynn _William Dean Howells: An American Life_
+- [ ] 1973: James T. Patterson _Mr. Republican: A Biography of Robert A. Taft_
+- [ ] 1973: Kenneth E. Davison _The Presidency of Rutherford B. Hayes_
+- [ ] 1974: Donald F. Anderson _William Howard Taft_
+- [ ] 1974: Mahonri Sharp Young _The Paintings of George Bellows_
+- [ ] 1975: George E. Condon _Stars in the Water_
+- [ ] 1976: IV Laffoon, Polk _Tornado_
+- [ ] 1977: L. D. Warren _The World & Warren's Cartoons_
+- [ ] 1977: Walter C. Langsam _The World & Warren's Cartoons_
+- [ ] 1978: Thomas H. Smith _The Mapping of Ohio_
+- [ ] 1979: Allan Peskin _Garfield_
+- [ ] 1979: D. G. Sanders _The Brasspounder_
+- [ ] 1980: Ohio Academy of Science _Ohio's Natural Heritage_
+- [ ] 1981: David Rains Wallace _Idle Weeds_
+- [ ] 1982: Milton Rugoff _The Beechers_
+- [ ] 1983: James Westwater _Ohio_
+- [ ] 1984: Rosemary O. Joyce _A Woman's Place: The Life History of a Rural Ohio Grandmother_
+- [ ] 1986: Freda Postle Koch _Colonel Coggeshall: The Man Who Saved Lincoln_
+- [ ] 1987: Jack Matthews _Booking in the Heartland_
+- [ ] 1988: Don Heinrich Tolzmann _The Cincinnati Germans After the Great War_
+- [ ] 1988: Frederick J. Blue _Salmon P. Chase: A Life in Politics_
+- [ ] 1989: Deborah Overmyer, Geoffrey J. Giglierano, Cincinnati Historical Society _Bicentennial Guide to Greater Cincinnati_
+- [ ] 1990: Bruce Peterjohn _The Birds of Ohio_
+- [ ] 1991: Gary E. Polster _Inside Looking Out_
+- [ ] 1992: George Knepper, Ricky Clark, Ellice Ronsheim _Quilts in Community: Ohio's Traditions_
+- [ ] 1993: J. Benjamin Townsend _Charles Burchfield's Journals_
+- [ ] 1994: Howard L. Sacks, Judith R. Sacks _Way Up North in Dixie_
+- [ ] 1995: George Laycock _John A. Ruthven, in the Audubon Tradition_
+- [ ] 1996: Ari Hoogenboom _Rutherford B. Hayes: Warrior and President_
+- [ ] 1997: Emily Foster _Ohio Frontier: An Anthology of Early Writings_
+- [ ] 1998: Earl P. Olmstead _David Zeisberger_
+- [ ] 1998: Walter E. Langsam, Alice Weston _Great Houses of the Queen City_
+- [ ] 1999: Ron Chernow _Titan: The Life of John D. Rockefeller, Sr._
+- [ ] 2000: Paul Mariani _The Broken Tower: The Life of Hart Crane_
+- [ ] 2001: John Sugden _Blue Jacket: Warrior of the Shawnees_
+- [ ] 2002: James Sallis _Chester Himes: A Life_
+- [ ] 2003: Ian Adams, Stephen Ostrander _Ohio: A Bicentennial Portrait_
+- [ ] 2004: David Ritz _Faith in Time: The Life of Jimmy Scott_
+- [ ] 2004: Paul W. & Dorothy Patton _Rix Mills Remembered: An Appalachian Boyhood_
+- [ ] 2005: William Souder _Under a Wild Sky: John James Audubon and the Making of The Birds of America_
+- [ ] 2006: Melanie Rehak _Girl Sleuth: Nancy Drew and the Women Who Created Her_
+- [ ] 2007: David Hassler Hassler _Growing Season: The Life of a Migrant Community_
+- [ ] 2008: Mary Sayre Haverstock _George Bellows: An Artist in Action_
+- [ ] 2009: David Giffels _All the Way Home: Building a Family in a Falling-Down House_
+- [ ] 2010: Gary Meszaros, James McCormac _Wild Ohio: The Best of Our Natural Heritage_
+- [ ] 2011: Arnold Adoff, Kacy Cook _Virginia Hamilton: Speeches, Essays, & Conversations_
+- [ ] 2012: Candice Millard _Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President_
+- [ ] 2013: Joy Kiser _America's Other Audubon_
+- [ ] 2014: Doris Kearns Goodwin _The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism_
+- [ ] 2015: Tom Diemer, Lee Leonard _James A. Rhodes: Ohio Colossus_
+- [ ] 2016: David McCullough _The Wright Brothers_
+- [x] 2018: Brian Alexander _Glass House_
+- [ ] 2019: Wil Haygood _Tigerland_
+- [ ] 2020: David McCullough _The Pioneers_
+- [ ] 2021: Carole M. Genshaft _Raggin' On_
+- [x] 2022: Brian Alexander _The Hospital: Life, Death, and Dollars in a Small American Town_
+- [ ] 2023: Kelcey Ervick _The Keeper: Soccer, Me, and the Law That Changed Women’s Lives_
+- [ ] 2024: Laura Meckler _Dream Town: Shaker Heights and the Quest for Racial Equity_
+
+## Reader's Choice Award (1)
+
+- [ ] 2016: Mary Doria Russell _Epitaph: A Novel of the OK Corral_
+- [ ] 2017: Tiffany McDaniel _The Summer That Melted Everything_
+- [ ] 2018: Tamara Bundy _Walking with Miss Millie_
+- [ ] 2019: Rachel Wiley _Nothing is Okay_
+- [ ] 2020: Kenn Kaufman _A Season on the Wind_
+- [x] 2021: Tiffany McDaniel _Betty_
+- [ ] 2022: Manuel Iris _The Parting Present / Lo que se irá_
+- [ ] 2023: John Scalzi _The Kaiju Preservation Society_
+- [ ] 2024: Sarah Lohman _Endangered Eating: America's Vanishing Foods_

@@ -70,6 +70,8 @@ tail -n +11 2025-graphic-novels.md | cut -d \| -f 7 | sort | uniq -c
 
 tail -n +8 2025-reading.md | cut -d \| -f 6 | sort -n | uniq -c
 
+tail -n +8 2025-reading.md | cut -d \| -f 6 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+
 ### 5.0 Books
 
 grep " 5.0 " 2025-reading.md | cut -d \| -f 2-3
@@ -96,11 +98,15 @@ tail -n +8 2025-reading.md | sort -t\| -k 8 -n
 
 sed -n '1,/Best Novella/p' hugo-award.md | grep -c '\[x\]'
 
+### Books (i.e., skip movies and series watched)
+
 sed -n '1,/Best Dramatic/p' hugo-award.md | grep -c '\[x\]'
 
 ## Nebula Novels Read
 
 sed -n '1,/Best Novella/p' nebula-award.md | grep -c '\[x\]'
+
+### Books (i.e., skip movies and series watched)
 
 sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
@@ -108,9 +114,10 @@ sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 grep "^Count:" [a-z]*.md
 
-for award in booker-prize.md carnegie-medal.md dublin-award.md golden-poppy.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md pulitzer.md womens.md world-fantasy.md; do
+for award in booker-prize.md carnegie-medal.md clarke-award.md dublin-award.md golden-poppy.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md ohioana.md pulitzer.md walter-scott-prize.md womens.md world-fantasy.md; do
   echo $award
-  grep -c '\[x\]' $award
+  grep "^Count" $award
+  grep '\[x\]' $award | sort | uniq -c | wc -l
 done
 
 ## Yearly (since 2024) Analysis

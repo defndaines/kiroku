@@ -12,6 +12,8 @@ I keep my
 [Goodreads Profile](https://www.goodreads.com/user/show/6142552-michael-daines)
 up to date with what I've read and when, but I also track by year:
 
+* [2025](2025-reading.md)
+* [2025 Graphic Novels](2025-graphic-novels.md)
 * [2024](2024-reading.md)
 * [2023](2023-reading.md)
 
@@ -24,6 +26,7 @@ which award-winning books I've read in the following files.
 
 * [Booker Prize](booker-prize.md)
 * [Andrew Carnegie Medal for Excellence](carnegie-medal.md)
+* [Arthur C. Clarke Award](clarke-award.md)
 * [International Dublin Literary Award](dublin-award.md)
 * [Golden Poppy Book Award](golden-poppy.md)
 * [Hugo Award](hugo-award.md)
@@ -32,7 +35,9 @@ which award-winning books I've read in the following files.
 * [National Book Award](national-book-award.md)
 * [Nebula Award](nebula-award.md)
 * [Nobel Prize in Literature](nobel-literature.md)
+* [Ohioana Book Awards](ohioana.md)
 * [Pulitzer Prize](pulitzer.md)
+* [Walter Scott Prize](walter-scott-prize.md)
 * [Women's Prize](womens.md)
 * [World Fantasy Award](world-fantasy.md)
 
@@ -55,4 +60,5 @@ Tracking favorite authors I'd like to read more of.
 * [Ursula K. Le Guin](author/le-guin.md)
 * [China Miéville](author/miéville.md)
 * [Walter Mosley](author/mosley.md)
+* [Adrian Tchaikovsky](author/tchaikovsky.md)
 * [B. Traven](author/b-traven.md)

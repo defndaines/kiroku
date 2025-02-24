@@ -97,7 +97,6 @@ Octavia's Brood: Science Fiction Stories from Social Justice Movements | Adrienn
 Nick and Tesla's High-Voltage Danger Lab | Bob Pflugfelder, Steve Hockensmith | 3.94 | 240 | mystery, science, YA
 An Informal History of the Hugos: A Personal Look Back at the Hugo Awards, 1953-2000 | Jo Walton | 3.94 | 576 | nonfiction, history
 After the Coup | John Scalzi | 3.94 | 26 | sci-fi, sequel-old-mans-war-4.5, [owned]
-To Save the Man | John Sayles | 3.92 | 331 | historical, Carlisle school
 The End of Eddy | Édouard Louis | 3.92 | 208 | LGBT
 Agent to the Stars | John Scalzi | 3.92 | 286 | sci-fi, [owned]
 The Three Marias | Rachel de Queiroz | 3.91 | 178 | classics, 1939, Brazil
@@ -113,12 +112,13 @@ New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 3.89 |
 Karl Marx: A Nineteenth-Century Life | Jonathan Sperber | 3.89 | 648 | nonfiction, biography, history, politics, economics, Jared-booktube-rec
 A Rage in Harlem | Chester Himes | 3.89 | 151 | crime, mystery
 Pattern Recognition | William Gibson | 3.87 | 367 | mystery, sci-fi
-How Kyoto Breaks Your Heart | Florentyna Leow | 3.87 | 96 | nonfiction, memoir, travel
 Warda | Sonallah Ibrahim | 3.86 | 464 | literary, 1950s Cairo
 The Death of Artemio Cruz | Carlos Fuentes | 3.86 | 307 | classics, literary, 1962, Brazil
 Sinking Bell | Bojan Louis | 3.86 | 192 | short stories, indigenous, Navajo
 Rupetta | Nike Sulway | 3.86 | 352 | sci-fi, [owned]
 Redshirts | John Scalzi | 3.86 | 320 | sci-fi, [owned]
+To Save the Man | John Sayles | 3.85 | 331 | historical, Carlisle school
+How Kyoto Breaks Your Heart | Florentyna Leow | 3.85 | 96 | nonfiction, memoir, travel
 Hills Like White Elephants | Ernest Hemingway | 3.85 | 6 | classics, short stories, Nobel
 The Thorn Puller | Hiromi Ito | 3.84 | 300 | contemporary, literary, Japan, U.S.
 Mumbo Jumbo | Ishmael Reed | 3.84 | 224 | classics, literary, race, historical
@@ -162,6 +162,7 @@ Summer of the Big Bachi | Naomi Hirahara | 3.52 | 287 | mystery, Pasadena
 Soft Apocalypse | Will McIntosh | 3.52 | 239 | sci-fi
 Metropole | Ferenc Karinthy | 3.52 | 279 | sci-fi, dystopian, Hungary, unread-country
 Kairos | Jenny Erpenbeck | 3.51 | 379 | historical, Booker
+The Coin | Yasmin Zaher | 3.50 | 240 | literary
 Blood and Guts in High School | Kathy Acker | 3.45 | 165 | feminism, post-punk
 Picnic on Paradise | Joanna Russ | 3.41 | 152 | fantasy, sci-fi
 Nails and Eyes | Kaori Fujino | 3.41 | 138 | horror, short stories

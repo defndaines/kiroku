@@ -15,6 +15,8 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 The _New York Times_ has some guides to [Read Your Way Around the
 World](https://www.nytimes.com/series/literary-guides).
 
+The list is sorted, roughly, by population size.
+
 Count: 91
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
