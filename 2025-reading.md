@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Authority | Jeff VanderMeer | 2014 | U.S. | 4.0 | audio | 341 | sci-fi, horror |
 | The Principles of Communism | Friedrich Engels | 1847 | Belgium | 5.0 | ebook | 24 | nonfiction, politics, economics, history |
 | Alien Clay | Adrian Tchaikovsky | 2024 | U.K. | 5.0 | audio | 396 | sci-fi |
 | We Do Not Part | Han Kang | 2021 | South Korea | 5.0 | print | 272 | historical, literary |
