@@ -32,6 +32,7 @@ The Contested Murder of Latasha Harlins: Justice, Gender, and the Origins of the
 Pigs Might Fly: The Inside Story of Pink Floyd | Mark Blake | 4.17 | 411 | nonfiction, music, biography, history
 Kim Jiyoung, Born 1982 | Cho Nam-Joo | 4.17 | 163 | literary, contemporary, feminism
 Grimgar of Fantasy and Ash: Volume 1 | Ao Jyumonji | 4.17 | 260 | fantasy, YA
+The Book of Disappearance | Ibtisam Azem | 4.16 | 256 | magical realism, sci-fi, literary, Palestine
 Conan the Barbarian Complete Collection | Robert E. Howard | 4.16 | 939 | fantasy, [owned]
 Wool | Hugh Howey | 4.13 | 594 | sci-fi, dystopian, [owned]
 This Rancid Mill | Kyle Decker | 4.13 | 304 | mystery, historical, punk, L.A. 1981
@@ -58,7 +59,7 @@ The Forgotten Beasts of Eld | Patricia A. McKillip | 4.08 | 343 | fantasy, YA, W
 City | Clifford D. Simak | 4.08 | 251 | fantasy, sci-fi, short stories
 Autobiography of Death | Kim Hyesoon | 4.08 | 110 | poetry
 The Last Day | Owain Owain | 4.07 | 136 | fiction, Welsh
-Praiseworthy | Alexis Wright | 4.05 | 736 | literary, Australia, Stella Prize
+Praiseworthy | Alexis Wright | 4.05 | 736 | literary, Australia, Stella Prize, DiscoKing-rec
 Open Water | Caleb Azumah Nelson | 4.05 | 145 | contemporary, literary
 Eve out of Her Ruins | Ananda Devi | 4.05 | 155 | literary, Mauritius, unread-country
 The Tale of the Heike | Royall Tyler | 4.04 | 489 | classics, historical, Japan
@@ -113,6 +114,7 @@ Karl Marx: A Nineteenth-Century Life | Jonathan Sperber | 3.89 | 648 | nonfictio
 A Rage in Harlem | Chester Himes | 3.89 | 151 | crime, mystery
 Pattern Recognition | William Gibson | 3.87 | 367 | mystery, sci-fi
 Warda | Sonallah Ibrahim | 3.86 | 464 | literary, 1950s Cairo
+Under the Eye of the Big Bird | Hiromi Kawakami | 3.86 | 288 | sci-fi, dystopian
 The Death of Artemio Cruz | Carlos Fuentes | 3.86 | 307 | classics, literary, 1962, Brazil
 Sinking Bell | Bojan Louis | 3.86 | 192 | short stories, indigenous, Navajo
 Rupetta | Nike Sulway | 3.86 | 352 | sci-fi, [owned]
@@ -166,6 +168,7 @@ The Coin | Yasmin Zaher | 3.50 | 240 | literary
 Blood and Guts in High School | Kathy Acker | 3.45 | 165 | feminism, post-punk
 Picnic on Paradise | Joanna Russ | 3.41 | 152 | fantasy, sci-fi
 Nails and Eyes | Kaori Fujino | 3.41 | 138 | horror, short stories
+On a Woman's Madness | Astrid H. Roemer | 3.40 | 265 | literary, LGBT, Suriname
 Blood Kin | Steve Rasnic Tem | 3.40 | 288 | fantasy, horror, Bram Stoker
 The Factory | Hiroko Oyamada | 3.34 | 116 | magical realism, novella
 The Interrogation | J.M.G. Le Clezio | 3.28 | 243 | Nobel

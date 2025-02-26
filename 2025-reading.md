@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| My Brilliant Life | Kim Ae-ran | 2011 | South Korea | 4.0 | audio | 208 | literary |
 | Authority | Jeff VanderMeer | 2014 | U.S. | 4.0 | audio | 341 | sci-fi, horror |
 | The Principles of Communism | Friedrich Engels | 1847 | Belgium | 5.0 | ebook | 24 | nonfiction, politics, economics, history |
 | Alien Clay | Adrian Tchaikovsky | 2024 | U.K. | 5.0 | audio | 396 | sci-fi |

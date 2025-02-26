@@ -14,10 +14,10 @@
 - [ ] The Sea Watch (2011)
 - [ ] Heirs of the Blade (2011)
 - [ ] The Air War (2012)
-- [ ] War Master's Gate (2013)
+- [ ] War Master’s Gate (2013)
 - [ ] Seal of the Worm (2014)
 
-#### Tales of the Apt (short story collections)
+#### Tales of the Apt
 
 - [ ] Spoils of War (2016)
 - [ ] A Time for Grief (2017)
@@ -65,7 +65,7 @@
 
 ### After the War
 
-- [ ] Redemption's Blade (2018)
+- [ ] Redemption’s Blade (2018)
 
 ### Warhammer 40,000
 
@@ -76,8 +76,8 @@
 
 ### Expert Systems
 
-- [ ] The Expert System's Brother (2018)
-- [ ] The Expert System's Champion (2021)
+- [ ] The Expert System’s Brother (2018)
+- [ ] The Expert System’s Champion (2021)
 
 ### Terrible Worlds
 
@@ -100,7 +100,7 @@
 ### Standalone Novellas
 
 - [ ] Made Things (2019)
-- [ ] The House on the Old Cliff (Dyslexic Friendly Quick Read) (2021)
+- [ ] The House on the Old Cliff (2021)
 - [x] Elder Race (2021)
 
 ## Short stories
@@ -111,6 +111,6 @@
 
 ## Other collections
 
-- [ ] Feast and Famine (New Con Press, 2013) — Contains “Feast and Famine”, “The Artificial Man”, “The Roar of the Crowd”, “Good Taste”, “The Dissipation Club”, “Rapture”, “Care”, “2144 and All That”, “The God Shark“ and “The Sun in the Morning“
+- [ ] Feast and Famine (2013) — Contains “Feast and Famine”, “The Artificial Man”, “The Roar of the Crowd”, “Good Taste”, “The Dissipation Club”, “Rapture”, “Care”, “2144 and All That”, “The God Shark“ and “The Sun in the Morning“
 - [ ] The Private Life of Elder Things (2016)
 - [ ] Terrible Worlds: Revolutions (2023) — Collects: “Ironclads”, “Firewalkers” and “Ogres”
