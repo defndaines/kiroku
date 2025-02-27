@@ -16,7 +16,7 @@ I have a minor goal of reading all of Octavia Butler's work.
 
 ## Parable, or Earthseed series:
 - [x] Parable of the Sower (1993)
-- [ ] Parable of the Talents (1998) [Nebula]
+- [x] Parable of the Talents (1998) [Nebula]
 
 ## Stand-alones:
 - [x] Kindred (1979)

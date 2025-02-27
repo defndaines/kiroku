@@ -9,9 +9,9 @@ United States, awarded by the Science Fiction and Fantasy Writers Association
 Besides novel, only including awards when I've read them or plan to read them,
 since those lists are not goals I'm looking to fill in.
 
-Count: 32
+Count: 33
 
-## Best Novel (15)
+## Best Novel (16)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -48,7 +48,7 @@ Count: 32
 - [ ] 1997: Nicola Griffith _Slow River_
 - [ ] 1998: Vonda N. McIntyre _The Moon and the Sun_
 - [ ] 1999: Joe Haldeman _Forever Peace_
-- [ ] 2000: Octavia E. Butler _Parable of the Talents_
+- [x] 2000: Octavia E. Butler _Parable of the Talents_
 - [ ] 2001: Greg Bear _Darwin's Radio_
 - [ ] 2002: Catherine Asaro _The Quantum Rose_
 - [x] 2003: Neil Gaiman _American Gods_
