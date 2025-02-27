@@ -17,7 +17,7 @@ World](https://www.nytimes.com/series/literary-guides).
 
 The list is sorted, roughly, by population size.
 
-Count: 91
+Count: 92
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -102,7 +102,7 @@ Count: 91
 - [ ] Burundi:
 - [ ] Benin:
 - [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
-- [ ] Tunisia:
+- [x] Tunisia: [_Tunis to Sydney_](https://www.goodreads.com/book/show/202454816-tunis-to-sydney) Meriam Carnouche, Christian Carnouche
 - [ ] Papua New Guinea:
 - [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_I Who Have Never Known Men_](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men) Jacqueline Harpman
 - [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James

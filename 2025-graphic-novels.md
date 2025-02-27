@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Tunis to Sydney | Meriam Carnouche, Christian Carnouche | 2024 | Australia, Tunisia | 3.5 | ebook | 120 | contemporary |
 | Ashes | Álvaro Ortiz | 2012 | Spain | 4.0 | ebook | 184 | mystery, adventure |
 | Paper Girls: The Complete Story | Brian K. Vaughan | 2021 | U.S. | 4.0 | ebook | 784 | sci-fi, YA, LGBT |
 | Outcast, Vol. 1: A Darkness Surrounds Him | Robert Kirkman | 2015 | U.S. | 3.5 | ebook | 152 | horror, fantasy |
