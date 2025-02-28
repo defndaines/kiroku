@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Legend of Korra: The Mystery of Penquan Island | Kiku Hughes | 2025 | U.S. | 4.5 | ebook | 76 | fantasy, YA |
 | Tunis to Sydney | Meriam Carnouche, Christian Carnouche | 2024 | Australia, Tunisia | 3.5 | ebook | 120 | contemporary |
 | Ashes | Álvaro Ortiz | 2012 | Spain | 4.0 | ebook | 184 | mystery, adventure |
 | Paper Girls: The Complete Story | Brian K. Vaughan | 2021 | U.S. | 4.0 | ebook | 784 | sci-fi, YA, LGBT |
