@@ -17,7 +17,7 @@ World](https://www.nytimes.com/series/literary-guides).
 
 The list is sorted, roughly, by population size.
 
-Count: 92
+Count: 93
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -166,7 +166,7 @@ Count: 92
 - [ ] Lithuania:
 - [x] Jamaica: [_Black Leopard, Red Wolf_](https://www.goodreads.com/book/show/50608676-black-leopard-red-wolf) Marlon James
 - [ ] Albania: Ismail Kadare ?
-- [ ] Qatar:
+- [x] Qatar: [_One Day, Everyone Will Have Always Been Against This_](https://www.goodreads.com/book/show/213870084-one-day-everyone-will-have-always-been-against-this) Omar El Akkad
 - [ ] Namibia:
 - [ ] Moldova:
 - [ ] Gambia:
