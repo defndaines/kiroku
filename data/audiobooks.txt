@@ -60,6 +60,7 @@ The Great Believers | Rebecca Makkai | 4.29 | 18 | historical, LGBT, literary, C
 Solenoid | Mircea Cărtărescu | 4.29 | 34 | literary, Romania, International Dublin Literary
 Letters to a Young Poet | Rainer Maria Rilke | 4.29 | 3 | nonfiction, poetry, essays, classics, Austria
 I Know Why the Caged Bird Sings | Maya Angelou | 4.29 | 10 | autobiography, nonfiction
+Beartown | Fredrik Backman | 4.29 | 13 | sports, literary
 The Wall | John Hersey | 4.28 | 29 | historical, Warsaw ghetto
 The Player of Games | Iain M. Banks | 4.28 | 11 | sci-fi, culture-2
 Slewfoot: A Tale of Bewitchery | Brom | 4.28 | 14 | horror, fantasy, historical
@@ -255,7 +256,6 @@ Bad Cree | Jessica Johns | 3.94 | 8 | horror, literary, magical realism, indigen
 1Q84 | Haruki Murakami | 3.94 | 31 | dystopian, literary, Japan, fantasy
 Train to Pakistan | Khushwant Singh | 3.93 | 7 | classics, historical, 1956, [Spotify]
 The Glass Key | Dashiell Hammett | 3.93 | 6 | mystery, noir
-The Fisherman | John Langan | 3.88 | 11 | horror, fantasy, Books-Are-Sick-rec
 Smoke Kings | Jahmal Mayfield | 3.93 | 11 | thriller, race, nyt-100-notable-2024
 Shoko's Smile: Stories | Choi Eunyoung | 3.93 | 7 | short stories, literary, feminism
 Passing | Nella Larsen | 3.93 | 4 | classics, literary, 1929
@@ -286,6 +286,7 @@ The Wolf | Leo Carew | 3.88 | 17 | fantasy, historical, under-the-northern-sky-1
 The Iron King | Julie Kagawa | 3.88 | 14 | fantasy, romance, YA, iron-fey-1
 The House Next Door | Anne Rivers Siddons | 3.88 | 11 | horror, mystery, South, gothic
 The Helm of Midnight | Marina Lostetter | 3.88 | 22 | fantasy, horror, mystery, five-penalties-1
+The Fisherman | John Langan | 3.88 | 11 | horror, fantasy, Books-Are-Sick-rec
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.88 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Lolita | Vladimir Nabokov | 3.88 | 11 | literary, classics
 The Tusks of Extinction | Ray Nayler | 3.87 | 4 | sci-fi

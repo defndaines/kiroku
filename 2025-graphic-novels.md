@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Minor Threats, Vol. 1: A Quick End to a Long Beginning | Patton Oswalt, Jordan Blum | 2023 | U.S. | 4.5 | 128 | superhero, crime, humor |
 | Cthulhu Cat | Pandania | 2022 | Japan | 3.5 | ebook | 136 | horror, humor, manga |
 | The Legend of Korra: The Mystery of Penquan Island | Kiku Hughes | 2025 | U.S. | 4.5 | ebook | 76 | fantasy, YA |
 | Tunis to Sydney | Meriam Carnouche, Christian Carnouche | 2024 | Australia, Tunisia | 3.5 | ebook | 120 | contemporary |
