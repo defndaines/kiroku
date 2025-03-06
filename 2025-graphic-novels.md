@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Mage and the Endless Unknown | S.J. Miller | 2023 | U.S. | 3.0 | ebook | 150 | horror, fantasy, adventure |
 | The Alternates, Vol. 1 | Patton Oswalt, Jordan Blum, Tim Seeley | 2024 | U.S. | 4.0 | ebook | 112 | superhero, humor |
 | Minor Threats, Vol. 2: The Fastest Way Down Beginning | Patton Oswalt, Jordan Blum | 2024 | U.S. | 4.5 | ebook | 122 | superhero, crime, humor |
 | Minor Threats, Vol. 1: A Quick End to a Long Beginning | Patton Oswalt, Jordan Blum | 2023 | U.S. | 4.5 | ebook | 128 | superhero, crime, humor |
