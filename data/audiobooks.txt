@@ -205,6 +205,7 @@ Little | Edward Carey | 4.02 | 14 | historical, 1700s Paris
 Fortune Favors the Dead | Stephen Spotswood | 4.02 | 9 | mystery, historical, LGBT, Sunny-Lu-rec
 Bright Young Women | Jessica Knoll | 4.02 | 13 | thriller, historical, serial killer
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence | Kristen R. Ghodsee | 4.01 | 5 | nonfiction, feminism, history, politics
+The Justice of Kings | Richard Swan | 4.01 | 14 | fantasy, mystery, empire-of-the-wolf-1
 The Fox Wife | Yangsze Choo | 4.01 | 15 | fantasy, historical, mythology, our-opinions-are-correct-rec
 Shadow of the Fox | Julie Kagawa | 4.01 | 15 | YA, fantasy, shadow-of-the-fox-1
 Salka Valka | Halldor Laxness | 4.01 | 19 | classics, Iceland, Nobel, 1931, unread-country
@@ -243,7 +244,7 @@ I Am Not Sidney Poitier | Percival Everett | 3.97 | 8 | humor, contemporary
 Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America | Steven J. Ross | 3.97 | 14 | nonfiction, history, Village-Well-rec
 Frankenstein | Mary Shelley | 3.97 | 7 | sci-fi, classics, reread
 Thistlefoot | GennaRose Nethercott | 3.96 | 15 | fantasy, eastern Europe, mythology
-Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, [Spotify]
+Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, steampunk, Tori-Morrow-rec, Willow-rec, [Spotify]
 Black Money | Ross Macdonald | 3.96 | 7 | mystery, noir
 The Sea, the Sea | Iris Murdoch | 3.95 | 21 | literary, classics, Booker
 The Big Sleep | Raymond Chandler | 3.95 | 7 | mystery, noir, classics
@@ -356,6 +357,7 @@ Mobility | Lydia Kiesling | 3.73 | 11 | historical, literary, Azerbaijan, unread
 Lone Women | Victor LaValle | 3.73 | 9 | horror, historical, fantasy
 Chlorine | Jade Song | 3.73 | 8 | horror, fantasy, LGBT
 Babel-17 | Samuel R. Delany | 3.73 | 7 | sci-fi, reread, Nebula
+The Memory Police | Yōko Ogawa | 3.72 | 9 | sci-fi, dystopian, magical realism
 The Gilded Wolves | Roshani Chokshi | 3.72 | 12 | YA, historical, fantasy, LGBT, 1889 Paris, gilded-wolves-1
 The Annual Migration of Clouds | Premee Mohamed | 3.72 | 5 | sci-fi, post-apocalyptic, climate, literary
 Paper Towns | John Green | 3.72 | 8 | YA, mystery, contemporary, romance

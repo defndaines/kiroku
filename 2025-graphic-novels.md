@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| FTL, Y’all!: Tales From the Age of the $200 Warp Drive | C. Spike Trotman, Amanda Lafrenais (editors) | 2018 | Australia, Canada, Chile, Japan, U.S. | 3.5 | ebook | 296 | sci-fi, LGBT, short stories |
 | Mage and the Endless Unknown | S.J. Miller | 2023 | U.S. | 3.0 | ebook | 150 | horror, fantasy, adventure |
 | The Alternates, Vol. 1 | Patton Oswalt, Jordan Blum, Tim Seeley | 2024 | U.S. | 4.0 | ebook | 112 | superhero, humor |
 | Minor Threats, Vol. 2: The Fastest Way Down Beginning | Patton Oswalt, Jordan Blum | 2024 | U.S. | 4.5 | ebook | 122 | superhero, crime, humor |
