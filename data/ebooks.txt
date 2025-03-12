@@ -19,10 +19,10 @@ Marx at the Margins | Kevin B. Anderson | 4.29 | 336 | nonfiction, history, poli
 A Little Luck | Claudia Piñeiro | 4.29 | 211 | contemporary, literary, crime, Argentina
 The First Civil Right | Naomi Murakawa | 4.27 | 280 | nonfiction, postwar, prison, history
 Ida: A Sword Among Lions | Paula J. Giddings | 4.27 | 800 | nonfiction, biography, history, race
-Old Man's War | John Scalzi | 4.24 | 318 | sci-fi, [owned]
+Old Man’s War | John Scalzi | 4.24 | 318 | sci-fi, [owned]
 The Fall of Hyperion | Dan Simmons | 4.23 | 517 | sci-fi, sequel
 The Consuming Fire | John Scalzi | 4.21 | 304 | sci-fi, sequel-interdependency-2, [owned]
-I'm OK, I'm Pig! | Kim Hyesoon | 4.20 | 160 | poetry
+I’m OK, I’m Pig! | Kim Hyesoon | 4.20 | 160 | poetry
 Chevengur | Andrei Platonov | 4.20 | 333 | classics, literary
 Rikki-Tikki-Tavi | Rudyard Kipling | 4.19 | 54 | classics, childrens, short stories, [owned]
 Joanna Russ: Novels & Stories | Joanna Russ | 4.19 | 852 | sci-fi
@@ -37,7 +37,7 @@ Conan the Barbarian Complete Collection | Robert E. Howard | 4.16 | 939 | fantas
 Wool | Hugh Howey | 4.13 | 594 | sci-fi, dystopian, [owned]
 This Rancid Mill | Kyle Decker | 4.13 | 304 | mystery, historical, punk, L.A. 1981
 The Last Emperox | John Scalzi | 4.13 | 320 | sci-fi, sequel-interdependency-3, [owned]
-Structures: Or Why Things Don't Fall Down | J. E. Gordon | 4.13 | 395 | nonfiction, design, technology
+Structures: Or Why Things Don’t Fall Down | J. E. Gordon | 4.13 | 395 | nonfiction, design, technology
 Fuzzy Nation | John Scalzi | 4.13 | 303 | sci-fi, [owned]
 The Ghost Brigades | John Scalzi | 4.12 | 343 | sci-fi, sequel-old-mans-war-2, [owned]
 The Crystal Shard | R.A. Salvatore | 4.12 | 344 | fantasy
@@ -45,7 +45,7 @@ The Collapsing Empire | John Scalzi | 4.12 | 336 | sci-fi, [owned]
 Orientalism | Edward W. Said | 4.12 | 424 | nonfiction, history, philosophy
 Khatyn | Ales Adamovich | 4.12 | 330 | historical, Nazi occupation
 Inside Out: A Personal History of Pink Floyd | Nick Mason | 4.12 | 360 | nonfiction, music, autobiography
-Childhood's End | Arthur C. Clarke | 4.12 | 224 | classics, sci-fi
+Childhood’s End | Arthur C. Clarke | 4.12 | 224 | classics, sci-fi
 The Fairy Tales of Charles Perrault | Charles Perrault | 4.11 | 156 | short stories, classics, fairy tales, [owned]
 Blue Horses Rush In | Luci Tapahonso | 4.11 | 128 | poetry, short stories, Navajo, indigenous
 The White Boy Shuffle | Paul Beatty | 4.10 | 240 | contemporary, Black, West L.A.
@@ -69,7 +69,6 @@ Way Station | Clifford D. Simak | 4.03 | 210 | sci-fi
 The Borrowers | Mary Norton | 4.03 | 180 | classics, fantasy, YA
 Violent Borders: Refugees and the Right to Move | Reece Jones | 4.02 | 224 | nonfiction, politics
 The Steerswoman | Rosemary Kirstein | 4.02 | 279 | fantasy, sci-fi
-The Sympathizer | Viet Thanh Nguyen | 4.01 | 371 | historical, war, literary
 Head On | John Scalzi | 4.01 | 335 | sci-fi, sequel-lock-in-2, [owned]
 Factories in the Field: The Story of Migratory Farm Labor in California | Carey McWilliams | 4.01 | 366 | nonfiction, history
 The Kaiju Preservation Society | John Scalzi | 4.00 | 264 | sci-fi, [owned]
@@ -82,20 +81,20 @@ So Late in the Day: Stories of Women and Men | Claire Keegan | 3.99 | 128 | shor
 Omeros | Derek Walcott | 3.99 | 325 | classics, poetry, Saint, Lucia, unread-country, Nobel
 Dream of Ding Village | Yan Lianke | 3.99 | 352 | historical
 Common Sense | Thomas Paine | 3.99 | 104 | nonfiction, history, politics, [owned]
-The Android's Dream | John Scalzi | 3.98 | 396 | sci-fi, [owned]
+The Android’s Dream | John Scalzi | 3.98 | 396 | sci-fi, [owned]
 Of Cattle and Men | Ana Paula Maia | 3.98 | 99 | Brazil, literary, horror, Republic of Consciousness
 Laura | Vera Caspary | 3.98 | 219 | classics, mystery, 1942
 The Knife of Never Letting Go | Patrick Ness | 3.97 | 512 | dystopian, sci-fi, YA
 Honeybees and Distant Thunder | Riku Onda | 3.97 | 432 | literary, Japan
-Unlocked: An Oral History of Haden's Syndrome | John Scalzi | 3.96 | 63 | sci-fi, sequel-lock-in-0.5, [owned]
+Unlocked: An Oral History of Haden’s Syndrome | John Scalzi | 3.96 | 63 | sci-fi, sequel-lock-in-0.5, [owned]
 The Uninvited | Dorothy Macardle | 3.96 | 342 | horror, mystery, 1942
 The Almanac of the Dead | Leslie Marmon Silko | 3.96 | 763 | historical, literary, indigenous
 On War | Carl Von Clauswitz | 3.96 | 732 | nonfiction, classics, war, philosophy, reread, [owned]
 How to Blow Up a Pipeline | Andreas Malm | 3.96 | 208 | nonfiction, politics
 Broken Wings | Kahlil Gibran | 3.96 | 132 | classics, poetry, Lebanon, 1912
-The Book Censor's Library | Bothayna Al-Essa | 3.95 | 272 | literary, sci-fi, dystopian, Kuwait, unread-country
-Octavia's Brood: Science Fiction Stories from Social Justice Movements | Adrienne Maree Brown | 3.94 | 296 | sci-fi, short stories
-Nick and Tesla's High-Voltage Danger Lab | Bob Pflugfelder, Steve Hockensmith | 3.94 | 240 | mystery, science, YA
+The Book Censor’s Library | Bothayna Al-Essa | 3.95 | 272 | literary, sci-fi, dystopian, Kuwait, unread-country
+Octavia’s Brood: Science Fiction Stories from Social Justice Movements | Adrienne Maree Brown | 3.94 | 296 | sci-fi, short stories
+Nick and Tesla’s High-Voltage Danger Lab | Bob Pflugfelder, Steve Hockensmith | 3.94 | 240 | mystery, science, YA
 An Informal History of the Hugos: A Personal Look Back at the Hugo Awards, 1953-2000 | Jo Walton | 3.94 | 576 | nonfiction, history
 After the Coup | John Scalzi | 3.94 | 26 | sci-fi, sequel-old-mans-war-4.5, [owned]
 The End of Eddy | Édouard Louis | 3.92 | 208 | LGBT
@@ -124,17 +123,17 @@ How Kyoto Breaks Your Heart | Florentyna Leow | 3.85 | 96 | nonfiction, memoir, 
 Hills Like White Elephants | Ernest Hemingway | 3.85 | 6 | classics, short stories, Nobel
 The Thorn Puller | Hiromi Ito | 3.84 | 300 | contemporary, literary, Japan, U.S.
 Mumbo Jumbo | Ishmael Reed | 3.84 | 224 | classics, literary, race, historical
-What I'd Rather Not Think About | Jente Posthuma | 3.82 | 224 | contemporary, literary, Netherlands
+What I’d Rather Not Think About | Jente Posthuma | 3.82 | 224 | contemporary, literary, Netherlands
 Things Remembered and Things Forgotten | Kyoko Nakajima | 3.82 | 265 | short stories, Japan
 Struts & Frets | Jon Skovron | 3.81 | 289 | music, YA
 American Psycho | Bret Easton Ellis | 3.81 | 399 | horror, thriller
 War Trash | Ha Jin | 3.80 | 368 | historical, Chinese POWs Korean War
 The Bunker Diary | Kevin Brooks | 3.80 | 268 | horror, thriller, YA
-It's Complicated: The Social Lives of Networked Teens | Danah Boyd | 3.79 | 296 | nonfiction, technology, parenting
+It’s Complicated: The Social Lives of Networked Teens | Danah Boyd | 3.79 | 296 | nonfiction, technology, parenting
 Glass and Gardens: Solarpunk Summers | Wendy Nikel | 3.79 | 290 | sci-fi, short stories
 The Forest of Wool and Steel | Natsu Miyashita | 3.78 | 224 | contemporary, Japan
 Ms Ice Sandwich | Mieko Kawakami | 3.78 | 92 | contemporary, Japan
-Zoe's Tale | John Scalzi | 3.77 | 335 | sci-fi, sequel-old-mans-war-4, [owned]
+Zoe’s Tale | John Scalzi | 3.77 | 335 | sci-fi, sequel-old-mans-war-4, [owned]
 The Werewolf Principle | Clifford D. Simak | 3.77 | 189 | fantasy, sci-fi
 The Dead City | John Scalzi | 3.77 | 11 | sci-fi, [owned]
 A Sorrow Beyond Dreams | Peter Handke | 3.76 | 76 | nonfiction, memoir, Nobel
@@ -143,7 +142,7 @@ Jimmie Higgins | Upton Sinclair | 3.74 | 280 | classics, [owned]
 He Died With His Eyes Open | Derek Raymond | 3.74 | 224 | crime, mystery, noir
 Grotesque | Natsuo Kirino | 3.73 | 480 | mystery, Japan
 I Want to Keep Smashing Myself Until I Am Whole | Elias Canetti | 3.71 | 416 | literary, memoir, Nobel
-The President's Brain Is Missing | John Scalzi | 3.69 | 29 | sci-fi, [owned]
+The President’s Brain Is Missing | John Scalzi | 3.69 | 29 | sci-fi, [owned]
 Familiar Things | Hwang Sok-yong | 3.68 | 224 | Korea, contemporary, magical realism
 Children of the New World | Assia Djebar | 3.68 | 233 | historical, feminism, Algeria, unread-country
 Candide | Voltaire | 3.68 | 129 | classics, philosophy, France, [owned]
@@ -168,7 +167,7 @@ The Coin | Yasmin Zaher | 3.50 | 240 | literary
 Blood and Guts in High School | Kathy Acker | 3.45 | 165 | feminism, post-punk
 Picnic on Paradise | Joanna Russ | 3.41 | 152 | fantasy, sci-fi
 Nails and Eyes | Kaori Fujino | 3.41 | 138 | horror, short stories
-On a Woman's Madness | Astrid H. Roemer | 3.40 | 265 | literary, LGBT, Suriname, unread-country
+On a Woman’s Madness | Astrid H. Roemer | 3.40 | 265 | literary, LGBT, Suriname, unread-country
 Blood Kin | Steve Rasnic Tem | 3.40 | 288 | fantasy, horror, Bram Stoker
 The Factory | Hiroko Oyamada | 3.34 | 116 | magical realism, novella
 The Interrogation | J.M.G. Le Clezio | 3.28 | 243 | Nobel

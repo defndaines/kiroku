@@ -5,7 +5,8 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| The Nazis Next Door: How America Became a Safe Haven for Hitler's Men | Eric Lichtblau | 2014 | U.S. | 4.0 | audio | 288 | nonfiction, history, politics |
+| Shoko’s Smile: Stories | Choi Eunyoung | 2016 | South Korea | 4.5 | audio | 272 | short stories, literary, feminism |
+| The Nazis Next Door: How America Became a Safe Haven for Hitler’s Men | Eric Lichtblau | 2014 | U.S. | 4.0 | audio | 288 | nonfiction, history, politics |
 | Acceptance | Jeff VanderMeer | 2014 | U.S. | 4.0 | audio | 341 | sci-fi, horror |
 | One Day, Everyone Will Have Always Been Against This | Omar El Akkad | 2025 | U.S., Canada, Egypt, Qatar | 5.0 | audio | 208 | nonfiction, memoir, history, politics, Palestine |
 | A Short History of Reconstruction | Eric Foner | 1990 | U.S. | 4.5 | audio | 299 | nonfiction, history, race |
