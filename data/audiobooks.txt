@@ -137,11 +137,13 @@ To End All Wars: A Story of Loyalty and Rebellion, 1914-1918 | Adam Hochschild |
 Song of Solomon | Toni Morrison | 4.14 | 15 | classics, literary, magical realism, Nobel
 If We Were Villains | M.L. Rio | 4.14 | 13 | mystery, thriller, LGBT
 How to Win an Information War: The Propagandist Who Outwitted Hitler | Peter Pomerantsev | 4.14 | 8 | nonfiction, history, politics, war, our-opinions-are-correct-rec
+A Bigger Picture: My Fight to Bring a New African Voice to the Climate Crisis | Vanessa Nakate | 4.14 | 8 | nonfiction, environment, feminism, memoir, Uganda, unread-country
 The Mighty Miss Malone | Christopher Paul Curtis | 4.13 | 8 | historical, YA
 The God and the Gumiho | Sophie Kim | 4.13 | 13 | fantasy, romance
 The Devil All the Time | Donald Ray Pollock | 4.13 | 9 | horror, 1960s Ohio WVa
 Steppenwolf | Hermann Hesse | 4.13 | 8 | classics, philosophy, literary
 Heroes of the Water Monster | Brian Young | 4.13 | 10 | fantasy, YA
+We Could Be Rats | Emily R. Austin | 4.12 | 6 | LGBT, literary, mental health, coworker-rec
 The Talisman | Peter Straub | 4.12 | 28 | horror, fantasy
 The Last Laugh | Mindy McGinnis | 4.12 | 8 | YA, horror, thriller, sequel-initial-insult
 The Girl Who Fell Beneath the Sea | Axie Oh | 4.12 | 9 | fantasy, YA
@@ -268,7 +270,6 @@ Titus Groan | Mervyn Peake | 3.92 | 17 | classics, fantasy, gothic, 1946, gormen
 The Lions’ Den | Iris Mwanza | 3.92 | 7 | LGBT, mystery, unread-country, Zambia, Eric-Karl-Anderson-rec
 The Good Lord Bird | James McBride | 3.92 | 15 | historical, National Book
 Split Tooth | Tanya Tagaq | 3.92 | 6 | poetry, historical, literary, magical realism, indigenous
-No Right to An Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline A. Jones | 3.92 | 17 | nonfiction, history, politics, war
 If I Ever Get Out of Here | Eric Gansworth | 3.92 | 10 | YA, historical, indigenous
 Wolf Hall | Hilary Mantel | 3.91 | 23 | historical, literary, Booker
 The Alchemist | Paulo Coelho | 3.91 | 4 | classics, fantasy, literary
@@ -318,6 +319,7 @@ Blood Music | Greg Bear | 3.84 | 11 | sci-fi, horror, classics
 The Killing Fields of East New York: The First Subprime Mortgage Scandal, a White-Collar Crime Spree, and the Collapse of an American Neighborhood | Stacy Horn | 3.83 | 10 | nonfiction, history, crime, politics
 Confession of the Lioness | Mia Couto | 3.83 | 7 | contemporary, Mozambique, unread-country
 Ceremony | Leslie Marmon Silko | 3.83 | 9 | classics, historical, literary, indigenous, American Book Award
+Blood Feast: The Complete Short Stories of Malika Moustadraf | Malika Moustadraf | 3.83 | 3 | short stories, LGBT, feminism, Morocco, unread-country, [hoopla]
 The Dog of the South | Charles Portis | 3.82 | 8 | humor, South
 Maeve Fly | C.J. Leede | 3.82 | 8 | horror
 In the Company of Men | Véronique Tadjo | 3.82 | 3 | literary, historical, Ebola, Africa
@@ -329,6 +331,7 @@ Nova | Samuel R. Delany | 3.81 | 9 | sci-fi
 Heaven | Mieko Kawakami | 3.81 | 6 | contemporary, literary, Japan
 To the Lighthouse | Virginia Woolf | 3.80 | 8 | literary, classics
 The Plague of Doves | Louise Erdrich | 3.80 | 11 | historical, mystery, indigenous
+Stone Blind | Natalie Haynes | 3.80 | 9 | mythology, fantasy, historical, Willow-rec
 Remain Silent | Susie Steiner | 3.80 | 10 | mystery
 Evergreen | Naomi Hirahara | 3.80 | 9 | historical, mystery, sequel-Clark-and-Division
 The Changeling | Victor LaValle | 3.79 | 14 | horror, fantasy, literary, World Fantasy

@@ -1,12 +1,14 @@
-# Countries I've Read Books from or about
+# Countries I’ve Read Books from or about
 
-For several of these countries, I've read multiple books, but I'm only listing
-a most recent or best selection to keep things simple. Any country where I've
-read more than ten books I'll mark with a star (\*).
+For several of these countries, I’ve read multiple books, but I’m only listing
+a most recent or best selection to keep things simple. Any country where I’ve
+read more than ten books I’ll mark with a star (\*).
 
 Where possible, I want the author to be from the country in question, but the
-work doesn't have to be translated to qualify. When not born in the country,
-ideally the book should take place in the country in question.
+work doesn’t have to be translated to qualify. When not born in the country,
+ideally the book should take place in the country in question. For
+non-fiction, the book needs to be about the country, regardless of author’s
+origin.
 
 For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
@@ -15,13 +17,16 @@ Author](https://wordfinderx.com/blog/highest-rated-book-map/)
 The _New York Times_ has some guides to [Read Your Way Around the
 World](https://www.nytimes.com/series/literary-guides).
 
+[Read Around the World Challenge](https://readaroundtheworldchallenge.com/)
+lets you track based upon birthplace of the author.
+
 The list is sorted, roughly, by population size.
 
 Count: 93
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
-- [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy's Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
+- [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy’s Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
 - [x] Indonesia: [_Fruit Maps_](https://www.asymptotejournal.com/special-feature/fruit-maps-rio-johan/) Rio Johan; [_Mysteries of Visiocherries_](http://samovar.strangehorizons.com/2021/04/26/mysteries-of-visiocherries-misteri-visiceri/) Rio Johan
 - [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
 - [x] Nigeria\*: [_Binti_](https://www.goodreads.com/book/show/25667918-binti) Nnedi Okorafor
@@ -31,10 +36,10 @@ Count: 93
 - [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
 - [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
 - [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr
-- [x] Ethiopia: [_Beneath the Lion's Gaze_](https://www.goodreads.com/book/show/6544214-beneath-the-lion-s-gaze) Maaza Mengiste
+- [x] Ethiopia: [_Beneath the Lion’s Gaze_](https://www.goodreads.com/book/show/6544214-beneath-the-lion-s-gaze) Maaza Mengiste
 - [x] Egypt: [_The Republic of False Truths_](https://www.goodreads.com/book/show/49097835-the-republic-of-false-truths) Alaa Al Aswany ; [_If an Egyptian Cannot Speak English_](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) Noor Naga
 - [x] Vietnam: [_The Vietnam Wars, 1945-1990_](https://www.goodreads.com/book/show/214264.The_Vietnam_Wars_1945_1990) Marilyn B. Young
-- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah's Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer; [_Blind Owl_](https://www.goodreads.com/book/show/58588139-blind-owl) Sadeq Hedayat
+- [x] Iran: [_Darius the Great Is Not Okay_](https://www.goodreads.com/book/show/37506437-darius-the-great-is-not-okay) Adib Khorram; [_All the Shah’s Men_](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) Stephen Kinzer; [_Blind Owl_](https://www.goodreads.com/book/show/58588139-blind-owl) Sadeq Hedayat; [_Persepolis: The Story of a Childhood_](https://www.goodreads.com/book/show/9516.Persepolis) Marjane Satrapi
 - [x] Türkiye: [_Silent House_](https://www.goodreads.com/book/show/13531059-silent-house) Orhan Pamuk
 - [x] Germany\*: [_All Quiet on the Western Front_](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front) Erich Maria Remarque
 - [x] Thailand: [_A Wish in the Dark_](https://www.goodreads.com/book/show/56733560-a-wish-in-the-dark) Christina Soontornvat
@@ -56,18 +61,18 @@ Count: 93
 - [x] Sudan: [_Season of Migration to the North_](https://www.goodreads.com/book/show/6145869-season-of-migration-to-the-north) Tayeb Salih
 - [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
 - [x] Canada: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
-- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor's Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner; [_Drive Your Plow Over the Bones of the Dead_](https://www.goodreads.com/book/show/51648276-drive-your-plow-over-the-bones-of-the-dead) Olga Tokarczuk
+- [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor’s Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner; [_Drive Your Plow Over the Bones of the Dead_](https://www.goodreads.com/book/show/51648276-drive-your-plow-over-the-bones-of-the-dead) Olga Tokarczuk
 - [ ] Morocco:
 - [ ] Uzbekistan:
 - [x] Afghanistan: [_A Woman Among Warlords_](https://www.goodreads.com/book/show/6588979-a-woman-among-warlord) Malalai Joya
 - [ ] Peru: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
-- [x] Malaysia: [_The Weight of Our Sky_](https://www.goodreads.com/book/show/35614314-the-weight-of-our-sky) Hanna Alkaf; [_If at First You Don't Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; undergrad anthropology class
+- [x] Malaysia: [_The Weight of Our Sky_](https://www.goodreads.com/book/show/35614314-the-weight-of-our-sky) Hanna Alkaf; [_If at First You Don’t Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; undergrad anthropology class
 - [ ] Angola:
 - [ ] Mozambique: Mia Couto ?
 - [ ] Saudi Arabia:
 - [ ] Yemen:
 - [x] Ghana: [_Homegoing_](https://www.goodreads.com/book/show/27071490-homegoing) Yaa Gyasi
-- [ ] Côte d'Ivoire:
+- [ ] Côte d’Ivoire:
 - [ ] Nepal:
 - [ ] Venezuela:
 - [x] Cameroon: [_Behold the Dreamers_](https://www.goodreads.com/book/show/35259724-behold-the-dreamers) Imbolo Mbue; [_How Beautiful We Were_](https://www.goodreads.com/book/show/51794532-how-beautiful-we-were) Imbolo Mbue
@@ -78,7 +83,7 @@ Count: 93
 - [x] Taiwan: [_The Man with the Compound Eyes_](https://www.goodreads.com/book/show/17614822-the-man-with-the-compound-eyes) Wu Ming-Yi
 - [x] Syria: [_Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS_](https://www.goodreads.com/book/show/59521653-their-blood-got-mixed) Janet Biehl
 - [ ] Mali:
-- [x] Burkina Faso: [_Women's Liberation and the African Freedom Struggle_](https://www.goodreads.com/book/show/3039894-women-s-liberation-and-the-african-freedom-struggle) Thomas Sankara
+- [x] Burkina Faso: [_Women’s Liberation and the African Freedom Struggle_](https://www.goodreads.com/book/show/3039894-women-s-liberation-and-the-african-freedom-struggle) Thomas Sankara
 - [x] Sri Lanka: [_Island of a Thousand Mirrors_](https://www.goodreads.com/book/show/19286587-island-of-a-thousand-mirrors) Nayomi Munaweera; [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
 - [ ] Malawi:
 - [x] Chile: [_Zorro_](https://www.goodreads.com/book/show/24796.Zorro) Isabel Allende
@@ -86,7 +91,7 @@ Count: 93
 - [ ] Zambia:
 - [x] Romania: [_The Fox Was Ever the Hunter_](https://www.goodreads.com/book/show/23847927-the-fox-was-ever-the-hunter) Herta Muller
 - [x] Ecuador: [_La mandíbula del río_](https://www.uncannymagazine.com/article/la-mandibula-del-rio/) Ana Hurtado
-- [x] Senegal: [_God's Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
+- [x] Senegal: [_God’s Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
 - [ ] Somalia: [_Black Hawk Down_](https://www.goodreads.com/book/show/55403.Black_Hawk_Down) Mark Bowden; Nuruddin Farah ?
 - [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
 - [x] Guatemala: [_Bitter Fruit_](https://www.goodreads.com/book/show/102729.Bitter_Fruit) Stephen C. Schlesinger, Stephen Kinzer
@@ -104,7 +109,7 @@ Count: 93
 - [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
 - [x] Tunisia: [_Tunis to Sydney_](https://www.goodreads.com/book/show/202454816-tunis-to-sydney) Meriam Carnouche, Christian Carnouche
 - [ ] Papua New Guinea:
-- [x] Belgium: [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_I Who Have Never Known Men_](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men) Jacqueline Harpman
+- [x] Belgium: [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_I Who Have Never Known Men_](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men) Jacqueline Harpman
 - [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
 - [ ] Jordan:
 - [ ] Cuba:
@@ -134,13 +139,13 @@ Count: 93
 - [ ] Serbia: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [ ] Bulgaria:
 - [ ] Paraguay:
-- [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold's Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
+- [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
 - [ ] Republic of the Congo:
-- [x] Denmark: [_Smilla's Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
+- [x] Denmark: [_Smilla’s Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Singapore:
 - [ ] Central African Republic:
 - [x] Finland: [_Kalevala: The Graphic Novel_](https://www.goodreads.com/book/show/194925833-kalevala) Sami Makkonen; [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
-- [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll's House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
+- [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll’s House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
 - [x] Lebanon: [_A Game for Swallows: To Die, To Leave, To Return_](https://www.goodreads.com/book/show/13773346-a-game-for-swallows) Zeina Abirached
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
 - [x] Scotland\*: [_Poor Things_](https://www.goodreads.com/book/show/72355.Poor_Things) Alasdair Gray; Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
@@ -150,7 +155,7 @@ Count: 93
 - [ ] Costa Rica:
 - [x] New Zealand: [_The Bone People_](https://www.goodreads.com/book/show/460635.The_Bone_People) Keri Hulme
 - [x] Oman: [_Celestial Bodies_](https://www.goodreads.com/book/show/49382648-celestial-bodies) Jokha al-Harthi
-- [ ] Kuwait: _The Book Censor's Library_ ?
+- [ ] Kuwait: _The Book Censor’s Library_ ?
 - [ ] Liberia:
 - [ ] Mauritania:
 - [x] Panama: [_The Great Divide_](https://www.goodreads.com/book/show/181110028-the-great-divide) Cristina Henríquez
@@ -161,7 +166,7 @@ Count: 93
 - [ ] Mongolia:
 - [ ] Bosnia and Herzegovina:
 - [ ] Puerto Rico:
-- [x] Wales: [_The Mabinogion_](https://www.goodreads.com/book/show/455219.The_Mabinogion); [_Fantastic Mr. Fox_](https://www.goodreads.com/book/show/6693.Fantastic_Mr_Fox) Roald Dahl; [_Howl's Moving Castle_](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) Diana Wynne Jones
+- [x] Wales: [_The Mabinogion_](https://www.goodreads.com/book/show/455219.The_Mabinogion); [_Fantastic Mr. Fox_](https://www.goodreads.com/book/show/6693.Fantastic_Mr_Fox) Roald Dahl; [_Howl’s Moving Castle_](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) Diana Wynne Jones
 - [ ] Armenia:
 - [ ] Lithuania:
 - [x] Jamaica: [_Black Leopard, Red Wolf_](https://www.goodreads.com/book/show/50608676-black-leopard-red-wolf) Marlon James
@@ -170,7 +175,7 @@ Count: 93
 - [ ] Namibia:
 - [ ] Moldova:
 - [ ] Gambia:
-- [ ] Botswana: [_The No. 1 Ladies' Detective Agency_](https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency) Alexander McCall Smith
+- [ ] Botswana: [_The No. 1 Ladies’ Detective Agency_](https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency) Alexander McCall Smith
 - [ ] Lesotho:
 - [ ] Gabon:
 - [ ] Slovenia:
@@ -236,4 +241,4 @@ Count: 93
 - [ ] Tuvalu:
 - [ ] Niue:
 - [ ] Vatican City:
-- [x] Antarctica: [_Endurance: Shackleton's Incredible Voyage_](https://www.goodreads.com/book/show/139069.Endurance) Alfred Lansing; [_Who Goes There?_](https://www.goodreads.com/book/show/6468870-who-goes-there) John W. Campbell Jr.
+- [x] Antarctica: [_Endurance: Shackleton’s Incredible Voyage_](https://www.goodreads.com/book/show/139069.Endurance) Alfred Lansing; [_Who Goes There?_](https://www.goodreads.com/book/show/6468870-who-goes-there) John W. Campbell Jr.
