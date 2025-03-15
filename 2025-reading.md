@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Dream Hotel | Laila Lalami | 2025 | U.S. | 5.0 | audio | 336 | sci-fi, literary, dystopian |
 | Shoko’s Smile: Stories | Choi Eunyoung | 2016 | South Korea | 4.5 | audio | 272 | short stories, literary, feminism |
 | The Nazis Next Door: How America Became a Safe Haven for Hitler’s Men | Eric Lichtblau | 2014 | U.S. | 4.0 | audio | 288 | nonfiction, history, politics |
 | Acceptance | Jeff VanderMeer | 2014 | U.S. | 4.0 | audio | 341 | sci-fi, horror |
