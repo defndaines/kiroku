@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Decagon House Murders | Yukito Ayatsuji | 1987 | Japan | 4.0 | audio | 228 | mystery |
 | Parable of the Talents | Octavia E. Butler | 1998 | U.S. | 5.0 | print | 390 | sci-fi, dystopian, reread, Nebula |
 | The Dream Hotel | Laila Lalami | 2025 | U.S. | 5.0 | audio | 336 | sci-fi, literary, dystopian |
 | Shoko’s Smile: Stories | Choi Eunyoung | 2016 | South Korea | 4.5 | audio | 272 | short stories, literary, feminism |

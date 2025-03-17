@@ -326,7 +326,6 @@ In the Company of Men | Véronique Tadjo | 3.82 | 3 | literary, historical, Ebol
 Hild | Nicola Griffith | 3.82 | 24 | historical, fantasy, LGBT, England
 A Farewell to Arms | Ernest Hemingway | 3.82 | 9 | war, Nobel
 The Vaster Wilds | Lauren Groff | 3.81 | 7 | historical, literary, America
-The Decagon House Murders | Yukito Ayatsuji | 3.81 | 9 | mystery
 Nova | Samuel R. Delany | 3.81 | 9 | sci-fi
 Heaven | Mieko Kawakami | 3.81 | 6 | contemporary, literary, Japan
 To the Lighthouse | Virginia Woolf | 3.80 | 8 | literary, classics
