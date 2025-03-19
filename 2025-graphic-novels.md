@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Birdking Volume 3 | Daniel Freedman | 2024 | U.S. | 3.5 | ebook | 108 | fantasy, YA |
 | The Savage Sword of Conan #7 | Roy Thomas | 2025 | U.S. | 4.5 | print | 69 | fantasy |
 | The Last Halloween Volume 1: Children | Abby Howard | 2020 | U.S. | 3.5 | ebook | 412 | horror, YA, fantasy, humor |
 | FTL, Y’all!: Tales From the Age of the $200 Warp Drive | C. Spike Trotman, Amanda Lafrenais (editors) | 2018 | Australia, Canada, Chile, Japan, U.S. | 3.5 | ebook | 296 | sci-fi, LGBT, short stories |
