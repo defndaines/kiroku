@@ -21,6 +21,7 @@ Madonna in a Fur Coat | Sabahattin Ali | 4.41 | 6 | Türkiye, romance
 Going Postal | Terry Pratchett | 4.40 | 11 | fantasy, humor, discworld-33
 Jayber Crow | Wendell Berry | 4.39 | 14 | historical, classics
 A Bond Undone | Jin Yong | 4.38 | 18 | China, fantasy, historical, sequel-Hero-Born
+No More Tears: The Dark Secrets of Johnson & Johnson | Gardiner Harris | 4.37 | 14 | nonfiction, history, business, politics
 A Closed and Common Orbit | Becky Chambers | 4.37 | 11 | sci-fi, LGBT, wayfarers-2
 Warrior Girl Unearthed | Angeline Boulley | 4.36 | 12 | YA, mystery, thriller, indigenous
 The Power of the Dog | Don Winslow | 4.36 | 20 | mystery, thriller, drug trade
@@ -388,6 +389,7 @@ Ice | Anna Kavan | 3.66 | 6 | sci-fi, dystopian, classics
 The Appeal | John Grisham | 3.63 | 13 | mystery, legal, thriller
 Walking Practice | Dolki Min | 3.62 | 4 | Korea, horror, sci-fi, LGBT
 Oreo | Fran Ross | 3.62 | 8 | humor, classics, race
+Orbital | Samantha Harvey | 3.62 | 5 | literary, sci-fi, novella, Booker
 Covered with Night: A Story of Murder and Indigenous Justice in Early America | Nicole Eustace | 3.62 | 15 | nonfiction, history, true crime, 1722, indigenous, Pulitzer
 The Best of All Possible Worlds | Karen Lord | 3.61 | 12 | sci-fi, fantasy, romance
 The Man in the High Castle | Philip K. Dick | 3.60 | 8 | sci-fi, dystopian, Hugo
