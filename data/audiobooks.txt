@@ -32,6 +32,7 @@ There’s Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 4.3
 The Cartel | Don Winslow | 4.35 | 23 | mystery, thriller, 2004 drugs
 The Unsettling of America: Culture and Agriculture | Wendell Berry | 4.34 | 13 | nonfiction, food, agriculture, nature
 The Conquering Sword of Conan | Robert E. Howard | 4.34 | 18 | fantasy, sequel-3
+Dreaming of Ramadi in Detroit: Essays | Aisha Sabatini Sloan | 4.34 | 4 | nonfiction, essays, memoir, race, author 2025 Whiting Award winner
 All the Colors of the Dark | Chris Whitaker | 4.34 | 15 | mystery, thriller, historical, Emily-Fox-rec
 The Story of Jane: The Legendary Underground Feminist Abortion Service | Laura Kaplan | 4.33 | 11 | nonfiction, history, feminism
 The Song of Achilles | Madeline Miller | 4.33 | 11 | fantasy, historical, romance
@@ -53,6 +54,7 @@ The Shadow of the Wind | Carlos Ruiz Zafón | 4.30 | 18 | historical, mystery, l
 The Lies of Locke Lamora | Scott Lynch | 4.30 | 23 | fantasy, gentleman-bastard-1
 The Four Winds | Kristin Hannah | 4.30 | 15 | historical, 1934 Texas–California
 Tell Me How Long the Train’s Been Gone | James Baldwin | 4.30 | 15 | classics, LGBT, literary
+Pedagogy of the Oppressed | Paulo Freire | 4.30 | 8 | nonfiction, education, philosophy, politics
 Leviathan Wakes | James S.A. Corey | 4.30 | 21 | sci-fi, expanse-1
 From Here to Eternity | Caitlin Doughty | 4.30 | 6 | nonfiction, death, science, travel
 Another Country | James Baldwin | 4.30 | 16 | literary, classics, LGBT
@@ -252,6 +254,7 @@ Frankenstein | Mary Shelley | 3.97 | 7 | sci-fi, classics, reread
 Thistlefoot | GennaRose Nethercott | 3.96 | 15 | fantasy, eastern Europe, mythology
 Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, steampunk, Tori-Morrow-rec, Willow-rec, [Spotify]
 Black Money | Ross Macdonald | 3.96 | 7 | mystery, noir
+Agatha of Little Neon | Claire Luchette | 3.96 | 7 | literary, LGBT, author 2025 Whiting Award winner
 The Sea, the Sea | Iris Murdoch | 3.95 | 21 | literary, classics, Booker
 The Big Sleep | Raymond Chandler | 3.95 | 7 | mystery, noir, classics
 Jonny Appleseed | Joshua Whitehead | 3.95 | 6 | literary, indigenous, LGBT
@@ -304,7 +307,6 @@ Red Mars | Kim Stanley Robinson | 3.86 | 24 | sci-fi, Nebula, mars-1
 Oona Out of Order | Margarita Montimore | 3.86 | 12 | sci-fi, magical realism, time travel
 Midnight Riot | Ben Aaronovitch | 3.86 | 10 | fantasy, mystery, London, rivers-of-london-1
 Jonathan Strange & Mr. Norrell | Susanna Clarke | 3.86 | 32 | fantasy, historical, Hugo, Locus, World Fantasy
-I Hotel | Karen Tei Yamashita | 3.86 | 22 | historical, literary, short stories, 1968 San Francisco
 Antarctica | Claire Keegan | 3.86 | 5 | short stories, literary
 Rednecks | Taylor Brown | 3.85 | 11 | historical, Battle of Blair Mountain
 Never Let Me Go | Kazuo Ishiguro | 3.85 | 10 | literary, sci-fi, Nobel
@@ -335,6 +337,7 @@ The Plague of Doves | Louise Erdrich | 3.80 | 11 | historical, mystery, indigeno
 Stone Blind | Natalie Haynes | 3.80 | 9 | mythology, fantasy, historical, Willow-rec
 Remain Silent | Susie Steiner | 3.80 | 10 | mystery
 Evergreen | Naomi Hirahara | 3.80 | 9 | historical, mystery, sequel-Clark-and-Division
+The Road to the Salt Sea | Samuel Kolawole | 3.79 | 9 | literary, author 2025 Whiting Award winner
 The Changeling | Victor LaValle | 3.79 | 14 | horror, fantasy, literary, World Fantasy
 A Pale View of Hills | Kazuo Ishiguro | 3.79 | 6 | historical, literary, Nobel
 A Head Full of Ghosts | Paul Tremblay | 3.79 | 9 | horror, mystery, thriller, New England
@@ -389,7 +392,6 @@ Ice | Anna Kavan | 3.66 | 6 | sci-fi, dystopian, classics
 The Appeal | John Grisham | 3.63 | 13 | mystery, legal, thriller
 Walking Practice | Dolki Min | 3.62 | 4 | Korea, horror, sci-fi, LGBT
 Oreo | Fran Ross | 3.62 | 8 | humor, classics, race
-Orbital | Samantha Harvey | 3.62 | 5 | literary, sci-fi, novella, Booker
 Covered with Night: A Story of Murder and Indigenous Justice in Early America | Nicole Eustace | 3.62 | 15 | nonfiction, history, true crime, 1722, indigenous, Pulitzer
 The Best of All Possible Worlds | Karen Lord | 3.61 | 12 | sci-fi, fantasy, romance
 The Man in the High Castle | Philip K. Dick | 3.60 | 8 | sci-fi, dystopian, Hugo

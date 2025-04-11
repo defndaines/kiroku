@@ -33,7 +33,7 @@ Count: 93
 - [x] Brazil: [_The Posthumous Memoirs of Brás Cubas_](https://www.goodreads.com/book/show/87262.The_Posthumous_Memoirs_of_Br_s_Cubas) Machado de Assis
 - [x] Bangladesh: [_Bright Lines_](https://www.goodreads.com/book/show/23398905-bright-lines) Tanwi Nandini Islam
 - [x] Russia\*: [_The Autobiography of a Sexually Emancipated Communist Woman_](https://www.goodreads.com/book/show/13025259-the-autobiography-of-a-sexually-emancipated-communist-woman) Aleksandra Kollontai; [_Cement_](https://www.goodreads.com/book/show/143523.Cement) Feodor Gladkov
-- [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven
+- [x] Mexico: [_The Rebellion of the Hanged_](https://www.goodreads.com/book/show/57668.The_Rebellion_of_the_Hanged) B. Traven; [_The Houseguest and Other Stories_](https://www.goodreads.com/book/show/38458438-the-houseguest-and-other-stories) Amparo Dávila
 - [x] Japan\*: [_コンビニ人間_](https://www.goodreads.com/book/show/32281061) Sayaka Murata
 - [x] Philippines: [_Patron Saints of Nothing_](https://www.goodreads.com/book/show/41941681-patron-saints-of-nothing) Randy Ribay; [_How to Hide an Empire_](https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire) Daniel Immerwhahr
 - [x] Ethiopia: [_Beneath the Lion’s Gaze_](https://www.goodreads.com/book/show/6544214-beneath-the-lion-s-gaze) Maaza Mengiste

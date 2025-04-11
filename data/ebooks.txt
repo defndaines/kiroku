@@ -26,6 +26,7 @@ The Consuming Fire | John Scalzi | 4.21 | 304 | sci-fi, sequel-interdependency-2
 I’m OK, I’m Pig! | Kim Hyesoon | 4.20 | 160 | poetry
 Chevengur | Andrei Platonov | 4.20 | 333 | classics, literary
 Rikki-Tikki-Tavi | Rudyard Kipling | 4.19 | 54 | classics, childrens, short stories, [owned]
+Optional Practical Training | Shubha Sunder | 4.19 | 256 | literary, author 2025 Whiting Award winner
 Joanna Russ: Novels & Stories | Joanna Russ | 4.19 | 852 | sci-fi
 Flood Song | Sherwin Bitsui | 4.19 | 120 | nonfiction, poetry, Navajo, indigenous
 The Wild Iris | Louise Glück | 4.18 | 65 | poetry, Nobel
@@ -108,6 +109,7 @@ Lock In | John Scalzi | 3.91 | 336 | sci-fi, [owned]
 The Shadow of the Shadow | Paco Ignacio Taibo II | 3.90 | 240 | historical, mystery, thriller, Mexico 1922, half-read
 Starry Field: A Memoir of Lost History | Margaret Juhae Lee | 3.90 | 288 | memoir, nonfiction, Korea
 Johnny Mad Dog | Emmanuel Dongala | 3.90 | 336 | Republic, of, the, Congo, unread-country
+You Can't Kill a Man Because of the Books He Reads: Angelo Herndon's Fight for Free Speech | Brad Snyder | 3.89 | 336 | nonfiction, history, politics
 Stone Mattress | Margaret Atwood | 3.89 | 273 | short stories, [owned], [Spotify]
 New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 3.89 | 147 | fantasy, sci-fi, short stories
 Karl Marx: A Nineteenth-Century Life | Jonathan Sperber | 3.89 | 648 | nonfiction, biography, history, politics, economics, Jared-booktube-rec
@@ -150,6 +152,7 @@ Candide | Voltaire | 3.68 | 129 | classics, philosophy, France, [owned]
 Lost in the Garden | Adam S. Leslie | 3.66 | 446 | horror, magical realism, thriller, Willow-rec
 Your Hatemail Will Be Graded | John Scalzi | 3.65 | 368 | nonfiction, essays, [owned]
 Re: Colonised Planet 5, Shikasta | Doris Lessing | 3.65 | 365 | sci-fi, fantasy, Nobel
+A Carnival of Atrocities | Natalia García Freire | 3.65 | 154 | magical realism, literary, horror
 Xala | Ousmane Sembène | 3.64 | 112 | literary, Senegal
 Waylaid | Ed Lin | 3.64 | 200 | YA, Chinese-American
 Phantasmagoria and Other Poems | Lewis Carroll | 3.63 | 112 | poetry, classics, childrens, [owned]
@@ -171,6 +174,7 @@ Nails and Eyes | Kaori Fujino | 3.41 | 138 | horror, short stories
 On a Woman’s Madness | Astrid H. Roemer | 3.40 | 265 | literary, LGBT, Suriname, unread-country
 Blood Kin | Steve Rasnic Tem | 3.40 | 288 | fantasy, horror, Bram Stoker
 The Factory | Hiroko Oyamada | 3.34 | 116 | magical realism, novella
+Stone Dreams | Akram Aylisli | 3.34 | 141 | historical
 The Interrogation | J.M.G. Le Clezio | 3.28 | 243 | Nobel
 Cannibals | Shinya Tanaka | 2.93 | 70 | literary, Japan
 Citizen Marx: Republicanism and the Formation of Karl Marx’s Social and Political Thought | Bruno Leipold | 0.00 | 440 | nonfiction, politics, history, philosophy

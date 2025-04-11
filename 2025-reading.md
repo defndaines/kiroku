@@ -5,6 +5,9 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Orbital | Samantha Harvey | 2023 | U.K. | 3.5 | audio | 207 | literary, sci-fi, Booker |
+| I Hotel | Karen Tei Yamashita | 2010 | U.S. | 4.0 | audio | 613 | historical, literary, short stories, race |
+| The Houseguest and Other Stories | Amparo Dávila | 2018 | Mexico | 3.5 | print | 122 | short stories, horror |
 | The Memory Police | Yōko Ogawa | 1994 | Japan | 4.5 | audio | 274 | sci-fi, dystopian, magical realism |
 | The Decagon House Murders | Yukito Ayatsuji | 1987 | Japan | 4.0 | audio | 228 | mystery |
 | Parable of the Talents | Octavia E. Butler | 1998 | U.S. | 5.0 | print | 390 | sci-fi, dystopian, reread, Nebula |
