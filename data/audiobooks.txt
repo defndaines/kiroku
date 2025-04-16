@@ -21,7 +21,6 @@ Madonna in a Fur Coat | Sabahattin Ali | 4.41 | 6 | Türkiye, romance
 Going Postal | Terry Pratchett | 4.40 | 11 | fantasy, humor, discworld-33
 Jayber Crow | Wendell Berry | 4.39 | 14 | historical, classics
 A Bond Undone | Jin Yong | 4.38 | 18 | China, fantasy, historical, sequel-Hero-Born
-No More Tears: The Dark Secrets of Johnson & Johnson | Gardiner Harris | 4.37 | 14 | nonfiction, history, business, politics
 A Closed and Common Orbit | Becky Chambers | 4.37 | 11 | sci-fi, LGBT, wayfarers-2
 Warrior Girl Unearthed | Angeline Boulley | 4.36 | 12 | YA, mystery, thriller, indigenous
 The Power of the Dog | Don Winslow | 4.36 | 20 | mystery, thriller, drug trade
@@ -65,6 +64,7 @@ Letters to a Young Poet | Rainer Maria Rilke | 4.29 | 3 | nonfiction, poetry, es
 I Know Why the Caged Bird Sings | Maya Angelou | 4.29 | 10 | autobiography, nonfiction
 Beartown | Fredrik Backman | 4.29 | 13 | sports, literary
 The Wall | John Hersey | 4.28 | 29 | historical, Warsaw ghetto
+The Shining | Stephen King | 4.28 | 16 | horror, classic
 The Player of Games | Iain M. Banks | 4.28 | 11 | sci-fi, culture-2
 Slewfoot: A Tale of Bewitchery | Brom | 4.28 | 14 | horror, fantasy, historical
 Girl, Woman, Other | Bernardine Evaristo | 4.28 | 11 | contemporary, LGBT, literary, British, feminism, Black, Booker
@@ -96,6 +96,7 @@ Martyr! | Kaveh Akbar | 4.23 | 11 | literary, LGBT, nyt-10-best-2024
 Beautyland | Marie-Helene Bertino | 4.23 | 9 | literary, sci-fi
 The Blacktongue Thief | Christopher Buehlman | 4.22 | 13 | fantasy, horror
 Reform or Revolution and Other Writings | Rosa Luxemburg | 4.22 | 3 | nonfiction, economics, philosophy, politics, [hoopla]
+Mammoths at the Gates | Nghi Vo | 4.22 | 3 | fantasy, novella, singing-hills-cycle-4
 Halfway Home | Reuben Jonathan Miller | 4.22 | 8 | nonfiction, sociology, race, incarceration
 Revolutionary Spring | Christopher Clark | 4.21 | 33 | nonfiction, 1848, history
 Flowers for Algernon | Daniel Keyes | 4.21 | 9 | sci-fi, classics, literary, YA, reread, Hugo, Nebula
@@ -117,6 +118,7 @@ Guns of the Dawn | Adrian Tchaikovsky | 4.18 | 21 | steampunk
 Erasure | Percival Everett | 4.18 | 8 | literary, race
 Children of Ash and Elm: A History of the Vikings | Neil Price | 4.18 | 17 | history, nonfiction
 Almond | Won-pyung Sohn | 4.18 | 5 | contemporary, literary, Korea
+When the Tiger Came Down the Mountain | Nghi Vo | 4.17 | 2 | fantasy, novella, singing-hills-cycle-2
 Kill for Me, Kill for You | Steve Cavanagh | 4.17 | 10 | thriller, mystery, crime, coworker-rec
 Interpreter of Maladies | Jhumpa Lahiri | 4.17 | 6 | short stories, literary
 Anathem | Neal Stephenson | 4.17 | 32 | sci-fi, fantasy, Locus
@@ -133,6 +135,7 @@ Birds Without Wings | Louis de Bernieres | 4.16 | 23 | Türkiye, historical
 Whiskey Tender: A Memoir | Deborah Jackson Taffa | 4.15 | 12 | nonfiction, indigenous, memoir, history
 The Wind-up Bird Chronicle | Haruki Murakami | 4.15 | 26 | contemporary, literary, magical realism, Japan
 The Wickwire Watch | Jacquelyn Hagen | 4.15 | 15 | fantasy, YA, steampunk
+The Brides of High Hill | Nghi Vo | 4.15 | 3 | fantasy, horror, novella, singing-hills-cycle-5, Hugo nominee
 Terrier | Tamora Pierce | 4.15 | 15 | YA, fantasy
 Punished | Ann-Helén Laestadius | 4.15 | 13 | historical, indigenous, Sweden
 Dawn | Octavia E. Butler | 4.15 | 9 | sci-fi, feminism
@@ -208,6 +211,7 @@ Witches, Midwives, and Nurses: A History of Women Healers | Barbara Ehrenreich, 
 Walk the Blue Fields | Claire Keegan | 4.02 | 5 | short stories, literary
 Metro 2033 | Dmitry Glukhovsky | 4.02 | 22 | sci-fi, dystopian, horror, fantasy
 Little | Edward Carey | 4.02 | 14 | historical, 1700s Paris
+Into the Riverlands | Nghi Vo | 4.02 | 2 | fantasy, novella, singing-hills-cycle-3
 Fortune Favors the Dead | Stephen Spotswood | 4.02 | 9 | mystery, historical, LGBT, Sunny-Lu-rec
 Bright Young Women | Jessica Knoll | 4.02 | 13 | thriller, historical, serial killer
 Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence | Kristen R. Ghodsee | 4.01 | 5 | nonfiction, feminism, history, politics
@@ -296,6 +300,7 @@ The Helm of Midnight | Marina Lostetter | 3.88 | 22 | fantasy, horror, mystery, 
 The Fisherman | John Langan | 3.88 | 11 | horror, fantasy, Books-Are-Sick-rec
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.88 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Lolita | Vladimir Nabokov | 3.88 | 11 | literary, classics
+What Moves the Dead | T. Kingfisher | 3.87 | 5 | horror, fantasy, mystery, novella, sword-soldier-1
 The Tusks of Extinction | Ray Nayler | 3.87 | 4 | sci-fi
 The Magical Language of Others | E. J. Koh | 3.87 | 5 | nonfiction, memoir, Korea–California
 Red Sonja: Consumed | Gail Simone | 3.87 | 11 | fantasy, sword and sorcery, Willow-rec
@@ -328,6 +333,7 @@ Maeve Fly | C.J. Leede | 3.82 | 8 | horror
 In the Company of Men | Véronique Tadjo | 3.82 | 3 | literary, historical, Ebola, Africa
 Hild | Nicola Griffith | 3.82 | 24 | historical, fantasy, LGBT, England
 A Farewell to Arms | Ernest Hemingway | 3.82 | 9 | war, Nobel
+What Feasts at Night | T. Kingfisher | 3.81 | 5 | horror, fantasy, mystery, novella, sword-soldier-2, Hugo nominee
 The Vaster Wilds | Lauren Groff | 3.81 | 7 | historical, literary, America
 Nova | Samuel R. Delany | 3.81 | 9 | sci-fi
 Heaven | Mieko Kawakami | 3.81 | 6 | contemporary, literary, Japan
@@ -372,6 +378,7 @@ American Rust | Philipp Meyer | 3.72 | 13 | contemporary, mystery, Pennsylvania 
 East Goes West: The Making of an Oriental Yankee | Younghill Kang | 3.71 | 16 | classics, Korean-American, 1937
 Delicate Condition | Danielle Valentine | 3.71 | 12 | horror, feminist Rosemary’s Baby
 Concerning My Daughter | Hye-Jin Kim | 3.71 | 4 | literary, LGBT
+Axiom’s End | Lindsay Ellis | 3.71 | 16 | sci-fi, book club
 Tomb of Sand | Geetanjali Shree | 3.70 | 18 | literary, India, historical, Booker
 The Black Tides of Heaven | Neon Yang | 3.70 | 5 | fantasy, LGBT
 The Barbarian Nurseries | Héctor Tobar | 3.70 | 16 | contemporary, literary, L.A.

@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| No More Tears: The Dark Secrets of Johnson & Johnson | Gardiner Harris | 2025 | U.S. | 5.0 | audio | 464 | nonfiction, history, business, politics, true crime, science |
 | Dearborn | Ghassan Zeineddine | 2023 | U.S. | 4.5 | audio | 240 | short stories, literary, contemporary, race, LGBT |
 | Orbital | Samantha Harvey | 2023 | U.K. | 3.5 | audio | 207 | literary, sci-fi, Booker |
 | I Hotel | Karen Tei Yamashita | 2010 | U.S. | 4.0 | audio | 613 | historical, literary, short stories, race |
