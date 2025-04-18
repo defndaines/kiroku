@@ -99,7 +99,7 @@ Count: 20
 - [ ] 12: _The Year of Magical Thinking_ Joan Didion, 2005
 - [ ] 11: _The Brief Wondrous Life of Oscar Wao_ Junot Díaz, 2007
 - [ ] 10: _Gilead_ Marilynne Robinson, 2004
-- [ ] 9: _Never Let Me Go_ Kazuo Ishiguro, 2005
+- [x] 9: _Never Let Me Go_ Kazuo Ishiguro, 2005
 - [ ] 8: _Austerlitz_ W.G. Sebald; translated by Anthea Bell, 2001
 - [x] 7: _The Underground Railroad_ Colson Whitehead, 2016
 - [ ] 6: _2666_ Roberto Bolaño; translated by Natasha Wimmer, 2008

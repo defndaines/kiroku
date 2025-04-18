@@ -111,6 +111,7 @@ The Children of Gods and Fighting Men | Shauna Lawless | 4.20 | 14 | historical,
 Reconstruction | Eric Foner | 4.20 | 31 | nonfiction, history
 The Invisible Life of Addie LaRue | V.E. Schwab | 4.19 | 17 | fantasy, historical, literary
 The Eye of the World | Robert Jordan | 4.19 | 33 | fantasy, wheel-of-time-1
+Assassin's Apprentice | Robin Hobb | 4.19 | 17 | fantasy
 The Years | Annie Ernaux | 4.18 | 8 | France, nonfiction, memoir, literary, Nobel
 Paladin of Souls | Lois McMaster Bujold | 4.18 | 16 | fantasy, Hugo, Locus, Nebula
 Mind of My Mind | Octavia E. Butler | 4.18 | 8 | sci-fi, fantasy, sequel, patternmaster-2
@@ -237,6 +238,7 @@ Master Slave Husband Wife: An Epic Journey from Slavery to Freedom | Ilyon Woo |
 Hearts That Cut | Kika Hatzopoulou | 3.99 | 12 | fantasy, mythology, YA, romance, threads-that-bind-2
 Close Range: Wyoming Stories | Annie Proulx | 3.99 | 8 | short stories
 Brave New World | Aldous Huxley | 3.99 | 8 | sci-fi, literary, classics, dystopian
+Arboreality | Rebecca Campbell | 3.99 | 4 | sci-fi, Le Guin Prize, [hoopla]
 The Round House | Louise Erdrich | 3.98 | 13 | historical, literary, mystery, indigenous, National Book
 The Last Place You Look | Kristen Lepionka | 3.98 | 10 | mystery, thriller
 The Art of Gathering: How We Meet and Why It Matters | Priya Parker | 3.98 | 9 | nonfiction, psychology, business
@@ -313,7 +315,6 @@ Midnight Riot | Ben Aaronovitch | 3.86 | 10 | fantasy, mystery, London, rivers-o
 Jonathan Strange & Mr. Norrell | Susanna Clarke | 3.86 | 32 | fantasy, historical, Hugo, Locus, World Fantasy
 Antarctica | Claire Keegan | 3.86 | 5 | short stories, literary
 Rednecks | Taylor Brown | 3.85 | 11 | historical, Battle of Blair Mountain
-Never Let Me Go | Kazuo Ishiguro | 3.85 | 10 | literary, sci-fi, Nobel
 Everything I Never Told You | Celeste Ng | 3.85 | 10 | mystery, historical, literary
 Brown Girl in the Ring | Nalo Hopkinson | 3.85 | 8 | fantasy, Jamaica, Canada, Locus
 Bright Shiny Morning | James Frey | 3.85 | 14 | literary, Los Angeles, Tobias-McGowan-rec
