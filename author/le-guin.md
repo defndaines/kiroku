@@ -33,7 +33,7 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [x] City of Illusions (1967)
 - [ ] "Winter's King" (Short story, 1969)
 - [x] The Left Hand of Darkness (1969) [Hugo, Nebula]
-- [ ] "Vaster than Empires and More Slow" (Novella, 1971)
+- [x] "Vaster than Empires and More Slow" (Novella, 1971)
 - [x] "The Word for World Is Forest" (Novella, 1972)
 - [x] The Dispossessed (1974) [Hugo, Nebula, Locus]
 - [ ] "The Day Before the Revolution" (Short story, Aug 1974) [Nebula, Locus]

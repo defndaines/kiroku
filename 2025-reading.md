@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Spear Cuts Through Water | Simon Jimenez | 2022 | U.S. | 4.5 | audio | 525 | fantasy, LGBT, Robert Holdstock Award (BFA) |
 | Never Let Me Go | Kazuo Ishiguro | 2005 | U.K. | 4.5 | print | 288 | literary, sci-fi, dystopian, Nobel |
 | No More Tears: The Dark Secrets of Johnson & Johnson | Gardiner Harris | 2025 | U.S. | 5.0 | audio | 464 | nonfiction, history, business, politics, true crime, science |
 | Dearborn | Ghassan Zeineddine | 2023 | U.S. | 4.5 | audio | 240 | short stories, literary, contemporary, race, LGBT |
