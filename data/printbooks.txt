@@ -24,7 +24,6 @@ Wolves: Behavior, Ecology, and Conservation | L. David Mech (editor), Luigi Boit
 The Elders | Inbali Iserles | 4.38 | fantasy, YA, foxcraft-2
 The Book of Night Women | Marlon James | 4.38 | historical, literary, [audio, available]
 On the Origin of Species and Other Stories | Bo-Young Kim (editor) | 4.38 | sci-fi, short stories, Korea
-Amari and the Night Brothers | B.B. Alston | 4.38 | fantasy, YA, mystery
 Beneath the Stone Forest | Jordan Quinn | 4.37 | YA, fantasy, wrenly-6
 How to Break a Dragon’s Heart | Cressida Cowell | 4.36 | YA, fantasy, how-to-train-8
 The Pegasus Quest | Jordan Quinn | 4.34 | YA, fantasy, wrenly-10
@@ -42,7 +41,6 @@ Prairie Lotus | Linda Sue Park | 4.30 | YA, historical
 A People’s Guide to Capitalism: An Introduction to Marxist Economics | Hadas Thier | 4.30 | nonfiction, economics, politics, sociology
 The Bard and the Beast | Jordan Quinn | 4.29 | YA, fantasy, wrenly-9
 Swim Team | Johnnie Christmas | 4.28 | graphic, novel, YA, sports
-Words on Fire | Jennifer A. Nielsen | 4.27 | historical, YA, Lithuania
 Willa of Dark Hollow | Robert Beatty | 4.27 | fantasy, YA, historical
 The Scarlet Dragon | Jordan Quinn | 4.27 | YA, fantasy, wrenly-2
 The Princess Bride | William Goldman | 4.27 | fantasy, classics, romance, YA, [audio, hoopla]
@@ -53,7 +51,6 @@ Wobblies on the Waterfront: Interracial Unionism in Progressive-Era Philadelphia
 Wobblies of the World: A Global History of the IWW | Peter Cole (editor) | 4.25 | nonfiction, history, politics
 The Lives of Christopher Chant | Diana Wynne Jones | 4.25 | fantasy, YA, chrestomancy-2
 Scarlet | Marissa Meyer | 4.24 | YA, fantasy, lunar-chronicles-2
-Pippa Park Raises Her Game | Erin Yun | 4.23 | YA, sports
 NAM: The Vietnam War in the Words of the Men and Women Who Fought There | Mark Baker | 4.23 | nonfiction, history
 Asia’s Unknown Uprisings, Volume 1: South Korean Social Movements in the 20th Century | George Katsiaficas | 4.23 | nonfiction, history, politics
 Socialism and the Irish Rebellion: Writings from James Connolly | James Connolly | 4.22 | nonfiction, history
@@ -62,9 +59,7 @@ How to Cheat a Dragon’s Curse | Cressida Cowell | 4.22 | YA, fantasy, how-to-t
 A Hero’s Guide to Deadly Dragons | Cressida Cowell | 4.22 | YA, fantasy, how-to-train-6
 More to the Story | Hena Khan | 4.21 | YA, contemporary
 The Priory of the Orange Tree | Samantha Shannon | 4.20 | fantasy, LGBT
-Stuart Little | E.B. White | 4.20 | fantasy, classics, YA, reread
 The Other Wind | Ursula K. Le Guin | 4.19 | fantasy, YA, classics, sequel-earthsea-6
-Riding Freedom | Pam Muñoz Ryan | 4.17 | historical, YA
 Haunting the Korean Diaspora: Shame, Secrecy, and the Forgotten War | Grace M. Cho | 4.17 | nonfiction, history, race
 The Coming of Conan the Cimmerian | Robert E. Howard | 4.16 | fantasy, short stories, [audio, available]
 Stars Above | Marissa Meyer | 4.16 | YA, fantasy, lunar-chronicles-4.5
@@ -82,7 +77,6 @@ The Girl Who Drank the Moon | Kelly Barnhill | 4.12 | YA, fantasy, Newbery, [aud
 Readymade Bodhisattva: The Kaya Anthology of South Korean Science Fiction | Sunyoung Park (editor), Park Sang Joon (editor) | 4.12 | sci-fi, short stories
 Inside Out & Back Again | Thanhhà Lại | 4.12 | historical, YA, poetry
 The God Beneath the Sea | Leon Garfield, Edward Blishen | 4.11 | YA, fantasy, Greek mythology, Carnegie Medal
-My Fate According to the Butterfly | Gail D. Villanueva | 4.11 | YA, contemporary, Philippines
 Me (Moth) | Amber McBride | 4.11 | poetry, YA, magical realism, [audio, hoopla]
 Your House Will Pay | Steph Cha | 4.10 | mystery, historical, literary, Korean-Black relations, [audio, available]
 The Pinhoe Egg | Diana Wynne Jones | 4.10 | fantasy, YA, chrestomancy-6
@@ -103,7 +97,6 @@ Tales from Earthsea | Ursula K. Le Guin | 4.08 | fantasy, YA, classics, sequel-e
 Conrad’s Fate | Diana Wynne Jones | 4.08 | fantasy, YA, chrestomancy-5
 Ameilia Fang and the Barbaric Ball | Laura Ellen Anderson | 4.08 | YA, fantasy, horror
 After Appomattox: Military Occupation and the Ends of War | Gregory P. Downs | 4.07 | nonfiction, history
-A Boy Called Bat | Elana K. Arnold | 4.07 | YA, autism
 The Storm Runner | J.C. Cervantes | 4.06 | fantasy, YA, mythology
 The Journey of Little Charlie | Christopher Paul Curtis | 4.06 | historical, YA
 The Astonishing Color of After | Emily X.R. Pan | 4.06 | YA, contemporary, magical realism
@@ -116,7 +109,6 @@ A Scanner Darkly | Philip K. Dick | 4.02 | sci-fi, [audio, hoopla]
 The Silmarillion | J.R.R. Tolkien | 4.01 | fantasy, classics, [audio, available]
 Spirit Hunters | Ellen Oh | 4.01 | YA, horror, fantasy
 Shipwrecks | Akira Yoshimura | 4.01 | historical, literary
-I’ll Be the One | Lyla Lee | 4.01 | YA, romance, LGBT
 I Rode a Horse of Milk White Jade | Diane Lee Wilson | 4.01 | historical, YA
 Dragons of Autumn Twilight | Tracy Hickman | 4.01 | YA, fantasy, reread
 A Wizard of Earthsea | Ursula K. Le Guin | 4.01 | fantasy, YA, classics, reread
@@ -180,7 +172,6 @@ Mission Child | Maureen F. McHugh | 3.75 | sci-fi
 Bone Talk | Candy Gourlay | 3.74 | historical, YA
 Bond of Iron: Master and Slave at Buffalo Forge | Charles B. Dew | 3.71 | nonfiction, history
 The Red Years: Theory, Politics, and Aesthetics in the Japanese ’68 | Gavin Walker (editor) | 3.65 | nonfiction, history, politics
-The Houseguest and Other Stories | Amparo Dávila | 3.65 | short stories, horror
 Do You Dream of Terra-Two? | Temi Oh | 3.65 | sci-fi, YA, [audio, available]
 The Oathbreaker’s Shadow | Amy McCulloch | 3.62 | fantasy, YA
 Into the Jungle | Matt Forbeck | 3.61 | fantasy, YA, D&D-Endless-Quest
