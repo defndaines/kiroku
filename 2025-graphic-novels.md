@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Gunnerkrigg Court, Volume 1: Orientation & Research | Thomas Siddell | 2010 | U.K. | 4.5 | ebook | 558 | fantasy, sci-fi, YA |
 | Birdking Volume 3 | Daniel Freedman | 2024 | U.S. | 3.5 | ebook | 108 | fantasy, YA |
 | The Savage Sword of Conan #7 | Roy Thomas | 2025 | U.S. | 4.5 | print | 69 | fantasy |
 | The Last Halloween Volume 1: Children | Abby Howard | 2020 | U.S. | 3.5 | ebook | 412 | horror, YA, fantasy, humor |
