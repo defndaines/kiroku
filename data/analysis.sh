@@ -28,6 +28,8 @@ tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | 
 
 tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
 
+grep '\[ ]' countries-read.md | head | sed 's/- \[ ] \([^:]*\).*/\1/'
+
 ### Non-U.S. or U.K. works
 
 tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | sort -u

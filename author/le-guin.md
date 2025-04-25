@@ -148,8 +148,7 @@ I have a minor goal of reading all of Ursula K. Le Guin's work.
 - [ ] "In the drought" (Short story, 1994)
 - [ ] Going out with Peacocks and Other Poems (Poetry collection, 1994)
 - [ ] A Fisherman of the Inland Sea (Collection, 1994)
-- [ ] "Buffalo Gals, Won't You Come Out Tonight" (Short story, 1994) [World
-Fantasy]
+- [x] "Buffalo Gals, Won't You Come Out Tonight" (Short story, 1994) [World Fantasy]
 - [ ] "Ether OR" (Short story, Nov 1995)
 - [ ] "Olders" (Short story, Dec 1995)
 - [ ] Unlocking the Air and Other Stories (Collection, 1996)
