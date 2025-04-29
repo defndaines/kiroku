@@ -6,6 +6,7 @@ Collected Fictions | Jorge Luis Borges | 4.57 | 5 | short stories, Argentina, ma
 They Can’t Kill Us Until They Kill Us | Hanif Abdurraqib | 4.56 | 9 | nonfiction, memoir, essays
 The New Fish | Simen Saetre, Kjetil Ostli | 4.56 | 10 | nonfiction, nature, farmed fish, salmon
 Lonesome Dove | Larry McMurtry | 4.54 | 37 | historical, classics, western, Pulitzer
+Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection | John Green | 4.52 | 6 | nonfiction, history, science
 Mistborn: The Final Empire | Brandon Sanderson | 4.49 | 25 | fantasy, mistborn-1 (start here)
 Demon Copperhead | Barbara Kingsolver | 4.49 | 21 | historical, literary, Pulitzer
 Compound Fracture | Andrew Joseph White | 4.49 | 10 | horror, LGBT, YA
@@ -361,6 +362,7 @@ The Devourers | Indra Das | 3.77 | 13 | fantasy, horror, LGBT, India, Jemisin-re
 Saints and Misfits | S.K. Ali | 3.77 | 8 | contemporary, YA, Muslim
 History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGBT, France
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
+Theory & Practice | Michelle de Kretser | 3.76 | 5 | literary, historical
 The Knowledge: How to Rebuild Our World from Scratch | Lewis Dartnell | 3.76 | 9 | nonfiction, science, technology, history
 Strike the Zither | Joan He | 3.76 | 11 | fantasy, YA, historical, 414 China
 Stay and Fight | Madeline Ffitch | 3.76 | 13 | literary, LGBT, Appalachian Ohio

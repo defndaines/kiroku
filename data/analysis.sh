@@ -116,7 +116,7 @@ sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 grep "^Count:" [a-z]*.md
 
-for award in booker-prize.md carnegie-medal.md clarke-award.md dublin-award.md golden-poppy.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md ohioana.md pulitzer.md walter-scott-prize.md womens.md world-fantasy.md; do
+for award in booker-prize.md carnegie-medal.md clarke-award.md dublin-award.md golden-poppy.md great-american-novels.md kirkus.md locus-award.md national-book-award.md nobel-literature.md nommo-award.md ohioana.md pulitzer.md walter-scott-prize.md womens.md world-fantasy.md; do
   echo $award
   grep "^Count" $award
   grep '\[x\]' $award | sort | uniq -c | wc -l
