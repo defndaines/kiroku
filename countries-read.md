@@ -4,11 +4,13 @@ For several of these countries, I’ve read multiple books, but I’m only listi
 a most recent or best selection to keep things simple. Any country where I’ve
 read more than ten books I’ll mark with a star (\*).
 
-Where possible, I want the author to be from the country in question, but the
-work doesn’t have to be translated to qualify. When not born in the country,
-ideally the book should take place in the country in question. For
-non-fiction, the book needs to be about the country, regardless of author’s
-origin.
+My definitions here are a little loose. Where possible, I want the author to
+be from the country in question, but the work doesn’t have to be translated to
+qualify. When the author was not born in the country, ideally the book should
+take place in the country in question. For non-fiction, the book needs to be
+about the country, regardless of author’s origin. Some authors get a little
+difficult to place, like Isabel Allende, who was born in Peru but is Chilean
+(and now American) by citizenship.
 
 For inspiration on completing the list, can check out resources like [Every
 Country’s Highest-Rated Book by a Local
