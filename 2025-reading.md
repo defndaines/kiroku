@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Nesting | Roisín O’Donnell | 2025 | Ireland | 5.0 | audio | 400 | literary |
 | I Cheerfully Refuse | Leif Enger | 2024 | U.S | 4.0 | audio | 336 | sci-fi, dystopian, literary |
 | The Joy Luck Club | Amy Tan | 1989 | U.S. | 4.0 | audio | 288 | historical, classics |
 | Hunchback | Saou Ichikawa | 2023 | Japan | 4.5 | audio | 112 | literary, disability, Akutagawa Prize |
