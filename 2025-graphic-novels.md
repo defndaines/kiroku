@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| My Favorite Thing Is Monsters, Vol. 1 | Emil Ferris | 2017 | U.S. | 5.0 | ebook | 416 | historical, horror, mystery, Ignatz Award, Eisner Award |
 | よつばと! 16 | あずまきよひこ | 2025 | Japan | 4.5 | print | 256 | graphic novel, manga, humor |
 | The Summer Hikaru Died, Vol. 5 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |
 | Gunnerkrigg Court, Volume 1: Orientation & Research | Thomas Siddell | 2010 | U.K. | 4.5 | ebook | 558 | fantasy, sci-fi, YA |
