@@ -9,9 +9,9 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 24
+Count: 25
 
-## Fiction (19)
+## Fiction (20)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -111,6 +111,7 @@ Count: 24
 - [ ] 2023: Hernan Diaz, _Trust_
 - [ ] 2023: Barbara Kingsolver, _Demon Copperhead_
 - [x] 2024: Jayne Anne Phillips, _Night Watch_
+- [x] 2025: Percival Everett, _James_
 
 ## Nonfiction (4)
 
@@ -161,6 +162,7 @@ Count: 24
 - [ ] 2022: Andrea Elliott, _Invisible Child: Poverty, Survival & Hope in an American City_
 - [ ] 2023: Robert Samuels and Toluse Olorunnipa, _His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice_
 - [ ] 2024: Nathan Thrall, _A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy_
+- [ ] 2025: Benjamin Nathans, _To the Success of Our Hopeless Cause: The Many Lives of the Soviet Dissident Movement_
 
 ## History (1)
 
@@ -209,3 +211,5 @@ Count: 24
 - [ ] 2022: Ada Ferrer, _Cuba: An American History_
 - [ ] 2023: Jefferson Cowie, _Freedom's Dominion: A Saga of White Resistance to Federal Power_
 - [x] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
+- [ ] 2025: Edda L. Fields-Black, _Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom During the Civil War_
+- [ ] 2025: Kathleen DuVal, _Native Nations: A Millennium in North America_
