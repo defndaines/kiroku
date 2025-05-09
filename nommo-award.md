@@ -8,7 +8,7 @@ anywhere else.
 Members of the African Speculative Fiction Society (ASFS) nominate works and
 vote for winners.
 
-Count: 1
+Count: 2
 
 ## Novel (0)
 
@@ -43,12 +43,12 @@ Count: 1
 - [ ] 2022: Pemi Aguda “Masquerade Season”
 - [ ] 2024: Gabrielle Emem Harry “A Name is a Plea and a Prophecy”
 
-## Graphic Novel (0)
+## Graphic Novel (1)
 
 - [ ] 2017: Chronic No. 3 Various writers & artists _The Corpse Exhibition_
 - [ ] 2018: Kwabena Ofei & Setor Fiadzigbey _Lake of Tears_
 - [ ] 2019: Nnedi Okorafor & Leonardo Romero _Shuri_
 - [ ] 2020: Morakinyo Araoye, Steven Akinyemi, & Ogim Ekpezu _Danfo_
 - [ ] 2021: Nana Akosua Hanson & AnimaxFYB _MoonGirls_
-- [ ] 2022: Roye Okupe & Godwin Akpan _Iyanu: Child of Wonder, Volume 2_
+- [x] 2022: Roye Okupe & Godwin Akpan _Iyanu: Child of Wonder, Volume 2_
 - [ ] 2024: Mamode Ogbewele and Chigozie Amadi _Grimm's Assistant_
