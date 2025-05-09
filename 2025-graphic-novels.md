@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #8 | Dennis Culver | 2025 | U.S. | 4.0 | print | 69 | fantasy |
 | Iyanu: Child of Wonder, Volume 1 | Roye Okupe | 2021 | Nigeria | 4.0 | ebook | 117 | fantasy, folklore, YA |
 | My Favorite Thing Is Monsters, Vol. 1 | Emil Ferris | 2017 | U.S. | 5.0 | ebook | 416 | historical, horror, mystery, Ignatz Award, Eisner Award |
 | よつばと! 16 | あずまきよひこ | 2025 | Japan | 4.5 | print | 256 | graphic novel, manga, humor |
