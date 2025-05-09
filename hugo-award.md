@@ -8,7 +8,7 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 61
+Count: 62
 
 ## Best Novel (25)
 
@@ -129,17 +129,25 @@ Count: 61
 - [x] 2023: Samantha Mills _Rabbit Test_
 - [x] 2024: Naomi Kritzer _Better Living Through Algorithms_
 
-## Best Graphic Story (9)
+## Best Graphic Story (10)
 
 - [x] 1941: _Batman #1_ Bill Finger, Bob Kane
 - [x] 1945: _Superman: "The Mysterious Mr. Mxyzptlk"_ Jerry Siegel, Ira Yarbrough, Joe Shuster
 - [x] 2009: _Girl Genius, Volume 8: Agatha Heterodyne and the Chapel of Bones_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2010: _Girl Genius, Volume 9: Agatha Heterodyne and the Heirs of the Storm_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2011: _Girl Genius, Volume 10: Agatha Heterodyne and the Guardian Muse_ Kaja Foglio, Phil Foglio, Cheyenne Wright
+- [ ] 2012: _Digger_ Ursula Vernon
 - [x] 2013: _Saga, Volume 1_ Brian K. Vaughan, Fiona Staples
+- [ ] 2014: _"Time"_ Randall Munroe
 - [x] 2015: _Ms. Marvel, Volume 1: No Normal_ G. Willow Wilson, Adrian Alphona, Jake Wyatt
+- [ ] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
+- [ ] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu
+- [ ] 2019: _Monstress, Volume 3: Haven_ Marjorie Liu
+- [ ] 2020: _LaGuardia_ Nnedi Okorafor
+- [ ] 2021: _Parable of the Sower: A Graphic Novel Adaptation_ Octavia E. Butler, Damian Duffy
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
+- [x] 2024: _Saga, Volume 11_ Brian K. Vaughan
 
 ## Best Related Work (1)
 
