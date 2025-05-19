@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Latinos of Asia: How Filipino Americans Break the Rules of Race | Anthony Christian Ocampo | 2016 | U.S. | 4.5 | print | 270 | nonfiction, race, sociology, history |
 | Someone You Can Build a Nest In | John Wiswell | 2024 | U.S. | 4.5 | audio | 310 | fantasy, horror, romance, LGBT |
 | You Dreamed of Empires | Álvaro Enrigue | 2022 | Mexico | 4.0 | audio | 220 | historical, magical realism, literary |
 | Water Moon | Samantha Sotto Yambao | 2025 | Philippines, Japan | 3.5 | audio | 384 | fantasy, romance, mystery |
