@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom during the Civil War | Edda L. Fields-Black | 2024 | U.S. | 4.5 | audio | 776 | nonfiction, history, Pulitzer |
 | Five Views of the Planet Tartarus | Rachael K. Jones | 2024 | U.S. | 4.5 | ebook | 10 | sci-fi, short stories, Hugo finalist |
 | Three Faces of a Beheading | Arkady Martine | 2024 | U.S. | 3.5 | ebook | 22 | sci-fi, fantasy, short stories, Hugo finalist |
 | Marginalia | Mary Robinette Kowal | 2024 | U.S. | 4.0 | ebook | 25 | fantasy, short stories, reread, Hugo finalist |
