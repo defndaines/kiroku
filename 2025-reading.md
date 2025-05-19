@@ -5,6 +5,15 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Five Views of the Planet Tartarus | Rachael K. Jones | 2024 | U.S. | 4.5 | ebook | 10 | sci-fi, short stories, Hugo finalist |
+| Three Faces of a Beheading | Arkady Martine | 2024 | U.S. | 3.5 | ebook | 22 | sci-fi, fantasy, short stories, Hugo finalist |
+| Marginalia | Mary Robinette Kowal | 2024 | U.S. | 4.0 | ebook | 25 | fantasy, short stories, reread, Hugo finalist |
+| Stitched to Skin Like Family Is | Nghi Vo | 2024 | U.S. | 4.0 | ebook | 10 | fantasy, horror, historical, short stories, Hugo finalist |
+| By Salt, By Sea, By Light of Stars | Premee Mohamed | 2024 | Canada | 4.0 | ebook | 38 | fantasy, novelette, Hugo finalist |
+| The Brotherhood of Montague St. Video | Thomas Ha | 2024 | U.S. | 4.5 | ebook | 20 | sci-fi, dystopian, novelette, Hugo finalist |
+| Loneliness Universe | Eugenia Triantafyllou | 2024 | Greece | 4.5 | ebook | 30 | sci-fi, novelette, Hugo finalist |
+| We Will Teach You How to Read &#124; We Will Teach You How to Read | Caroline M. Yoachim | 2024 | U.S. | 3.0 | ebook | 21 | sci-fi, short stories, Hugo finalist |
+| Signs of Life | Sarah Pinsker | 2024 | U.S. | 4.0 | ebook | 35 | sci-fi, novelette, Hugo finalist |
 | The Latinos of Asia: How Filipino Americans Break the Rules of Race | Anthony Christian Ocampo | 2016 | U.S. | 4.5 | print | 270 | nonfiction, race, sociology, history |
 | Someone You Can Build a Nest In | John Wiswell | 2024 | U.S. | 4.5 | audio | 310 | fantasy, horror, romance, LGBT |
 | You Dreamed of Empires | Álvaro Enrigue | 2022 | Mexico | 4.0 | audio | 220 | historical, magical realism, literary |
