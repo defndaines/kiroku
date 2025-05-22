@@ -337,7 +337,7 @@ book finished in a month is tagged with the month in **bold**.
 | Prophet Song | Paul Lynch | 2023 | Ireland | 5.0 | audio | 244 | dystopian, literary, Booker |
 | The Organ Thieves: The Shocking Story of the First Heart Transplant in the Segregated South | Chip Jones | 2020 | U.S. | 4.0 | audio | 400 | nonfiction, history, medicine |
 | The Last Fallen Realm | Graci Kim | 2023 | U.S., New Zealand | 3.0 | audio | 320 | fantasy, Korean mythology, YA |
-| Iron Widow | Xiran Jay Zhao | 2021 | China | 4.5 | audio | 391 | sci-fi, fantasy, YA, LGBT |
+| Iron Widow | Xiran Jay Zhao | 2021 | China, Canada | 4.5 | audio | 391 | sci-fi, fantasy, YA, LGBT |
 | Children of the Black Sun Vol 1 | Dario Sicchio | 2024 | U.S. | 3.0 | ebook | 124 | sci-fi, graphic novel, horror |
 | One Soul | Ray Fawkes | 2011 | Canada | 3.5 | ebook | 176 | graphic novel, historical |
 | How Beautiful We Were | Imbolo Mbue | 2021 | Cameroon | 4.5 | audio | 384 | historical, Africa, literary |
@@ -346,7 +346,7 @@ book finished in a month is tagged with the month in **bold**.
 | On a Sunbeam | Tillie Walden | 2018 | U.S. | 4.5 | ebook | 544 | sci-fi, graphic novel, LGBT, YA |
 | Ender’s Game | Orson Scott Card | 1985 | U.S. | 3.5 | audio | 324 | sci-fi, YA, Hugo, Nebula, reread, **February** |
 | Poor Things | Alasdair Gray | 1992 | Scotland | 5.0 | audio | 318 | historical, sci-fi, literary |
-| Die, Vol. 1: Fantasy Heartbreaker | Kieron Gillen | 2019 | U.K. | 4.0 | print | 184 | graphic novel, fantasy, horror |
+| Die, Vol. 1: Fantasy Heartbreaker | Kieron Gillen | 2019 | U.K. | 4.0 | print | 184 | graphic novel, fantasy, horror, British Fantasy Award |
 | Men We Reaped | Jesmyn Ward | 2013 | U.S. | 4.5 | audio | 256 | nonfiction, memoir, race |
 | Where the Body Was | Ed Brubaker | 2023 | U.S. | 4.5 | print | 144 | graphic novel, mystery, historical |
 | To Be Taught, If Fortunate | Becky Chambers | 2019 | U.S. | 5.0 | audio | 153 | sci-fi, novella, LGBT |

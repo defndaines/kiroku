@@ -8,7 +8,7 @@ chosen by its members.
 Besides novel, only including other awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 62
+Count: 63
 
 ## Best Novel (25)
 
@@ -129,7 +129,7 @@ Count: 62
 - [x] 2023: Samantha Mills _Rabbit Test_
 - [x] 2024: Naomi Kritzer _Better Living Through Algorithms_
 
-## Best Graphic Story (10)
+## Best Graphic Story (11)
 
 - [x] 1941: _Batman #1_ Bill Finger, Bob Kane
 - [x] 1945: _Superman: "The Mysterious Mr. Mxyzptlk"_ Jerry Siegel, Ira Yarbrough, Joe Shuster
@@ -140,7 +140,7 @@ Count: 62
 - [x] 2013: _Saga, Volume 1_ Brian K. Vaughan, Fiona Staples
 - [ ] 2014: _"Time"_ Randall Munroe
 - [x] 2015: _Ms. Marvel, Volume 1: No Normal_ G. Willow Wilson, Adrian Alphona, Jake Wyatt
-- [ ] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
+- [x] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
 - [ ] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu
 - [ ] 2019: _Monstress, Volume 3: Haven_ Marjorie Liu
 - [ ] 2020: _LaGuardia_ Nnedi Okorafor

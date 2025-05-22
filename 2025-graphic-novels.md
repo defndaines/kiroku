@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Monstress, Volume 1: Awakening | Marjorie Liu | 2016 | U.S. | 3.5 | ebook | 192 | fantasy, steampunk, Hugo, British Fantasy Award |
 | Iyanu: Child of Wonder, Volume 2 | Roye Okupe | 2022 | Nigeria | 4.5 | ebook | 140 | fantasy, folklore, YA |
 | The Savage Sword of Conan #8 | Dennis Culver | 2025 | U.S. | 4.0 | print | 69 | fantasy |
 | Iyanu: Child of Wonder, Volume 1 | Roye Okupe | 2021 | Nigeria | 4.0 | ebook | 117 | fantasy, folklore, YA |
