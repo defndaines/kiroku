@@ -397,7 +397,6 @@ American Rust | Philipp Meyer | 3.72 | 13 | contemporary, mystery, Pennsylvania 
 East Goes West: The Making of an Oriental Yankee | Younghill Kang | 3.71 | 16 | classics, Korean-American, 1937
 Delicate Condition | Danielle Valentine | 3.71 | 12 | horror, feminist Rosemary’s Baby
 Concerning My Daughter | Hye-Jin Kim | 3.71 | 4 | literary, LGBT
-Axiom’s End | Lindsay Ellis | 3.71 | 16 | sci-fi, book club
 Tomb of Sand | Geetanjali Shree | 3.70 | 18 | literary, India, historical, Booker
 The Black Tides of Heaven | Neon Yang | 3.70 | 5 | fantasy, LGBT
 The Barbarian Nurseries | Héctor Tobar | 3.70 | 16 | contemporary, literary, L.A.
