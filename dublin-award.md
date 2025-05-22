@@ -35,3 +35,4 @@ Count: 1
 - [ ] 2022: Alice Zeniter _The Art of Losing_
 - [ ] 2023: Katja Oskamp _Marzahn, Mon Amour_
 - [ ] 2024: Mircea Cărtărescu _Solenoid_
+- [ ] 2025: Michael Crummey _The Adversary_
