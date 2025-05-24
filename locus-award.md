@@ -7,7 +7,7 @@ Locus Awards are voted on by readers of _Locus_ magazine.
 Besides novels, only including awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
-Count: 27
+Count: 28
 
 ## Best Novel (4)
 
@@ -190,9 +190,10 @@ Count: 27
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
 - [ ] 2024: Charlie Jane Anders _Promises Stronger Than Darkness_
 
-## Best Horror (1)
+## Best Horror (2)
 
 - [x] 2020: Marlon James _Black Leopard, Red Wolf_
+- [x] 2020: T. Kingfisher _What Moves the Dead_
 - [ ] 2024: T. Kingfisher _A House with Good Bones_
 
 ## Best Novella (4)
