@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Navigational Entanglements | Aliette de Bodard | 2024 | France | 4.0 | ebook | 165 | sci-fi, LGBT, novella, Hugo finalist |
 | What Moves the Dead | T. Kingfisher | 2022 | U.S. | 4.0 | audio | 165 | horror, fantasy, mystery, novella, Locus |
 | Axiom’s End | Lindsay Ellis | 2000 | U.S. | 4.0 | audio | 384 | sci-fi |
 | Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom during the Civil War | Edda L. Fields-Black | 2024 | U.S. | 4.5 | audio | 776 | nonfiction, history, Pulitzer |
