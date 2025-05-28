@@ -5,10 +5,11 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Ministry of Time | Kaliane Bradley | 2024 | U.K. | 3.5 | audio | 339 | romance, sci-fi, Hugo finalist |
 | When the Tiger Came Down the Mountain | Nghi Vo | 2020 | U.S. | 4.0 | audio | 128 | fantasy, novella |
 | Navigational Entanglements | Aliette de Bodard | 2024 | France | 4.0 | ebook | 165 | sci-fi, LGBT, novella, Hugo finalist |
 | What Moves the Dead | T. Kingfisher | 2022 | U.S. | 4.0 | audio | 165 | horror, fantasy, mystery, novella, Locus |
-| Axiom’s End | Lindsay Ellis | 2000 | U.S. | 4.0 | audio | 384 | sci-fi |
+| Axiom’s End | Lindsay Ellis | 2000 | U.S. | 3.5 | audio | 384 | sci-fi |
 | Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom during the Civil War | Edda L. Fields-Black | 2024 | U.S. | 4.5 | audio | 776 | nonfiction, history, Pulitzer |
 | Five Views of the Planet Tartarus | Rachael K. Jones | 2024 | U.S. | 4.5 | ebook | 10 | sci-fi, short stories, Hugo finalist |
 | Three Faces of a Beheading | Arkady Martine | 2024 | U.S. | 3.5 | ebook | 22 | sci-fi, fantasy, short stories, Hugo finalist |
