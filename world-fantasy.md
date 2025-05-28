@@ -1,13 +1,18 @@
 # World Fantasy Award
 
-List of World Fantasy Award winners identified by whether I've read them.
+List of World Fantasy Award winners identified by whether I’ve read them.
 
 Organized and overseen by the World Fantasy Convention, decided by attendees
 of the convention and a panel of judges, typically made up of fantasy authors.
 
-Count: 4
+Awards announced at convention around the end of October, beginning of
+November.
 
-## Novel (4)
+https://worldfantasy.org/
+
+Count: 5
+
+## Novel (5)
 
 - [ ] 1975: Patricia A. McKillip _The Forgotten Beasts of Eld_
 - [ ] 1976: Richard Matheson _Bid Time Return_
@@ -26,7 +31,7 @@ Count: 4
 - [ ] 1989: Peter Straub _Koko_
 - [ ] 1990: Jack Vance _Lyonesse: Madouc_
 - [ ] 1991: James Morrow _Only Begotten Daughter_
-- [ ] 1992: Robert R. McCammon _Boy's Life_
+- [ ] 1992: Robert R. McCammon _Boy’s Life_
 - [ ] 1993: Tim Powers _Last Call_
 - [ ] 1994: Lewis Shiner _Glimpses_
 - [ ] 1995: James Morrow _Towing Jehovah_
@@ -60,6 +65,7 @@ Count: 4
 - [ ] 2021: Alaya Dawn Johnson _Trouble the Saints_
 - [ ] 2022: Tasha Suri _The Jasmine Throne_
 - [ ] 2023: C.S.E. Cooney _Saint Death’s Daughter_
+- [x] 2024: Tananarive Due _The Reformatory_
 
 ## Novella
 
@@ -67,13 +73,13 @@ Count: 4
 - [ ] 1983: Charles L. Grant _Confess the Seasons_
 - [ ] 1984: Kim Stanley Robinson _Black Air_
 - [ ] 1985: Geoff Ryman _The Unconquered Country_
-- [ ] 1986: T.E.D. Klein _Nadelman's God_
+- [ ] 1986: T.E.D. Klein _Nadelman’s God_
 - [ ] 1987: Orson Scott Card _Hatrack River_
-- [ ] 1988: Ursula K. Le Guin _Buffalo Gals, Won't You Come Out Tonight_
+- [ ] 1988: Ursula K. Le Guin _Buffalo Gals, Won’t You Come Out Tonight_
 - [ ] 1989: George R.R. Martin _The Skin Trade_
 - [ ] 1990: John Crowley _Great Work of Time_
 - [ ] 1991: Pat Murphy _Bones_
-- [ ] 1991: Neil Gaiman _A Midsummer Night's Dream_
+- [ ] 1991: Neil Gaiman _A Midsummer Night’s Dream_
 - [ ] 1992: Robert Holdstock _The Ragthorn_
 - [ ] 1992: Garry Kilworth _The Ragthorn_
 - [ ] 1993: Peter Straub _The Ghost Village_
@@ -95,7 +101,7 @@ Count: 4
 - [ ] 2008: Elizabeth Hand _Illyria_
 - [ ] 2009: Richard Bowes _If Angels Fight_
 - [ ] 2010: Margo Lanagan _Sea-Hearts_
-- [ ] 2011: Elizabeth Hand _The Maiden Flight of McCauley's Bellerophon_
+- [ ] 2011: Elizabeth Hand _The Maiden Flight of McCauley’s Bellerophon_
 - [ ] 2012: K.J. Parker _A Small Price to Pay for Birdsong_
 - [ ] 2013: K.J. Parker _Let Maps to Others_
 - [ ] 2014: Andy Duncan, Ellen Klages _Wakulla Springs_
@@ -108,56 +114,58 @@ Count: 4
 - [ ] 2021: Tochi Onyebuchi _Riot Baby_
 - [ ] 2022: Premee Mohamed _And What Can We Offer You Tonight_
 - [ ] 2023: Priya Sharma _Pomegranates_
+- [ ] 2024: Josh Malerman _Half the House Is Haunted_
 
 ## Short Fiction
 
-- [ ] 1975: Robert Aickman "Pages From a Young Girl's Journal"
-- [ ] 1976: Fritz Leiber "Belsen Express"
-- [ ] 1977: Russell Kirk "There's a Long Long Trail A-Winding"
-- [ ] 1978: Ramsey Campbell "The Chimney"
-- [ ] 1979: Avram Davidson "Naples"
-- [ ] 1980: Ramsey Campbell "Mackintosh Willy"
-- [ ] 1981: Howard Waldrop "The Ugly Chickens"
-- [ ] 1982: Dennis Etchison "The Dark Country"
-- [ ] 1983: Tanith Lee "The Gorgon"
-- [ ] 1984: Tanith Lee "Elle Est Trois (La Mort)"
-- [ ] 1985: Scott Baker "Still Life with Scorpion"
-- [ ] 1986: James P. Blaylock "Paper Dragons"
-- [ ] 1987: David J. Schow "Red Light"
-- [ ] 1988: Jonathan Carroll "Friend's Best Man"
-- [ ] 1989: John M. Ford "Winter Solstice, Camelot Station"
-- [ ] 1990: Steven Millhauser "The Illusionist"
-- [ ] 1991: Charles Vess "A Midsummer Night's Dream"
-- [ ] 1992: Fred Chappell "The Somewhere Doors"
-- [ ] 1993: Dan Simmons "This Year's Class Picture"
-- [ ] 1994: Fred Chappell "The Lodger"
-- [ ] 1995: Stephen King "The Man in the Black Suit"
-- [ ] 1996: Gwyneth Jones "The Grass Princess"
-- [ ] 1997: James P. Blaylock "Thirteen Phantasms"
-- [ ] 1998: P.D. Cacek "Dust Motes"
-- [ ] 1999: Kelly Link "The Specialist's Hat"
-- [ ] 2000: Ian R. MacLeod "The Chop Girl"
-- [ ] 2001: Andy Duncan "The Pottawatomie Giant"
-- [ ] 2002: Albert E. Cowdrey "Queen for a Day"
-- [ ] 2003: Jeffrey Ford "Creation"
-- [ ] 2004: Bruce Holland Rogers "Don Ysidro"
-- [ ] 2005: Margo Lanagan "Singing My Sister Down"
-- [ ] 2006: George Saunders "CommComm"
-- [ ] 2007: M. Rickert "Journey Into the Kingdom"
-- [ ] 2008: Theodora Goss "Singing of Mount Abora"
-- [ ] 2009: Kij Johnson "26 Monkeys, Also the Abyss"
-- [ ] 2010: Karen Joy Fowler "The Pelican Bar"
-- [ ] 2011: Joyce Carol Oates "Fossil-Figures"
-- [ ] 2012: Ken Liu "The Paper Menagerie"
-- [ ] 2013: Gregory Norman Bossert "The Telling"
-- [ ] 2014: Caitlin R. Kiernan "The Prayer of Ninety Cats"
-- [ ] 2015: Scott Nicolay "Do You Like to Look at Monsters?"
-- [ ] 2016: Alyssa Wong "Hungry Daughters of Starving Mothers"
-- [ ] 2017: G.V. Anderson "Das Steingeschöpf"
-- [ ] 2018: Natalia Theodoridou "The Birding: A Fairy Tale"
-- [ ] 2019: Emma Törzs "Like a River Loves the Sky"
-- [ ] 2019: Mel Kassel "Ten Deals with the Indigo Snake"
-- [ ] 2020: Maria Dahvana Headley "Read After Burning"
-- [ ] 2021: Celeste Rita Baker "Glass Bottle Dancer"
-- [ ] 2022: Lauren Ring "(emet)"
-- [ ] 2023: Tananarive Due "Incident at Bear Creek Lodge"
+- [ ] 1975: Robert Aickman “Pages From a Young Girl’s Journal”
+- [ ] 1976: Fritz Leiber “Belsen Express”
+- [ ] 1977: Russell Kirk “There’s a Long Long Trail A-Winding”
+- [ ] 1978: Ramsey Campbell “The Chimney”
+- [ ] 1979: Avram Davidson “Naples”
+- [ ] 1980: Ramsey Campbell “Mackintosh Willy”
+- [ ] 1981: Howard Waldrop “The Ugly Chickens”
+- [ ] 1982: Dennis Etchison “The Dark Country”
+- [ ] 1983: Tanith Lee “The Gorgon”
+- [ ] 1984: Tanith Lee “Elle Est Trois (La Mort)”
+- [ ] 1985: Scott Baker “Still Life with Scorpion”
+- [ ] 1986: James P. Blaylock “Paper Dragons”
+- [ ] 1987: David J. Schow “Red Light”
+- [ ] 1988: Jonathan Carroll “Friend’s Best Man”
+- [ ] 1989: John M. Ford “Winter Solstice, Camelot Station”
+- [ ] 1990: Steven Millhauser “The Illusionist”
+- [ ] 1991: Charles Vess “A Midsummer Night’s Dream”
+- [ ] 1992: Fred Chappell “The Somewhere Doors”
+- [ ] 1993: Dan Simmons “This Year’s Class Picture”
+- [ ] 1994: Fred Chappell “The Lodger”
+- [ ] 1995: Stephen King “The Man in the Black Suit”
+- [ ] 1996: Gwyneth Jones “The Grass Princess”
+- [ ] 1997: James P. Blaylock “Thirteen Phantasms”
+- [ ] 1998: P.D. Cacek “Dust Motes”
+- [ ] 1999: Kelly Link “The Specialist’s Hat”
+- [ ] 2000: Ian R. MacLeod “The Chop Girl”
+- [ ] 2001: Andy Duncan “The Pottawatomie Giant”
+- [ ] 2002: Albert E. Cowdrey “Queen for a Day”
+- [ ] 2003: Jeffrey Ford “Creation”
+- [ ] 2004: Bruce Holland Rogers “Don Ysidro”
+- [ ] 2005: Margo Lanagan “Singing My Sister Down”
+- [ ] 2006: George Saunders “CommComm”
+- [ ] 2007: M. Rickert “Journey Into the Kingdom”
+- [ ] 2008: Theodora Goss “Singing of Mount Abora”
+- [ ] 2009: Kij Johnson “26 Monkeys, Also the Abyss”
+- [ ] 2010: Karen Joy Fowler “The Pelican Bar”
+- [ ] 2011: Joyce Carol Oates “Fossil-Figures”
+- [ ] 2012: Ken Liu “The Paper Menagerie”
+- [ ] 2013: Gregory Norman Bossert “The Telling”
+- [ ] 2014: Caitlin R. Kiernan “The Prayer of Ninety Cats”
+- [ ] 2015: Scott Nicolay “Do You Like to Look at Monsters?”
+- [ ] 2016: Alyssa Wong “Hungry Daughters of Starving Mothers”
+- [ ] 2017: G.V. Anderson “Das Steingeschöpf”
+- [ ] 2018: Natalia Theodoridou “The Birding: A Fairy Tale”
+- [ ] 2019: Emma Törzs “Like a River Loves the Sky”
+- [ ] 2019: Mel Kassel “Ten Deals with the Indigo Snake”
+- [ ] 2020: Maria Dahvana Headley “Read After Burning”
+- [ ] 2021: Celeste Rita Baker “Glass Bottle Dancer”
+- [ ] 2022: Lauren Ring “(emet)”
+- [ ] 2023: Tananarive Due “Incident at Bear Creek Lodge”
+- [ ] 2024: Nghi Vo “Silk and Cotton and Linen and Blood”

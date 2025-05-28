@@ -7,6 +7,8 @@ The book is chosen by a panel of judges from the British Science Fiction
 Association, the Science Fiction Foundation, and a third organisation.
 Described as U.K.'s most prestigious science fiction prize.
 
+Announced in June.
+
 https://www.clarkeaward.com/
 
 Count: 5

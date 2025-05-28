@@ -8,6 +8,8 @@ anywhere else.
 Members of the African Speculative Fiction Society (ASFS) nominate works and
 vote for winners.
 
+https://www.africansfs.com/
+
 Count: 2
 
 ## Novel (0)
@@ -51,4 +53,4 @@ Count: 2
 - [ ] 2020: Morakinyo Araoye, Steven Akinyemi, & Ogim Ekpezu _Danfo_
 - [ ] 2021: Nana Akosua Hanson & AnimaxFYB _MoonGirls_
 - [x] 2022: Roye Okupe & Godwin Akpan _Iyanu: Child of Wonder, Volume 2_
-- [ ] 2024: Mamode Ogbewele and Chigozie Amadi _Grimm's Assistant_
+- [ ] 2024: Mamode Ogbewele and Chigozie Amadi _Grimm’s Assistant_

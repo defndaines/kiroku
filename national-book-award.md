@@ -6,6 +6,8 @@ publishers nominate books, but panelists may request particular nominations
 from publishers. Each panel comprises five judges, including writers,
 librarians, booksellers, and literary critics.
 
+https://www.nationalbook.org/national-book-awards/
+
 Count: 17
 
 ## Fiction (7)
@@ -16,14 +18,14 @@ Count: 17
 - [x] 1953: Ralph Ellison _Invisible Man_
 - [ ] 1954: Saul Bellow _The Adventures of Augie March_
 - [ ] 1955: William Faulkner _A Fable_
-- [ ] 1956: John O'Hara _Ten North Frederick_
+- [ ] 1956: John O’Hara _Ten North Frederick_
 - [ ] 1957: Wright Morris _The Field of Vision_
 - [ ] 1958: John Cheever _The Wapshot Chronicle_
 - [ ] 1959: Bernard Malamud _The Magic Barrel_
 - [ ] 1960: Philip Roth _Goodbye, Columbus_
 - [ ] 1961: Conrad Richter _The Waters of Kronos_
 - [ ] 1962: Walker Percy _The Moviegoer_
-- [ ] 1963: J. F. Powers _Morte d'Urban_
+- [ ] 1963: J. F. Powers _Morte d’Urban_
 - [ ] 1964: John Updike _The Centaur_
 - [ ] 1965: Saul Bellow _Herzog_
 - [ ] 1966: Katherine Anne Porter _The Collected Stories of Katherine Anne Porter_
@@ -31,19 +33,19 @@ Count: 17
 - [ ] 1968: Thornton Wilder _The Eighth Day_
 - [ ] 1969: Jerzy Kosinski _Steps_
 - [ ] 1970: Joyce Carol Oates _them_
-- [ ] 1971: Saul Bellow _Mr. Sammler's Planet_
-- [ ] 1972: Flannery O'Connor _The Complete Stories_
+- [ ] 1971: Saul Bellow _Mr. Sammler’s Planet_
+- [ ] 1972: Flannery O’Connor _The Complete Stories_
 - [ ] 1973: John Barth _Chimera_
 - [ ] 1973: John Edward Williams _Augustus_
-- [ ] 1974: Thomas Pynchon _Gravity's Rainbow_
+- [ ] 1974: Thomas Pynchon _Gravity’s Rainbow_
 - [ ] 1974: Isaac Bashevis Singer _A Crown of Feathers and Other Stories_
 - [ ] 1975: Robert Stone _Dog Soldiers_
 - [ ] 1975: Thomas Williams _The Hair of Harold Roux_
 - [ ] 1976: William Gaddis _J R_
 - [ ] 1977: Wallace Stegner _The Spectator Bird_
 - [ ] 1978: Mary Lee Settle _Blood Tie_
-- [ ] 1979: Tim O'Brien _Going After Cacciato_
-- [ ] 1980: William Styron _Sophie's Choice_
+- [ ] 1979: Tim O’Brien _Going After Cacciato_
+- [ ] 1980: William Styron _Sophie’s Choice_
 - [ ] 1980: John Irving _The World According to Garp_
 - [ ] 1981: Wright Morris _Plains Song: For Female Voices_
 - [ ] 1981: John Cheever _The Stories of John Cheever_
@@ -53,8 +55,8 @@ Count: 17
 - [ ] 1983: Eudora Welty _The Collected Stories of Eudora Welty_
 - [ ] 1984: Ellen Gilchrist _Victory Over Japan: A Book of Stories_
 - [ ] 1985: Don DeLillo _White Noise_
-- [ ] 1986: E.L. Doctorow _World's Fair_
-- [ ] 1987: Larry Heinemann _Paco's Story_
+- [ ] 1986: E.L. Doctorow _World’s Fair_
+- [ ] 1987: Larry Heinemann _Paco’s Story_
 - [ ] 1988: Pete Dexter _Paris Trout_
 - [ ] 1989: John Casey _Spartina_
 - [ ] 1990: Charles Johnson _Middle Passage_
@@ -62,7 +64,7 @@ Count: 17
 - [ ] 1992: Cormac McCarthy _All the Pretty Horses_
 - [x] 1993: E. Annie Proulx _The Shipping News_
 - [ ] 1994: William Gaddis _A Frolic of His Own_
-- [ ] 1995: Philip Roth _Sabbath's Theater_
+- [ ] 1995: Philip Roth _Sabbath’s Theater_
 - [ ] 1996: Andrea Barrett _Ship Fever and Other Stories_
 - [x] 1997: Charles Frazier _Cold Mountain_
 - [ ] 1998: Alice McDermott _Charming Billy_
@@ -115,8 +117,8 @@ Count: 17
 - [ ] 1991: Orlando Patterson _Freedom, Vol. 1: Freedom in the Making of Western Culture_
 - [ ] 1992: Paul Monette _Becoming a Man: Half a Life Story_
 - [ ] 1993: Gore Vidal _United States: Essays 1952–1992_
-- [ ] 1994: Sherwin B. Nuland _How We Die: Reflections on Life's Final Chapter_
-- [ ] 1995: Tina Rosenberg _The Haunted Land: Facing Europe's Ghosts After Communism_
+- [ ] 1994: Sherwin B. Nuland _How We Die: Reflections on Life’s Final Chapter_
+- [ ] 1995: Tina Rosenberg _The Haunted Land: Facing Europe’s Ghosts After Communism_
 - [ ] 1996: James Carroll _An American Requiem: God, My Father, and the War that Came Between Us_
 - [ ] 1997: Joseph J. Ellis _American Sphinx: The Character of Thomas Jefferson_
 - [ ] 1998: Edward Ball _Slaves in the Family_
@@ -147,7 +149,7 @@ Count: 17
 - [x] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History_
 - [x] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
 
-## Young People's Literature (3)
+## Young People’s Literature (3)
 
 - [ ] 1996: Victor Martinez _Parrott in the Oven: MiVida_
 - [ ] 1997: Han Nolan _Dancing on the Edge_
@@ -194,7 +196,7 @@ Count: 17
 - [ ] 1974: Helen R. Lane, Octavio Paz, _Alternating Current_
 - [ ] 1974: Jackson Matthews, Paul Valéry, _Monsieur Teste_
 - [ ] 1975: Anthony Kerrigan, Miguel de Unamuno, _The Agony of Christianity and Essays on Faith_
-- [ ] 1977: Li-Li Ch'en Master Tung, _Western Chamber Romance_
+- [ ] 1977: Li-Li Ch’en Master Tung, _Western Chamber Romance_
 - [ ] 1978: Richard and Clara Winston, Uwe George, _In the Deserts of This Earth_
 - [ ] 1979: Clayton Eshleman and José Rubia Barcia, César Vallejo, _The Complete Posthumous Poetry_
 - [ ] 1980: William Arrowsmith, Cesare Pavese, _Hard Labor_
@@ -202,10 +204,10 @@ Count: 17
 - [ ] 1981: Francis Steegmuller, _The Letters of Gustave Flaubert_
 - [ ] 1981: John E Woods, Arno Schmidt, _Evening Edged in Gold_
 - [ ] 1982: Ian Hideo Levy, Higuchi Ichiyō, _In the Shade of Spring Leaves_
-- [ ] 1982: Robert Lyons Danly, _The Ten Thousand Leaves: A Translation of The Man'Yoshu, Japan, Premier Anthology of Classical Poetry_
+- [ ] 1982: Robert Lyons Danly, _The Ten Thousand Leaves: A Translation of The Man’Yoshu, Japan, Premier Anthology of Classical Poetry_
 - [ ] 1983: Richard Howard, Charles Baudelaire, _Les Fleurs du mal_
 - [ ] 2018: Margaret Mitsutani, Tawada Yoko, _The Emissary_
-- [ ] 2019: Ottilie Mulzet, László Krasznahorkai, _Baron Wenckheim's Homecoming_
+- [ ] 2019: Ottilie Mulzet, László Krasznahorkai, _Baron Wenckheim’s Homecoming_
 - [x] 2020: Morgan Giles, Miri Yu, _Tokyo Ueno Station_
 - [ ] 2021: Aneesa Abbass Higgins, Elisa Shua Dusapin, _Winter in Sokcho_
 - [x] 2022: Megan McDowell, Samanta Schweblin, _Seven Empty Houses_

@@ -4,6 +4,10 @@ The International Dublin Literary Award is presented each year for a novel
 written or translated into English. Nominations are submitted by public
 libraries worldwide.
 
+Award announced in May.
+
+https://dublinliteraryaward.ie/
+
 Count: 1
 
 - [ ] 1996: David Malouf _Remembering Babylon_
@@ -18,7 +22,7 @@ Count: 1
 - [ ] 2005: Edward P. Jones _The Known World_
 - [ ] 2006: Colm Tóibín _The Master_
 - [ ] 2007: Per Petterson _Out Stealing Horses_
-- [ ] 2008: Rawi Hage _De Niro's Game_
+- [ ] 2008: Rawi Hage _De Niro’s Game_
 - [ ] 2009: Michael Thomas _Man Gone Down_
 - [ ] 2010: Gerbrand Bakker _The Twin_
 - [ ] 2011: Colum McCann _Let the Great World Spin_

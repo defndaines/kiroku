@@ -1,6 +1,6 @@
 # Barbara Kingsolver
 
-I'd like to read more of Kingsolver's work.
+I’d like to read more of Kingsolver’s work.
 
 ## Fiction
 
@@ -28,5 +28,5 @@ I'd like to read more of Kingsolver's work.
 ## Nonfiction
 
 - [ ] Holding the Line: Women in the Great Arizona Mine Strike of 1983 (1989)
-- [ ] Last Stand: America's Virgin Lands (2002)
+- [ ] Last Stand: America’s Virgin Lands (2002)
 - [x] Animal, Vegetable, Miracle: A Year of Food Life (2007)

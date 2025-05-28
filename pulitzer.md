@@ -36,10 +36,10 @@ Count: 26
 - [ ] 1939: Marjorie Kinnan Rawlings, _The Yearling_
 - [x] 1940: John Steinbeck, _The Grapes of Wrath_
 - [ ] 1942: Ellen Glasgow, _In This Our Life_
-- [ ] 1943: Upton Sinclair, _Dragon's Teeth_
+- [ ] 1943: Upton Sinclair, _Dragon’s Teeth_
 - [ ] 1944: Martin Flavin, _Journey in the Dark_
 - [ ] 1945: John Hersey, _A Bell for Adano_
-- [x] 1947: Robert Penn Warren, _All the King's Men_
+- [x] 1947: Robert Penn Warren, _All the King’s Men_
 - [ ] 1948: James A. Michener, _Tales of the South Pacific_
 - [ ] 1949: James Gould Cozzens, _Guard of Honor_
 - [ ] 1950: A. B. Guthrie, _The Way West_
@@ -52,7 +52,7 @@ Count: 26
 - [ ] 1959: Robert Lewis Taylor, _The Travels of Jaimie McPheeters_
 - [ ] 1960: Allen Drury, _Advise and Consent_
 - [x] 1961: Harper Lee, _To Kill a Mockingbird_
-- [ ] 1962: Edwin O'Connor, _The Edge of Sadness_
+- [ ] 1962: Edwin O’Connor, _The Edge of Sadness_
 - [ ] 1963: William Faulkner, _The Reivers_
 - [ ] 1965: Shirley Ann Grau, _The Keepers of the House_
 - [ ] 1966: Katherine Anne Porter, _Collected Stories_
@@ -61,12 +61,12 @@ Count: 26
 - [x] 1969: N. Scott Momaday, _House Made of Dawn_
 - [ ] 1970: Jean Stafford, _Collected Stories_
 - [ ] 1972: Wallace Stegner, _Angle of Repose_
-- [ ] 1973: Eudora Welty, _The Optimist's Daughter_
+- [ ] 1973: Eudora Welty, _The Optimist’s Daughter_
 - [ ] 1975: Michael Shaara, _The Killer Angels_
-- [ ] 1976: Saul Bellow, _Humboldt's Gift_
+- [ ] 1976: Saul Bellow, _Humboldt’s Gift_
 - [ ] 1978: James Alan McPherson, _Elbow Room_
 - [ ] 1979: John Cheever, _The Stories of John Cheever_
-- [ ] 1980: Norman Mailer, _The Executioner's Song_
+- [ ] 1980: Norman Mailer, _The Executioner’s Song_
 - [ ] 1981: John Kennedy Toole, _A Confederacy of Dunces_
 - [ ] 1982: John Updike, _Rabbit Is Rich_
 - [x] 1983: Alice Walker, _The Color Purple_
@@ -98,7 +98,7 @@ Count: 26
 - [ ] 2009: Elizabeth Strout, _Olive Kitteridge_
 - [ ] 2010: Paul Harding, _Tinkers_
 - [ ] 2011: Jennifer Egan, _A Visit from the Goon Squad_
-- [x] 2013: Adam Johnson, _The Orphan Master's Son_
+- [x] 2013: Adam Johnson, _The Orphan Master’s Son_
 - [ ] 2014: Donna Tartt, _The Goldfinch_
 - [ ] 2015: Anthony Doerr, _All the Light We Cannot See_
 - [ ] 2016: Viet Thanh Nguyen, _The Sympathizer_
@@ -130,19 +130,19 @@ Count: 26
 - [ ] 1991: Bert Hölldobler and Edward O. Wilson, _The Ants_
 - [ ] 1992: Daniel Yergin, _The Prize: The Epic Quest for Oil, Money, and Power_
 - [ ] 1993: Garry Wills, _Lincoln at Gettysburg: The Words That Remade America_
-- [ ] 1994: David Remnick, _Lenin's Tomb: The Last Days of the Soviet Empire_
+- [ ] 1994: David Remnick, _Lenin’s Tomb: The Last Days of the Soviet Empire_
 - [ ] 1995: Jonathan Weiner, _The Beak Of The Finch: A Story Of Evolution In Our Time_
-- [ ] 1996: Tina Rosenberg, _The Haunted Land: Facing Europe's Ghosts After Communism_
-- [ ] 1997: Richard Kluger, _Ashes to Ashes: America's Hundred-Year Cigarette War, the Public Health, and the Unabashed Triumph of Philip Morris_
+- [ ] 1996: Tina Rosenberg, _The Haunted Land: Facing Europe’s Ghosts After Communism_
+- [ ] 1997: Richard Kluger, _Ashes to Ashes: America’s Hundred-Year Cigarette War, the Public Health, and the Unabashed Triumph of Philip Morris_
 - [x] 1998: Jared Diamond, _Guns, Germs, and Steel: The Fates of Human Societies_
 - [ ] 1999: John McPhee, _Annals of the Former World_
 - [x] 2000: John W. Dower, _Embracing Defeat: Japan in the Wake of World War II_
 - [ ] 2001: Herbert P. Bix, _Hirohito and the Making of Modern Japan_
 - [ ] 2002: Diane McWhorter, _Carry Me Home: Birmingham, Alabama, the Climactic Battle of the Civil Rights Revolution_
-- [ ] 2003: Samantha Power, _"A Problem From Hell": America and the Age of Genocide_
+- [ ] 2003: Samantha Power, _“A Problem From Hell”: America and the Age of Genocide_
 - [ ] 2004: Anne Applebaum, _Gulag: A History_
 - [ ] 2005: Steve Coll, _Ghost Wars_
-- [ ] 2006: Caroline Elkins, _Imperial Reckoning: The Untold Story of Britain's Gulag in Kenya_
+- [ ] 2006: Caroline Elkins, _Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya_
 - [ ] 2007: Lawrence Wright, _The Looming Tower: Al-Qaeda and the Road to 9/11_
 - [ ] 2008: Saul Friedländer, _The Years of Extermination: Nazi Germany and the Jews, 1939–1945_
 - [ ] 2009: Douglas A. Blackmon, _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_
@@ -168,7 +168,7 @@ Count: 26
 
 - [ ] 1980: Leon F. Litwack, _Been in the Storm So Long: The Aftermath of Slavery_
 - [ ] 1981: Lawrence A. Cremin, _American Education: The National Experience, 1783–1876_
-- [ ] 1982: C. Vann Woodward, _Mary Chesnut's Civil War_
+- [ ] 1982: C. Vann Woodward, _Mary Chesnut’s Civil War_
 - [ ] 1983: Rhys L. Isaac, _The Transformation of Virginia, 1740–1790_
 - [ ] 1985: Thomas K. McCraw, _Prophets of Regulation: Charles Francis Adams, Louis D. Brandeis, James M. Landis, Alfred E. Kahn_
 - [ ] 1986: Walter A. McDougall, _...the Heavens and the Earth: A Political History of the Space Age_
@@ -176,21 +176,21 @@ Count: 26
 - [ ] 1988: Robert V. Bruce, _The Launching of Modern American Science, 1846–1876_
 - [ ] 1989: Taylor Branch, _Parting the Waters: America in the King Years, 1954-1963_
 - [ ] 1989: James M. McPherson, _Battle Cry of Freedom: The Civil War Era_
-- [ ] 1990: Stanley Karnow, _In Our Image: America's Empire in the Philippines_
-- [ ] 1991: Laurel Thatcher Ulrich, _A Midwife's Tale_
+- [ ] 1990: Stanley Karnow, _In Our Image: America’s Empire in the Philippines_
+- [ ] 1991: Laurel Thatcher Ulrich, _A Midwife’s Tale_
 - [ ] 1992: Mark E. Neely, Jr., _The Fate of Liberty: Abraham Lincoln and Civil Liberties_
 - [ ] 1993: Gordon S. Wood, _The Radicalism of the American Revolution_
 - [ ] 1995: Doris Kearns Goodwin, _No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II_
-- [ ] 1996: Alan Taylor, _William Cooper's Town: Power and Persuasion on the Frontier of the Early American Republic_
+- [ ] 1996: Alan Taylor, _William Cooper’s Town: Power and Persuasion on the Frontier of the Early American Republic_
 - [ ] 1997: Jack N. Rakove, _Original Meanings: Politics and Ideas in the Making of the Constitution_
-- [ ] 1998: Edward J. Larson, _Summer for the Gods: The Scopes Trial and America's Continuing Debate Over Science and Religion_
+- [ ] 1998: Edward J. Larson, _Summer for the Gods: The Scopes Trial and America’s Continuing Debate Over Science and Religion_
 - [ ] 1999: Edwin G. Burrows and Mike Wallace, _Gotham: A History of New York City to 1898_
 - [ ] 2000: David M. Kennedy, _Freedom From Fear: The American People in Depression and War_
 - [ ] 2001: Joseph J. Ellis, _Founding Brothers: The Revolutionary Generation_
 - [ ] 2002: Louis Menand, _The Metaphysical Club: A Story of Ideas in America_
 - [ ] 2003: Rick Atkinson, _An Army at Dawn: The War in North Africa, 1942–1943_
 - [ ] 2004: Steven Hahn, _A Nation Under Our Feet: Black Political Struggles in the Rural South from Slavery to the Great Migration_
-- [ ] 2005: David Hackett Fischer, _Washington's Crossing_
+- [ ] 2005: David Hackett Fischer, _Washington’s Crossing_
 - [ ] 2006: David Oshinsky, _Polio: An American Story_
 - [ ] 2007: Gene Roberts and Hank Klibanoff, _The Race Beat: The Press, the Civil Rights Struggle, and the Awakening of a Nation_
 - [ ] 2008: Daniel Walker Howe, _What Hath God Wrought: The Transformation of America, 1815–1848_
@@ -201,7 +201,7 @@ Count: 26
 - [ ] 2013: Fredrik Logevall, _Embers of War: The Fall of an Empire and the Making of America’s Vietnam_
 - [ ] 2014: Alan Taylor, _The Internal Enemy: Slavery and War in Virginia, 1772-1832_
 - [ ] 2015: Elizabeth A. Fenn, _Encounters at the Heart of the World: A History of the Mandan People_
-- [ ] 2016: T. J. Stiles, _Custer's Trials: A Life on the Frontier of a New America_
+- [ ] 2016: T. J. Stiles, _Custer’s Trials: A Life on the Frontier of a New America_
 - [ ] 2017: Heather Ann Thompson, _Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy_
 - [ ] 2018: Jack E. Davis, _The Gulf: The Making of an American Sea_
 - [ ] 2019: David W. Blight, _Frederick Douglass: Prophet of Freedom_
@@ -209,7 +209,7 @@ Count: 26
 - [ ] 2021: Marcia Chatelain, _Franchise: The Golden Arches in Black America_
 - [ ] 2022: Nicole Eustace, _Covered with Night: A Story of Murder and Indigenous Justice in Early America_
 - [ ] 2022: Ada Ferrer, _Cuba: An American History_
-- [ ] 2023: Jefferson Cowie, _Freedom's Dominion: A Saga of White Resistance to Federal Power_
+- [ ] 2023: Jefferson Cowie, _Freedom’s Dominion: A Saga of White Resistance to Federal Power_
 - [x] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
 - [x] 2025: Edda L. Fields-Black, _Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom During the Civil War_
 - [ ] 2025: Kathleen DuVal, _Native Nations: A Millennium in North America_

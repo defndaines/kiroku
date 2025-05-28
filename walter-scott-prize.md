@@ -6,8 +6,9 @@ historical fiction with the novel _Waverley_ in 1814. Eligible books must have
 been first published in the UK, Ireland or Commonwealth in the preceding year.
 For the purpose of the award, historical fiction is defined as being that
 where the main events take place more than 60 years ago, i.e., outside of any
-mature personal experience of the author. The winner is announced each June at
-the Borders Book Festival in Melrose.
+mature personal experience of the author.
+
+The winner is announced each June at the Borders Book Festival in Melrose.
 
 https://www.walterscottprize.co.uk/
 
@@ -15,7 +16,7 @@ Count: 0
 
 - [ ] 2010: Hilary Mantel _Wolf Hall_
 - [ ] 2011: Andrea Levy _The Long Song_
-- [ ] 2012: Sebastian Barry _On Canaan's Side_
+- [ ] 2012: Sebastian Barry _On Canaan’s Side_
 - [ ] 2013: Tan Twan Eng _The Garden of Evening Mists_
 - [ ] 2014: Robert Harris _An Officer and a Spy_
 - [ ] 2015: John Spurling _The Ten Thousand Things_

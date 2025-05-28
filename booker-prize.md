@@ -1,7 +1,7 @@
 # Booker Prize
 
 List of [Booker Prize](https://thebookerprizes.com/) winning books, identified
-by whether I've read them or not.
+by whether I’ve read them or not.
 
 Awards for works of sustained fiction written in English or translated into
 English, which was published in the United Kingdom and/or Ireland. A
@@ -27,8 +27,8 @@ Count: 11
 - [ ] 1978: Iris Murdoch _The Sea, the Sea_
 - [ ] 1979: Penelope Fitzgerald _Offshore_
 - [ ] 1980: William Golding _Rites of Passage_
-- [ ] 1981: Salman Rushdie _Midnight's Children_
-- [ ] 1982: Thomas Keneally _Schindler's Ark_
+- [ ] 1981: Salman Rushdie _Midnight’s Children_
+- [ ] 1982: Thomas Keneally _Schindler’s Ark_
 - [ ] 1983: J. M. Coetzee _Life & Times of Michael K_
 - [ ] 1984: Anita Brookner _Hotel du Lac_
 - [x] 1985: Keri Hulme _The Bone People_

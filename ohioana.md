@@ -51,10 +51,10 @@ Count: 6
 - [ ] 1979: Nicholas Guild _The Summer Soldier_
 - [ ] 1980: David Wagoner _The Hanging Garden_
 - [ ] 1980: Ruth Beebe Hill _Hanta Yo: An American Saga_
-- [ ] 1981: Helen Faye Rosenblum _Minerva's Turn_
-- [ ] 1982: Thomas Berger _Reinhart's Women_
+- [ ] 1981: Helen Faye Rosenblum _Minerva’s Turn_
+- [ ] 1982: Thomas Berger _Reinhart’s Women_
 - [ ] 1983: Helen Hooven Santmyer _...And Ladies of the Club_
-- [ ] 1984: Richard A. Hawley _The Headmaster's Papers_
+- [ ] 1984: Richard A. Hawley _The Headmaster’s Papers_
 - [ ] 1985: Robert Skimin _Chikara!_
 - [ ] 1986: Hugh Nissenson _The Tree of Life_
 - [ ] 1986: Nancy Pelletier _The Rearrangement_
@@ -116,11 +116,11 @@ Count: 6
 - [ ] 1949: Howard Robinson _The British Post Office Cuyahoga_
 - [ ] 1949: John Ward Ostrom _The Letters of Edgar Allan Poe_
 - [ ] 1949: May Hill Arbuthnot _Children and Books_
-- [ ] 1949: Sr. Miriam Joseph _Shakespeare's Use of the Arts of Language_
+- [ ] 1949: Sr. Miriam Joseph _Shakespeare’s Use of the Arts of Language_
 - [ ] 1950: Edward Nicholas _The Hours and the Ages: A Sequence of Americans_
 - [ ] 1950: III Rodgers, Andrew Denny _Liberty Hyde Bailey Franklin_
 - [ ] 1950: Norman Vincent Peale _A Guide to Confident Living Greene_
-- [ ] 1952: Bruce Catton _Mr. Lincoln's Army_
+- [ ] 1952: Bruce Catton _Mr. Lincoln’s Army_
 - [ ] 1952: Ernest G. Schwiebert _Luther & His Times_
 - [ ] 1953: Gordon K. Chalmers _The Republic & the Person_
 - [ ] 1953: Howard Swiggett _The Extraordinary Mr. Morris_
@@ -174,7 +174,7 @@ Count: 6
 - [ ] 1990: David Rains Wallace _Bulow Hammock_
 - [ ] 1991: Geoffrey C. Ward _A First-Class Temperament: The Emergence of Franklin Roosevelt_
 - [ ] 1992: Melissa Fay Greene _Praying for Sheetrock_
-- [ ] 1993: John Marszalek _Sherman: A Soldier's Passion for Order_
+- [ ] 1993: John Marszalek _Sherman: A Soldier’s Passion for Order_
 - [ ] 1994: Scott Russell Sanders _Staying Put_
 - [ ] 1995: Ian Frazier _Family_
 - [ ] 1996: Dawn Powell _The Diaries of Dawn Powell, 1931-1965_
@@ -188,14 +188,14 @@ Count: 6
 - [ ] 2003: Julie Salamon _Facing the Wind_
 - [ ] 2004: Ann Hagedorn _Beyond the River: The Untold Story of the Heroes of the Underground Railroad_
 - [ ] 2004: Michael Dirda _An Open Book: Coming of Age in the Heartland_
-- [ ] 2005: Julie Salamon _Rambam's Ladder: A Meditation on Generosity and Why It Is Necessary to Give_
+- [ ] 2005: Julie Salamon _Rambam’s Ladder: A Meditation on Generosity and Why It Is Necessary to Give_
 - [ ] 2005: Paul Zimmer _Trains in the Distance_
 - [ ] 2006: Saundra Rose Maley, Anne Wright _A Wild Perfection: The Selected Letters of James Wright_
 - [ ] 2007: Douglas Brinkley _The Great Deluge: Hurricane Katrina, New Orleans, and the Mississippi Gulf Coast_
 - [ ] 2008: Ann Hagedorn _Savage Peace: Hope and Fear in America 1919_
-- [ ] 2009: Peter Mansoor _Baghdad at Sunrise: A Brigade Commander's War_
+- [ ] 2009: Peter Mansoor _Baghdad at Sunrise: A Brigade Commander’s War_
 - [ ] 2010: Gail Collins _When Everything Changes: The Amazing Journey of American Women from 1960 to the Present_
-- [ ] 2011: Ted Gup _A Secret Gift: How One Man's Kindness—And a Trove of Letters—Revealed the Hidden Story of the Great Depression_
+- [ ] 2011: Ted Gup _A Secret Gift: How One Man’s Kindness—And a Trove of Letters—Revealed the Hidden Story of the Great Depression_
 - [ ] 2012: Susan Orlean _Rin Tin Tin: The Life and the Legend_
 - [ ] 2013: Julie Zickefoose _The Bluebird Effect: Uncommon Bonds with Common Birds_
 - [ ] 2014: Brad Ricca _Super Boys: The Amazing Adventures of Jerry Siegel and Joe Shuster—The Creators of Superman_
@@ -204,11 +204,11 @@ Count: 6
 - [ ] 2017: Douglas Brinkley _Rightful Heritage: Franklin D. Roosevelt and the Land of America_
 - [ ] 2018: Deanne Stillman _Blood Brothers_
 - [ ] 2019: David Giffels _Furnishing Eternity_
-- [ ] 2020: Jeannie Vanasco _Things We Didn't Talk About When I Was A Girl_
+- [ ] 2020: Jeannie Vanasco _Things We Didn’t Talk About When I Was A Girl_
 - [ ] 2021: Aimee Nezhukumatathil _World of Wonders_
 - [x] 2022: Hanif Abdurraqib _A Little Devil in America: Notes in Praise of Black Performance_
 - [ ] 2023: Ross Gay _Inciting Joy_
-- [ ] 2024: Sarah Lohman _Endangered Eating: America's Vanishing Foods_
+- [ ] 2024: Sarah Lohman _Endangered Eating: America’s Vanishing Foods_
 
 ## About Ohio (2)
 
@@ -220,7 +220,7 @@ Count: 6
 - [ ] 1947: Walter Havighurst _Land of Promise_
 - [ ] 1948: Grace Crile, George Crile, Sr. _George Crile: An Autobiography_
 - [ ] 1951: Mary L. Jobe Akeley _Congo Eden_
-- [ ] 1952: Norman Thomas _A Socialist's Faith_
+- [ ] 1952: Norman Thomas _A Socialist’s Faith_
 - [ ] 1954: Clarence E. Macartney _Grant and His Generals_
 - [ ] 1954: Rollo W. Brown _The Hills Are Strong_
 - [ ] 1957: Marva Robins Belden, Thomas G. Belden _So Fell the Angels_
@@ -230,7 +230,7 @@ Count: 6
 - [ ] 1964: H. Wayne Morgan _William McKinley & His America_
 - [ ] 1966: Alpheus Thomas Mason _William Howard Taft: Chief Justice_
 - [ ] 1966: Leslie C. Peltier _Starlight Nights_
-- [ ] 1968: Richard O'Connor _Ambrose Bierce: A Biography_
+- [ ] 1968: Richard O’Connor _Ambrose Bierce: A Biography_
 - [ ] 1969: Charles Sawyer _Concerns of a Conservative Democrat_
 - [ ] 1970: Lawrence A. Frost _The Thomas A. Edison Album_
 - [ ] 1970: Robert M. Crunden _A Hero in Spite of Himself: Brand Whitlock_
@@ -244,16 +244,16 @@ Count: 6
 - [ ] 1974: Mahonri Sharp Young _The Paintings of George Bellows_
 - [ ] 1975: George E. Condon _Stars in the Water_
 - [ ] 1976: IV Laffoon, Polk _Tornado_
-- [ ] 1977: L. D. Warren _The World & Warren's Cartoons_
-- [ ] 1977: Walter C. Langsam _The World & Warren's Cartoons_
+- [ ] 1977: L. D. Warren _The World & Warren’s Cartoons_
+- [ ] 1977: Walter C. Langsam _The World & Warren’s Cartoons_
 - [ ] 1978: Thomas H. Smith _The Mapping of Ohio_
 - [ ] 1979: Allan Peskin _Garfield_
 - [ ] 1979: D. G. Sanders _The Brasspounder_
-- [ ] 1980: Ohio Academy of Science _Ohio's Natural Heritage_
+- [ ] 1980: Ohio Academy of Science _Ohio’s Natural Heritage_
 - [ ] 1981: David Rains Wallace _Idle Weeds_
 - [ ] 1982: Milton Rugoff _The Beechers_
 - [ ] 1983: James Westwater _Ohio_
-- [ ] 1984: Rosemary O. Joyce _A Woman's Place: The Life History of a Rural Ohio Grandmother_
+- [ ] 1984: Rosemary O. Joyce _A Woman’s Place: The Life History of a Rural Ohio Grandmother_
 - [ ] 1986: Freda Postle Koch _Colonel Coggeshall: The Man Who Saved Lincoln_
 - [ ] 1987: Jack Matthews _Booking in the Heartland_
 - [ ] 1988: Don Heinrich Tolzmann _The Cincinnati Germans After the Great War_
@@ -261,8 +261,8 @@ Count: 6
 - [ ] 1989: Deborah Overmyer, Geoffrey J. Giglierano, Cincinnati Historical Society _Bicentennial Guide to Greater Cincinnati_
 - [ ] 1990: Bruce Peterjohn _The Birds of Ohio_
 - [ ] 1991: Gary E. Polster _Inside Looking Out_
-- [ ] 1992: George Knepper, Ricky Clark, Ellice Ronsheim _Quilts in Community: Ohio's Traditions_
-- [ ] 1993: J. Benjamin Townsend _Charles Burchfield's Journals_
+- [ ] 1992: George Knepper, Ricky Clark, Ellice Ronsheim _Quilts in Community: Ohio’s Traditions_
+- [ ] 1993: J. Benjamin Townsend _Charles Burchfield’s Journals_
 - [ ] 1994: Howard L. Sacks, Judith R. Sacks _Way Up North in Dixie_
 - [ ] 1995: George Laycock _John A. Ruthven, in the Audubon Tradition_
 - [ ] 1996: Ari Hoogenboom _Rutherford B. Hayes: Warrior and President_
@@ -284,19 +284,19 @@ Count: 6
 - [ ] 2010: Gary Meszaros, James McCormac _Wild Ohio: The Best of Our Natural Heritage_
 - [ ] 2011: Arnold Adoff, Kacy Cook _Virginia Hamilton: Speeches, Essays, & Conversations_
 - [ ] 2012: Candice Millard _Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President_
-- [ ] 2013: Joy Kiser _America's Other Audubon_
+- [ ] 2013: Joy Kiser _America’s Other Audubon_
 - [ ] 2014: Doris Kearns Goodwin _The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism_
 - [ ] 2015: Tom Diemer, Lee Leonard _James A. Rhodes: Ohio Colossus_
 - [ ] 2016: David McCullough _The Wright Brothers_
 - [x] 2018: Brian Alexander _Glass House_
 - [ ] 2019: Wil Haygood _Tigerland_
 - [ ] 2020: David McCullough _The Pioneers_
-- [ ] 2021: Carole M. Genshaft _Raggin' On_
+- [ ] 2021: Carole M. Genshaft _Raggin’ On_
 - [x] 2022: Brian Alexander _The Hospital: Life, Death, and Dollars in a Small American Town_
 - [ ] 2023: Kelcey Ervick _The Keeper: Soccer, Me, and the Law That Changed Women’s Lives_
 - [ ] 2024: Laura Meckler _Dream Town: Shaker Heights and the Quest for Racial Equity_
 
-## Reader's Choice Award (1)
+## Reader’s Choice Award (1)
 
 - [ ] 2016: Mary Doria Russell _Epitaph: A Novel of the OK Corral_
 - [ ] 2017: Tiffany McDaniel _The Summer That Melted Everything_
@@ -306,4 +306,4 @@ Count: 6
 - [x] 2021: Tiffany McDaniel _Betty_
 - [ ] 2022: Manuel Iris _The Parting Present / Lo que se irá_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
-- [ ] 2024: Sarah Lohman _Endangered Eating: America's Vanishing Foods_
+- [ ] 2024: Sarah Lohman _Endangered Eating: America’s Vanishing Foods_

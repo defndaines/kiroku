@@ -1,12 +1,16 @@
 # Hugo Award
 
-List of Hugo Award winners, identified by whether I've read them.
+List of Hugo Award winners, identified by whether I’ve read them.
 
 Hugo Awards are given at the World Science Fiction Convention (Worldcon) and
 chosen by its members.
 
-Besides novel, only including other awards when I've read them or plan to read
-them, since those lists are not goals I'm looking to fill in.
+Besides novel, only including other awards when I’ve read them or plan to read
+them, since those lists are not goals I’m looking to fill in.
+
+Awards announced in August.
+
+https://www.thehugoawards.org/
 
 Count: 63
 
@@ -21,7 +25,7 @@ Count: 63
 - [ ] 1951: Robert A. Heinlein _Farmer in the Sky_
 - [ ] 1953: Alfred Bester _The Demolished Man_
 - [x] 1954: Ray Bradbury _Fahrenheit 451_
-- [ ] 1955: Mark Clifton and Frank Riley _They'd Rather Be Right_
+- [ ] 1955: Mark Clifton and Frank Riley _They’d Rather Be Right_
 - [ ] 1956: Robert A. Heinlein _Double Star_
 - [ ] 1958: Fritz Leiber _The Big Time_
 - [ ] 1959: James Blish _A Case of Conscience_
@@ -49,10 +53,10 @@ Count: 63
 - [ ] 1980: Arthur C. Clarke _The Fountains of Paradise_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
 - [ ] 1982: C.J. Cherryh _Downbelow Station_
-- [ ] 1983: Isaac Asimov _Foundation's Edge_
+- [ ] 1983: Isaac Asimov _Foundation’s Edge_
 - [ ] 1984: David Brin _Startide Rising_
 - [x] 1985: William Gibson _Neuromancer_
-- [x] 1986: Orson Scott Card _Ender's Game_
+- [x] 1986: Orson Scott Card _Ender’s Game_
 - [x] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: David Brin _The Uplift War_
 - [ ] 1989: C.J. Cherryh _Cyteen_
@@ -75,7 +79,7 @@ Count: 63
 - [ ] 2005: Susanna Clarke _Jonathan Strange & Mr Norrell_
 - [ ] 2006: Robert Charles Wilson _Spin_
 - [ ] 2007: Vernor Vinge _Rainbows End_
-- [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
+- [ ] 2008: Michael Chabon _The Yiddish Policemen’s Union_
 - [x] 2009: Neil Gaiman _The Graveyard Book_
 - [x] 2010: China Miéville _The City & the City_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
@@ -112,7 +116,7 @@ Count: 63
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [ ] 1988: Ursula K. Le Guin _Buffalo Gals, Won’t You Come Out Tonight_
 - [x] 2018: Suzanne Palmer _The Secret Life of Bots_
-- [x] 2019: Zen Cho _If at First You Don't Succeed, Try, Try Again_
+- [x] 2019: Zen Cho _If at First You Don’t Succeed, Try, Try Again_
 - [ ] 2020: N. K. Jemisin _Emergency Skin_
 - [x] 2024: Naomi Kritzer _The Year Without Sunshine_
 
@@ -120,7 +124,7 @@ Count: 63
 
 - [x] 1951: Damon Knight _To Serve Man_
 - [x] 1960: Daniel Keyes _Flowers for Algernon_
-- [x] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
+- [x] 1966: Harlan Ellison _“Repent, Harlequin!” Said the Ticktockman_
 - [x] 1968: Harlan Ellison _I Have No Mouth, and I Must Scream_
 - [x] 1974: Ursula K. Le Guin _The Ones Who Walk Away from Omelas_
 - [x] 2009: Ted Chiang _Exhalation_
@@ -132,13 +136,13 @@ Count: 63
 ## Best Graphic Story (11)
 
 - [x] 1941: _Batman #1_ Bill Finger, Bob Kane
-- [x] 1945: _Superman: "The Mysterious Mr. Mxyzptlk"_ Jerry Siegel, Ira Yarbrough, Joe Shuster
+- [x] 1945: _Superman: “The Mysterious Mr. Mxyzptlk”_ Jerry Siegel, Ira Yarbrough, Joe Shuster
 - [x] 2009: _Girl Genius, Volume 8: Agatha Heterodyne and the Chapel of Bones_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2010: _Girl Genius, Volume 9: Agatha Heterodyne and the Heirs of the Storm_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2011: _Girl Genius, Volume 10: Agatha Heterodyne and the Guardian Muse_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [ ] 2012: _Digger_ Ursula Vernon
 - [x] 2013: _Saga, Volume 1_ Brian K. Vaughan, Fiona Staples
-- [ ] 2014: _"Time"_ Randall Munroe
+- [ ] 2014: _“Time”_ Randall Munroe
 - [x] 2015: _Ms. Marvel, Volume 1: No Normal_ G. Willow Wilson, Adrian Alphona, Jake Wyatt
 - [x] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
 - [ ] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu
@@ -158,9 +162,9 @@ Count: 63
 
 - [ ] 2018: Nnedi Okorafor _Akata Warrior_
 - [x] 2019: Tomi Adeyemi _Children of Blood and Bone_
-- [x] 2021: T. Kingfisher _A Wizard's Guide to Defensive Baking_
+- [x] 2021: T. Kingfisher _A Wizard’s Guide to Defensive Baking_
 - [ ] 2023: Nnedi Okorafor _Akata Woman_
-- [x] 2024: Moniquill Blackgoose _To Shape a Dragon's Breath_
+- [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 
 ## Best Dramatic Presentation (58)
 
@@ -172,15 +176,15 @@ Count: 63
 - [x] 1961: _The Twilight Zone_ Rod Serling
 - [x] 1962: _The Twilight Zone_ Rod Serling
 - [x] 1965: _Dr. Strangelove_ Stanley Kubrick, Terry Southern, Peter George
-- [x] 1967: _Star Trek: "The Menagerie"_ Marc Daniels, Gene Roddenberry
-- [x] 1968: _Star Trek: "The City on the Edge of Forever"_ Joseph Pevney, Harlan Ellison
+- [x] 1967: _Star Trek: “The Menagerie”_ Marc Daniels, Gene Roddenberry
+- [x] 1968: _Star Trek: “The City on the Edge of Forever”_ Joseph Pevney, Harlan Ellison
 - [x] 1969: _2001: A Space Odyssey_ Stanley Kubrick, Arthur C. Clarke
 - [x] 1972: _A Clockwork Orange_ Stanley Kubrick, Anthony Burgess
 - [x] 1975: _Young Frankenstein_ Mel Brooks, Gene Wilder, Mary Shelley
 - [ ] 1976: _A Boy and His Dog_ L. Q. Jones, Wayne Cruseturner, Harlan Ellison
 - [x] 1978: _Star Wars_ George Lucas
 - [x] 1979: _Superman_ Richard Donner, Mario Puzo, David Newman, Leslie Newman, Robert Benton, Mario Puzo, Jerry Siegel, Joe Shuster
-- [x] 1980: _Alien_ Ridley Scott, Dan O'Bannon, Ronald Shusett
+- [x] 1980: _Alien_ Ridley Scott, Dan O’Bannon, Ronald Shusett
 - [x] 1981: _The Empire Strikes Back_ Irvin Kershner, Leigh Brackett, Lawrence Kasdan, George Lucas
 - [x] 1982: _Raiders of the Lost Ark_ Steven Spielberg, Lawrence Kasdan, George Lucas, Philip Kaufman
 - [x] 1983: _Blade Runner_ Ridley Scott, Hampton Fancher, David Peoples, Philip K. Dick
@@ -193,9 +197,9 @@ Count: 63
 - [x] 1990: _Indiana Jones and the Last Crusade_ Steven Spielberg, Jeffrey Boam, George Lucas, Menno Meyjes
 - [x] 1991: _Edward Scissorhands_ Tim Burton, Caroline Thompson
 - [x] 1992: _Terminator 2: Judgment Day_ James Cameron, William Wisher, Jr.
-- [x] 1993: _Star Trek: The Next Generation: "The Inner Light"_ Peter Lauritson, Peter Allan Fields, Morgan Gendel
+- [x] 1993: _Star Trek: The Next Generation: “The Inner Light”_ Peter Lauritson, Peter Allan Fields, Morgan Gendel
 - [x] 1994: _Jurassic Park_ Steven Spielberg, David Koepp, Michael Crichton
-- [x] 1995: _Star Trek: The Next Generation: "All Good Things..."_ Winrich Kolbe, Ronald D. Moore, Brannon Braga
+- [x] 1995: _Star Trek: The Next Generation: “All Good Things...”_ Winrich Kolbe, Ronald D. Moore, Brannon Braga
 - [ ] 1998: _Contact_ Robert Zemeckis, James V. Hart, Michael Goldenberg, Carl Sagan, Ann Druyan
 - [x] 1999: _The Truman Show_ Peter Weir, Andrew Niccol
 - [x] 2000: _Galaxy Quest_ Dean Parisot, David Howard, Robert Gordon
@@ -204,25 +208,25 @@ Count: 63
 - [x] 2003: _The Lord of the Rings: The Two Towers_ Peter Jackson, Fran Walsh, Philippa Boyens, Stephen Sinclair, J. R. R. Tolkien
 - [x] 2004: _The Lord of the Rings: The Return of the King_ Peter Jackson, Fran Walsh, Philippa Boyens, J. R. R. Tolkien
 - [x] 2005: _The Incredibles_ Brad Bird
-- [x] 2005: _Battlestar Galactica: "33"_ Michael Rymer, Ronald D. Moore
+- [x] 2005: _Battlestar Galactica: “33”_ Michael Rymer, Ronald D. Moore
 - [x] 2006: _Serenity_ Joss Whedon
-- [x] 2007: _Pan's Labyrinth_ Guillermo del Toro
+- [x] 2007: _Pan’s Labyrinth_ Guillermo del Toro
 - [x] 2008: _Stardust_ Matthew Vaughn, Jane Goldman, Neil Gaiman
-- [x] 2008: _Doctor Who: "Blink"_ Hettie MacDonald, Steven Moffat
+- [x] 2008: _Doctor Who: “Blink”_ Hettie MacDonald, Steven Moffat
 - [x] 2009: _WALL-E_ Andrew Stanton, Jim Reardon, Pete Docter
-- [x] 2009: _Dr. Horrible's Sing-Along Blog_ Joss Whedon, Zack Whedon, Jed Whedon, Maurissa Tancharoen
+- [x] 2009: _Dr. Horrible’s Sing-Along Blog_ Joss Whedon, Zack Whedon, Jed Whedon, Maurissa Tancharoen
 - [ ] 2010: _Moon_ Duncan Jones, Nathan Parker
 - [x] 2011: _Inception_ Christopher Nolan
 - [x] 2015: _Guardians of the Galaxy_ James Gunn, Nicole Perlman
-- [x] 2016: _Jessica Jones: "AKA Smile"_ Michael Rymer, Scott Reynolds, Melissa Rosenberg, Jamie King
+- [x] 2016: _Jessica Jones: “AKA Smile”_ Michael Rymer, Scott Reynolds, Melissa Rosenberg, Jamie King
 - [x] 2017: _Arrival_ Denis Villeneuve, Eric Heisserer, Ted Chiang
 - [x] 2018: _Wonder Woman_ Patty Jenkins, Allan Heinberg, Zack Snyder, Jason Fuchs
-- [x] 2018: _The Good Place: "The Trolley Problem"_ Dean Holland, Josh Siegal, Dylan Morgan
+- [x] 2018: _The Good Place: “The Trolley Problem”_ Dean Holland, Josh Siegal, Dylan Morgan
 - [x] 2019: _Spider-Man: Into the Spider-Verse_ Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord
-- [x] 2019: _The Good Place: "Janet(s)"_ Morgan Sackett, Josh Siegal, Dylan Morgan
-- [x] 2020: _The Good Place: "The Answer"_ Valeria Migliassi Collins, Daniel Schofield
+- [x] 2019: _The Good Place: “Janet(s)”_ Morgan Sackett, Josh Siegal, Dylan Morgan
+- [x] 2020: _The Good Place: “The Answer”_ Valeria Migliassi Collins, Daniel Schofield
 - [x] 2021: _The Old Guard_ Gina Prince-Bythewood, Greg Rucka
-- [x] 2021: _The Good Place: "Whenever You're Ready"_ Michael Schur
+- [x] 2021: _The Good Place: “Whenever You’re Ready”_ Michael Schur
 - [x] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert
 - [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
 - [x] 2024: _Dungeons & Dragons: Honor Among Thieves_ John Francis Daley and Jonathan Goldstein

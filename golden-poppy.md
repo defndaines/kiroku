@@ -2,9 +2,10 @@
 
 The members of California Independent Bookseller Alliance [CALIBA] present The
 Golden Poppy Book Awards to recognize the most distinguished books written by
-writers and artists who make California their home.
+writers and artists who make California their home. Winners are announced in
+late January.
 
-https://caliballiance.org/page/GoldenPoppyAwards
+https://www.caliballiance.org/golden-poppy-awards
 
 Count: 6
 

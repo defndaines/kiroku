@@ -2,6 +2,10 @@
 
 An American literary award conferred by the book review magazine _Kirkus Reviews_.
 
+Announced in October.
+
+https://www.kirkusreviews.com/prize/
+
 Count: 7
 
 ## Fiction (4)
@@ -20,7 +24,7 @@ Count: 7
 
 ## Nonfiction (0)
 
-- [ ] 2014: Roz Chast _Can't We Talk About Something More Pleasant?_
+- [ ] 2014: Roz Chast _Can’t We Talk About Something More Pleasant?_
 - [ ] 2015: Ta-Nehisi Coates _Between the World and Me_
 - [ ] 2016: Susan Faludi _In the Darkroom_
 - [ ] 2017: Jack E. Davis _The Gulf: The Making of an American Sea_
@@ -29,10 +33,10 @@ Count: 7
 - [ ] 2020: Mychal Denzel Smith _Stakes Is High: Life After the American Dream_
 - [ ] 2021: Brian Broome _Punch Me Up to the Gods: A Memoir_
 - [ ] 2022: Tanaïs _In Sensorium_
-- [ ] 2023: Héctor Tobar _Our Migrant Souls: A Meditation on the Meanings and Myths of "Latino"_
+- [ ] 2023: Héctor Tobar _Our Migrant Souls: A Meditation on the Meanings and Myths of “Latino”_
 - [ ] 2024: Adam Higginbotham _Challenger_
 
-## Young Readers' Literature (3)
+## Young Readers’ Literature (3)
 
 - [ ] 2014: Kate Samworth _Aviary Wonders Inc.: Spring Catalog and Instruction Manual_
 - [ ] 2015: Pam Muñoz Ryan _Echo_
@@ -41,7 +45,7 @@ Count: 7
 - [ ] 2018: Derrick Barnes _Crown: An Ode to the Fresh Cut_
 - [x] 2019: Jerry Craft _New Kid_
 - [ ] 2020: Derrick Barnes _I Am Every Good Thing_
-- [ ] 2021: Christina Soontornvat _All Thirteen: The Incredible Cave Rescue of the Thai Boys' Soccer Team_
+- [ ] 2021: Christina Soontornvat _All Thirteen: The Incredible Cave Rescue of the Thai Boys’ Soccer Team_
 - [x] 2022: Harmony Becker _Himawari House_
 - [ ] 2023: Ariel Aberg-Riger _America Redux: Visual Stories From Our Dynamic History_
 - [ ] 2024: Kenneth M. Cadow _Gather_

@@ -7,6 +7,8 @@ Locus Awards are voted on by readers of _Locus_ magazine.
 Besides novels, only including awards when I've read them or plan to read
 them, since those lists are not goals I'm looking to fill in.
 
+https://locusmag.com/category/news/awards/
+
 Count: 28
 
 ## Best Novel (4)
@@ -47,15 +49,15 @@ Count: 28
 - [x] 2000: J. K. Rowling _Harry Potter and the Prisoner of Azkaban_
 - [ ] 2001: George R. R. Martin _A Storm of Swords_
 - [x] 2002: Neil Gaiman _American Gods_
-- [ ] 2003: China Mi&eacute;ville _The Scar_
+- [ ] 2003: China Miéville _The Scar_
 - [ ] 2004: Lois McMaster Bujold _Paladin of Souls_
-- [ ] 2005: China Mi&eacute;ville _Iron Council_
+- [ ] 2005: China Miéville _Iron Council_
 - [ ] 2006: Neil Gaiman _Anansi Boys_
 - [ ] 2007: Ellen Kushner _The Privilege of the Sword_
 - [ ] 2008: Terry Pratchett _Making Money_
 - [ ] 2009: Ursula K. Le Guin _Lavinia_
-- [x] 2010: China Mi&eacute;ville _The City & the City_
-- [ ] 2011: China Mi&eacute;ville _Kraken_
+- [x] 2010: China Miéville _The City & the City_
+- [ ] 2011: China Miéville _Kraken_
 - [ ] 2012: George R. R. Martin _A Dance with Dragons_
 - [ ] 2013: Charles Stross _The Apocalypse Codex_
 - [ ] 2014: Neil Gaiman _The Ocean at the End of the Lane_

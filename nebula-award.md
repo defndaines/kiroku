@@ -1,13 +1,17 @@
 # Nebula Award
 
-List of Nebula Award winners identified by whether I've read them.
+List of Nebula Award winners identified by whether I’ve read them.
 
 Nebula Awards recognize works of science fiction or fantasy published in the
 United States, awarded by the Science Fiction and Fantasy Writers Association
 (SFWA).
 
-Besides novel, only including awards when I've read them or plan to read them,
-since those lists are not goals I'm looking to fill in.
+Besides novel, only including awards when I’ve read them or plan to read them,
+since those lists are not goals I’m looking to fill in.
+
+Awards announced at conference in June.
+
+https://nebulas.sfwa.org/
 
 Count: 33
 
@@ -34,11 +38,11 @@ Count: 33
 - [ ] 1983: Michael Bishop _No Enemy But Time_
 - [ ] 1984: David Brin _Startide Rising_
 - [x] 1985: William Gibson _Neuromancer_
-- [x] 1986: Orson Scott Card _Ender's Game_
+- [x] 1986: Orson Scott Card _Ender’s Game_
 - [x] 1987: Orson Scott Card _Speaker for the Dead_
 - [ ] 1988: Pat Murphy _The Falling Woman_
 - [ ] 1989: Lois McMaster Bujold _Falling Free_
-- [ ] 1990: Elizabeth Ann Scarborough _The Healer's War_
+- [ ] 1990: Elizabeth Ann Scarborough _The Healer’s War_
 - [ ] 1991: Ursula K. Le Guin _Tehanu: The Last Book of Earthsea_
 - [ ] 1992: Michael Swanwick _Stations of the Tide_
 - [ ] 1993: Connie Willis _Doomsday Book_
@@ -49,14 +53,14 @@ Count: 33
 - [ ] 1998: Vonda N. McIntyre _The Moon and the Sun_
 - [ ] 1999: Joe Haldeman _Forever Peace_
 - [x] 2000: Octavia E. Butler _Parable of the Talents_
-- [ ] 2001: Greg Bear _Darwin's Radio_
+- [ ] 2001: Greg Bear _Darwin’s Radio_
 - [ ] 2002: Catherine Asaro _The Quantum Rose_
 - [x] 2003: Neil Gaiman _American Gods_
 - [ ] 2004: Elizabeth Moon _The Speed of Dark_
 - [ ] 2005: Lois McMaster Bujold _Paladin of Souls_
 - [ ] 2006: Joe Haldeman _Camouflage_
 - [ ] 2007: Jack McDevitt _Seeker_
-- [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
+- [ ] 2008: Michael Chabon _The Yiddish Policemen’s Union_
 - [ ] 2009: Ursula K. Le Guin _Powers_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
 - [ ] 2011: Connie Willis _Blackout/All Clear_
@@ -71,7 +75,7 @@ Count: 33
 - [ ] 2020: Sarah Pinsker _A Song for a New Day_
 - [ ] 2021: Martha Wells _Network Effect_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
-- [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution_
+- [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 
 ## Best Novella (5)
@@ -92,7 +96,7 @@ Count: 33
 
 ## Best Short Story (4)
 
-- [x] 1966: Harlan Ellison _"Repent, Harlequin!" Said the Ticktockman_
+- [x] 1966: Harlan Ellison _“Repent, Harlequin!” Said the Ticktockman_
 - [ ] 1974: Ursula K. Le Guin _The Day Before the Revolution_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
@@ -103,7 +107,7 @@ Count: 33
 - [x] 2008: J. K. Rowling _Harry Potter and the Deathly Hallows_
 - [ ] 2010: Catherynne M. Valente _The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making_
 - [x] 2019: Tomi Adeyemi _Children of Blood and Bone_
-- [x] 2021: Ursula Vernon (as T. Kingfisher) _A Wizard's Guide to Defensive Baking_
+- [x] 2021: Ursula Vernon (as T. Kingfisher) _A Wizard’s Guide to Defensive Baking_
 - [x] 2022: Darcie Little Badger _A Snake Falls to Earth_
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 
@@ -117,7 +121,7 @@ Count: 33
 - [x] 2017: _Arrival_ Denis Villeneuve, Eric Heisserer
 - [x] 2018: _Get Out_ Jordan Peele
 - [x] 2019: _Spider-Man: Into the Spider-Verse_ Phil Lord, Rodney Rothman
-- [x] 2021: _The Good Place: "Whenever You're Ready"_ Michael Schur
+- [x] 2021: _The Good Place: “Whenever You’re Ready”_ Michael Schur
 - [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
 
 ## Best Script (13)
@@ -132,6 +136,6 @@ Count: 33
 - [x] 2004: Fran Walsh, Philippa Boyens, Stephen Sinclair, and Peter Jackson, J. R. R. Tolkien _The Lord of the Rings: The Two Towers_
 - [x] 2005: Fran Walsh, Philippa Boyens, and Peter Jackson, J. R. R. Tolkien _The Lord of the Rings: The Return of the King_
 - [x] 2006: Joss Whedon _Serenity_
-- [x] 2007: Hayao Miyazaki, Cindy Davis Hewitt, and Donald H. Hewitt _Howl's Moving Castle_
-- [x] 2008: Guillermo del Toro _Pan's Labyrinth_
+- [x] 2007: Hayao Miyazaki, Cindy Davis Hewitt, and Donald H. Hewitt _Howl’s Moving Castle_
+- [x] 2008: Guillermo del Toro _Pan’s Labyrinth_
 - [x] 2009: Andrew Stanton, Jim Reardon and Pete Docter _WALL-E_

@@ -5,25 +5,25 @@ I want to read more James Baldwin.
 ## Novels
 
 - [ ] Go Tell It on the Mountain (1953)
-- [x] Giovanni's Room (1956)
+- [x] Giovanni’s Room (1956)
 - [ ] Another Country (1962)
-- [ ] Tell Me How Long the Train's Been Gone (1968)
+- [ ] Tell Me How Long the Train’s Been Gone (1968)
 - [ ] If Beale Street Could Talk (1974)
 - [ ] Just Above My Head (1979)
 - [ ] Harlem Quartet (1987)
 
 ## Short Stories
 
-- [ ] "Previous Condition" (1948)
-- [ ] "The Death of the Prophet" (1950)
-- [ ] "The Outing" (1951)
-- [ ] "Sonny's Blues" (1957)
-- [ ] "Come Out the Wilderness" (1958)
-- [ ] "This Morning, This Evening, So Soon" (1960)
-- [ ] "The Rockpile"
-- [ ] "The Man Child"
-- [ ] "Going to Meet the Man"
-- [ ] "The Death of the Prophet"
+- [ ] “Previous Condition” (1948)
+- [ ] “The Death of the Prophet” (1950)
+- [ ] “The Outing” (1951)
+- [ ] “Sonny’s Blues” (1957)
+- [ ] “Come Out the Wilderness” (1958)
+- [ ] “This Morning, This Evening, So Soon” (1960)
+- [ ] “The Rockpile”
+- [ ] “The Man Child”
+- [ ] “Going to Meet the Man”
+- [ ] “The Death of the Prophet”
 
 ## Essays
 

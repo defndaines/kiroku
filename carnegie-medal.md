@@ -5,6 +5,11 @@ adult readers published in the U.S. in the previous year. Administered by the
 American Library Association (ALA), selected by a seven-member selection
 committee of library experts.
 
+The winners are announced at the RUSA Book and Media Awards Ceremony in
+February.
+
+https://www.ala.org/carnegie-medals/about
+
 Count: 6
 
 ## Fiction (4)

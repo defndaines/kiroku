@@ -1,8 +1,8 @@
-# Countries I've Watches Movies from or About
+# Countries I’ve Watches Movies from or About
 
-For several of these countries, I've watched multiple things, but I'm only
+For several of these countries, I’ve watched multiple things, but I’m only
 listing a recent or best selection to keep things simple. Any country where
-I've watched more than ten movies or shows I'll mark with a star (\*).
+I’ve watched more than ten movies or shows I’ll mark with a star (\*).
 
 Count: 75
 
@@ -42,7 +42,7 @@ Count: 75
 - [x] Uganda: [The Last King of Scotland](https://www.imdb.com/title/tt0455590/)
 - [ ] Sudan
 - [ ] Ukraine
-- [x] Canada\*: [Indian Horse](https://www.imdb.com/title/tt5672286/); [Kim's Convenience](https://www.imdb.com/title/tt5912064/)
+- [x] Canada\*: [Indian Horse](https://www.imdb.com/title/tt5672286/); [Kim’s Convenience](https://www.imdb.com/title/tt5912064/)
 - [x] Poland: [The Pianist](https://www.imdb.com/title/tt0253474/)
 - [ ] Morocco
 - [ ] Uzbekistan
@@ -54,7 +54,7 @@ Count: 75
 - [ ] Saudi Arabia
 - [ ] Yemen
 - [x] Ghana: [Sankofa](https://www.imdb.com/title/tt0108041/) _ሳንኮፋ_
-- [x] Côte d'Ivoire: [Rotten: Bitter Chocolate](https://www.imdb.com/title/tt11064630/?ref_=ttep_ep5)
+- [x] Côte d’Ivoire: [Rotten: Bitter Chocolate](https://www.imdb.com/title/tt11064630/?ref_=ttep_ep5)
 - [ ] Nepal
 - [ ] Venezuela
 - [ ] Cameroon
@@ -73,7 +73,7 @@ Count: 75
 - [ ] Zambia
 - [x] Romania: [Untamed Romania](https://www.imdb.com/title/tt8076222/)
 - [ ] Ecuador
-- [x] Senegal: [Faat Kiné](https://www.imdb.com/title/tt0276951/); [Wrestling Grounds](https://www.imdb.com/title/tt0823412/) _L'appel des arènes_
+- [x] Senegal: [Faat Kiné](https://www.imdb.com/title/tt0276951/); [Wrestling Grounds](https://www.imdb.com/title/tt0823412/) _L’appel des arènes_
 - [ ] Somalia
 - [ ] Netherlands
 - [x] Guatemala: [El Norte](https://www.imdb.com/title/tt0085482/)
@@ -147,7 +147,7 @@ Count: 75
 - [ ] Georgia
 - [x] Uruguay: [State of Siege](https://www.imdb.com/title/tt0070959/)
 - [x] Mongolia: [The Story of the Weeping Camel](https://www.imdb.com/title/tt0373861/) _Die Geschichte vom weinenden Kamel_; [The Eagle Huntress](https://www.imdb.com/title/tt3882074/)
-- [x] Bosnia and Herzegovina: [No Man's Land](https://www.imdb.com/title/tt0283509/)
+- [x] Bosnia and Herzegovina: [No Man’s Land](https://www.imdb.com/title/tt0283509/)
 - [x] Puerto Rico: [Down to Earth with Zac Efron: Puerto Rico](https://www.imdb.com/title/tt12683328/?ref_=ttep_ep6)
 - [ ] Wales: [The Black Cauldron](https://www.imdb.com/title/tt0088814/)
 - [ ] Armenia

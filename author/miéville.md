@@ -1,6 +1,6 @@
 # China Miéville
 
-I haven't read much of his work yet, but when he's described as a Marxist, it
+I haven’t read much of his work yet, but when he’s described as a Marxist, it
 makes me curious.
 
 ## Fiction
