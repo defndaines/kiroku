@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Butcher of the Forest | Premee Mohamed | 2024 | Canada | 4.5 | ebook | 160 | fantasy, horror, novella, Hugo finalist |
 | The Ministry of Time | Kaliane Bradley | 2024 | U.K. | 3.5 | audio | 339 | romance, sci-fi, Hugo finalist |
 | When the Tiger Came Down the Mountain | Nghi Vo | 2020 | U.S. | 4.0 | audio | 128 | fantasy, novella |
 | Navigational Entanglements | Aliette de Bodard | 2024 | France | 4.0 | ebook | 165 | sci-fi, LGBT, novella, Hugo finalist |
