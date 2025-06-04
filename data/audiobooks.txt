@@ -38,7 +38,7 @@ Dreaming of Ramadi in Detroit: Essays | Aisha Sabatini Sloan | 4.34 | 4 | nonfic
 All the Colors of the Dark | Chris Whitaker | 4.34 | 15 | mystery, thriller, historical, Emily-Fox-rec
 The Story of Jane: The Legendary Underground Feminist Abortion Service | Laura Kaplan | 4.33 | 11 | nonfiction, history, feminism
 The Song of Achilles | Madeline Miller | 4.33 | 11 | fantasy, historical, romance
-Humankind: A Hopeful History | Rutger Bregman | 4.33 | 12 | nonfiction, history, philosophy, psychology
+Humankind: A Hopeful History | Rutger Bregman | 4.33 | 12 | nonfiction, history, philosophy, psychology, Willow-rec
 A Desolation Called Peace | Arkady Martine | 4.33 | 18 | sci-fi, LGBT, Hugo, Locus, sequel
 The Road Back | Erich Maria Remarque | 4.32 | 11 | classics, Germany, sequel-AQotWF
 A Day in the Life of Abed Salama | Nathan Thrall | 4.32 | 7 | nonfiction, history, politics, Jerusalem
@@ -114,7 +114,7 @@ The Children of Gods and Fighting Men | Shauna Lawless | 4.20 | 14 | historical,
 Reconstruction | Eric Foner | 4.20 | 31 | nonfiction, history
 The Invisible Life of Addie LaRue | V.E. Schwab | 4.19 | 17 | fantasy, historical, literary
 The Eye of the World | Robert Jordan | 4.19 | 33 | fantasy, wheel-of-time-1
-Assassin's Apprentice | Robin Hobb | 4.19 | 17 | fantasy
+Assassin’s Apprentice | Robin Hobb | 4.19 | 17 | fantasy
 The Years | Annie Ernaux | 4.18 | 8 | France, nonfiction, memoir, literary, Nobel
 Paladin of Souls | Lois McMaster Bujold | 4.18 | 16 | fantasy, Hugo, Locus, Nebula
 Mind of My Mind | Octavia E. Butler | 4.18 | 8 | sci-fi, fantasy, sequel, patternmaster-2
@@ -133,6 +133,7 @@ The Coming of Conan the Cimmerian | Robert E. Howard | 4.16 | 18 | fantasy, shor
 Skinship | Yoon Choi | 4.16 | 10 | literary, short stories
 Rez Ball | Byron Graves | 4.16 | 8 | YA, sports, indigenous
 Recursion | Blake Crouch | 4.16 | 11 | sci-fi, thriller
+Mockingbird | Walter Tevis | 4.16 | 10 | sci-fi, dystopian, Rammel-Broadcasting-rec
 Kill for Me, Kill for You | Steve Cavanagh | 4.16 | 10 | thriller, mystery, crime, coworker-rec
 Hell Followed with Us | Andrew Joseph White | 4.16 | 11 | horror, LGBT, dystopian, sci-fi, YA
 Dirty Work: Essential Jobs and the Hidden Toll of Inequality in America | Eyal Press | 4.16 | 11 | nonfiction, politics, sociology
@@ -315,6 +316,7 @@ The Helm of Midnight | Marina Lostetter | 3.88 | 22 | fantasy, horror, mystery, 
 The Fisherman | John Langan | 3.88 | 11 | horror, fantasy, Books-Are-Sick-rec
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.88 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Lolita | Vladimir Nabokov | 3.88 | 11 | literary, classics
+A Grain of Wheat | Ngũgĩ wa Thiong’o | 3.88 | 11 | historical, Kenya
 The Tusks of Extinction | Ray Nayler | 3.87 | 4 | sci-fi
 The Magical Language of Others | E. J. Koh | 3.87 | 5 | nonfiction, memoir, Korea–California
 Red Sonja: Consumed | Gail Simone | 3.87 | 11 | fantasy, sword and sorcery, Willow-rec
@@ -408,6 +410,7 @@ A Time of Changes | Robert Silverberg | 3.68 | 8 | sci-fi
 The Luminous Dead | Caitlin Starling | 3.67 | 14 | sci-fi, horror, LGBT
 The Initial Insult | Mindy McGinnis | 3.67 | 8 | YA, horror, thriller
 The Hurricane Wars | Thea Guanzon | 3.67 | 17 | romantasy, Willow-rec
+The Children of Men | P.D. James | 3.67 | 10 | sci-fi, dystopian
 Pink Slime | Fernanda Trías | 3.67 | 6 | horror, dystopian, Uruguay, unread-country
 Girl in a Band | Kim Gordon | 3.67 | 7 | nonfiction, memoir, music
 Ice | Anna Kavan | 3.66 | 6 | sci-fi, dystopian, classics

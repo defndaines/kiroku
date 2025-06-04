@@ -135,6 +135,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Sleepwalkers” (Short story, 1991)
 - [ ] A Winter Solstice Ritual (Chapbook, 1991)
 - [ ] Searoad (Collection, 1991)
+- [x] “Hernes” (Novella from Searoad, included in The Found and the Lost)
 - [ ] “Newton’s Sleep” (Short story, 1991)
 - [ ] A Ride on the Red Mare’s Back (Children’s book, 1992)
 - [ ] No Boats (Chapbook, 1992)
