@@ -11,7 +11,7 @@ Announced in June.
 
 https://www.clarkeaward.com/
 
-Count: 5
+Count: 6
 
 - [x] 1987: Margaret Atwood _The Handmaid's Tale_
 - [ ] 1988: George Turner _The Sea and Summer_
@@ -27,7 +27,7 @@ Count: 5
 - [ ] 1998: Mary Doria Russell _The Sparrow_
 - [ ] 1999: Tricia Sullivan _Dreaming in Smoke_
 - [ ] 2000: Bruce Sterling _Distraction_
-- [ ] 2001: China Miéville _Perdido Street Station_
+- [x] 2001: China Miéville _Perdido Street Station_
 - [ ] 2002: Gwyneth Jones _Bold As Love_
 - [ ] 2003: Christopher Priest _The Separation_
 - [ ] 2004: Neal Stephenson _Quicksilver_

@@ -6,7 +6,7 @@ makes me curious.
 ## Fiction
 
 ### Bas-Lag / New Crobuzon series
-- [ ] Perdido Street Station (2000)
+- [x] Perdido Street Station (2000)
 - [ ] The Scar (2002)
 - [ ] Iron Council (2004)
 
