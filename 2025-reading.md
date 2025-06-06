@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Compound Fracture | Andrew Joseph White | 2024 | U.S. | 5.0 | audio | 370 | horror, LGBT, YA |
 | Perdido Street Station | China Miéville | 2000 | U.K. | 4.5 | audio | 623 | fantasy, sci-fi, Arthur C. Clarke Award, British Fantasy Award |
 | The Butcher of the Forest | Premee Mohamed | 2024 | Canada | 4.5 | ebook | 160 | fantasy, horror, novella, Hugo finalist |
 | The Ministry of Time | Kaliane Bradley | 2024 | U.K. | 3.5 | audio | 339 | romance, sci-fi, Hugo finalist |
