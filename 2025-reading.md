@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lake of Souls | Ann Leckie | 2024 | U.S. | 4.0 | print | 38 | sci-fi, novelette, Hugo finalist |
 | The Practice, the Horizon, and the Chain | Sofia Samatar | 2024 | U.S. | 4.5 | ebook | 128 | sci-fi, dystopian, novella, Hugo finalist |
 | Compound Fracture | Andrew Joseph White | 2024 | U.S. | 5.0 | audio | 370 | horror, LGBT, YA |
 | Perdido Street Station | China Miéville | 2000 | U.K. | 4.5 | audio | 623 | fantasy, sci-fi, Arthur C. Clarke Award, British Fantasy Award |
