@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Theory & Practice | Michelle de Kretser | 2024 | Sri Lanka, Australia | 3.5 | audio | 192 | literary, historical, Stella Prize |
 | The Four Sisters Overlooking the Sea | Naomi Kritzer | 2024 | U.S. | 5.0 | print | 23 | fantasy, novelette, Hugo finalist |
 | Lake of Souls | Ann Leckie | 2024 | U.S. | 4.0 | print | 38 | sci-fi, novelette, Hugo finalist |
 | The Practice, the Horizon, and the Chain | Sofia Samatar | 2024 | U.S. | 4.5 | ebook | 128 | sci-fi, dystopian, novella, Hugo finalist |
