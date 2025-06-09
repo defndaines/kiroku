@@ -13,9 +13,9 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 33
+Count: 35
 
-## Best Novel (16)
+## Best Novel (17)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -77,6 +77,7 @@ Count: 33
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
+- [x] 2025: John Wiswell _Someone You Can Build a Nest In_
 
 ## Best Novella (5)
 
@@ -86,6 +87,7 @@ Count: 33
 - [x] 2018: Martha Wells _All Systems Red_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: C. L. Polk _Even Though I Knew the End_
+- [ ] 2025: A.D. Sui _The Dragonfly Gambit_
 
 ## Best Novelette (3)
 
@@ -93,14 +95,16 @@ Count: 33
 - [ ] 1995: Ursula K. Le Guin _Solitude_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 - [x] 2024: Naomi Kritzer _The Year Without Sunshine_
+- [ ] 2025: A.W. Prihandita _Negative Scholarship on the Fifth State of Being_
 
-## Best Short Story (4)
+## Best Short Story (5)
 
 - [x] 1966: Harlan Ellison _“Repent, Harlequin!” Said the Ticktockman_
 - [ ] 1974: Ursula K. Le Guin _The Day Before the Revolution_
 - [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
 - [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
 - [x] 2023: Samantha Mills _Rabbit Test_
+- [x] 2025: Isabel J. Kim _Why Don’t We Just Kill the Kid in the Omelas Hole_
 
 ## Andre Norton Award (5)
 
@@ -110,8 +114,9 @@ Count: 33
 - [x] 2021: Ursula Vernon (as T. Kingfisher) _A Wizard’s Guide to Defensive Baking_
 - [x] 2022: Darcie Little Badger _A Snake Falls to Earth_
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
+- [ ] 2025: Vanessa Ricci-Thode _The Young Necromancer’s Guide to Ghosts_
 
-## Ray Bradbury Award (10)
+## Ray Bradbury Award (11)
 
 - [x] 1992: _Terminator 2: Judgment Day_ James Cameron, William Wisher Jr.
 - [x] 2010: _District 9_ Neill Blomkamp, Terri Tatchell
@@ -123,6 +128,7 @@ Count: 33
 - [x] 2019: _Spider-Man: Into the Spider-Verse_ Phil Lord, Rodney Rothman
 - [x] 2021: _The Good Place: “Whenever You’re Ready”_ Michael Schur
 - [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
+- [x] 2025: _Dune: Part Two_ Jon Spaihts, Denis Villeneuve
 
 ## Best Script (13)
 
