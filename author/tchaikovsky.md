@@ -61,7 +61,7 @@
 - [ ] The Doors of Eden (2020)
 - [x] Alien Clay (2024)
 - [x] Service Model (2024)
-- [ ] Shroud (2025)
+- [x] Shroud (2025)
 
 ### After the War
 
