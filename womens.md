@@ -40,7 +40,9 @@ Count: 3
 - [ ] 2022: Ruth Ozeki _The Book of Form and Emptiness_
 - [ ] 2023: Barbara Kingsolver _Demon Copperhead_
 - [ ] 2024: V. V. Ganeshananthan _Brotherless Night_
+- [ ] 2025: Yael van der Wouden _The Safekeep_
 
 ## Non-fiction
 
 - [ ] 2024: Naomi Klein _Doppelganger_
+- [ ] 2025: Rachel Clarke _The Story of a Heart_

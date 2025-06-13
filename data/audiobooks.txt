@@ -92,6 +92,7 @@ Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge | Benja
 House of Suns | Alastair Reynolds | 4.24 | 18 | sci-fi
 Circe | Madeline Miller | 4.24 | 12 | fantasy, Greek, mythology, literary
 Black Butterflies | Priscilla Morris | 4.24 | 7 | literary, historical, war, unread-country, Bosnia and Herzegovina
+Amritsar 1919: An Empire of Fear and the Making of a Massacre | Kim A. Wagner | 4.24 | 13 | nonfiction, history, India, Brown-Booktuber-rec, [hoopla]
 Theft of Swords | Michael J. Sullivan | 4.23 | 23 | fantasy, riyria-revelations-1
 The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin | Ursula K. Le Guin | 4.23 | 26 | short stories, fantasy, sci-fi
 The Shadow of the Gods | John Gwynne | 4.23 | 19 | fantasy, bloodsworn-1
@@ -107,6 +108,7 @@ Flowers for Algernon | Daniel Keyes | 4.21 | 9 | sci-fi, classics, literary, YA,
 Everything We Never Had | Randy Ribay | 4.21 | 7 | historical, YA, Golden Poppy
 Deep River | Karl Marlantes | 4.21 | 26 | historical, literary, Finnish-U.S.
 Daisy Jones and the Six | Taylor Jenkins Reid | 4.21 | 9 | historical, literary, 60s L.A.
+The Third Temple | Yishai Sarid | 4.20 | 9 | dystopian, Israel, [hoopla]
 The Rise and Fall of the Dinosaurs: A New History of Their Lost World | Steve Brusatte | 4.20 | 10 | nonfiction, history, science
 The Emigrants | Vilhelm Moberg | 4.20 | 17 | Sweden, historical, classics
 The Children of Gods and Fighting Men | Shauna Lawless | 4.20 | 14 | historical, fantasy, 981 Dublin
@@ -124,6 +126,7 @@ Children of Ash and Elm: A History of the Vikings | Neil Price | 4.18 | 17 | his
 Asunder | Kerstin Hall | 4.18 | 20 | fantasy, horror, LGBT
 Almond | Won-pyung Sohn | 4.18 | 5 | contemporary, literary, Korea
 The Office of Historical Corrections | Danielle Evans | 4.17 | 7 | short stories, contemporary, race, Kate-Lee-경민-rec
+The Blue Book of Nebo | Manon Steffan Ros | 4.17 | 4 | sci-fi, dystopian, YA, Carnegie Medal, translated from Welsh
 Interpreter of Maladies | Jhumpa Lahiri | 4.17 | 6 | short stories, literary
 Anathem | Neal Stephenson | 4.17 | 32 | sci-fi, fantasy, Locus
 We Still Belong | Christine Day | 4.16 | 4 | YA, indigenous
@@ -274,6 +277,7 @@ Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, steampunk, Tori
 Black Money | Ross Macdonald | 3.96 | 7 | mystery, noir
 Agatha of Little Neon | Claire Luchette | 3.96 | 7 | literary, LGBT, author 2025 Whiting Award winner
 The Sea, the Sea | Iris Murdoch | 3.95 | 21 | literary, classics, Booker
+The Book Censor’s Library | Bothayna Al-Essa | 3.95 | 5 | literary, sci-fi, dystopian, Kuwait, unread-country
 The Big Sleep | Raymond Chandler | 3.95 | 7 | mystery, noir, classics
 Jonny Appleseed | Joshua Whitehead | 3.95 | 6 | literary, indigenous, LGBT
 Foul Days | Genoveva Dimova | 3.95 | 15 | fantasy, mythology, Bulgaria, unread-country
@@ -316,7 +320,6 @@ The Fisherman | John Langan | 3.88 | 11 | horror, fantasy, Books-Are-Sick-rec
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.88 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Lolita | Vladimir Nabokov | 3.88 | 11 | literary, classics
 A Grain of Wheat | Ngũgĩ wa Thiong’o | 3.88 | 11 | historical, Kenya
-The Tusks of Extinction | Ray Nayler | 3.87 | 4 | sci-fi
 The Magical Language of Others | E. J. Koh | 3.87 | 5 | nonfiction, memoir, Korea–California
 Red Sonja: Consumed | Gail Simone | 3.87 | 11 | fantasy, sword and sorcery, Willow-rec
 Cyber Mage | Saad Z. Hossain | 3.87 | 13 | sci-fi, cyberpunk, [hoopla]
@@ -437,8 +440,10 @@ Feed Them Silence | Lee Mandelo | 3.52 | 4 | horror, sci-fi
 Watched | Marina Budhos | 3.51 | 7 | contemporary, YA, Muslim-American
 Dog Park | Sofi Oksanen | 3.51 | 12 | historical, thriller, Finland
 Libertie | Kaitlyn Greenidge | 3.49 | 12 | historical, Reconstruction, Brooklyn
+Red Dust | Yoss | 3.46 | 4 | sci-fi, unread-country, Cuba, [hoopla]
 One-Shot Harry | Gary Phillips | 3.46 | 8 | mystery, historical, 1963 L.A.
 Give Me Some Truth | Eric Gansworth | 3.45 | 14 | YA, historical, music, indigenous
+No Gods, No Monsters | Cadwell Turnbull | 3.44 | 10 | fantasy, horror, LGBT, U.S. Virgin Islands, Literature-Science-Alliance-rec
 Hit Parade of Tears | Izumi Suzuki | 3.43 | 7 | Japan, short stories, sci-fi, literary
 The Long Drop | Denise Mina | 3.39 | 7 | historical, 1958 Glasgow, mystery
 North of Dawn | Nuruddin Farah | 3.39 | 10 | literary, Somalia, unread-country
