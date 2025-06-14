@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Runes | Martin Findell | 2014 | U.K. | 4.0 | print | 99 | nonfiction, history, linguistics |
 | The Tusks of Extinction | Ray Nayler | 2024 | Canada, U.S., Russia | 4.5 | audio | 192 | sci-fi, novella, Hugo finalist |
 | Shroud | Adrian Tchaikovsky | 2025 | U.K. | 5.0 | audio | 436 | sci-fi, horror |
 | Theory & Practice | Michelle de Kretser | 2024 | Sri Lanka, Australia | 3.5 | audio | 192 | literary, historical, Stella Prize |
