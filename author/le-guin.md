@@ -39,7 +39,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “The Day Before the Revolution” (Short story, Aug 1974) [Nebula, Locus]
 - [ ] “The Shobies’ Story” (Short story, 1990)
 - [ ] “Dancing to Ganam” (Short story, Sept 1993)
-- [ ] “The Matter of Seggri” (Novella, Spring 1994)
+- [x] “The Matter of Seggri” (Novella, Spring 1994)
 - [ ] “Another Story” (Novella, Aug 1994)
 - [ ] “Unchosen Love” (Short story, Fall 1994)
 - [ ] “Solitude” (Short story, Dec 1994) [Nebula]
