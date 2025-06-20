@@ -40,6 +40,7 @@ The Song of Achilles | Madeline Miller | 4.33 | 11 | fantasy, historical, romanc
 Humankind: A Hopeful History | Rutger Bregman | 4.33 | 12 | nonfiction, history, philosophy, psychology, Willow-rec
 A Desolation Called Peace | Arkady Martine | 4.33 | 18 | sci-fi, LGBT, Hugo, Locus, sequel
 The Road Back | Erich Maria Remarque | 4.32 | 11 | classics, Germany, sequel-AQotWF
+Legendborn | Tracy Deonn | 4.32 | 19 | fantasy, YA, legendborn-1, Ignyte Award
 A Day in the Life of Abed Salama | Nathan Thrall | 4.32 | 7 | nonfiction, history, politics, Jerusalem
 The Rage of Dragons | Evan Winter | 4.31 | 16 | fantasy, African inspired, burning-1
 The Molière Collection | Molière | 4.31 | 9 | play, France
@@ -177,6 +178,7 @@ Once There Were Wolves | Charlotte McConaghy | 4.11 | 8 | mystery, Scotland
 Imagined Communities: Reflections on the Origin and Spread of Nationalism | Benedict Anderson | 4.11 | 8 | nonfiction, history, politics, sociology, reread
 Dark Lord of Derkholm | Diana Wynne Jones | 4.11 | 14 | YA, fantasy
 Your House Will Pay | Steph Cha | 4.10 | 10 | mystery, historical, literary, Korean-Black relations
+The Past Is Red | Catherynne M. Valente | 4.10 | 5 | sci-fi, novella, dystopian
 The Lost Flowers of Alice Hart | Holly Ringland | 4.10 | 14 | contemporary, Australia
 The Birds of Opulence | Crystal Wilkinson | 4.10 | 5 | historical, literary, South, mental health
 Remnant Population | Elizabeth Moon | 4.10 | 12 | sci-fi
@@ -192,6 +194,7 @@ Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonficti
 We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 4.08 | 15 | historical, literary, Tibet, unread-country
 The Yellow Wallpaper and Other Stories | Charlotte Perkins Gilman | 4.08 | 5 | classics, feminism, short stories, 1892
 The Humans | Matt Haig | 4.08 | 8 | sci-fi, Emily-Fox-rec
+The Blood Trials | N.E. Davenport | 4.08 | 18 | fantasy, sci-fi, YA, Ignyte Award
 Insane: America’s Criminal Treatment of Mental Illness | Alisa Roth | 4.08 | 10 | nonfiction, politics, psychology, mental health
 Dandelion Wine | Ray Bradbury | 4.08 | 9 | sci-fi, classics
 A Gathering of Old Men | Ernest J. Gaines | 4.08 | 8 | historical, classics
@@ -226,6 +229,7 @@ A Master of Djinn | P. Djèlí Clark | 4.04 | 16 | sci-fi, fantasy, LGBT, myster
 Trespasses | Louise Kennedy | 4.03 | 9 | historical, literary, Northern, Ireland
 Witches, Midwives, and Nurses: A History of Women Healers | Barbara Ehrenreich, Deirdre English | 4.02 | 2 | nonfiction, history, feminism, health
 Walk the Blue Fields | Claire Keegan | 4.02 | 5 | short stories, literary
+The Sapling Cage | Margaret Killjoy | 4.02 | 9 | fantasy, LGBT
 Metro 2033 | Dmitry Glukhovsky | 4.02 | 22 | sci-fi, dystopian, horror, fantasy
 Little | Edward Carey | 4.02 | 14 | historical, 1700s Paris
 Into the Riverlands | Nghi Vo | 4.02 | 2 | fantasy, novella, singing-hills-cycle-3
@@ -304,6 +308,7 @@ A General Theory of Oblivion | José Eduardo Agualusa | 3.91 | 4 | Angola, histo
 The Hundred Thousand Kingdoms | N. K. Jemisin | 3.90 | 12 | sci-fi, Locus, inheritance-1
 Still Life | Louise Penny | 3.90 | 10 | mystery, Quebec
 Loaded: A Disarming History of the Second Amendment | Roxanne Dunbar-Ortiz | 3.90 | 7 | nonfiction, history, politics, race, indigenous
+The West Passage | Jared Pechaček | 3.89 | 13 | fantasy, sci-fi, LGBT
 The Stone Diaries | Carol Shields | 3.89 | 13 | literary, historical, Pulitzer
 The Library Book | Susan Orlean | 3.89 | 12 | nonfiction, history, true crime
 The Dollmakers | Lynn Buchanan | 3.89 | 12 | fantasy, horror
@@ -318,7 +323,9 @@ The Helm of Midnight | Marina Lostetter | 3.88 | 22 | fantasy, horror, mystery, 
 The Fisherman | John Langan | 3.88 | 11 | horror, fantasy, Books-Are-Sick-rec
 The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 3.88 | 11 | horror, historical, literary, feminism, Nobel, Willow-rec
 Lolita | Vladimir Nabokov | 3.88 | 11 | literary, classics
+Gods of Jade and Shadow | Silvia Moreno-Garcia | 3.88 | 11 | fantasy, historical, Ignyte Award
 A Grain of Wheat | Ngũgĩ wa Thiong’o | 3.88 | 11 | historical, Kenya
+We Hunt the Flame | Hafsah Faizal | 3.87 | 15 | fantasy, YA, Ignyte Award
 The Magical Language of Others | E. J. Koh | 3.87 | 5 | nonfiction, memoir, Korea–California
 Red Sonja: Consumed | Gail Simone | 3.87 | 11 | fantasy, sword and sorcery, Willow-rec
 Cyber Mage | Saad Z. Hossain | 3.87 | 13 | sci-fi, cyberpunk, [hoopla]
@@ -370,6 +377,7 @@ Saints and Misfits | S.K. Ali | 3.77 | 8 | contemporary, YA, Muslim
 History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGBT, France
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
 The Knowledge: How to Rebuild Our World from Scratch | Lewis Dartnell | 3.76 | 9 | nonfiction, science, technology, history
+The City in Glass | Nghi Vo | 3.76 | 6 | fantasy, romance, novella
 Strike the Zither | Joan He | 3.76 | 11 | fantasy, YA, historical, 414 China
 Stay and Fight | Madeline Ffitch | 3.76 | 13 | literary, LGBT, Appalachian Ohio
 Flights | Olga Tokarczuk | 3.76 | 13 | short stories, literary, Nobel
@@ -393,13 +401,16 @@ Babel-17 | Samuel R. Delany | 3.73 | 7 | sci-fi, reread, Nebula
 The Gilded Wolves | Roshani Chokshi | 3.72 | 12 | YA, historical, fantasy, LGBT, 1889 Paris, gilded-wolves-1
 The Annual Migration of Clouds | Premee Mohamed | 3.72 | 5 | sci-fi, post-apocalyptic, climate, literary
 Paper Towns | John Green | 3.72 | 8 | YA, mystery, contemporary, romance
+Blackheart Man | Nalo Hopkinson | 3.72 | 12 | fantasy, LGBT, sci-fi
 American Rust | Philipp Meyer | 3.72 | 13 | contemporary, mystery, Pennsylvania steel
+Riot Baby | Tochi Onyebuchi | 3.71 | 4 | fantasy, sci-fi, novella, dystopian, Ignyte Award
 East Goes West: The Making of an Oriental Yankee | Younghill Kang | 3.71 | 16 | classics, Korean-American, 1937
 Delicate Condition | Danielle Valentine | 3.71 | 12 | horror, feminist Rosemary’s Baby
 Concerning My Daughter | Hye-Jin Kim | 3.71 | 4 | literary, LGBT
 Tomb of Sand | Geetanjali Shree | 3.70 | 18 | literary, India, historical, Booker
 The Black Tides of Heaven | Neon Yang | 3.70 | 5 | fantasy, LGBT
 The Barbarian Nurseries | Héctor Tobar | 3.70 | 16 | contemporary, literary, L.A.
+I Feed Her to the Beast and the Beast Is Me | Jamison Shea | 3.69 | 12 | horror, YA, fantasy, LGBT, Ignyte Award
 Claire DeWitt and the City of the Dead | Sara Gran | 3.69 | 9 | mystery, New Orleans
 The Shadow King | Maaza Mengiste | 3.68 | 16 | historical, literary, 1935 Ethiopia
 Phoenix Extravagant | Yoon Ha Lee | 3.68 | 10 | fantasy
@@ -415,6 +426,7 @@ Pink Slime | Fernanda Trías | 3.67 | 6 | horror, dystopian, Uruguay, unread-cou
 Girl in a Band | Kim Gordon | 3.67 | 7 | nonfiction, memoir, music
 Ice | Anna Kavan | 3.66 | 6 | sci-fi, dystopian, classics
 The Appeal | John Grisham | 3.63 | 13 | mystery, legal, thriller
+Archangels of Funk | Andrea Hairston | 3.63 | 15 | fantasy, sci-fi, dystopian, cinnamon-jones-2
 Walking Practice | Dolki Min | 3.62 | 4 | Korea, horror, sci-fi, LGBT
 Oreo | Fran Ross | 3.62 | 8 | humor, classics, race
 Covered with Night: A Story of Murder and Indigenous Justice in Early America | Nicole Eustace | 3.62 | 15 | nonfiction, history, true crime, 1722, indigenous, Pulitzer
@@ -443,10 +455,13 @@ Red Dust | Yoss | 3.46 | 4 | sci-fi, unread-country, Cuba, [hoopla]
 One-Shot Harry | Gary Phillips | 3.46 | 8 | mystery, historical, 1963 L.A.
 Give Me Some Truth | Eric Gansworth | 3.45 | 14 | YA, historical, music, indigenous
 No Gods, No Monsters | Cadwell Turnbull | 3.44 | 10 | fantasy, horror, LGBT, U.S. Virgin Islands, Literature-Science-Alliance-rec
+Will Do Magic for Small Change | Andrea Hairston | 3.43 | 18 | fantasy, sci-fi, historical, LGBT, cinnamon-jones-1
 Hit Parade of Tears | Izumi Suzuki | 3.43 | 7 | Japan, short stories, sci-fi, literary
 The Long Drop | Denise Mina | 3.39 | 7 | historical, 1958 Glasgow, mystery
 North of Dawn | Nuruddin Farah | 3.39 | 10 | literary, Somalia, unread-country
 Transmission | Hari Kunzru | 3.37 | 10 | contemporary, Indian immigrant computer programmer
+Remember You Will Die | Eden Robins | 3.35 | 7 | sci-fi
+Rakesfall | Vajra Chandrasekera | 3.33 | 9 | fantasy, sci-fi, romance, LGBT
 Waste Tide | Chen Qiufan | 3.32 | 12 | sci-fi, China
 I’m a Fan | Sheena Patel | 3.27 | 5 | literary, feminism, Katerina-Reem-rec
 Dare Me | Megan Abbott | 3.24 | 9 | contemporary, mystery, thriller, YA, cheerleaders
