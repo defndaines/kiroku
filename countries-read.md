@@ -29,7 +29,7 @@ Count: 93
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
 - [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy’s Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
-- [x] Indonesia: [_Fruit Maps_](https://www.asymptotejournal.com/special-feature/fruit-maps-rio-johan/) Rio Johan; [_Mysteries of Visiocherries_](http://samovar.strangehorizons.com/2021/04/26/mysteries-of-visiocherries-misteri-visiceri/) Rio Johan
+- [x] Indonesia: [_Fruit Maps_](https://www.asymptotejournal.com/special-feature/fruit-maps-rio-johan/) Rio Johan; [_Mysteries of Visiocherries_](http://samovar.strangehorizons.com/2021/04/26/mysteries-of-visiocherries-misteri-visiceri/) Rio Johan; [_Negative Scholarship on the Fifth State of Being_](https://clarkesworldmagazine.com/prihandita_11_24/) A.W. Prihandita
 - [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
 - [x] Nigeria\*: [_Binti_](https://www.goodreads.com/book/show/25667918-binti) Nnedi Okorafor
 - [x] Brazil: [_The Posthumous Memoirs of Brás Cubas_](https://www.goodreads.com/book/show/87262.The_Posthumous_Memoirs_of_Br_s_Cubas) Machado de Assis

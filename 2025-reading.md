@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Negative Scholarship on the Fifth State of Being | A.W. Prihandita | 2024 | Indonesia, U.S. | 4.5 | ebook | 19 | sci-fi, novelette, Nebula |
 | The Tainted Cup | Robert Jackson Bennett | 2024 | U.S. | 5.0 | audio | 410 | fantasy, mystery, Hugo finalist |
 | Runes | Martin Findell | 2014 | U.K. | 4.0 | print | 99 | nonfiction, history, linguistics |
 | The Tusks of Extinction | Ray Nayler | 2024 | Canada, U.S., Russia | 4.5 | audio | 192 | sci-fi, novella, Hugo finalist |

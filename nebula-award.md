@@ -13,7 +13,7 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 35
+Count: 36
 
 ## Best Novel (17)
 
@@ -89,13 +89,13 @@ Count: 35
 - [x] 2023: C. L. Polk _Even Though I Knew the End_
 - [ ] 2025: A.D. Sui _The Dragonfly Gambit_
 
-## Best Novelette (3)
+## Best Novelette (4)
 
 - [x] 1985: Octavia E. Butler _Bloodchild_
 - [ ] 1995: Ursula K. Le Guin _Solitude_
 - [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
 - [x] 2024: Naomi Kritzer _The Year Without Sunshine_
-- [ ] 2025: A.W. Prihandita _Negative Scholarship on the Fifth State of Being_
+- [x] 2025: A.W. Prihandita _Negative Scholarship on the Fifth State of Being_
 
 ## Best Short Story (5)
 
