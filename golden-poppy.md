@@ -1,4 +1,4 @@
-# Golden Poppy Book Awards
+# Golden Poppy Book Award
 
 The members of California Independent Bookseller Alliance [CALIBA] present The
 Golden Poppy Book Awards to recognize the most distinguished books written by

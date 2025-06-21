@@ -8,7 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| We Called Them Giants | Kieron Gillen | 2024 | U.K. | 3.5 | ebook | 92 | fantasy, dystopian, Hugo finalist |
+| We Called Them Giants | Kieron Gillen | 2024 | U.K. | 3.0 | ebook | 92 | fantasy, dystopian, Hugo finalist |
 | The Deep Dark | Molly Knox Ostertag | 2024 | U.S. | 5.0 | print | 480 | fantasy, YA, LGBT, Hugo finalist |
 | Monstress, Volume 1: Awakening | Marjorie Liu | 2016 | U.S. | 3.5 | ebook | 192 | fantasy, steampunk, Hugo, British Fantasy Award |
 | Iyanu: Child of Wonder, Volume 2 | Roye Okupe | 2022 | Nigeria | 4.5 | ebook | 140 | fantasy, folklore, YA |

@@ -1,4 +1,4 @@
-# Nommo Awards
+# Nommo Award
 
 The Nommo Awards recognize works of speculative fiction by Africans. This
 means science fiction, fantasy, stories of magic and traditional belief,

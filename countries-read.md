@@ -1,4 +1,4 @@
-# Countries I’ve Read Books from or about
+# Countries I’ve Read Books from or About
 
 For several of these countries, I’ve read multiple books, but I’m only listing
 a most recent or best selection to keep things simple. Any country where I’ve

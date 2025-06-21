@@ -30,6 +30,7 @@ which award-winning books I’ve read in the following files.
 * [International Dublin Literary Award](dublin-award.md)
 * [Golden Poppy Book Award](golden-poppy.md)
 * [Hugo Award](hugo-award.md)
+* [Ignyte Award](ignyte.md)
 * [Kirkus Prize](kirkus.md)
 * [Locus Award](locus-award.md)
 * [National Book Award](national-book-award.md)

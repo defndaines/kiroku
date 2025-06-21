@@ -1,9 +1,11 @@
-# Ohioana Book Awards
+# Ohioana Book Award
 
 Established in 1942, the Ohio Book Awards recognize Ohio authors and
 illustrators for outstanding books published each calendar year. Current
 judges are librarians, professors, historians, avid readers in a particular
 category, authors/poets, reviewers, bookstore owners/buyers/employees, etc.
+
+Awards are announced in October.
 
 https://www.ohioana.org/programs/ohio-book-awards/
 
