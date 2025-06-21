@@ -116,10 +116,29 @@ sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 grep "^Count:" [a-z]*.md
 
-for award in booker-prize.md carnegie-medal.md clarke-award.md dublin-award.md golden-poppy.md great-american-novels.md ignyte.md kirkus.md locus-award.md national-book-award.md nobel-literature.md nommo-award.md ohioana.md pulitzer.md walter-scott-prize.md womens.md world-fantasy.md; do
-  echo $award
+for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
+  arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
+  great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
+  national-book-award.md nobel-prize-in-literature.md nommo-award.md \
+  ohioana-book-award.md pulitzer-prize.md walter-scott-prize.md womens-prize.md \
+  world-fantasy-award.md; do
+  head -1 $award
   grep "^Count" $award
   grep '\[x\]' $award | sort | uniq -c | wc -l
+done
+
+for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
+  arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
+  hugo-award.md ignyte-award.md kirkus-prize.md locus-award.md \
+  national-book-award.md nobel-prize-in-literature.md nebula-award.md \
+  nommo-award.md ohioana-book-award.md pulitzer-prize.md walter-scott-prize.md \
+  womens-prize.md world-fantasy-award.md great-american-novels.md \
+  nyt-100-best-21st-century.md; do
+  head -1 $award
+  count=$(grep "^Count:" ${award} | sed 's/Count: //')
+  total=$(grep -c "^- \[" ${award})
+  pct=$((count * 100 / total))
+  echo "  ${count} (${pct}%)"
 done
 
 ## Yearly (since 2024) Analysis

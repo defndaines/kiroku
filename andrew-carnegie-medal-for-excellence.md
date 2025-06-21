@@ -1,4 +1,4 @@
-# Andrew Carnegie Medals for Excellence
+# Andrew Carnegie Medal for Excellence
 
 Established in 2012 to recognize the best fiction and nonfiction books for
 adult readers published in the U.S. in the previous year. Administered by the

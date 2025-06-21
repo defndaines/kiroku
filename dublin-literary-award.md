@@ -1,4 +1,4 @@
-# International Dublin Literary Award
+# Dublin Literary Award
 
 The International Dublin Literary Award is presented each year for a novel
 written or translated into English. Nominations are submitted by public
