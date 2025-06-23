@@ -9,7 +9,7 @@ them, since those lists are not goals I'm looking to fill in.
 
 https://locusmag.com/category/news/awards/
 
-Count: 28
+Count: 32
 
 ## Best Novel (4)
 
@@ -23,7 +23,7 @@ Count: 28
 - [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 
-## Best Fantasy Novel (7)
+## Best Fantasy Novel (8)
 
 - [ ] 1978: J. R. R. Tolkien _The Silmarillion_
 - [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
@@ -71,6 +71,7 @@ Count: 28
 - [ ] 2022: Fonda Lee _Jade Legacy_
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 - [ ] 2024: Martha Wells _Witch King_
+- [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
 
 ## Best Science Fiction Novel (3)
 
@@ -119,8 +120,9 @@ Count: 28
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Martha Wells _System Collapse_
+- [ ] 2025: Alexander Boldizar _The Man Who Saw Seconds_
 
-## Best First Novel (2)
+## Best First Novel (3)
 
 - [ ] 1981: Robert L. Forward _Dragon's Egg_
 - [ ] 1982: S. P. Somtow _Starship & Haiku_
@@ -166,6 +168,7 @@ Count: 28
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
+- [x] 2025: John Wiswell _Someone You Can Build a Nest In_
 
 ## Best Young Adult (4)
 
@@ -191,12 +194,14 @@ Count: 28
 - [ ] 2022: Charlie Jane Anders _Victories Greater Than Death_
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
 - [ ] 2024: Charlie Jane Anders _Promises Stronger Than Darkness_
+- [ ] 2025: Yoon Ha Lee _Moonstorm_
 
 ## Best Horror (2)
 
 - [x] 2020: Marlon James _Black Leopard, Red Wolf_
 - [x] 2020: T. Kingfisher _What Moves the Dead_
 - [ ] 2024: T. Kingfisher _A House with Good Bones_
+- [ ] 2025: Chuck Tingle _Bury Your Gays_
 
 ## Best Novella (4)
 
@@ -207,11 +212,17 @@ Count: 28
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_
+- [ ] 2025: T. Kingfisher _What Feasts at Night_
 
-## Best Novelette (2)
+## Best Novelette (3)
 
-- [ ] 1976: Ursula K. Le Guin _The New Atlantis_
-- [ ] 1997: Ursula K. Le Guin _Mountain Ways_
-- [ ] 2001: Ursula K. Le Guin _The Birthday of the World_
-- [x] 1985: Octavia E. Butler _Bloodchild_
-- [x] 2023: John Chu _If You Find Yourself Speaking to God, Address God with the Informal You_
+- [ ] 1976: Ursula K. Le Guin “The New Atlantis”
+- [ ] 1997: Ursula K. Le Guin “Mountain Ways”
+- [ ] 2001: Ursula K. Le Guin “The Birthday of the World”
+- [x] 1985: Octavia E. Butler “Bloodchild”
+- [x] 2023: John Chu “If You Find Yourself Speaking to God, Address God with the Informal You”
+- [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
+
+## Best Short Story (1)
+
+- [x] 2025: Isabel J. Kim “Why Don’t We Just Kill the Kid in the Omelas Hole”
