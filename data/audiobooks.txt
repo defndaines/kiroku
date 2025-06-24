@@ -42,7 +42,7 @@ A Desolation Called Peace | Arkady Martine | 4.33 | 18 | sci-fi, LGBT, Hugo, Loc
 The Road Back | Erich Maria Remarque | 4.32 | 11 | classics, Germany, sequel-AQotWF
 Legendborn | Tracy Deonn | 4.32 | 19 | fantasy, YA, legendborn-1, Ignyte Award
 A Day in the Life of Abed Salama | Nathan Thrall | 4.32 | 7 | nonfiction, history, politics, Jerusalem
-The Rage of Dragons | Evan Winter | 4.31 | 16 | fantasy, African inspired, burning-1
+The Rage of Dragons | Evan Winter | 4.31 | 16 | fantasy, African inspired, burning-1, Brown-Booktuber-rec
 The Molière Collection | Molière | 4.31 | 9 | play, France
 The Bloody Crown of Conan | Robert E. Howard | 4.31 | 18 | fantasy, sequel-2
 The Big Bundle | Max Allan Collins | 4.31 | 8 | historical, noir
@@ -77,14 +77,13 @@ Our Share of Night | Mariana Enríquez | 4.27 | 27 | horror, historical, fantasy
 If Beale Street Could Talk | James Baldwin | 4.27 | 7 | classics, literary, romance
 Trickster’s Choice | Tamora Pierce | 4.26 | 12 | fantasy, YA
 The Street | Ann Petry | 4.26 | 13 | classics, 1940s Harlem, Black
-The Forest of Vanishing Stars | Kristin Harmel | 4.26 | 11 | historical, literary, Germany, Jewish refugees
 The Collected Stories of Lydia Davis | Lydia Davis | 4.26 | 21 | short stories, literary
 Stories of Your Life and Others | Ted Chiang | 4.26 | 10 | sci-fi, short stories
-Lonely Castle in the Mirror | Mizuki Tsujimura | 4.26 | 13 | fantasy, magical realism, YA, Lit-by-Iris-rec
+The Forest of Vanishing Stars | Kristin Harmel | 4.25 | 11 | historical, literary, Germany, Jewish refugees
 Propaganda | Jacques Ellul | 4.25 | 16 | nonfiction, philosophy, politics, psychology
 Monday’s Not Coming | Tiffany D. Jackson | 4.25 | 10 | YA, mystery, contemporary
+Lonely Castle in the Mirror | Mizuki Tsujimura | 4.25 | 13 | fantasy, magical realism, YA, Lit-by-Iris-rec
 Hogfather | Terry Pratchett | 4.25 | 11 | fantasy, discworld-20, [Spotify]
-Grave Empire | Richard Swan | 4.25 | 17 | fantasy, horror, Willow-rec
 Finding Junie Kim | Ellen Oh | 4.25 | 9 | contemporary, historical, YA
 These Burning Stars | Bethany Jacobs | 4.24 | 15 | sci-fi, LGBT
 The Girl Who Kept the Castle | Ryan Graudin | 4.24 | 8 | fantasy, YA
@@ -162,6 +161,7 @@ The Devil All the Time | Donald Ray Pollock | 4.13 | 9 | horror, 1960s Ohio WVa
 Steppenwolf | Hermann Hesse | 4.13 | 8 | classics, philosophy, literary
 Imperium | Robert Harris | 4.13 | 13 | historical
 Heroes of the Water Monster | Brian Young | 4.13 | 10 | fantasy, YA
+Grave Empire | Richard Swan | 4.13 | 17 | fantasy, horror, Willow-rec, Peruse-Project-rec
 We Could Be Rats | Emily R. Austin | 4.12 | 6 | LGBT, literary, mental health, coworker-rec
 The Unwanteds | Lisa McMann | 4.12 | 7 | fantasy, dystopian YA
 The Talisman | Peter Straub | 4.12 | 28 | horror, fantasy
@@ -357,7 +357,6 @@ Maeve Fly | C.J. Leede | 3.82 | 8 | horror
 In the Company of Men | Véronique Tadjo | 3.82 | 3 | literary, historical, Ebola, Africa
 Hild | Nicola Griffith | 3.82 | 24 | historical, fantasy, LGBT, England
 A Farewell to Arms | Ernest Hemingway | 3.82 | 9 | war, Nobel
-What Feasts at Night | T. Kingfisher | 3.81 | 5 | horror, fantasy, mystery, novella, sword-soldier-2, Hugo nominee
 The Vaster Wilds | Lauren Groff | 3.81 | 7 | historical, literary, America
 Nova | Samuel R. Delany | 3.81 | 9 | sci-fi
 Heaven | Mieko Kawakami | 3.81 | 6 | contemporary, literary, Japan

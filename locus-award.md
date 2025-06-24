@@ -9,7 +9,7 @@ them, since those lists are not goals I'm looking to fill in.
 
 https://locusmag.com/category/news/awards/
 
-Count: 32
+Count: 33
 
 ## Best Novel (4)
 
@@ -203,7 +203,7 @@ Count: 32
 - [ ] 2024: T. Kingfisher _A House with Good Bones_
 - [ ] 2025: Chuck Tingle _Bury Your Gays_
 
-## Best Novella (4)
+## Best Novella (5)
 
 - [ ] 1995: Ursula K. Le Guin _Forgiveness Day_
 - [ ] 2002: Ursula K. Le Guin _The Finder_
@@ -212,7 +212,7 @@ Count: 32
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_
-- [ ] 2025: T. Kingfisher _What Feasts at Night_
+- [x] 2025: T. Kingfisher _What Feasts at Night_
 
 ## Best Novelette (3)
 

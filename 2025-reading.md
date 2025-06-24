@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| What Feasts at Night | T. Kingfisher | 2024 | U.S. | 4.0 | audio | 151 | horror, fantasy, mystery, novella, Hugo finalist |
 | Calypso | Oliver K. Langmead | 2024 | U.K. | 3.5 | audio | 215 | sci-fi, poetry, Hugo finalist |
 | The Secret | Fumio Takano | 2025 | Japan | 4.0 | audio | 32 | sci-fi |
 | The Lady of the Yellow-Painted Library | Tobi Ogundiran | 2022 | Nigeria | 4.5 | audio | 50 | horror, fantasy, short story, Ignyte Award |
