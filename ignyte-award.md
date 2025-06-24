@@ -11,7 +11,7 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 5
+Count: 6
 
 ## Novel (1)
 
@@ -29,12 +29,12 @@ Count: 5
 - [ ] 2023: _Bloodmarked_ Tracy Deonn
 - [ ] 2024: _I Feed Her to the Beast and the Beast Is Me_ Jamison Shae
 
-## Novella (1)
+## Novella (2)
 
 - [x] 2020: _This is How You Lose the Time War_ Max Gladstone & Amal El-Mohtar
 - [ ] 2021: _Riot Baby_ Tochi Onyebuchi
 - [ ] 2022: _And This Is How to Stay Alive_ Shingai Njeri Kagunda
-- [ ] 2023: _Into the Riverlands_ Nghi Vo
+- [x] 2023: _Into the Riverlands_ Nghi Vo
 - [ ] 2024: _The Lies of the Ajungo_ Moses Ose Utomi
 
 ## Novelette (1)
