@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Brides of High Hill | Nghi Vo | 2024 | U.S. | 4.0 | audio | 116 | fantasy, horror, novella, Hugo nominee |
 | Mammoths at the Gates | Nghi Vo | 2023 | U.S. | 4.0 | audio | 123 | fantasy, novella |
 | Into the Riverlands | Nghi Vo | 2022 | U.S. | 4.5 | audio | 100 | fantasy, novella, Ignyte Award |
 | What Feasts at Night | T. Kingfisher | 2024 | U.S. | 4.0 | audio | 151 | horror, fantasy, mystery, novella, Hugo finalist |
