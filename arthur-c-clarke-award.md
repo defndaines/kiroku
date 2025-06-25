@@ -51,3 +51,4 @@ Count: 6
 - [ ] 2022: Harry Josephine Giles _Deep Wheel Orcadia_
 - [ ] 2023: Ned Beauman _Venomous Lumpsucker_
 - [x] 2024: Martin MacInnes _In Ascension_
+- [ ] 2025: Sierra Greer _Annie Bot_
