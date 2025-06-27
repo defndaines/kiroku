@@ -11,7 +11,7 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 7
+Count: 8
 
 ## Novel (1)
 
@@ -45,10 +45,10 @@ Count: 7
 - [x] 2023: _If You Find Yourself Speaking to God, Address God with the Informal You_ John Chu
 - [ ] 2024: _Spell for Grief and Longing_ Eboni J. Dunbar
 
-## Short Story (2)
+## Short Story (3)
 
 - [ ] 2020: _A Brief Lesson in Native American Astronomy_ Rebecca Roanhorse
 - [ ] 2021: _You Perfect, Broken Thing_ C. L. Clark
-- [ ] 2022: _If the Martians Have Magic_ P. Djèlí Clark
+- [x] 2022: _If the Martians Have Magic_ P. Djèlí Clark
 - [x] 2023: _The Lady of the Yellow-Painted Library_ Tobi Ogundiran
 - [x] 2024: _A Witch’s Transition in the City of Ghosts_ Oluwatomiwa Ajeigbe
