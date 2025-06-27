@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Witch’s Transition in the City of Ghosts | Oluwatomiwa Ajeigbe | 2024 | Nigeria | 4.0 | ebook | 18 | fantasy, short story, Ignyte Award |
 | The Brides of High Hill | Nghi Vo | 2024 | U.S. | 4.0 | audio | 116 | fantasy, horror, novella, Hugo nominee |
 | Mammoths at the Gates | Nghi Vo | 2023 | U.S. | 4.0 | audio | 123 | fantasy, novella |
 | Into the Riverlands | Nghi Vo | 2022 | U.S. | 4.5 | audio | 100 | fantasy, novella, Ignyte Award |
