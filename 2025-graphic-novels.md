@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| You Perfect, Broken Thing | C. L. Clark | 2020 | U.K. | 4.5 | ebook | 14 | sci-fi, dystopian, LGBT, short story, Ignyte Award |
 | Star Trek: Lower Decks―Warp Your Own Way | Ryan North | 2024 | Canada | 3.0 | ebook | 196 | sci-fi, humor, Hugo finalist |
 | We Called Them Giants | Kieron Gillen | 2024 | U.K. | 3.0 | ebook | 92 | fantasy, dystopian, Hugo finalist |
 | The Deep Dark | Molly Knox Ostertag | 2024 | U.S. | 5.0 | print | 480 | fantasy, YA, LGBT, Hugo finalist |

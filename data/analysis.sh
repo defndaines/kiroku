@@ -60,7 +60,7 @@ tail -n +11 2025-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=
 
 ### Most common genres
 
-tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -nr | head
+tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | grep -v "short story" | sort -nr | head
 
 ## Formats
 
