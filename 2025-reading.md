@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| No Gods, No Monsters | Cadwell Turnbull | 2021 | U.S. | 4.0 | audio | 387 | fantasy, horror, LGBT |
 | If the Martians Have Magic | P. Djèlí Clark | 2021 | U.S. | 4.0 | ebook | 16 | sci-fi, fantasy, historical, short story, Ignyte Award |
 | Demian | Hermann Hesse | 1919 | Switzerland, Germany | 3.0 | audio | 166 | literary, philosophy, Nobel |
 | A Witch’s Transition in the City of Ghosts | Oluwatomiwa Ajeigbe | 2024 | Nigeria | 4.0 | ebook | 18 | fantasy, short story, Ignyte Award |
