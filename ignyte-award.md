@@ -11,7 +11,7 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 9
+Count: 10
 
 ## Novel (1)
 
@@ -37,10 +37,10 @@ Count: 9
 - [x] 2023: _Into the Riverlands_ Nghi Vo
 - [ ] 2024: _The Lies of the Ajungo_ Moses Ose Utomi
 
-## Novelette (1)
+## Novelette (2)
 
 - [ ] 2020: _Emergency Skin_ N K Jemisin
-- [ ] 2021: _The Inaccessibility of Heaven_ Aliette de Bodard
+- [x] 2021: _The Inaccessibility of Heaven_ Aliette de Bodard
 - [ ] 2022: _The Future Library_ Peng Shepherd
 - [x] 2023: _If You Find Yourself Speaking to God, Address God with the Informal You_ John Chu
 - [ ] 2024: _Spell for Grief and Longing_ Eboni J. Dunbar
