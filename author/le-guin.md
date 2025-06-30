@@ -40,7 +40,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “The Shobies’ Story” (Short story, 1990)
 - [ ] “Dancing to Ganam” (Short story, Sept 1993)
 - [x] “The Matter of Seggri” (Novella, Spring 1994)
-- [ ] “Another Story” (Novella, Aug 1994)
+- [x] “Another Story” (Novella, Aug 1994)
 - [ ] “Unchosen Love” (Short story, Fall 1994)
 - [ ] “Solitude” (Short story, Dec 1994) [Nebula]
 - [ ] Four Ways to Forgiveness (Story cycle, 1995)
@@ -148,7 +148,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Betrayals” (Short story, 1994)
 - [ ] “In the drought” (Short story, 1994)
 - [ ] Going out with Peacocks and Other Poems (Poetry collection, 1994)
-- [ ] A Fisherman of the Inland Sea (Collection, 1994)
+- [x] A Fisherman of the Inland Sea (Collection, 1994)
 - [x] “Buffalo Gals, Won’t You Come Out Tonight” (Short story, 1994) [World Fantasy]
 - [ ] “Ether OR” (Short story, Nov 1995)
 - [ ] “Olders” (Short story, Dec 1995)
