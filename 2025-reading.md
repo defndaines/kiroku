@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Unwanteds | Lisa McMann | 2011 | U.S. | 3.5 | audio | 390 | fantasy, dystopian, YA |
 | The Inaccessibility of Heaven | Aliette de Bodard | 2020 | France | 4.0 | ebook | 58 | fantasy, novelette, Ignyte Award |
 | No Gods, No Monsters | Cadwell Turnbull | 2021 | U.S. | 4.0 | audio | 387 | fantasy, horror, LGBT |
 | If the Martians Have Magic | P. Djèlí Clark | 2021 | U.S. | 4.0 | ebook | 16 | sci-fi, fantasy, historical, short story, Ignyte Award |
