@@ -196,6 +196,7 @@ Dandelion Wine | Ray Bradbury | 4.08 | 9 | sci-fi, classics
 A Gathering of Old Men | Ernest J. Gaines | 4.08 | 8 | historical, classics
 The Vanished Birds | Simon Jimenez | 4.07 | 13 | sci-fi, literary, LGBT
 The Stars My Destination | Alfred Bester | 4.07 | 8 | sci-fi, classics
+The Incandescent | Emily Tesh | 4.07 | 12 | fantasy, LGBT, Literature-Science-Alliance-rec
 The Goblin Emperor | Katherine Addison | 4.07 | 18 | fantasy, osreth-1, Emily-Fox-rec
 Enter Ghost | Isabella Hammad | 4.07 | 12 | literary, contemporary, Palestine
 Dreaming the Eagle | Manda Scott | 4.07 | 22 | fantasy, historical, romance, Boudica, [Spotify]
@@ -237,7 +238,6 @@ The Fox Wife | Yangsze Choo | 4.01 | 15 | fantasy, historical, mythology, our-op
 Shadow of the Fox | Julie Kagawa | 4.01 | 15 | YA, fantasy, shadow-of-the-fox-1
 Salka Valka | Halldor Laxness | 4.01 | 19 | classics, Iceland, Nobel, 1931, unread-country
 Norwegian Wood | Haruki Murakami | 4.01 | 13 | literary, romance, Japan
-No Longer Human | Osamu Dazai | 4.01 | 4 | literary, classics, Japan
 Cloud Atlas | David Mitchell | 4.01 | 20 | sci-fi, literary
 Blindsight | Peter Watts | 4.01 | 12 | sci-fi, horror
 These Violent Delights | Micah Nemerever | 4.00 | 14 | literary, thriller, LGBT, 1970s Pittsburg
@@ -272,6 +272,7 @@ Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America 
 Frankenstein | Mary Shelley | 3.97 | 7 | sci-fi, classics, reread
 Thistlefoot | GennaRose Nethercott | 3.96 | 15 | fantasy, eastern Europe, mythology
 Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, steampunk, Tori-Morrow-rec, Willow-rec, [Spotify]
+No Longer Human | Osamu Dazai | 3.96 | 4 | literary, classics, Japan
 Black Money | Ross Macdonald | 3.96 | 7 | mystery, noir
 Agatha of Little Neon | Claire Luchette | 3.96 | 7 | literary, LGBT, author 2025 Whiting Award winner
 The Sea, the Sea | Iris Murdoch | 3.95 | 21 | literary, classics, Booker
@@ -344,6 +345,7 @@ Heart Berries | Terese Marie Mailhot | 3.84 | 4 | nonfiction, memoir, indigenous
 Bluebird, Bluebird | Attica Locke | 3.84 | 9 | mystery, Black, Texas
 Blood Music | Greg Bear | 3.84 | 11 | sci-fi, horror, classics
 The Killing Fields of East New York: The First Subprime Mortgage Scandal, a White-Collar Crime Spree, and the Collapse of an American Neighborhood | Stacy Horn | 3.83 | 10 | nonfiction, history, crime, politics
+Inspector Imanishi Investigates | Seichō Matsumoto | 3.83 | 12 | mystery
 Confession of the Lioness | Mia Couto | 3.83 | 7 | contemporary, Mozambique, unread-country
 Ceremony | Leslie Marmon Silko | 3.83 | 9 | classics, historical, literary, indigenous, American Book Award
 Blood Feast: The Complete Short Stories of Malika Moustadraf | Malika Moustadraf | 3.83 | 3 | short stories, LGBT, feminism, Morocco, unread-country, [hoopla]
@@ -428,6 +430,7 @@ The Best of All Possible Worlds | Karen Lord | 3.61 | 12 | sci-fi, fantasy, roma
 The Man in the High Castle | Philip K. Dick | 3.60 | 8 | sci-fi, dystopian, Hugo
 Terminal Boredom | Izumi Suzuki | 3.60 | 6 | Japan, short stories, dystopian, sci-fi
 Soul Mountain | Gao Xingjian | 3.60 | 19 | China, Nobel
+Territory of Light | Yūko Tsushima | 3.59 | 6 | classics
 Offshore | Penelope Fitzgerald | 3.59 | 5 | literary, Booker, DiscoKing-rec
 The Plotters | Un-su Kim | 3.58 | 10 | mystery, thriller, Korea
 Gulliver’s Travels | Jonathan Swift | 3.58 | 5 | classics
