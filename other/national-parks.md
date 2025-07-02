@@ -51,7 +51,7 @@ List of National Parks by whether I've visited them.
 - [ ] Olympic (Washington)
 - [ ] Petrified Forest (Arizona)
 - [ ] Pinnacles (California)
-- [ ] Redwood (California)
+- [x] Redwood (California)
 - [ ] Rocky Mountain (Colorado)
 - [ ] Saguaro (Arizona)
 - [x] Sequoia (California)
