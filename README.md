@@ -49,7 +49,8 @@ Not awards, but lists I’d like to read more of.
 * [NYT’s Best Books of 21st Century](nyt-100-best-21st-century.md)
 
 I try to read books from different countries, and that’s tracked in
-[Countries Read](countries-read.md).
+[Countries Read](countries-read.md). I also have a profile at
+[Read Around the World Challenge](https://readaroundtheworldchallenge.com/profile/daines).
 
 Tracking favorite authors I’d like to read more of.
 

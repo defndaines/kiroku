@@ -21,6 +21,7 @@ World](https://www.nytimes.com/series/literary-guides).
 
 [Read Around the World Challenge](https://readaroundtheworldchallenge.com/)
 lets you track based upon birthplace of the author.
+My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
