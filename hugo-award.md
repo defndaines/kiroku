@@ -12,7 +12,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 64
+Count: 65
 
 ## Best Novel (25)
 
@@ -98,40 +98,96 @@ Count: 64
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 - [ ] 2024: Emily Tesh _Some Desperate Glory_
 
-## Best Novella (9)
+## Best Novella (10)
 
-- [x] 1944: Antoine de Saint-Exupéry _The Little Prince_
+- [x] 1939: John W. Campbell “Who Goes There?”
+- [ ] 1941: Robert A. Heinlein “If This Goes On…”
+- [ ] 1943: Robert A. Heinlein “Waldo”
+- [x] 1944: Antoine de Saint-Exupéry “The Little Prince”
+- [ ] 1945: Theodore Sturgeon “Killdozer!”
 - [x] 1946: George Orwell _Animal Farm_
-- [x] 1973: Ursula K. Le Guin _The Word for World Is Forest_
+- [ ] 1951: Robert A. Heinlein _The Man Who Sold the Moon_
+- [ ] 1954: James Blish “A Case of Conscience”
+- [ ] 1968: Philip José Farmer “Riders of the Purple Wage”
+- [ ] 1968: Anne McCaffrey “Weyr Search”
+- [ ] 1969: Robert Silverberg “Nightwings”
+- [ ] 1970: Fritz Leiber “Ship of Shadows”
+- [ ] 1971: Fritz Leiber “Ill Met in Lankhmar”
+- [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
+- [x] 1973: Ursula K. Le Guin “The Word for World Is Forest”
+- [ ] 1974: James Tiptree, Jr. “The Girl Who Was Plugged In”
+- [ ] 1975: George R. R. Martin “A Song for Lya”
+- [ ] 1976: Roger Zelazny “Home Is the Hangman”
+- [ ] 1977: Spider Robinson “By Any Other Name”
+- [ ] 1977: James Tiptree, Jr. “Houston, Houston, Do You Read?”
+- [ ] 1978: Spider Robinson, Jeanne Robinson “Stardance”
+- [ ] 1979: John Varley “The Persistence of Vision”
+- [ ] 1980: Barry B. Longyear “Enemy Mine”
+- [ ] 1981: Gordon R. Dickson “Lost Dorsai”
+- [ ] 1982: Poul Anderson “The Saturn Game”
+- [ ] 1983: Joanna Russ “Souls”
+- [ ] 1984: Timothy Zahn “Cascade Point”
+- [ ] 1985: John Varley “Press Enter ■”
+- [ ] 1986: Roger Zelazny “24 Views of Mt. Fuji, by Hokusai”
+- [ ] 1987: Robert Silverberg “Gilgamesh in the Outback”
+- [ ] 1988: Orson Scott Card “Eye for Eye”
+- [ ] 1989: Connie Willis “The Last of the Winnebagos”
+- [ ] 1990: Lois McMaster Bujold “The Mountains of Mourning”
+- [ ] 1991: Joe Haldeman “The Hemingway Hoax”
+- [ ] 1992: Nancy Kress “Beggars in Spain”
+- [ ] 1993: Lucius Shepard “Barnacle Bill the Spacer”
+- [ ] 1994: Harry Turtledove “Down in the Bottomlands”
+- [ ] 1995: Mike Resnick “Seven Views of Olduvai Gorge”
+- [ ] 1996: Allen Steele “The Death of Captain Future”
+- [ ] 1997: George R. R. Martin “Blood of the Dragon”
+- [ ] 1998: Allen Steele “... Where Angels Fear to Tread”
+- [ ] 1999: Greg Egan “Oceanic”
+- [ ] 2000: Connie Willis “The Winds of Marble Arch”
+- [ ] 2001: Jack Williamson “The Ultimate Earth”
+- [ ] 2002: Vernor Vinge “Fast Times at Fairmont High”
+- [ ] 2003: Neil Gaiman _Coraline_
+- [ ] 2004: Vernor Vinge “The Cookie Monster”
+- [ ] 2005: Charles Stross _The Atrocity Archives_
+- [ ] 2006: Connie Willis “Inside Job”
+- [ ] 2007: Robert Reed “A Billion Eves”
+- [ ] 2008: Connie Willis “All Seated on the Ground”
+- [ ] 2009: Nancy Kress “The Erdmann Nexus”
+- [ ] 2010: Charles Stross “Palimpsest”
+- [ ] 2011: Ted Chiang _The Lifecycle of Software Objects_
+- [ ] 2012: Kij Johnson “The Man Who Bridged the Mist”
+- [ ] 2013: Brandon Sanderson _The Emperor’s Soul_
+- [ ] 2014: Charles Stross “Equoid”
 - [x] 2016: Nnedi Okorafor _Binti_
+- [ ] 2017: Seanan McGuire _Every Heart a Doorway_
 - [x] 2018: Martha Wells _All Systems Red_
 - [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
 - [x] 2021: Nghi Vo _The Empress of Salt and Fortune_
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_
-- [ ] 2024: T. Kingfisher _Thornhedge_
+- [ ] 2023: Seanan McGuire _Where the Drowned Girls Go_
+- [ ] 2024: Ursula Vernon _Thornhedge_
 
 ## Best Novelette (4)
 
-- [x] 1985: Octavia E. Butler _Bloodchild_
-- [ ] 1988: Ursula K. Le Guin _Buffalo Gals, Won’t You Come Out Tonight_
-- [x] 2018: Suzanne Palmer _The Secret Life of Bots_
-- [x] 2019: Zen Cho _If at First You Don’t Succeed, Try, Try Again_
+- [x] 1985: Octavia E. Butler “Bloodchild”
+- [ ] 1988: Ursula K. Le Guin “Buffalo Gals, Won’t You Come Out Tonight”
+- [x] 2018: Suzanne Palmer “The Secret Life of Bots”
+- [x] 2019: Zen Cho “If at First You Don’t Succeed, Try, Try Again”
 - [ ] 2020: N. K. Jemisin _Emergency Skin_
-- [x] 2024: Naomi Kritzer _The Year Without Sunshine_
+- [x] 2024: Naomi Kritzer “The Year Without Sunshine”
 
 ## Best Short Story (10)
 
-- [x] 1951: Damon Knight _To Serve Man_
-- [x] 1960: Daniel Keyes _Flowers for Algernon_
-- [x] 1966: Harlan Ellison _“Repent, Harlequin!” Said the Ticktockman_
-- [x] 1968: Harlan Ellison _I Have No Mouth, and I Must Scream_
-- [x] 1974: Ursula K. Le Guin _The Ones Who Walk Away from Omelas_
-- [x] 2009: Ted Chiang _Exhalation_
-- [x] 2018: Rebecca Roanhorse _Welcome to Your Authentic Indian Experience™_
-- [x] 2022: Sarah Pinsker _Where Oaken Hearts Do Gather_
-- [x] 2023: Samantha Mills _Rabbit Test_
-- [x] 2024: Naomi Kritzer _Better Living Through Algorithms_
+- [x] 1951: Damon Knight “To Serve Man”
+- [x] 1960: Daniel Keyes “Flowers for Algernon”
+- [x] 1966: Harlan Ellison ““Repent, Harlequin!” Said the Ticktockman”
+- [x] 1968: Harlan Ellison “I Have No Mouth, and I Must Scream”
+- [x] 1974: Ursula K. Le Guin “The Ones Who Walk Away from Omelas”
+- [x] 2009: Ted Chiang “Exhalation”
+- [x] 2018: Rebecca Roanhorse “Welcome to Your Authentic Indian Experience™”
+- [x] 2022: Sarah Pinsker “Where Oaken Hearts Do Gather”
+- [x] 2023: Samantha Mills “Rabbit Test”
+- [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
 
 ## Best Graphic Story (12)
 
