@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Monstress, Volume 2: The Blood | Marjorie Liu | 2017 | U.S. | 3.5 | ebook | 149 | fantasy, steampunk, Hugo |
 | My Favorite Thing Is Monsters, Vol. 2 | Emil Ferris | 2024 | U.S. | 5.0 | ebook | 418 | historical, horror, mystery, LGBT, Hugo finalist |
 | You Perfect, Broken Thing | C. L. Clark | 2020 | U.K. | 4.5 | ebook | 14 | sci-fi, dystopian, LGBT, short story, Ignyte Award |
 | Star Trek: Lower Decks―Warp Your Own Way | Ryan North | 2024 | Canada | 3.0 | ebook | 196 | sci-fi, humor, Hugo finalist |
