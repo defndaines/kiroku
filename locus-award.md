@@ -9,7 +9,7 @@ them, since those lists are not goals I'm looking to fill in.
 
 https://locusmag.com/category/news/awards/
 
-Count: 33
+Count: 34
 
 ## Best Novel (4)
 
@@ -203,13 +203,58 @@ Count: 33
 - [ ] 2024: T. Kingfisher _A House with Good Bones_
 - [ ] 2025: Chuck Tingle _Bury Your Gays_
 
-## Best Novella (5)
+## Best Novella (6)
 
-- [ ] 1995: Ursula K. Le Guin _Forgiveness Day_
+- [ ] 1973: Frederik Pohl _The Gold at the Starbow’s End_
+- [ ] 1974: Gene Wolfe _The Death of Doctor Island_
+- [ ] 1975: Robert Silverberg _Born with the Dead_
+- [ ] 1976: Lisa Tuttle, George R. R. Martin _The Storms of Windhaven_
+- [ ] 1977: Michael Bishop _The Samurai and the Willows_
+- [ ] 1978: Spider Robinson, Jeanne Robinson _Stardance_
+- [ ] 1979: John Varley _The Persistence of Vision_
+- [ ] 1980: Barry B. Longyear _Enemy Mine_
+- [ ] 1981: George R. R. Martin _Nightflyers_
+- [ ] 1982: John Varley _Blue Champagne_
+- [ ] 1983: Joanna Russ _Souls_
+- [ ] 1984: Michael Bishop _Her Habiline Husband_
+- [ ] 1985: John Varley _PRESS ENTER_
+- [ ] 1986: James Tiptree Jr. _The Only Neat Thing to Do_
+- [ ] 1987: Lucius Shepard _R&R_
+- [ ] 1988: Robert Silverberg _The Secret Sharer_
+- [ ] 1989: Lucius Shepard _The Scalehunter’s Beautiful Daughter_
+- [ ] 1990: Lucius Shepard _The Father of Stones_
+- [ ] 1991: Kim Stanley Robinson _A Short, Sharp Shock_
+- [ ] 1992: Kristine Kathryn Rusch _The Gallery of His Dreams_
+- [ ] 1993: Lucius Shepard _Barnacle Bill the Spacer_
+- [ ] 1994: Harlan Ellison _Mefisto in Onyx_
+- [x] 1995: Ursula K. Le Guin _Forgiveness Day_
+- [ ] 1996: Connie Willis _Remake_
+- [ ] 1997: Connie Willis _Bellwether_
+- [ ] 1998: Allen Steele _Where Angels Fear to Tread_
+- [ ] 1999: Greg Egan _Oceanic_
+- [ ] 2000: Dan Simmons _Orphans of the Helix_
+- [ ] 2001: Lucius Shepard _Radiant Green Star_
 - [ ] 2002: Ursula K. Le Guin _The Finder_
+- [ ] 2003: China Miéville _The Tain_
+- [ ] 2004: Vernor Vinge _The Cookie Monster_
+- [ ] 2005: Gene Wolfe _Golden City Far_
+- [ ] 2006: Kelly Link _Magic for Beginners_
+- [ ] 2007: Charles Stross _Missile Gap_
+- [ ] 2008: Cory Doctorow _After the Siege_
+- [ ] 2009: Kelly Link _Pretty Monsters_
+- [ ] 2010: Kage Baker _The Women of Nell Gwynne’s_
+- [ ] 2011: Ted Chiang _The Lifecycle of Software Objects_
+- [ ] 2012: Catherynne M. Valente _Silently and Very Fast_
+- [ ] 2013: Nancy Kress _After the Fall, Before the Fall, During the Fall_
+- [ ] 2014: Catherynne M. Valente _Six-Gun Snow White_
+- [ ] 2015: Nancy Kress _Yesterday’s Kin_
+- [ ] 2016: Alastair Reynolds _Slow Bullets_
+- [ ] 2017: Seanan McGuire _Every Heart a Doorway_
 - [x] 2018: Martha Wells _All Systems Red_
 - [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
+- [ ] 2021: P. Djèlí Clark _Ring Shout_
+- [ ] 2022: Martha Wells _Fugitive Telemetry_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_
 - [x] 2025: T. Kingfisher _What Feasts at Night_
