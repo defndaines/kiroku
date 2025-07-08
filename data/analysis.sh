@@ -119,8 +119,9 @@ grep "^Count:" [a-z]*.md
 for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
-  national-book-award.md nobel-prize-in-literature.md nommo-award.md \
-  ohioana-book-award.md pulitzer-prize.md walter-scott-prize.md womens-prize.md \
+  mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
+  nommo-award.md ohioana-book-award.md pulitzer-prize.md \
+  ursula-k-le-guin-prize.md walter-scott-prize.md  womens-prize.md \
   world-fantasy-award.md; do
   head -1 $award
   grep "^Count" $award
@@ -130,10 +131,10 @@ done
 for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   hugo-award.md ignyte-award.md kirkus-prize.md locus-award.md \
-  national-book-award.md nobel-prize-in-literature.md nebula-award.md \
-  nommo-award.md ohioana-book-award.md pulitzer-prize.md walter-scott-prize.md \
-  womens-prize.md world-fantasy-award.md great-american-novels.md \
-  nyt-100-best-21st-century.md; do
+  mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
+  nebula-award.md nommo-award.md ohioana-book-award.md pulitzer-prize.md \
+  ursula-k-le-guin-prize.md walter-scott-prize.md womens-prize.md \
+  world-fantasy-award.md great-american-novels.md nyt-100-best-21st-century.md; do
   head -1 $award
   count=$(grep "^Count:" ${award} | sed 's/Count: //')
   total=$(grep -c "^- \[" ${award})
