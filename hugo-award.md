@@ -12,7 +12,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 65
+Count: 66
 
 ## Best Novel (25)
 
@@ -189,7 +189,7 @@ Count: 65
 - [x] 2023: Samantha Mills “Rabbit Test”
 - [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
 
-## Best Graphic Story (12)
+## Best Graphic Story (13)
 
 - [x] 1941: _Batman #1_ Bill Finger, Bob Kane
 - [x] 1945: _Superman: “The Mysterious Mr. Mxyzptlk”_ Jerry Siegel, Ira Yarbrough, Joe Shuster
@@ -202,7 +202,7 @@ Count: 65
 - [x] 2015: _Ms. Marvel, Volume 1: No Normal_ G. Willow Wilson, Adrian Alphona, Jake Wyatt
 - [x] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
 - [x] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu
-- [ ] 2019: _Monstress, Volume 3: Haven_ Marjorie Liu
+- [x] 2019: _Monstress, Volume 3: Haven_ Marjorie Liu
 - [ ] 2020: _LaGuardia_ Nnedi Okorafor
 - [ ] 2021: _Parable of the Sower: A Graphic Novel Adaptation_ Octavia E. Butler, Damian Duffy
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell

@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Monstress, Volume 3: Haven | Marjorie Liu | 2018 | U.S. | 3.5 | ebook | 152 | fantasy, steampunk, Hugo, Eisner Award, Harvey Award |
 | Monstress, Volume 2: The Blood | Marjorie Liu | 2017 | U.S. | 3.5 | ebook | 149 | fantasy, steampunk, Hugo |
 | My Favorite Thing Is Monsters, Vol. 2 | Emil Ferris | 2024 | U.S. | 5.0 | ebook | 418 | historical, horror, mystery, LGBT, Hugo finalist |
 | You Perfect, Broken Thing | C. L. Clark | 2020 | U.K. | 4.5 | ebook | 14 | sci-fi, dystopian, LGBT, short story, Ignyte Award |
@@ -19,7 +20,7 @@ on top.
 | The Savage Sword of Conan #8 | Dennis Culver | 2025 | U.S. | 4.0 | print | 69 | fantasy |
 | Iyanu: Child of Wonder, Volume 1 | Roye Okupe | 2021 | Nigeria | 4.0 | ebook | 117 | fantasy, folklore, YA |
 | My Favorite Thing Is Monsters, Vol. 1 | Emil Ferris | 2017 | U.S. | 5.0 | ebook | 416 | historical, horror, mystery, Ignatz Award, Eisner Award |
-| よつばと! 16 | あずまきよひこ | 2025 | Japan | 4.5 | print | 256 | graphic novel, manga, humor |
+| よつばと! 16 | あずまきよひこ | 2025 | Japan | 4.5 | print | 256 | manga, humor |
 | The Summer Hikaru Died, Vol. 5 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |
 | Gunnerkrigg Court, Volume 1: Orientation & Research | Thomas Siddell | 2010 | U.K. | 4.5 | ebook | 558 | fantasy, sci-fi, YA |
 | Birdking Volume 3 | Daniel Freedman | 2024 | U.S. | 3.5 | ebook | 108 | fantasy, YA |
@@ -38,12 +39,12 @@ on top.
 | Outcast, Vol. 1: A Darkness Surrounds Him | Robert Kirkman | 2015 | U.S. | 3.5 | ebook | 152 | horror, fantasy |
 | Fatale Compendium | Ed Brubaker | 2015 | U.S. | 4.5 | ebook | 627 | horror, crime |
 | William of Newbury | Michael Avon Oeming | 2025 | U.S., U.K. | 4.0 | print | 112 | historical, fantasy |
-| Chainsaw Man, Vol. 17 | Tatsuki Fujimoto | 2024 | Japan | 4.0 | ebook | 184 | graphic novel, manga, horror, fantasy |
+| Chainsaw Man, Vol. 17 | Tatsuki Fujimoto | 2024 | Japan | 4.0 | ebook | 184 | manga, horror, fantasy |
 | Little Monsters | Jeff Lemire | 2024 | U.S., Canada | 4.5 | ebook | 325 | horror, dystopian, supernatural |
 | Reckless | Ed Brubaker | 2020 | U.S. | 4.5 | ebook | 144 | crime, mystery, noir |
 | Sea Serpent’s Heir Book Three: Queen of Mercy | Mairghread Scott | 2024 | U.S. | 4.0 | ebook | 130 | fantasy, YA |
 | Sea Serpent’s Heir Book Two: Black Wave | Mairghread Scott | 2023 | U.S. | 4.0 | ebook | 134 | fantasy, YA |
-| Witch Hat Atelier, Vol. 13 | Kamome Shirahama | 2024 | Japan | 4.5 | print | 180 | graphic novel, manga, fantasy, YA |
+| Witch Hat Atelier, Vol. 13 | Kamome Shirahama | 2024 | Japan | 4.5 | print | 180 | manga, fantasy, YA |
 | Sea Serpent’s Heir Book One: Pirate’s Daughter | Mairghread Scott | 2022 | U.S. | 4.5 | ebook | 144 | fantasy, YA |
 | Bear Pirate Viking Queen | Sean Lewis | 2024 | U.S., U.K. | 4.0 | ebook | 153 | historical, fantasy, colonialism |
 | The Awl, Vol. 2 | Choi Gyu-seok | 2015 | South Korea | 5.0 | ebook | 220 | manhwa, labor |
