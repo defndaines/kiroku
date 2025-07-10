@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Programming in Lua, Fourth edition | Roberto Ierusalimschy | 2016 | Brazil | 4.0 | print | 359 | nonfiction, programming, technology |
 | A Song of Legends Lost | M.H. Ayinde | 2025 | U.K. | 4.5 | audio | 592 | fantasy, sci-fi |
 | The Unwanteds | Lisa McMann | 2011 | U.S. | 3.5 | audio | 390 | fantasy, dystopian, YA |
 | The Inaccessibility of Heaven | Aliette de Bodard | 2020 | France | 4.0 | ebook | 58 | fantasy, novelette, Ignyte Award |
