@@ -5,7 +5,7 @@ United Kingdom during the previous year.
 
 The book is chosen by a panel of judges from the British Science Fiction
 Association, the Science Fiction Foundation, and a third organisation.
-Described as U.K.'s most prestigious science fiction prize.
+Described as U.K.’s most prestigious science fiction prize.
 
 Announced in June.
 
@@ -13,7 +13,7 @@ https://www.clarkeaward.com/
 
 Count: 6
 
-- [x] 1987: Margaret Atwood _The Handmaid's Tale_
+- [x] 1987: Margaret Atwood _The Handmaid’s Tale_
 - [ ] 1988: George Turner _The Sea and Summer_
 - [ ] 1989: Rachel Pollack _Unquenchable Fire_
 - [ ] 1990: Geoff Ryman _The Child Garden_

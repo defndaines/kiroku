@@ -66,6 +66,7 @@ Count: 5
 - [ ] 2022: Tasha Suri _The Jasmine Throne_
 - [ ] 2023: C.S.E. Cooney _Saint Death’s Daughter_
 - [x] 2024: Tananarive Due _The Reformatory_
+<!-- Novel -->
 
 ## Novella
 
@@ -115,6 +116,7 @@ Count: 5
 - [ ] 2022: Premee Mohamed _And What Can We Offer You Tonight_
 - [ ] 2023: Priya Sharma _Pomegranates_
 - [ ] 2024: Josh Malerman _Half the House Is Haunted_
+<!-- Novella -->
 
 ## Short Fiction
 
@@ -169,3 +171,4 @@ Count: 5
 - [ ] 2022: Lauren Ring “(emet)”
 - [ ] 2023: Tananarive Due “Incident at Bear Creek Lodge”
 - [ ] 2024: Nghi Vo “Silk and Cotton and Linen and Blood”
+<!-- Short Fiction -->

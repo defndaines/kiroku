@@ -94,6 +94,7 @@ Count: 17
 - [ ] 2022: Tess Gunty _The Rabbit Hutch_
 - [ ] 2023: Justin Torres _Blackouts_
 - [x] 2024: Percival Everett _James_
+<!-- Fiction -->
 
 ## Nonfiction (4)
 
@@ -148,6 +149,7 @@ Count: 17
 - [ ] 2022: Imani Perry _South to America: A Journey Below the Mason-Dixon To Understand the Soul of a Nation_
 - [x] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History_
 - [x] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
+<!-- Nonfiction -->
 
 ## Young People’s Literature (3)
 
@@ -180,6 +182,7 @@ Count: 17
 - [x] 2022: Sabaa Tahir _All My Rage_
 - [ ] 2023: Dan Santat _A First Time for Everything_
 - [ ] 2024: Shifa Saltagi Safadi _Kareem Between_
+<!-- Young People’s Literature -->
 
 ## Translated Literature (3)
 
@@ -213,3 +216,4 @@ Count: 17
 - [x] 2022: Megan McDowell, Samanta Schweblin, _Seven Empty Houses_
 - [ ] 2023: Stênio Gardel, Bruna Dantas Lobato, _The Words that Remain_
 - [ ] 2024: Yáng Shuāng-zǐ _Taiwan Travelogue_
+<!-- Translated Literature -->

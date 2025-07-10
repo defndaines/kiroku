@@ -38,7 +38,7 @@ Count: 6
 - [ ] 2016: Sally Mann _Hold Still: A Memoir with Photographs_
 - [x] 2017: Matthew Desmond _Evicted: Poverty and Profit in the American City_
 - [ ] 2019: Kiese Laymon _Heavy: An American Memoir_
-- [ ] 2020: Adam Higginbotham _Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster_
+- [ ] 2020: Adam Higginbotham _Midnight in Chernobyl: The Untold Story of the World’s Greatest Nuclear Disaster_
 - [ ] 2021: Rebecca Giggs _Fathoms: The World in the Whale_
 - [x] 2022: Hanif Abdurraqib _A Little Devil in America: In Praise of Black Performance_
 - [ ] 2023: Ed Yong _An Immense World: How Animal Senses Reveal the Hidden Realms Around Us_

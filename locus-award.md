@@ -1,11 +1,11 @@
 # Locus Award
 
-List of Locus Award winners, identified by whether I've read them.
+List of Locus Award winners, identified by whether I’ve read them.
 
 Locus Awards are voted on by readers of _Locus_ magazine.
 
-Besides novels, only including awards when I've read them or plan to read
-them, since those lists are not goals I'm looking to fill in.
+Besides novels, only including awards when I’ve read them or plan to read
+them, since those lists are not goals I’m looking to fill in.
 
 https://locusmag.com/category/news/awards/
 
@@ -27,7 +27,7 @@ Count: 34
 
 - [ ] 1978: J. R. R. Tolkien _The Silmarillion_
 - [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
-- [ ] 1981: Robert Silverberg _Lord Valentine's Castle_
+- [ ] 1981: Robert Silverberg _Lord Valentine’s Castle_
 - [ ] 1982: Gene Wolfe _The Claw of the Conciliator_
 - [ ] 1983: Gene Wolfe _The Sword of the Lictor_
 - [ ] 1984: Marion Zimmer Bradley _The Mists of Avalon_
@@ -40,7 +40,7 @@ Count: 34
 - [ ] 1991: Ursula K. Le Guin _Tehanu: The Last Book of Earthsea_
 - [ ] 1992: Sheri S. Tepper _Beauty_
 - [ ] 1993: Tim Powers _Last Call_
-- [ ] 1994: Peter S. Beagle _The Innkeeper's Song_
+- [ ] 1994: Peter S. Beagle _The Innkeeper’s Song_
 - [ ] 1995: Michael Bishop _Brittle Innings_
 - [ ] 1996: Orson Scott Card _Alvin Journeyman_
 - [x] 1997: George R. R. Martin _A Game of Thrones_
@@ -72,13 +72,14 @@ Count: 34
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 - [ ] 2024: Martha Wells _Witch King_
 - [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
+<!-- Best Fantasy Novel -->
 
 ## Best Science Fiction Novel (3)
 
 - [ ] 1980: John Varley _Titan_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
 - [ ] 1982: Julian May _The Many-Colored Land_
-- [ ] 1983: Isaac Asimov _Foundation's Edge_
+- [ ] 1983: Isaac Asimov _Foundation’s Edge_
 - [ ] 1984: David Brin _Startide Rising_
 - [ ] 1985: Larry Niven _The Integral Trees_
 - [ ] 1986: David Brin _The Postman_
@@ -103,16 +104,16 @@ Count: 34
 - [ ] 2005: Neal Stephenson _The Baroque Cycle_
 - [ ] 2006: Charles Stross _Accelerando_
 - [ ] 2007: Vernor Vinge _Rainbows End_
-- [ ] 2008: Michael Chabon _The Yiddish Policemen's Union_
+- [ ] 2008: Michael Chabon _The Yiddish Policemen’s Union_
 - [ ] 2009: Neal Stephenson _Anathem_
 - [ ] 2010: Cherie Priest _Boneshaker_
 - [ ] 2011: Connie Willis _Blackout/All Clear_
 - [ ] 2012: China Miéville _Embassytown_
 - [ ] 2013: John Scalzi _Redshirts_
-- [ ] 2014: James S. A. Corey _Abaddon's Gate_
+- [ ] 2014: James S. A. Corey _Abaddon’s Gate_
 - [ ] 2015: Ann Leckie _Ancillary Sword_
 - [ ] 2016: Ann Leckie _Ancillary Mercy_
-- [ ] 2017: Liu Cixin _Death's End_
+- [ ] 2017: Liu Cixin _Death’s End_
 - [ ] 2018: John Scalzi _The Collapsing Empire_
 - [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [ ] 2020: Charlie Jane Anders  _The City in the Middle of the Night_
@@ -121,10 +122,11 @@ Count: 34
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Martha Wells _System Collapse_
 - [ ] 2025: Alexander Boldizar _The Man Who Saw Seconds_
+<!-- Best Science Fiction Novel -->
 
 ## Best First Novel (3)
 
-- [ ] 1981: Robert L. Forward _Dragon's Egg_
+- [ ] 1981: Robert L. Forward _Dragon’s Egg_
 - [ ] 1982: S. P. Somtow _Starship & Haiku_
 - [ ] 1983: Donald Kingsbury _Courtship Rite_
 - [ ] 1984: R. A. MacAvoy _Tea with the Black Dragon_
@@ -145,14 +147,14 @@ Count: 34
 - [ ] 1999: Nalo Hopkinson _Brown Girl in the Ring_
 - [ ] 2000: Paul Levinson _The Silk Code_
 - [ ] 2001: Geoffrey A. Landis _Mars Crossing_
-- [ ] 2002: Jacqueline Carey _Kushiel's Dart_
+- [ ] 2002: Jacqueline Carey _Kushiel’s Dart_
 - [ ] 2003: Alexander C. Irvine _A Scattering of Jades_
 - [ ] 2004: Cory Doctorow _Down and Out in the Magic Kingdom_
 - [ ] 2005: Susanna Clarke _Jonathan Strange & Mr Norrell_
 - [ ] 2006: Elizabeth Bear _Hammered_
 - [ ] 2007: Naomi Novik _Black Powder War_
 - [ ] 2008: Joe Hill _Heart-Shaped Box_
-- [ ] 2009: Paul Melko _Singularity's Ring_
+- [ ] 2009: Paul Melko _Singularity’s Ring_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
 - [ ] 2011: N. K. Jemisin _The Hundred Thousand Kingdoms_
 - [ ] 2012: Erin Morgenstern _The Night Circus_
@@ -161,7 +163,7 @@ Count: 34
 - [ ] 2015: M. Rickert _The Memory Garden_
 - [ ] 2016: Ken Liu _The Grace of Kings_
 - [x] 2017: Yoon Ha Lee _Ninefox Gambit_
-- [ ] 2018: Theodora Goss _The Strange Case of the Alchemist's Daughter_
+- [ ] 2018: Theodora Goss _The Strange Case of the Alchemist’s Daughter_
 - [ ] 2019: Rebecca Roanhorse _Trail of Lightning_
 - [ ] 2020: Tamsyn Muir _Gideon the Ninth_
 - [x] 2021: Darcie Little Badger _Elatsoe_
@@ -169,13 +171,14 @@ Count: 34
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 - [x] 2025: John Wiswell _Someone You Can Build a Nest In_
+<!-- Best First Novel -->
 
 ## Best Young Adult (4)
 
 - [ ] 2003: Neil Gaiman _Coraline_
 - [ ] 2004: Terry Pratchett _The Wee Free Men_
 - [ ] 2005: Terry Pratchett _A Hat Full of Sky_
-- [ ] 2006: Jane Yolen & Adam Stemple _Pay the Piper: A Rock 'N' Roll Fairy Tale_
+- [ ] 2006: Jane Yolen & Adam Stemple _Pay the Piper: A Rock ‘N’ Roll Fairy Tale_
 - [ ] 2007: Terry Pratchett _Wintersmith_
 - [ ] 2008: China Miéville _Un Lun Dun_
 - [x] 2009: Neil Gaiman _The Graveyard Book_
@@ -185,16 +188,17 @@ Count: 34
 - [ ] 2013: China Miéville _Railsea_
 - [ ] 2014: Catherynne M. Valente _The Girl Who Soared Over Fairyland and Cut the Moon in Two_
 - [x] 2015: Joe Abercrombie _Half a King_
-- [ ] 2016: Terry Pratchett _The Shepherd's Crown_
+- [ ] 2016: Terry Pratchett _The Shepherd’s Crown_
 - [ ] 2017: Alastair Reynolds _Revenger_
 - [ ] 2018: Nnedi Okorafor _Akata Warrior_
 - [ ] 2019: Justina Ireland _Dread Nation_
 - [x] 2020: Yoon Ha Lee _Dragon Pearl_
-- [x] 2021: T. Kingfisher _A Wizard's Guide to Defensive Baking_
+- [x] 2021: T. Kingfisher _A Wizard’s Guide to Defensive Baking_
 - [ ] 2022: Charlie Jane Anders _Victories Greater Than Death_
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
 - [ ] 2024: Charlie Jane Anders _Promises Stronger Than Darkness_
 - [ ] 2025: Yoon Ha Lee _Moonstorm_
+<!-- Best Young Adult -->
 
 ## Best Horror (2)
 
@@ -258,6 +262,7 @@ Count: 34
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_
 - [x] 2025: T. Kingfisher _What Feasts at Night_
+<!-- Best Novella -->
 
 ## Best Novelette (3)
 

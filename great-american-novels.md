@@ -1,9 +1,9 @@
-# The Atlantic's Great American Novels
+# The Atlantic’s Great American Novels
 
 In 2024, _The Atlantic_ put out a list of
 [The Great American
 Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fiction/677479/).
-I'm interesting in reading a significant portion of these, so figured it was
+I’m interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
 Count: 38
@@ -45,7 +45,7 @@ Count: 38
 - [x] Jack Kerouac _On the Road_ (1957)
 - [x] Shirley Jackson _The Haunting of Hill House_ (1959)
 - [x] Joseph Heller _Catch-22_ (1961)
-- [x] Madeleine L'Engle _A Wrinkle in Time_ (1962)
+- [x] Madeleine L’Engle _A Wrinkle in Time_ (1962)
 - [ ] James Baldwin _Another Country_ (1962)
 - [x] Ken Kesey _One Flew Over the Cuckoo’s Nest_ (1962)
 - [ ] Vladimir Nabokov _Pale Fire_ (1962)

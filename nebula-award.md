@@ -78,6 +78,7 @@ Count: 36
 - [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 - [x] 2025: John Wiswell _Someone You Can Build a Nest In_
+<!-- Best Novel -->
 
 ## Best Novella (5)
 
