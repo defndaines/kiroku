@@ -57,15 +57,6 @@ Count: 6
 - [ ] 2023: _The Deserts of California: A California Field Atlas_ Obi Kaufmann
 - [ ] 2024: _Portal: San Francisco’s Ferry Building and the Reinvention of American Cities_ John King
 
-## Middle Grade (0)
-
-- [ ] 2020: _Mañanaland_ Pam Muñoz
-- [ ] 2020: _Efrén Divided_ Ernesto Cisneros
-- [ ] 2021: _Weird Kid_ Greg Van Eekhout
-- [ ] 2022: _New From Here_ Kelly Yang
-- [ ] 2023: _Big Tree_ Brian Selznick
-- [ ] 2024: _The Tenth Mistake of Hank Hooperman_ Gennifer Choldenko
-
 ## Young Adult (1)
 
 - [ ] 2020: _Raybearer_ Jordan Ifueko
@@ -77,7 +68,6 @@ Count: 6
 ## Children’s Nonfiction (0)
 
 - [ ] 2023: _Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed_ Dashka Slater
-- [ ] 2024: _My Lost Freedom: A Japanese American World War II Story_ George Takei and Michelle Lee
 
 ## Mirrors and Windows: Excellence in Children’s Literature (0)
 
@@ -85,5 +75,3 @@ Count: 6
 - [ ] 2020: _The Mermaid, the Witch, and the Sea_ Maggie Tokuda-Hall
 - [ ] 2021: _Luck of the Titanic_ Stacey Lee
 - [ ] 2022: _Messy Roots: A Graphic Memoir of a Wuhanese American_ Laura Gao
-- [ ] 2023: _Parachute Kids_ Betty C. Tang
-- [ ] 2024: _Juneteenth Is_ Natasha Tripplett and Daniel J. O’Brien

@@ -151,7 +151,7 @@ Count: 17
 
 ## Young People’s Literature (3)
 
-- [ ] 1996: Victor Martinez _Parrott in the Oven: MiVida_
+- [ ] 1996: Victor Martinez _Parrot in the Oven: Mi Vida_
 - [ ] 1997: Han Nolan _Dancing on the Edge_
 - [ ] 1998: Louis Sachar _Holes_
 - [ ] 1999: Kimberly Willis Holt _When Zachary Beaver Came to Town_
