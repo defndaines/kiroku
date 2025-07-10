@@ -12,7 +12,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 66
+Count: 67
 
 ## Best Novel (25)
 
@@ -189,7 +189,7 @@ Count: 66
 - [x] 2023: Samantha Mills “Rabbit Test”
 - [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
 
-## Best Graphic Story (13)
+## Best Graphic Story (14)
 
 - [x] 1941: _Batman #1_ Bill Finger, Bob Kane
 - [x] 1945: _Superman: “The Mysterious Mr. Mxyzptlk”_ Jerry Siegel, Ira Yarbrough, Joe Shuster
@@ -203,7 +203,7 @@ Count: 66
 - [x] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
 - [x] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu
 - [x] 2019: _Monstress, Volume 3: Haven_ Marjorie Liu
-- [ ] 2020: _LaGuardia_ Nnedi Okorafor
+- [x] 2020: _LaGuardia_ Nnedi Okorafor
 - [ ] 2021: _Parable of the Sower: A Graphic Novel Adaptation_ Octavia E. Butler, Damian Duffy
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski

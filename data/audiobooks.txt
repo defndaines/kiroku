@@ -111,7 +111,6 @@ Daisy Jones and the Six | Taylor Jenkins Reid | 4.21 | 9 | historical, literary,
 The Third Temple | Yishai Sarid | 4.20 | 9 | dystopian, Israel, [hoopla]
 The Rise and Fall of the Dinosaurs: A New History of Their Lost World | Steve Brusatte | 4.20 | 10 | nonfiction, history, science
 The Emigrants | Vilhelm Moberg | 4.20 | 17 | Sweden, historical, classics
-The Children of Gods and Fighting Men | Shauna Lawless | 4.20 | 14 | historical, fantasy, 981 Dublin
 Reconstruction | Eric Foner | 4.20 | 31 | nonfiction, history
 The Invisible Life of Addie LaRue | V.E. Schwab | 4.19 | 17 | fantasy, historical, literary
 The Eye of the World | Robert Jordan | 4.19 | 33 | fantasy, wheel-of-time-1
@@ -183,6 +182,7 @@ My Dark Vanessa | Kate Elizabeth Russell | 4.10 | 16 | literary, thriller, read 
 Jade City | Fonda Lee | 4.10 | 19 | fantasy, World Fantasy
 A Wolf at the Schoolhouse Door | Jack Schneider, Jennifer C. Berkshire | 4.10 | 8 | nonfiction, education
 Tigana | Guy Gavriel Kay | 4.09 | 25 | fantasy
+The Children of Gods and Fighting Men | Shauna Lawless | 4.09 | 14 | historical, fantasy, 981 Dublin, Elliot-Brooks-rec
 Songs on Endless Repeat: Essays and Outtakes | Anthony Veasna So | 4.09 | 7 | nonfiction, essays, memoir, LGBT
 Four Treasures of the Sky | Jenny Tinghui Zhang | 4.09 | 12 | historical, literary, China-U.S.
 Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonfiction, feminism, history

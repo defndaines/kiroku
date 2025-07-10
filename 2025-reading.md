@@ -9,6 +9,7 @@ fiction otherwise). The most recently finished book is on top.
 | The Unwanteds | Lisa McMann | 2011 | U.S. | 3.5 | audio | 390 | fantasy, dystopian, YA |
 | The Inaccessibility of Heaven | Aliette de Bodard | 2020 | France | 4.0 | ebook | 58 | fantasy, novelette, Ignyte Award |
 | No Gods, No Monsters | Cadwell Turnbull | 2021 | U.S. | 4.0 | audio | 387 | fantasy, horror, LGBT |
+| You Perfect, Broken Thing | C. L. Clark | 2020 | U.K. | 4.5 | ebook | 14 | sci-fi, dystopian, LGBT, short story, Ignyte Award |
 | If the Martians Have Magic | P. Djèlí Clark | 2021 | U.S. | 4.0 | ebook | 16 | sci-fi, fantasy, historical, short story, Ignyte Award |
 | Demian | Hermann Hesse | 1919 | Switzerland, Germany | 3.0 | audio | 166 | literary, philosophy, Nobel |
 | A Witch’s Transition in the City of Ghosts | Oluwatomiwa Ajeigbe | 2024 | Nigeria | 4.0 | ebook | 18 | fantasy, short story, Ignyte Award |
