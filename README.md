@@ -57,7 +57,7 @@ I try to read books from different countries, and that’s tracked in
 Tracking favorite authors I’d like to read more of.
 
 * [James Baldwin](author/baldwin.md)
-* [Octavia Butler](author/octavia.md)
+* [Octavia Butler](author/butler.md)
 * [Becky Chambers](author/chambers.md)
 * [Kazuo Ishiguro](author/ishiguro.md)
 * [N. K. Jemisin](author/jemisin.md)
@@ -66,4 +66,5 @@ Tracking favorite authors I’d like to read more of.
 * [China Miéville](author/miéville.md)
 * [Walter Mosley](author/mosley.md)
 * [Adrian Tchaikovsky](author/tchaikovsky.md)
-* [B. Traven](author/b-traven.md)
+* [B. Traven](author/traven.md)
+* [Richard Wright](author/wright.md)

@@ -11,6 +11,7 @@ Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infecti
 The Raven Scholar | Antonia Hodgson | 4.50 | 24 | fantasy, mystery, Literature-Science-Alliance-rec
 Mistborn: The Final Empire | Brandon Sanderson | 4.49 | 25 | fantasy, mistborn-1 (start here)
 Demon Copperhead | Barbara Kingsolver | 4.49 | 21 | historical, literary, Pulitzer
+Heavy | Kiese Laymon | 4.47 | 6 | nonfiction, memoir, race, Andrew Carnegie Medal
 Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis | Jonathan Blitzer | 4.47 | 18 | nonfiction, history, politics, nyt-10-best-2024
 Brotherless Night | V.V. Ganeshananthan | 4.46 | 13 | literary, historical, Sri Lanka, Carol Shields Prize, Womens Prize
 Black Against Empire: The History and Politics of the Black Panther Party | Joshua Bloom, Waldo E. Martin Jr. | 4.46 | 18 | nonfiction, history, politics, race
@@ -35,6 +36,7 @@ There’s Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 4.3
 The Cartel | Don Winslow | 4.35 | 23 | mystery, thriller, 2004 drugs
 The Unsettling of America: Culture and Agriculture | Wendell Berry | 4.34 | 13 | nonfiction, food, agriculture, nature
 The Conquering Sword of Conan | Robert E. Howard | 4.34 | 18 | fantasy, sequel-3
+Sapiens: A Brief History of Humankind | Yuval Noah Harari | 4.34 | 15 | nonfiction, history, science, philosophy
 Dreaming of Ramadi in Detroit: Essays | Aisha Sabatini Sloan | 4.34 | 4 | nonfiction, essays, memoir, race, author 2025 Whiting Award winner
 All the Colors of the Dark | Chris Whitaker | 4.34 | 15 | mystery, thriller, historical, Emily-Fox-rec
 The Story of Jane: The Legendary Underground Feminist Abortion Service | Laura Kaplan | 4.33 | 11 | nonfiction, history, feminism
@@ -186,6 +188,7 @@ The Children of Gods and Fighting Men | Shauna Lawless | 4.09 | 14 | historical,
 Songs on Endless Repeat: Essays and Outtakes | Anthony Veasna So | 4.09 | 7 | nonfiction, essays, memoir, LGBT
 Four Treasures of the Sky | Jenny Tinghui Zhang | 4.09 | 12 | historical, literary, China-U.S.
 Femina: A New History of the Middle Ages | Janina Ramirez | 4.09 | 12 | nonfiction, feminism, history
+Black Boy | Richard Wright, Jerry W. Ward Jr. (Introduction) | 4.09 | 15 | nonfiction, classics, memoir, race, reread
 10 Minutes 38 Seconds in This Strange World | Elif Shafak | 4.09 | 9 | literary, contemporary, Emily-Fox-rec, Emmie-rec
 We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 4.08 | 15 | historical, literary, Tibet, unread-country
 The Yellow Wallpaper and Other Stories | Charlotte Perkins Gilman | 4.08 | 5 | classics, feminism, short stories, 1892
@@ -277,6 +280,7 @@ Hungerstone | Kat Dunn | 3.96 | 10 | horror, fantasy, gothic, LGBT, historical, 
 Black Money | Ross Macdonald | 3.96 | 7 | mystery, noir
 Agatha of Little Neon | Claire Luchette | 3.96 | 7 | literary, LGBT, author 2025 Whiting Award winner
 The Sea, the Sea | Iris Murdoch | 3.95 | 21 | literary, classics, Booker
+The Man Who Lived Underground | Richard Wright | 3.95 | 7 | historical, classics, race, literary
 The Book Censor’s Library | Bothayna Al-Essa | 3.95 | 5 | literary, sci-fi, dystopian, Kuwait, unread-country
 The Big Sleep | Raymond Chandler | 3.95 | 7 | mystery, noir, classics
 Jonny Appleseed | Joshua Whitehead | 3.95 | 6 | literary, indigenous, LGBT
@@ -369,6 +373,7 @@ The Changeling | Victor LaValle | 3.79 | 14 | horror, fantasy, literary, World F
 A Pale View of Hills | Kazuo Ishiguro | 3.79 | 6 | historical, literary, Nobel
 A Head Full of Ghosts | Paul Tremblay | 3.79 | 9 | horror, mystery, thriller, New England
 The Grace of Kings | Ken Liu | 3.78 | 22 | fantasy, Locus, dandelion-dynasty-1
+Long Division | Kiese Laymon | 3.78 | 8 | sci-fi, magical realism, YA
 And Put Away Childish Things | Adrian Tchaikovsky | 3.78 | 5 | fantasy, sci-fi
 The Devourers | Indra Das | 3.77 | 13 | fantasy, horror, LGBT, India, Jemisin-rec
 Saints and Misfits | S.K. Ali | 3.77 | 8 | contemporary, YA, Muslim
@@ -437,9 +442,11 @@ Offshore | Penelope Fitzgerald | 3.59 | 5 | literary, Booker, DiscoKing-rec
 The Plotters | Un-su Kim | 3.58 | 10 | mystery, thriller, Korea
 Gulliver’s Travels | Jonathan Swift | 3.58 | 5 | classics
 Frankenstein in Baghdad | Ahmed Saadawi | 3.58 | 8 | horror, magical realism, Iraq
+The Lazarus Project | Aleksandar Hemon | 3.57 | 9 | historical, mystery, literary, Jan Michalski Prize, unread-country, Bosnia and Herzegovina
 Memorial | Bryan Washington | 3.57 | 8 | contemporary, literary, LGBT, Japanese-American, Black, Texas
 Tropic of Orange | Karen Tei Yamashita | 3.56 | 10 | magical realism
 The Ones We’re Meant to Find | Joan He | 3.56 | 11 | YA, sci-fi, dystopian
+No Place to Bury the Dead | Karina Sainz Borgo | 3.55 | 7 | horror, magical realism, literary, dystopian, unread-country, Venezuela
 The Family Trade | Charles Stross | 3.54 | 12 | steampunk, alternate history
 Flowers of Mold | Ha Seong-nan | 3.54 | 7 | short stories, horror, literary
 The Tiger Flu | Larissa Lai | 3.53 | 10 | sci-fi, LGBT
