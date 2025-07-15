@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Beautyland | Marie-Helene Bertino | 2024 | U.S. | 4.5 | audio | 327 | literary, sci-fi |
 | Programming in Lua, Fourth edition | Roberto Ierusalimschy | 2016 | Brazil | 4.0 | print | 359 | nonfiction, programming, technology |
 | A Song of Legends Lost | M.H. Ayinde | 2025 | U.K. | 4.5 | audio | 592 | fantasy, sci-fi |
 | The Unwanteds | Lisa McMann | 2011 | U.S. | 3.5 | audio | 390 | fantasy, dystopian, YA |
