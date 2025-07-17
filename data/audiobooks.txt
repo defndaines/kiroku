@@ -200,11 +200,13 @@ The Vanished Birds | Simon Jimenez | 4.07 | 13 | sci-fi, literary, LGBT
 The Stars My Destination | Alfred Bester | 4.07 | 8 | sci-fi, classics
 The Incandescent | Emily Tesh | 4.07 | 12 | fantasy, LGBT, Literature-Science-Alliance-rec
 The Goblin Emperor | Katherine Addison | 4.07 | 18 | fantasy, osreth-1, Emily-Fox-rec
+On the Savage Side | Tiffany McDaniel | 4.07 | 17 | mystery, literary, crime
 Enter Ghost | Isabella Hammad | 4.07 | 12 | literary, contemporary, Palestine
 Dreaming the Eagle | Manda Scott | 4.07 | 22 | fantasy, historical, romance, Boudica, [Spotify]
 What Strange Paradise | Omar El Akkad | 4.06 | 7 | literary, Canada, African immigrants, Giller
 The Words That Remain | Stênio Gardel | 4.06 | 4 | Brazil, LGBT
 The Wind’s Twelve Quarters | Ursula K. Le Guin | 4.06 | 11 | sci-fi, fantasy, short stories
+The Physics of Sorrow | Georgi Gospodinov | 4.06 | 10 | literary, mythology, Jan Michalski Prize, Bulgaria, unread-country
 The Lottery | Shirley Jackson | 4.06 | 3 | horror, classics, short stories
 The Cancer Factory: Industrial Chemicals, Corporate Deception, and the Hidden Deaths of American Workers | Jim Morris | 4.06 | 10 | nonfiction, history, science
 Light from Uncommon Stars | Ryka Aoki | 4.06 | 13 | sci-fi, fantasy, LGBT, San Gabriel Valley
@@ -290,6 +292,7 @@ More Than Human | Theodore Sturgeon | 3.94 | 8 | sci-fi, 1953
 Bad Cree | Jessica Johns | 3.94 | 8 | horror, literary, magical realism, indigenous
 1Q84 | Haruki Murakami | 3.94 | 31 | dystopian, literary, Japan, fantasy
 Train to Pakistan | Khushwant Singh | 3.93 | 7 | classics, historical, 1956, [Spotify]
+The Weirdstone of Brisingamen | Alan Garner | 3.93 | 6 | fantasy, YA, classics
 The Glass Key | Dashiell Hammett | 3.93 | 6 | mystery, noir
 Smoke Kings | Jahmal Mayfield | 3.93 | 11 | thriller, race, nyt-100-notable-2024
 Passing | Nella Larsen | 3.93 | 4 | classics, literary, 1929

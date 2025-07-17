@@ -4,14 +4,13 @@ List of Locus Award winners, identified by whether I’ve read them.
 
 Locus Awards are voted on by readers of _Locus_ magazine.
 
-Besides novels, only including awards when I’ve read them or plan to read
-them, since those lists are not goals I’m looking to fill in.
+I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 34
+Count: 36
 
-## Best Novel (4)
+## Novel (4)
 
 - [ ] 1971: Larry Niven _Ringworld_
 - [x] 1972: Ursula K. Le Guin _The Lathe of Heaven_
@@ -23,7 +22,7 @@ Count: 34
 - [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 
-## Best Fantasy Novel (8)
+## Fantasy Novel (8)
 
 - [ ] 1978: J. R. R. Tolkien _The Silmarillion_
 - [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
@@ -31,7 +30,7 @@ Count: 34
 - [ ] 1982: Gene Wolfe _The Claw of the Conciliator_
 - [ ] 1983: Gene Wolfe _The Sword of the Lictor_
 - [ ] 1984: Marion Zimmer Bradley _The Mists of Avalon_
-- [ ] 1985: Robert A. Heinlein _Job: A Comedy of Justice_
+- [ ] 1985: ~Robert A. Heinlein _Job: A Comedy of Justice_~
 - [ ] 1986: Roger Zelazny _Trumps of Doom_
 - [ ] 1987: Gene Wolfe _Soldier of the Mist_
 - [ ] 1988: Orson Scott Card _Seventh Son_
@@ -52,7 +51,7 @@ Count: 34
 - [ ] 2003: China Miéville _The Scar_
 - [ ] 2004: Lois McMaster Bujold _Paladin of Souls_
 - [ ] 2005: China Miéville _Iron Council_
-- [ ] 2006: Neil Gaiman _Anansi Boys_
+- [ ] 2006: ~Neil Gaiman _Anansi Boys_~
 - [ ] 2007: Ellen Kushner _The Privilege of the Sword_
 - [ ] 2008: Terry Pratchett _Making Money_
 - [ ] 2009: Ursula K. Le Guin _Lavinia_
@@ -60,7 +59,7 @@ Count: 34
 - [ ] 2011: China Miéville _Kraken_
 - [ ] 2012: George R. R. Martin _A Dance with Dragons_
 - [ ] 2013: Charles Stross _The Apocalypse Codex_
-- [ ] 2014: Neil Gaiman _The Ocean at the End of the Lane_
+- [ ] 2014: ~Neil Gaiman _The Ocean at the End of the Lane_~
 - [ ] 2015: Katherine Addison _The Goblin Emperor_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
@@ -72,9 +71,9 @@ Count: 34
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 - [ ] 2024: Martha Wells _Witch King_
 - [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
-<!-- Best Fantasy Novel -->
+<!-- Fantasy Novel -->
 
-## Best Science Fiction Novel (3)
+## Science Fiction Novel (3)
 
 - [ ] 1980: John Varley _Titan_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
@@ -122,9 +121,9 @@ Count: 34
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Martha Wells _System Collapse_
 - [ ] 2025: Alexander Boldizar _The Man Who Saw Seconds_
-<!-- Best Science Fiction Novel -->
+<!-- Science Fiction Novel -->
 
-## Best First Novel (3)
+## First Novel (3)
 
 - [ ] 1981: Robert L. Forward _Dragon’s Egg_
 - [ ] 1982: S. P. Somtow _Starship & Haiku_
@@ -171,11 +170,11 @@ Count: 34
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 - [x] 2025: John Wiswell _Someone You Can Build a Nest In_
-<!-- Best First Novel -->
+<!-- First Novel -->
 
-## Best Young Adult (4)
+## Young Adult (4)
 
-- [ ] 2003: Neil Gaiman _Coraline_
+- [ ] 2003: ~Neil Gaiman _Coraline_~
 - [ ] 2004: Terry Pratchett _The Wee Free Men_
 - [ ] 2005: Terry Pratchett _A Hat Full of Sky_
 - [ ] 2006: Jane Yolen & Adam Stemple _Pay the Piper: A Rock ‘N’ Roll Fairy Tale_
@@ -198,16 +197,32 @@ Count: 34
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
 - [ ] 2024: Charlie Jane Anders _Promises Stronger Than Darkness_
 - [ ] 2025: Yoon Ha Lee _Moonstorm_
-<!-- Best Young Adult -->
+<!-- Young Adult -->
 
-## Best Horror (2)
+## Horror (2)
 
-- [x] 2020: Marlon James _Black Leopard, Red Wolf_
-- [x] 2020: T. Kingfisher _What Moves the Dead_
-- [ ] 2024: T. Kingfisher _A House with Good Bones_
-- [ ] 2025: Chuck Tingle _Bury Your Gays_
+- [ ] 1989 Barbara Hambly _Those Who Hunt the Night_
+- [ ] 1990 Dan Simmons _Carrion Comfort_
+- [ ] 1991 Anne Rice _The Witching Hour_
+- [ ] 1992 Dan Simmons _Summer of Night_
+- [ ] 1993 Dan Simmons _Children of the Night_
+- [ ] 1994 Lucius Shepard _The Golden_
+- [ ] 1995 Dan Simmons _Fires of Eden_
+- [ ] 1996 Tim Powers _Expiration Date_
+- [ ] 1997 Stephen King _Desperation_
+- [ ] 1999 Stephen King _Bag of Bones_
+- [ ] 2017 Joe Hill _The Fireman_
+- [ ] 2018 Victor LaValle _The Changeling_
+- [ ] 2019 Paul G. Tremblay _The Cabin at the End of the World_
+- [x] 2020 Marlon James _Black Leopard, Red Wolf_
+- [ ] 2021 Silvia Moreno-Garcia _Mexican Gothic_
+- [ ] 2022 Stephen Graham Jones _My Heart Is a Chainsaw_
+- [x] 2023 T. Kingfisher _What Moves the Dead_
+- [ ] 2024 T. Kingfisher _A House with Good Bones_
+- [ ] 2025 Chuck Tingle _Bury Your Gays_
+<!-- Horror -->
 
-## Best Novella (6)
+## Novella (6)
 
 - [ ] 1973: Frederik Pohl _The Gold at the Starbow’s End_
 - [ ] 1974: Gene Wolfe _The Death of Doctor Island_
@@ -230,7 +245,7 @@ Count: 34
 - [ ] 1991: Kim Stanley Robinson _A Short, Sharp Shock_
 - [ ] 1992: Kristine Kathryn Rusch _The Gallery of His Dreams_
 - [ ] 1993: Lucius Shepard _Barnacle Bill the Spacer_
-- [ ] 1994: Harlan Ellison _Mefisto in Onyx_
+- [ ] 1994: ~Harlan Ellison _Mefisto in Onyx_~
 - [x] 1995: Ursula K. Le Guin _Forgiveness Day_
 - [ ] 1996: Connie Willis _Remake_
 - [ ] 1997: Connie Willis _Bellwether_
@@ -262,17 +277,120 @@ Count: 34
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_
 - [x] 2025: T. Kingfisher _What Feasts at Night_
-<!-- Best Novella -->
+<!-- Novella -->
 
-## Best Novelette (3)
+## Novelette (3)
 
+- [ ] 1975: ~Harlan Ellison “Adrift Just Off the Islets of Langerhans: Latitude 38° 54' N, Longitude 77° 00' 13" W”~
 - [ ] 1976: Ursula K. Le Guin “The New Atlantis”
+- [ ] 1977: Isaac Asimov “The Bicentennial Man”
+- [ ] 1979: John Varley “The Barbie Murders”
+- [ ] 1980: George R. R. Martin “Sandkings”
+- [ ] 1981: Thomas M. Disch “The Brave Little Toaster”
+- [ ] 1982: George R. R. Martin “Guardians”
+- [ ] 1983: ~Harlan Ellison “Djinn, No Chaser”~
+- [ ] 1984: George R. R. Martin “The Monkey Treatment”
+- [x] 1985: Octavia Butler “Bloodchild”
+- [ ] 1986: ~Harlan Ellison “Paladin of the Lost Hour”~
+- [ ] 1987: David Brin “Thor Meets Captain America”
+- [ ] 1988: Pat Murphy “Rachel in Love”
+- [ ] 1989: ~Harlan Ellison “The Function of Dream Sleep”~
+- [ ] 1990: Orson Scott Card “Dogwalker”
+- [ ] 1991: Dan Simmons “Entropy’s Bed at Midnight”
+- [ ] 1992: Dan Simmons “All Dracula’s Children”
+- [ ] 1993: Pamela Sargent “Danny Goes to Mars”
+- [ ] 1994: Dan Simmons “Death in Bangkok”
+- [ ] 1995: David Gerrold “The Martian Child”
+- [ ] 1996: Mike Resnick “When the Old Gods Die”
 - [ ] 1997: Ursula K. Le Guin “Mountain Ways”
+- [ ] 1998: Connie Willis “Newsletter”
+- [ ] 1999: Greg Egan “The Planck Drive”
+- [ ] 1999: Bruce Sterling “Taklamakan”
+- [ ] 2000: Stephen Baxter “Huddle”
+- [ ] 2000: Greg Egan “Border Guards”
 - [ ] 2001: Ursula K. Le Guin “The Birthday of the World”
-- [x] 1985: Octavia E. Butler “Bloodchild”
+- [ ] 2002: Ted Chiang “Hell Is the Absence of God”
+- [ ] 2003: Ursula K. Le Guin “The Wild Girls”
+- [ ] 2004: ~Neil Gaiman “A Study in Emerald”~
+- [ ] 2005: Kelly Link “The Faery Handbag”
+- [ ] 2005: China Miéville “Reports of Certain Events in London”
+- [ ] 2006: Cory Doctorow “I, Robot”
+- [ ] 2007: Cory Doctorow “When Sysadmins Ruled the Earth”
+- [ ] 2008: ~Neil Gaiman “The Witch’s Headstone”~
+- [ ] 2009: Paolo Bacigalupi “Pump Six”
+- [ ] 2010: Peter S. Beagle “By Moonlight”
+- [ ] 2011: ~Neil Gaiman “The Truth Is a Cave in the Black Mountains”~
+- [ ] 2012: Catherynne M. Valente “White Lines on a Green Field”
+- [ ] 2013: Pat Cadigan “The Girl-Thing Who Went Out for Sushi”
+- [ ] 2014: ~Neil Gaiman “The Sleeper and the Spindle”~
+- [ ] 2015: Joe Abercrombie “Tough Times All Over”
+- [ ] 2016: ~Neil Gaiman “Black Dog”~
+- [ ] 2017: Alyssa Wong “You’ll Surely Drown Here If You Stay”
+- [ ] 2018: Samuel R. Delany “The Hermit of Houston”
+- [ ] 2019: Brooke Bolander “The Only Harmless Great Thing”
+- [ ] 2020: Ted Chiang “Omphalos”
+- [ ] 2021: Meg Elison “The Pill”
+- [ ] 2022: John Wiswell “That Story Isn’t the Story”
 - [x] 2023: John Chu “If You Find Yourself Speaking to God, Address God with the Informal You”
+- [ ] 2024: Uchechukwu Nwaka “The Rainbow Bank”
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
+<!-- Novelette -->
 
-## Best Short Story (1)
+## Short Story (3)
 
-- [x] 2025: Isabel J. Kim “Why Don’t We Just Kill the Kid in the Omelas Hole”
+- [ ] 1971: ~Harlan Ellison “The Region Between”~
+- [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
+- [ ] 1973: ~Harlan Ellison “Basilisk”~
+- [ ] 1974: ~Harlan Ellison “The Deathbird”~
+- [ ] 1975: Ursula K. Le Guin “The Day Before the Revolution”
+- [ ] 1976: ~Harlan Ellison “Croatoan”~
+- [ ] 1977: Joe Haldeman “Tricentennial”
+- [ ] 1978: ~Harlan Ellison “Jeffty Is Five”~
+- [ ] 1979: ~Harlan Ellison “Count the Clock that Tells the Time”~
+- [ ] 1980: George R. R. Martin “The Way of Cross and Dragon”
+- [ ] 1981: Clifford D. Simak “Grotto of the Dancing Deer”
+- [ ] 1982: John Varley “The Pusher”
+- [ ] 1983: Ursula K. Le Guin “Sur”
+- [ ] 1984: James Tiptree, Jr. “Beyond the Dead Reef”
+- [ ] 1985: Lucius Shepard “Salvador”
+- [ ] 1986: ~Harlan Ellison “With Virgil Oddum at the East Pole”~
+- [ ] 1987: Isaac Asimov “Robot Dreams”
+- [ ] 1988: Pat Cadigan “Angel”
+- [ ] 1989: ~Harlan Ellison “Eidolons”~
+- [ ] 1990: Orson Scott Card “Lost Boys”
+- [ ] 1991: Terry Bisson “Bears Discover Fire”
+- [ ] 1992: John Kessel “Buffalo”
+- [ ] 1993: Connie Willis “Even the Queen”
+- [ ] 1994: Connie Willis “Close Encounter”
+- [ ] 1995: Joe Haldeman “None So Blind”
+- [ ] 1996: Maureen F. McHugh “The Lincoln Train”
+- [ ] 1997: John Crowley “Gone”
+- [ ] 1998: James Patrick Kelly “Itsy Bitsy Spider”
+- [ ] 1999: Bruce Sterling “Maneki Neko”
+- [ ] 2000: Terry Bisson “macs”
+- [ ] 2001: Larry Niven “The Missing Mass”
+- [ ] 2002: Ursula K. Le Guin “The Bones of the Earth”
+- [ ] 2003: ~Neil Gaiman “October in the Chair”~
+- [ ] 2004: ~Neil Gaiman “Closing Time”~
+- [ ] 2005: ~Neil Gaiman “Forbidden Brides of the Faceless Slaves in the Nameless House of the Night of Dread Desire”~
+- [ ] 2006: ~Neil Gaiman “Sunbird”~
+- [ ] 2007: ~Neil Gaiman “How to Talk to Girls at Parties”~
+- [ ] 2008: Michael Swanwick “A Small Room in Koboldtown”
+- [ ] 2009: Ted Chiang “Exhalation”
+- [ ] 2010: ~Neil Gaiman “An Invocation of Incuriosity”~
+- [ ] 2011: ~Neil Gaiman “The Thing About Cassandra”~
+- [ ] 2012: ~Neil Gaiman “The Case of Death and Honey”~
+- [ ] 2013: Aliette de Bodard “Immersion”
+- [ ] 2014: Caitlín R. Kiernan “The Road of Needles”
+- [ ] 2015: Amal El-Mohtar “The Truth About Owls”
+- [ ] 2016: Naomi Kritzer “Cat Pictures Please”
+- [ ] 2017: Amal El-Mohtar “Seasons of Glass and Iron”
+- [ ] 2018: Linda Nagata “The Martian Obelisk”
+- [ ] 2019: P. Djèlí Clark “The Secret Lives of the Nine Negro Teeth of George Washington”
+- [ ] 2020: Charlie Jane Anders “The Bookstore at the End of America”
+- [ ] 2021: Naomi Kritzer “Little Free Library”
+- [x] 2022: Sarah Pinsker “Where Oaken Hearts Do Gather”
+- [x] 2023: Samantha Mills “Rabbit Test”
+- [ ] 2024: P. Djèlí Clark “How to Raise a Kraken in Your Bathtub”
+- [x] 2025: Isabel J. Kim “Why Don’t We Just Kill the Kid In the Omelas Hole”
+<!-- Short Story -->

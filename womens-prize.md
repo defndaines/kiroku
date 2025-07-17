@@ -42,7 +42,7 @@ Count: 3
 - [ ] 2024: V. V. Ganeshananthan _Brotherless Night_
 - [ ] 2025: Yael van der Wouden _The Safekeep_
 
-## Non-fiction
+## Non-fiction (0)
 
 - [ ] 2024: Naomi Klein _Doppelganger_
 - [ ] 2025: Rachel Clarke _The Story of a Heart_

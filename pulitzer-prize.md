@@ -9,7 +9,7 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 26
+Count: 27
 
 ## Fiction (20)
 
@@ -166,7 +166,7 @@ Count: 26
 - [ ] 2025: Benjamin Nathans, _To the Success of Our Hopeless Cause: The Many Lives of the Soviet Dissident Movement_
 <!-- Nonfiction -->
 
-## History (2)
+## History (3)
 
 - [ ] 1980: Leon F. Litwack, _Been in the Storm So Long: The Aftermath of Slavery_
 - [ ] 1981: Lawrence A. Cremin, _American Education: The National Experience, 1783–1876_
@@ -214,5 +214,5 @@ Count: 26
 - [ ] 2023: Jefferson Cowie, _Freedom’s Dominion: A Saga of White Resistance to Federal Power_
 - [x] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
 - [x] 2025: Edda L. Fields-Black, _Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom During the Civil War_
-- [ ] 2025: Kathleen DuVal, _Native Nations: A Millennium in North America_
+- [x] 2025: Kathleen DuVal, _Native Nations: A Millennium in North America_
 <!-- History -->

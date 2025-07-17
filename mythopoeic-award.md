@@ -42,14 +42,14 @@ Count: 6
 - [ ] 1996: Elizabeth Hand _Waking the Moon_
 - [ ] 1997: Terri Windling _The Wood Wife_
 - [ ] 1998: A. S. Byatt _The Djinn in the Nightingale’s Eye_
-- [ ] 1999: Neil Gaiman and Charles Vess _Stardust_
+- [ ] 1999: ~Neil Gaiman and Charles Vess _Stardust_~
 - [ ] 2000: Peter S. Beagle _Tamsin_
 - [ ] 2001: Midori Snyder _The Innamorati_
 - [ ] 2002: Lois McMaster Bujold _The Curse of Chalion_
 - [ ] 2003: Patricia A. McKillip _Ombria in Shadow_
 - [ ] 2004: Robin McKinley _Sunshine_
 - [ ] 2005: Susanna Clarke _Jonathan Strange & Mr Norrell_
-- [ ] 2006: Neil Gaiman _Anansi Boys_
+- [ ] 2006: ~Neil Gaiman _Anansi Boys_~
 - [ ] 2007: Patricia A. McKillip _Solstice Wood_
 - [ ] 2008: Catherynne M. Valente _The Orphan’s Tales_
 - [ ] 2009: Carol Berg _Flesh and Spirit_

@@ -68,7 +68,7 @@ Count: 5
 - [x] 2024: Tananarive Due _The Reformatory_
 <!-- Novel -->
 
-## Novella
+## Novella (0)
 
 - [ ] 1982: Parke Godwin _The Fire When It Comes_
 - [ ] 1983: Charles L. Grant _Confess the Seasons_
@@ -80,7 +80,7 @@ Count: 5
 - [ ] 1989: George R.R. Martin _The Skin Trade_
 - [ ] 1990: John Crowley _Great Work of Time_
 - [ ] 1991: Pat Murphy _Bones_
-- [ ] 1991: Neil Gaiman _A Midsummer Night’s Dream_
+- [ ] 1991: ~Neil Gaiman _A Midsummer Night’s Dream_~
 - [ ] 1992: Robert Holdstock _The Ragthorn_
 - [ ] 1992: Garry Kilworth _The Ragthorn_
 - [ ] 1993: Peter Straub _The Ghost Village_
@@ -118,7 +118,7 @@ Count: 5
 - [ ] 2024: Josh Malerman _Half the House Is Haunted_
 <!-- Novella -->
 
-## Short Fiction
+## Short Fiction (0)
 
 - [ ] 1975: Robert Aickman “Pages From a Young Girl’s Journal”
 - [ ] 1976: Fritz Leiber “Belsen Express”

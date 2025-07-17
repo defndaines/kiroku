@@ -197,7 +197,7 @@ book finished in a month is tagged with the month in **bold**.
 | The Royal Game | Stefan Zweig | 1942 | Austria | 4.5 | audio | 96 | novella, classics, literary |
 | Milkman | Anna Burns | 2018 | Northern Ireland | 5.0 | audio | 352 | literary, historical, Booker, Orwell Prize, NBCC Award, Dublin Literary Award |
 | ゲゲゲの鬼太郎 1 鬼太郎の誕生 | 水木しげる | 1965 | Japan | 3.0 | print | 155 | DNF, graphic novel, fantasy, horror |
-| Ducks: Two Years in the Oil Sands | Kate Beaton | 2022 | Canada | 5.0 | print | 430 | graphic novel, nonfiction, memoir |
+| Ducks: Two Years in the Oil Sands | Kate Beaton | 2022 | Canada | 5.0 | print | 430 | graphic novel, nonfiction, memoir, Jan Michalski Prize |
 | Crossroads: I Live Where I Like: A Graphic History | Koni Benson | 2021 | South Africa | 4.0 | ebook | 128 | nonfiction, graphic novel, history |
 | Comrade: An Essay on Political Belonging | Jodi Dean | 2019 | U.S. | 4.0 | print | 135 | nonfiction, politics, philosophy |
 | The Savage Sword of Conan #3 | Frank Tieri | 2024 | U.S. | 4.0 | print | 66 | graphic novel, fantasy |

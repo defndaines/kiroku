@@ -5,31 +5,30 @@ List of Hugo Award winners, identified by whether I’ve read them.
 Hugo Awards are given at the World Science Fiction Convention (Worldcon) and
 chosen by its members.
 
-Besides novel, only including other awards when I’ve read them or plan to read
-them, since those lists are not goals I’m looking to fill in.
+I have marked winners I never plan to read with ~strikethrough~.
 
 Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 67
+Count: 70
 
-## Best Novel (25)
+## Novel (25)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
-- [ ] 1943: Robert A. Heinlein _Beyond This Horizon_
+- [ ] 1943: ~Robert A. Heinlein _Beyond This Horizon_~
 - [ ] 1944: Fritz Leiber _Conjure Wife_
 - [ ] 1945: Leigh Brackett _Shadow Over Mars (The Nemesis from Terra)_
 - [ ] 1946: Isaac Asimov _The Mule_
-- [ ] 1951: Robert A. Heinlein _Farmer in the Sky_
+- [ ] 1951: ~Robert A. Heinlein _Farmer in the Sky_~
 - [ ] 1953: Alfred Bester _The Demolished Man_
 - [x] 1954: Ray Bradbury _Fahrenheit 451_
 - [ ] 1955: Mark Clifton and Frank Riley _They’d Rather Be Right_
-- [ ] 1956: Robert A. Heinlein _Double Star_
+- [ ] 1956: ~Robert A. Heinlein _Double Star_~
 - [ ] 1958: Fritz Leiber _The Big Time_
 - [ ] 1959: James Blish _A Case of Conscience_
-- [ ] 1960: Robert A. Heinlein _Starship Troopers_
+- [ ] 1960: ~Robert A. Heinlein _Starship Troopers_~
 - [ ] 1961: Walter M. Miller, Jr._A Canticle for Leibowitz_
 - [x] 1962: Robert A. Heinlein _Stranger in a Strange Land_
 - [ ] 1963: Philip K. Dick _The Man in the High Castle_
@@ -97,16 +96,17 @@ Count: 67
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 - [ ] 2024: Emily Tesh _Some Desperate Glory_
+<!-- Novel -->
 
-## Best Novella (10)
+## Novella (10)
 
 - [x] 1939: John W. Campbell “Who Goes There?”
-- [ ] 1941: Robert A. Heinlein “If This Goes On…”
-- [ ] 1943: Robert A. Heinlein “Waldo”
+- [ ] 1941: ~Robert A. Heinlein “If This Goes On…”~
+- [ ] 1943: ~Robert A. Heinlein “Waldo”~
 - [x] 1944: Antoine de Saint-Exupéry “The Little Prince”
 - [ ] 1945: Theodore Sturgeon “Killdozer!”
 - [x] 1946: George Orwell _Animal Farm_
-- [ ] 1951: Robert A. Heinlein _The Man Who Sold the Moon_
+- [ ] 1951: ~Robert A. Heinlein _The Man Who Sold the Moon_~
 - [ ] 1954: James Blish “A Case of Conscience”
 - [ ] 1968: Philip José Farmer “Riders of the Purple Wage”
 - [ ] 1968: Anne McCaffrey “Weyr Search”
@@ -145,7 +145,7 @@ Count: 67
 - [ ] 2000: Connie Willis “The Winds of Marble Arch”
 - [ ] 2001: Jack Williamson “The Ultimate Earth”
 - [ ] 2002: Vernor Vinge “Fast Times at Fairmont High”
-- [ ] 2003: Neil Gaiman _Coraline_
+- [ ] 2003: ~Neil Gaiman _Coraline_~
 - [ ] 2004: Vernor Vinge “The Cookie Monster”
 - [ ] 2005: Charles Stross _The Atrocity Archives_
 - [ ] 2006: Connie Willis “Inside Job”
@@ -166,33 +166,165 @@ Count: 67
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_
 - [ ] 2023: Seanan McGuire _Where the Drowned Girls Go_
 - [ ] 2024: Ursula Vernon _Thornhedge_
+<!-- Novella -->
 
-## Best Novelette (4)
+## Novelette (5)
 
+- [ ] 1939: Clifford D. Simak “Rule 18”
+- [ ] 1941: ~Robert A. Heinlein “The Roads Must Roll”~
+- [ ] 1943: Isaac Asimov “Foundation” (aka “The Encyclopedists”)
+- [ ] 1944: C. L. Moore and Henry Kuttner (as Lewis Padgett) “Mimsy Were the Borogoves”
+- [ ] 1945: Clifford D. Simak “City”
+- [ ] 1946: Murray Leinster “First Contact”
+- [ ] 1951: Cyril M. Kornbluth “The Little Black Bag”
+- [ ] 1954: James Blish “Earthman, Come Home”
+- [ ] 1955: Walter M. Miller, Jr. “The Darfsteller”
+- [ ] 1956: Murray Leinster “Exploration Team”
+- [ ] 1959: Clifford D. Simak “The Big Front Yard”
+- [ ] 1967: Jack Vance “The Last Castle”
+- [ ] 1968: Fritz Leiber “Gonna Roll the Bones”
+- [ ] 1969: Poul Anderson “The Sharing of Flesh”
+- [ ] 1973: Poul Anderson “Goat Song”
+- [ ] 1974: ~Harlan Ellison “The Deathbird”~
+- [ ] 1975: ~Harlan Ellison “Adrift Just Off the Islets of Langerhans: Latitude 38° 54' N, Longitude 77° 00' 13" W”~
+- [ ] 1976: Larry Niven “The Borderland of Sol”
+- [ ] 1977: Isaac Asimov “The Bicentennial Man”
+- [ ] 1978: Joan D. Vinge “Eyes of Amber”
+- [ ] 1979: Poul Anderson “Hunter’s Moon”
+- [ ] 1980: George R. R. Martin “Sandkings”
+- [ ] 1981: Gordon R. Dickson “The Cloak and the Staff”
+- [ ] 1982: Roger Zelazny “Unicorn Variation”
+- [ ] 1983: Connie Willis “Fire Watch”
+- [ ] 1984: Greg Bear “Blood Music”
 - [x] 1985: Octavia E. Butler “Bloodchild”
-- [ ] 1988: Ursula K. Le Guin “Buffalo Gals, Won’t You Come Out Tonight”
+- [ ] 1986: ~Harlan Ellison “Paladin of the Lost Hour”~
+- [ ] 1987: Roger Zelazny “Permafrost”
+- [x] 1988: Ursula K. Le Guin “Buffalo Gals, Won’t You Come Out Tonight”
+- [ ] 1989: George Alec Effinger “Schrödinger’s Kitten”
+- [ ] 1990: Robert Silverberg “Enter a Soldier. Later: Enter Another”
+- [ ] 1991: Mike Resnick “The Manamouki”
+- [ ] 1992: Isaac Asimov “Gold”
+- [ ] 1993: Janet Kagan “The Nutcracker Coup”
+- [ ] 1994: Charles Sheffield “Georgia on My Mind”
+- [ ] 1995: David Gerrold “The Martian Child”
+- [ ] 1996: James Patrick Kelly “Think Like a Dinosaur”
+- [ ] 1997: Bruce Sterling “Bicycle Repairman”
+- [ ] 1998: Bill Johnson “We Will Drink a Fish Together...”
+- [ ] 1999: Bruce Sterling “Taklamakan”
+- [ ] 2000: James Patrick Kelly “10<sup>16</sup> to 1”
+- [ ] 2001: Kristine Kathryn Rusch “Millennium Babies”
+- [ ] 2002: Ted Chiang “Hell Is the Absence of God”
+- [ ] 2003: Michael Swanwick “Slow Life”
+- [ ] 2004: Michael Swanwick “Legions in Time”
+- [ ] 2005: Kelly Link “The Faery Handbag”
+- [ ] 2006: Peter S. Beagle “Two Hearts”
+- [ ] 2007: Ian McDonald “The Djinn’s Wife”
+- [ ] 2008: Ted Chiang “The Merchant and the Alchemist’s Gate”
+- [ ] 2009: Elizabeth Bear “Shoggoths in Bloom”
+- [ ] 2010: Peter Watts “The Island”
+- [ ] 2011: Allen Steele “The Emperor of Mars”
+- [ ] 2012: Charlie Jane Anders “Six Months, Three Days”
+- [ ] 2013: Pat Cadigan “The Girl-Thing Who Went Out for Sushi”
+- [ ] 2014: Mary Robinette Kowal “The Lady Astronaut of Mars”
+- [ ] 2015: Thomas Olde Heuvelt, Lia Belt (translator) “The Day The World Turned Upside Down”
+- [ ] 2016: Hao Jingfang, Ken Liu (translator) “Folding Beijing”
+- [ ] 2017: Ursula Vernon “The Tomato Thief”
 - [x] 2018: Suzanne Palmer “The Secret Life of Bots”
 - [x] 2019: Zen Cho “If at First You Don’t Succeed, Try, Try Again”
 - [ ] 2020: N. K. Jemisin _Emergency Skin_
+- [ ] 2021: Sarah Pinsker _Two Truths and a Lie_
+- [ ] 2022: Suzanne Palmer ”Bots of the Lost Ark”
+- [ ] 2023: Hai Ya ”The Space-Time Painter”
 - [x] 2024: Naomi Kritzer “The Year Without Sunshine”
+<!-- Novelette -->
 
-## Best Short Story (10)
+## Short Story (11)
 
+- [ ] 1939: Arthur C. Clarke “How We Went to Mars”
+- [ ] 1941: Isaac Asimov “Robbie”
+- [ ] 1943: C. L. Moore and Henry Kuttner (as Lewis Padgett) “The Twonky”
+- [ ] 1944: Ray Bradbury “King of the Gray Spaces” (aka “R is for Rocket”)
+- [ ] 1945: Ray Bradbury “I, Rocket”
+- [ ] 1946: Hal Clement “Uncommon Sense”
 - [x] 1951: Damon Knight “To Serve Man”
+- [ ] 1954: Arthur C. Clarke “The Nine Billion Names of God”
+- [ ] 1955: Eric Frank Russell “Allamagoosa”
+- [ ] 1956: Arthur C. Clarke “The Star”
+- [ ] 1958: Avram Davidson “Or All the Seas with Oysters”
+- [ ] 1959: Robert Bloch “That Hell-Bound Train”
 - [x] 1960: Daniel Keyes “Flowers for Algernon”
+- [ ] 1961: Poul Anderson “The Longest Voyage”
+- [ ] 1962: Brian Aldiss _Hothouse_ (series)
+- [ ] 1963: Jack Vance “The Dragon Masters”
+- [ ] 1964: Poul Anderson “No Truce with Kings”
+- [ ] 1965: Gordon R. Dickson “Soldier, Ask Not”
 - [x] 1966: Harlan Ellison ““Repent, Harlequin!” Said the Ticktockman”
+- [ ] 1967: Larry Niven “Neutron Star”
 - [x] 1968: Harlan Ellison “I Have No Mouth, and I Must Scream”
+- [ ] 1969: ~Harlan Ellison “The Beast that Shouted Love at the Heart of the World”~
+- [ ] 1970: Samuel R. Delany “Time Considered as a Helix of Semi-Precious Stones”
+- [ ] 1971: Theodore Sturgeon “Slow Sculpture”
+- [ ] 1972: Larry Niven “Inconstant Moon”
+- [ ] 1973: R. A. Lafferty “Eurema’s Dam”
+- [ ] 1973: Frederik Pohl, C. M. Kornbluth “The Meeting”
 - [x] 1974: Ursula K. Le Guin “The Ones Who Walk Away from Omelas”
+- [ ] 1975: Larry Niven “The Hole Man”
+- [ ] 1976: Fritz Leiber “Catch That Zeppelin!”
+- [ ] 1977: Joe Haldeman “Tricentennial”
+- [ ] 1978: ~Harlan Ellison “Jeffty Is Five”~
+- [ ] 1979: C. J. Cherryh “Cassandra”
+- [ ] 1980: George R. R. Martin “The Way of Cross and Dragon”
+- [ ] 1981: Clifford D. Simak “Grotto of the Dancing Deer”
+- [ ] 1982: John Varley “The Pusher”
+- [ ] 1983: Spider Robinson “Melancholy Elephants”
+- [x] 1984: Octavia E. Butler “Speech Sounds”
+- [ ] 1985: David Brin “The Crystal Spheres”
+- [ ] 1986: Frederik Pohl “Fermi and Frost”
+- [ ] 1987: Greg Bear “Tangents”
+- [ ] 1988: Lawrence Watt-Evans “Why I Left Harry’s All-Night Hamburgers”
+- [ ] 1989: Mike Resnick “Kirinyaga”
+- [ ] 1990: Suzy McKee Charnas “Boobs”
+- [ ] 1991: Terry Bisson “Bears Discover Fire”
+- [ ] 1992: Geoffrey A. Landis “A Walk in the Sun”
+- [ ] 1993: Connie Willis “Even the Queen”
+- [ ] 1994: Connie Willis “Death on the Nile”
+- [ ] 1995: Joe Haldeman “None So Blind”
+- [ ] 1996: Maureen F. McHugh “The Lincoln Train”
+- [ ] 1997: Connie Willis “The Soul Selects Her Own Society: Invasion and Repulsion: A Chronological Reinterpretation of Two of Emily Dickinson’s Poems: A Wellsian Perspective”
+- [ ] 1998: Mike Resnick “The 43 Antarean Dynasties”
+- [ ] 1999: Michael Swanwick “The Very Pulse of the Machine”
+- [ ] 2000: Michael Swanwick “Scherzo with Tyrannosaur”
+- [ ] 2001: David Langford “Different Kinds of Darkness”
+- [ ] 2002: Michael Swanwick “The Dog Said Bow-Wow”
+- [ ] 2003: Geoffrey A. Landis “Falling onto Mars”
+- [ ] 2004: ~Neil Gaiman “A Study in Emerald”~
+- [ ] 2005: Mike Resnick “Travels with My Cats”
+- [ ] 2006: David D. Levine “Tk’tk’tk”
+- [ ] 2007: Tim Pratt “Impossible Dreams”
+- [ ] 2008: Elizabeth Bear “Tideline”
 - [x] 2009: Ted Chiang “Exhalation”
+- [ ] 2010: Will McIntosh “Bridesicle”
+- [ ] 2011: Mary Robinette Kowal “For Want of a Nail”
+- [ ] 2012: Ken Liu “The Paper Menagerie”
+- [ ] 2013: Ken Liu “Mono no Aware”
+- [ ] 2014: John Chu “The Water That Falls on You from Nowhere”
+- [ ] 2016: Naomi Kritzer “Cat Pictures Please”
+- [ ] 2017: Amal El-Mohtar “Seasons of Glass and Iron”
 - [x] 2018: Rebecca Roanhorse “Welcome to Your Authentic Indian Experience™”
+- [ ] 2019: Alix E. Harrow “A Witch’s Guide to Escape: A Practical Compendium of Portal Fantasies”
+- [ ] 2020: S. L. Huang “As the Last I May Know”
+- [ ] 2021: Ursula Vernon (as T. Kingfisher) “Metal Like Blood in the Dark”
 - [x] 2022: Sarah Pinsker “Where Oaken Hearts Do Gather”
 - [x] 2023: Samantha Mills “Rabbit Test”
 - [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
+<!-- Short Story -->
 
-## Best Graphic Story (14)
+## Graphic Story (15)
 
-- [x] 1941: _Batman #1_ Bill Finger, Bob Kane
-- [x] 1945: _Superman: “The Mysterious Mr. Mxyzptlk”_ Jerry Siegel, Ira Yarbrough, Joe Shuster
+- [x] 1941: _Batman_ #1; Bill Finger, Bob Kane
+- [ ] 1944: _Wonder Woman_ #5: “Battle for Womanhood”; William Moulton Marston, H. G. Peter
+- [x] 1945: _Superman_ “The Mysterious Mr. Mxyzptlk”; Jerry Siegel, Ira Yarbrough, Joe Shuster
+- [x] 1988: _Watchmen_ Alan Moore, Dave Gibbons (Hugo for “Other Forms”)
 - [x] 2009: _Girl Genius, Volume 8: Agatha Heterodyne and the Chapel of Bones_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2010: _Girl Genius, Volume 9: Agatha Heterodyne and the Heirs of the Storm_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2011: _Girl Genius, Volume 10: Agatha Heterodyne and the Guardian Muse_ Kaja Foglio, Phil Foglio, Cheyenne Wright
@@ -208,34 +340,92 @@ Count: 67
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
 - [x] 2024: _Saga, Volume 11_ Brian K. Vaughan
+<!-- Graphic Story -->
 
-## Best Related Work (1)
+## Related Work (1)
 
+- [ ] 1945: Leigh Brackett “The Science-Fiction Field”
+- [ ] 1954: ~Wernher von Braun, Fred L. Whipple, Willy Ley _Conquest of the Moon_~
+- [ ] 1980: Peter Nicholls _The Science Fiction Encyclopedia_
+- [ ] 1981: Carl Sagan _Cosmos_
+- [ ] 1982: Stephen King _Danse Macabre_
+- [ ] 1983: James Gunn _Isaac Asimov: The Foundations of Science Fiction_
+- [ ] 1984: Donald H. Tuck _The Encyclopedia of Science Fiction and Fantasy, Vol. 3: Miscellaneous_
+- [ ] 1985: Jack Williamson _Wonder’s Child: My Life in Science Fiction_
+- [ ] 1986: Tom Weller _Science Made Stupid_
+- [ ] 1987: Brian Aldiss, David Wingrove _Trillion Year Spree_
+- [ ] 1988: Michael Whelan _Michael Whelan’s Works of Wonder_
+- [ ] 1989: Samuel R. Delany _The Motion of Light in Water: Sex and Science Fiction Writing in the East Village 1957–1965_
+- [ ] 1990: Alexei Panshin, Cory Panshin _The World Beyond the Hill: Science Fiction and the Quest for Transcendence_
+- [ ] 1991: Orson Scott Card _How to Write Science Fiction and Fantasy_
+- [ ] 1992: Charles Addams _The World of Charles Addams_
+- [ ] 1993: Harry Warner, Jr. _A Wealth of Fable: An Informal History of Science Fiction Fandom in the 1950s_
+- [ ] 1994: John Clute, Peter Nicholls _The Encyclopedia of Science Fiction_
+- [ ] 1995: Isaac Asimov _I. Asimov: A Memoir_
+- [ ] 1996: John Clute _Science Fiction: The Illustrated Encyclopedia_
+- [ ] 1997: L. Sprague de Camp _Time & Chance: An Autobiography_
+- [ ] 1998: John Clute, John Grant _The Encyclopedia of Fantasy_
+- [ ] 1999: Thomas Disch _The Dreams Our Stuff Is Made Of: How Science Fiction Conquered the World_
+- [ ] 2000: Frank M. Robinson _Science Fiction of the 20th Century_
+- [ ] 2001: Bob Eggleton, Nigel Suckling _Greetings from Earth: The Art of Bob Eggleton_
+- [ ] 2002: Ron Miller, Frederick C. Durant III, Melvin H. Schuetz _The Art of Chesley Bonestell_
+- [ ] 2003: Judith Merril, Emily Pohl-Weary _Better to Have Loved: The Life of Judith Merril_
+- [ ] 2004: John Grant, Elizabeth L. Humphrey, Pamela D. Scoville _The Chesley Awards for SF & Fantasy Art: A Retrospective_
+- [ ] 2005: Edward James, Farah Mendlesohn _The Cambridge Companion to Science Fiction_
+- [ ] 2006: Kate Wilhelm _Storyteller: Writing Lessons and More from 27 Years of the Clarion Writers’ Workshop_
+- [ ] 2007: Julie Phillips _James Tiptree, Jr.: The Double Life of Alice B. Sheldon_
+- [ ] 2008: Jeff Prucher _Brave New Words: the Oxford Dictionary of Science Fiction_
+- [ ] 2009: John Scalzi _Your Hate Mail Will be Graded: A Decade of Whatever, 1998–2008_
+- [ ] 2010: Jack Vance _This is Me, Jack Vance! (Or, More Properly, This is “I”)_
+- [ ] 2011: Lynne M. Thomas, Tara O’Shea _Chicks Dig Time Lords: A Celebration of Doctor Who by the Women Who Love It_
+- [ ] 2012: John Clute, David Langford, Peter Nicholls, Graham Sleight _The Encyclopedia of Science Fiction, Third Edition_
+- [ ] 2013: Brandon Sanderson, Dan Wells, Howard Tayler, Mary Robinette Kowal, Jordan Sanderson _Writing Excuses, Season 7_
+- [ ] 2014: Kameron Hurley “We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative”
+- [ ] 2017: Ursula K. Le Guin _Words Are My Matter: Writings About Life and Books, 2000–2016_
+- [ ] 2018: Ursula K. Le Guin _No Time to Spare: Thinking About What Matters_
+- [ ] 2019: Organization for Transformative Works _Archive of Our Own_
+- [ ] 2020: Jeannette Ng “2019 John W. Campbell Award Acceptance Speech”
 - [x] 2021: Maria Dahvana Headley _Beowulf: A New Translation_
-- [ ] 2024: Kelly Weinersmith and Zach Weinersmith _A City on Mars_
+- [ ] 2022: Charlie Jane Anders _Never Say You Can’t Survive_
+- [ ] 2023: Rob Wilkins _Terry Pratchett: A Life with Footnotes_
+- [ ] 2024: Kelly Weinersmith, Zach Weinersmith _A City on Mars_
+<!-- Related Work -->
 
 ## Lodestar Award for Best Young Adult Book (3)
 
 - [ ] 2018: Nnedi Okorafor _Akata Warrior_
 - [x] 2019: Tomi Adeyemi _Children of Blood and Bone_
+- [ ] 2020: Naomi Kritzer _Catfishing on CatNet_
 - [x] 2021: T. Kingfisher _A Wizard’s Guide to Defensive Baking_
+- [ ] 2023: Naomi Novik _The Last Graduate_
 - [ ] 2023: Nnedi Okorafor _Akata Woman_
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 
-## Best Dramatic Presentation (58)
+## Dramatic Presentation (58)
 
 - [ ] 1939: _The War of the Worlds_ Orson Welles, H.G. Wells
-- [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer
-- [x] 1941: _Pinocchio_ Ben Sharpsteen, Hamilton Luske, Ted Sears et al.
+- [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer (Long Form)
+- [x] 1941: _Pinocchio_ Ben Sharpsteen, Hamilton Luske, Ted Sears et al. (Short Form)
 - [x] 1943: _Bambi_ David Hand et al., Perce Pearce, Larry Morey et al., Felix Salten
+- [ ] 1944: _Frankenstein Meets the Wolf Man_ Roy William Neil, Curt Siodmak (Short Form)
+- [ ] 1944: _Heaven Can Wait_ Ernst Lubitsch, Samson Raphaelson (Long Form)
+- [ ] 1945: _The Canterville Ghost_ Jules Dassin, Edwin Harvey Blum, Oscar Wilde (Short Form)
+- [ ] 1945: _The Curse of the Cat People_ Gunther V. Fritsch, Robert Wise, DeWitt Bodeen (Short Form)
+- [ ] 1946: _The Picture of Dorian Gray_ Albert Lewin, Oscar Wilde
+- [ ] 1951: _Destination Moon_ Irving Pichel, Alford Van Ronkel, James O’Hanlon, Robert A. Heinlein
+- [ ] 1954: _The War of the Worlds_ Byron Haskin, Barré Lyndon, H. G. Wells
+- [ ] 1958: _The Incredible Shrinking Man_ Jack Arnold, Richard Matheson
 - [x] 1960: _The Twilight Zone_ Rod Serling
 - [x] 1961: _The Twilight Zone_ Rod Serling
 - [x] 1962: _The Twilight Zone_ Rod Serling
 - [x] 1965: _Dr. Strangelove_ Stanley Kubrick, Terry Southern, Peter George
-- [x] 1967: _Star Trek: “The Menagerie”_ Marc Daniels, Gene Roddenberry
-- [x] 1968: _Star Trek: “The City on the Edge of Forever”_ Joseph Pevney, Harlan Ellison
+- [x] 1967: _Star Trek_: “The Menagerie” Marc Daniels, Gene Roddenberry
+- [x] 1968: _Star Trek_: “The City on the Edge of Forever” Joseph Pevney, Harlan Ellison
 - [x] 1969: _2001: A Space Odyssey_ Stanley Kubrick, Arthur C. Clarke
+- [x] 1970: _News coverage of Apollo 11_ Multiple sources
 - [x] 1972: _A Clockwork Orange_ Stanley Kubrick, Anthony Burgess
+- [ ] 1973: _Slaughterhouse-Five_ George Roy Hill, Stephen Geller, Kurt Vonnegut
+- [ ] 1974: _Sleeper_ Woody Allen, Marshall Brickman
 - [x] 1975: _Young Frankenstein_ Mel Brooks, Gene Wilder, Mary Shelley
 - [ ] 1976: _A Boy and His Dog_ L. Q. Jones, Wayne Cruseturner, Harlan Ellison
 - [x] 1978: _Star Wars_ George Lucas
@@ -252,37 +442,59 @@ Count: 67
 - [x] 1989: _Who Framed Roger Rabbit_ Robert Zemeckis, Jeffrey Price, Peter S. Seaman, Gary K. Wolf
 - [x] 1990: _Indiana Jones and the Last Crusade_ Steven Spielberg, Jeffrey Boam, George Lucas, Menno Meyjes
 - [x] 1991: _Edward Scissorhands_ Tim Burton, Caroline Thompson
-- [x] 1992: _Terminator 2: Judgment Day_ James Cameron, William Wisher, Jr.
-- [x] 1993: _Star Trek: The Next Generation: “The Inner Light”_ Peter Lauritson, Peter Allan Fields, Morgan Gendel
+- [x] 1992: _Terminator 2: Judgment Day_ James Cameron, William Wisher Jr.
+- [x] 1993: _Star Trek: The Next Generation_: “The Inner Light” Peter Lauritson, Peter Allan Fields, Morgan Gendel
 - [x] 1994: _Jurassic Park_ Steven Spielberg, David Koepp, Michael Crichton
-- [x] 1995: _Star Trek: The Next Generation: “All Good Things...”_ Winrich Kolbe, Ronald D. Moore, Brannon Braga
+- [x] 1995: _Star Trek: The Next Generation_: “All Good Things...” Winrich Kolbe, Ronald D. Moore, Brannon Braga
+- [ ] 1996: _Babylon 5_: “The Coming of Shadows” Janet Greek, J. Michael Straczynski
+- [ ] 1997: _Babylon 5_: “Severed Dreams” David J. Eagle, J. Michael Straczynski
 - [ ] 1998: _Contact_ Robert Zemeckis, James V. Hart, Michael Goldenberg, Carl Sagan, Ann Druyan
 - [x] 1999: _The Truman Show_ Peter Weir, Andrew Niccol
 - [x] 2000: _Galaxy Quest_ Dean Parisot, David Howard, Robert Gordon
 - [x] 2001: _Crouching Tiger, Hidden Dragon_ Ang Lee, Wang Hui-ling, James Schamus, Tsai Kuo Jung, Wang Dulu
 - [x] 2002: _The Lord of the Rings: The Fellowship of the Ring_ Peter Jackson, Fran Walsh, Philippa Boyens, J. R. R. Tolkien
-- [x] 2003: _The Lord of the Rings: The Two Towers_ Peter Jackson, Fran Walsh, Philippa Boyens, Stephen Sinclair, J. R. R. Tolkien
-- [x] 2004: _The Lord of the Rings: The Return of the King_ Peter Jackson, Fran Walsh, Philippa Boyens, J. R. R. Tolkien
-- [x] 2005: _The Incredibles_ Brad Bird
-- [x] 2005: _Battlestar Galactica: “33”_ Michael Rymer, Ronald D. Moore
-- [x] 2006: _Serenity_ Joss Whedon
-- [x] 2007: _Pan’s Labyrinth_ Guillermo del Toro
-- [x] 2008: _Stardust_ Matthew Vaughn, Jane Goldman, Neil Gaiman
-- [x] 2008: _Doctor Who: “Blink”_ Hettie MacDonald, Steven Moffat
-- [x] 2009: _WALL-E_ Andrew Stanton, Jim Reardon, Pete Docter
-- [x] 2009: _Dr. Horrible’s Sing-Along Blog_ Joss Whedon, Zack Whedon, Jed Whedon, Maurissa Tancharoen
-- [ ] 2010: _Moon_ Duncan Jones, Nathan Parker
-- [x] 2011: _Inception_ Christopher Nolan
-- [x] 2015: _Guardians of the Galaxy_ James Gunn, Nicole Perlman
-- [x] 2016: _Jessica Jones: “AKA Smile”_ Michael Rymer, Scott Reynolds, Melissa Rosenberg, Jamie King
-- [x] 2017: _Arrival_ Denis Villeneuve, Eric Heisserer, Ted Chiang
-- [x] 2018: _Wonder Woman_ Patty Jenkins, Allan Heinberg, Zack Snyder, Jason Fuchs
-- [x] 2018: _The Good Place: “The Trolley Problem”_ Dean Holland, Josh Siegal, Dylan Morgan
-- [x] 2019: _Spider-Man: Into the Spider-Verse_ Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord
-- [x] 2019: _The Good Place: “Janet(s)”_ Morgan Sackett, Josh Siegal, Dylan Morgan
-- [x] 2020: _The Good Place: “The Answer”_ Valeria Migliassi Collins, Daniel Schofield
-- [x] 2021: _The Old Guard_ Gina Prince-Bythewood, Greg Rucka
-- [x] 2021: _The Good Place: “Whenever You’re Ready”_ Michael Schur
-- [x] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert
-- [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
-- [x] 2024: _Dungeons & Dragons: Honor Among Thieves_ John Francis Daley and Jonathan Goldstein
+- [ ] 2003: _Buffy the Vampire Slayer_: “Conversations with Dead People” Nick Marck, Jane Espenson, Drew Goddard (Short Form)
+- [x] 2003: _The Lord of the Rings: The Two Towers_ Peter Jackson, Fran Walsh, Philippa Boyens, Stephen Sinclair, J. R. R. Tolkien (Long Form)
+- [ ] 2004: _Gollum’s Acceptance Speech at the 2003 MTV Movie Awards_ Fran Walsh, Philippa Boyens, Peter Jackson (Short Form)
+- [x] 2004: _The Lord of the Rings: The Return of the King_ Peter Jackson, Fran Walsh, Philippa Boyens, J. R. R. Tolkien (Long Form)
+- [x] 2005: _Battlestar Galactica_: “33” Michael Rymer, Ronald D. Moore (Short Form)
+- [x] 2005: _The Incredibles_ Brad Bird (Long Form)
+- [ ] 2006: _Doctor Who_: “The Empty Child”/“The Doctor Dances” James Hawes, Steven Moffat (Short Form)
+- [x] 2006: _Serenity_ Joss Whedon (Long Form)
+- [ ] 2007: _Doctor Who_: “The Girl in the Fireplace” Euros Lyn, Steven Moffat (Short Form)
+- [x] 2007: _Pan’s Labyrinth_ Guillermo del Toro (Long Form)
+- [x] 2008: _Doctor Who_: “Blink” Hettie MacDonald, Steven Moffat (Short Form)
+- [x] 2008: _Stardust_ Matthew Vaughn, Jane Goldman, Neil Gaiman (Long Form)
+- [x] 2009: _Dr. Horrible’s Sing-Along Blog_ Joss Whedon, Zack Whedon, Jed Whedon, Maurissa Tancharoen (Short Form)
+- [x] 2009: _WALL-E_ Andrew Stanton, Jim Reardon, Pete Docter (Long Form)
+- [ ] 2010: _Doctor Who_: “The Waters of Mars” Graeme Harper, Russell T Davies, Phil Ford (Short Form)
+- [ ] 2010: _Moon_ Duncan Jones, Nathan Parker (Long Form)
+- [ ] 2011: _Doctor Who_: “The Pandorica Opens”/“The Big Bang” Toby Haynes, Steven Moffat (Short Form)
+- [x] 2011: _Inception_ Christopher Nolan (Long Form)
+- [ ] 2012: _Doctor Who_: “The Doctor’s Wife” Richard Clark, Neil Gaiman (Short Form)
+- [ ] 2012: ~_Game of Thrones_ David Benioff D. B. Weiss, multiple directors and writers (Long Form)~
+- [ ] 2013: ~_Game of Thrones_: “Blackwater” Neil Marshall, George R. R. Martin (Short Form)~
+- [ ] 2013: ~_The Avengers_ Joss Whedon (Long Form)~
+- [ ] 2014: ~_Game of Thrones_: “The Rains of Castamere” David Nutter, David Benioff, D. B. Weiss, George R. R. Martin (Short Form)~
+- [ ] 2014: _Gravity_ Alfonso Cuarón, Jonás Cuarón (Long Form)
+- [x] 2015: _Guardians of the Galaxy_ James Gunn, Nicole Perlman (Long Form)
+- [ ] 2015: _Orphan Black_: “By Means Which Have Never Yet Been Tried” John Fawcett, Graeme Manson (Short Form)
+- [x] 2016: _Jessica Jones_: “AKA Smile” Michael Rymer, Scott Reynolds, Melissa Rosenberg, Jamie King (Short Form)
+- [ ] 2016: _The Martian_ Ridley Scott, Drew Goddard, Andy Weir (Long Form)
+- [x] 2017: _Arrival_ Denis Villeneuve, Eric Heisserer, Ted Chiang (Long Form)
+- [ ] 2017: _The Expanse_: “Leviathan Wakes” Terry McDonough, Mark Fergus and Hawk Ostby, James S. A. Corey (Short Form)
+- [x] 2018: _The Good Place_: “The Trolley Problem” Dean Holland, Josh Siegal, Dylan Morgan (Short Form)
+- [x] 2018: _Wonder Woman_ Patty Jenkins, Allan Heinberg, Zack Snyder, Jason Fuchs (Long Form)
+- [x] 2019: _Spider-Man: Into the Spider-Verse_ Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord (Long Form)
+- [x] 2019: _The Good Place_: “Janet(s)” Morgan Sackett, Josh Siegal, Dylan Morgan (Short Form)
+- [x] 2020: _The Good Place_: “The Answer” Valeria Migliassi Collins, Daniel Schofield (Short Form)
+- [ ] 2020: ~_Good Omens_ Douglas Mackinnon, Neil Gaiman, Terry Pratchett (Long Form)~
+- [ ] 2021: _The Good Place_: “Whenever You’re Ready” Michael Schur (Short Form)
+- [x] 2021: _The Old Guard_ Gina Prince-Bythewood, Greg Rucka (Long Form)
+- [x] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert (Long Form)
+- [ ] 2022: _The Expanse_: “Nemesis Games” Breck Eisner, Daniel Abraham, Ty Franck, Naren Shankar (Short Form)
+- [x] 2023: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert (Long Form)
+- [ ] 2023: _The Expanse_: “Babylon’s Ashes” Breck Eisner, Daniel Abraham, Ty Franck, Naren Shankar (Short Form)
+- [x] 2024: _Dungeons & Dragons: Honor Among Thieves_ John Francis Daley, Jonathan Goldstein, Michael Gilio (Long Form)
+- [ ] 2024: _The Last of Us_: “Long, Long Time” Peter Hoar, Craig Mazin, Neil Druckmann (Short Form)
+<!-- Dramatic Presentation -->

@@ -98,19 +98,19 @@ tail -n +8 2025-reading.md | sort -t\| -k 8 -n
 
 ## Hugo Novels Read
 
-sed -n '1,/Best Novella/p' hugo-award.md | grep -c '\[x\]'
+sed -n '1,/## Novella/p' hugo-award.md | grep -c '\[x\]'
 
 ### Books (i.e., skip movies and series watched)
 
-sed -n '1,/Best Dramatic/p' hugo-award.md | grep -c '\[x\]'
+sed -n '1,/## Dramatic/p' hugo-award.md | grep -c '\[x\]'
 
 ## Nebula Novels Read
 
-sed -n '1,/Best Novella/p' nebula-award.md | grep -c '\[x\]'
+sed -n '1,/## Novella/p' nebula-award.md | grep -c '\[x\]'
 
 ### Books (i.e., skip movies and series watched)
 
-sed -n '1,/Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
+sed -n '1,/## Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 ## Other awards (for loop audits)
 
@@ -140,6 +140,30 @@ for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
   total=$(grep -c "^- \[" ${award})
   pct=$((count * 100 / total))
   echo "  ${count} (${pct}%)"
+done
+
+## Analysis of individual awards when there are different categories.
+
+for award in andrew-carnegie-medal-for-excellence.md booker-prize.md \
+  golden-poppy-book-award.md hugo-award.md ignyte-award.md kirkus-prize.md \
+  locus-award.md mythopoeic-award.md national-book-award.md nebula-award.md \
+  nommo-award.md ohioana-book-award.md pulitzer-prize.md womens-prize.md \
+  world-fantasy-award.md; do
+  head -1 $award
+  lines=($(grep -n "^## " ${award} | sed 's/:.*//'))
+  for i in $(seq ${#lines[@]}); do
+    if [[ $i -eq "${#lines[@]}" ]]; then
+      until="\$"
+    else
+      until=${lines[$((i + 1))]}
+    fi
+    sed -n "${lines[i]},${lines[i]}p" ${award}
+    count=$(sed -n "${lines[i]},${until}p" ${award} | grep -c '\[x\]')
+    total=$(sed -n "${lines[i]},${until}p" ${award} | grep -c '^- \[')
+    pct=$((count * 100 / total))
+    echo "  ${count} (${pct}% of ${total})"
+  done
+  echo ""
 done
 
 ## Yearly (since 2024) Analysis
