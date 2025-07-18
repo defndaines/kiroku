@@ -36,24 +36,27 @@
 - [ ] The Bear and the Serpent (2017)
 - [ ] The Hyena and the Hawk (2018)
 
-### Bioforms
+### Dogs of War
 
 - [ ] Dogs of War (2017)
 - [ ] Bear Head (2021)
+- [ ] Bee Speaker (2025)
 
 ### The Tyrant Philosophers
 
 - [ ] City of Last Chances (2022)
 - [ ] House of Open Wounds (2023)
 - [ ] Days of Shattered Faith (2024)
+- [ ] Lives of Bitter Rain (?)
+- [ ] Pretenders to the Throne of God (?)
 
-### The Final Architecture
+### Final Architects
 
 - [ ] Shards of Earth (2021)
 - [ ] Eyes of the Void (2022)
 - [ ] Lords of Uncreation (2023)
 
-### Standalone novels
+### Stand Alone Novels
 
 - [ ] Guns of the Dawn (2015)
 - [ ] Spiderlight (2016)
@@ -66,6 +69,7 @@
 ### After the War
 
 - [ ] Redemption’s Blade (2018)
+- [ ] The Tales of Catt & Fisher: The Art of the Steal (2020)
 
 ### Warhammer 40,000
 
@@ -79,6 +83,12 @@
 - [ ] The Expert System’s Brother (2018)
 - [ ] The Expert System’s Champion (2021)
 
+### Abaddon Collection
+
+- [ ] The Bloody Deluge (2014)
+- [ ] Even in the Cannon’s Mouth (2016)
+- [ ] Dracula: Rise of the Beast (2018)
+
 ### Terrible Worlds
 
 #### Revolutions
@@ -86,22 +96,28 @@
 - [ ] Ironclads (2017)
 - [ ] Firewalkers (2020)
 - [x] Ogres (2022)
+- [ ] Terrible Worlds: Revolutions (2023) — Collects: “Ironclads”, “Firewalkers” and “Ogres”
 
 #### Destinations
 
 - [ ] Walking to Aldebaran (2019)
 - [ ] One Day All This Will Be Yours (2021)
 - [ ] And Put Away Childish Things (2023)
+- [ ] Terrible Worlds: Destinations (2025) — Collects: “Walking to Aldebaran”, “One Day All This Will Be Yours”, “And Put Away Childish Things”
 
 #### Transformations
 
 - [ ] Saturation Point (2023)
 
-### Standalone Novellas
+#### Innovations
+
+- [ ] The Hungry Gods (2025)
+
+### Stand Alone Novellas
 
 - [ ] Made Things (2019)
-- [ ] The House on the Old Cliff (2021)
 - [x] Elder Race (2021)
+- [ ] The House on the Old Cliff (2021)
 
 ## Short stories
 
@@ -113,4 +129,9 @@
 
 - [ ] Feast and Famine (2013) — Contains “Feast and Famine”, “The Artificial Man”, “The Roar of the Crowd”, “Good Taste”, “The Dissipation Club”, “Rapture”, “Care”, “2144 and All That”, “The God Shark“ and “The Sun in the Morning“
 - [ ] The Private Life of Elder Things (2016)
-- [ ] Terrible Worlds: Revolutions (2023) — Collects: “Ironclads”, “Firewalkers” and “Ogres”
+
+## Warhammer 40,000
+
+- [ ] Days of Ascension (2022)
+- [ ] On the Shoulders of Giants and Other Stories (2024)
+- [ ] “The Long and Hungry Road: A Tyranids Short Story” (2023)

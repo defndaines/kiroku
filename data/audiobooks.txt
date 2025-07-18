@@ -89,6 +89,7 @@ Monday’s Not Coming | Tiffany D. Jackson | 4.25 | 10 | YA, mystery, contempora
 Lonely Castle in the Mirror | Mizuki Tsujimura | 4.25 | 13 | fantasy, magical realism, YA, Lit-by-Iris-rec
 Hogfather | Terry Pratchett | 4.25 | 11 | fantasy, discworld-20, [Spotify]
 Finding Junie Kim | Ellen Oh | 4.25 | 9 | contemporary, historical, YA
+Amritsar 1919: An Empire of Fear and the Making of a Massacre | Kim A. Wagner | 4.25 | 13 | history, nonfiction, politics
 These Burning Stars | Bethany Jacobs | 4.24 | 15 | sci-fi, LGBT
 The Girl Who Kept the Castle | Ryan Graudin | 4.24 | 8 | fantasy, YA
 Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge | Benjamin Y. Fong | 4.24 | 8 | nonfiction, science, sociology, [hoopla]
@@ -228,6 +229,7 @@ Field Notes from a Catastrophe: Man, Nature, and Climate Change | Elizabeth Kolb
 Always Running: La Vida Loca: Gang Days in L.A. | Luis J. Rodriguez | 4.04 | 11 | nonfiction, memoir, biography, L.A.
 A Master of Djinn | P. Djèlí Clark | 4.04 | 16 | sci-fi, fantasy, LGBT, mystery, Nebula, Locus
 Trespasses | Louise Kennedy | 4.03 | 9 | historical, literary, Northern, Ireland
+A People’s History of the World | Chris Harman | 4.03 | 30 | history, nonfiction, politics
 Witches, Midwives, and Nurses: A History of Women Healers | Barbara Ehrenreich, Deirdre English | 4.02 | 2 | nonfiction, history, feminism, health
 Walk the Blue Fields | Claire Keegan | 4.02 | 5 | short stories, literary
 The Sapling Cage | Margaret Killjoy | 4.02 | 9 | fantasy, LGBT
@@ -274,6 +276,7 @@ Interior Chinatown | Charles Yu | 3.97 | 4 | literary, contemporary, National Bo
 I Am Not Sidney Poitier | Percival Everett | 3.97 | 8 | humor, contemporary
 Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America | Steven J. Ross | 3.97 | 14 | nonfiction, history, Village-Well-rec
 Frankenstein | Mary Shelley | 3.97 | 7 | sci-fi, classics, reread
+Arboreality | Rebecca Campbell | 3.97 | 4 | sci-fi, short stories, dystopian, Ursula K. Le Guin Prize
 Thistlefoot | GennaRose Nethercott | 3.96 | 15 | fantasy, eastern Europe, mythology
 Retribution Falls | Chris Wooding | 3.96 | 14 | fantasy, sci-fi, steampunk, Tori-Morrow-rec, Willow-rec, [Spotify]
 No Longer Human | Osamu Dazai | 3.96 | 4 | literary, classics, Japan
@@ -311,6 +314,7 @@ A General Theory of Oblivion | José Eduardo Agualusa | 3.91 | 4 | Angola, histo
 The Hundred Thousand Kingdoms | N. K. Jemisin | 3.90 | 12 | sci-fi, Locus, inheritance-1
 Still Life | Louise Penny | 3.90 | 10 | mystery, Quebec
 Loaded: A Disarming History of the Second Amendment | Roxanne Dunbar-Ortiz | 3.90 | 7 | nonfiction, history, politics, race, indigenous
+Downbelow Station | C.J. Cherryh | 3.90 | 7 | sci-fi, Hugo
 The West Passage | Jared Pechaček | 3.89 | 13 | fantasy, sci-fi, LGBT
 The Stone Diaries | Carol Shields | 3.89 | 13 | literary, historical, Pulitzer
 The Library Book | Susan Orlean | 3.89 | 12 | nonfiction, history, true crime
@@ -353,6 +357,7 @@ Heart Berries | Terese Marie Mailhot | 3.84 | 4 | nonfiction, memoir, indigenous
 Bluebird, Bluebird | Attica Locke | 3.84 | 9 | mystery, Black, Texas
 Blood Music | Greg Bear | 3.84 | 11 | sci-fi, horror, classics
 The Killing Fields of East New York: The First Subprime Mortgage Scandal, a White-Collar Crime Spree, and the Collapse of an American Neighborhood | Stacy Horn | 3.83 | 10 | nonfiction, history, crime, politics
+The Adversary | Michael Crummey | 3.83 | 11 | historical, literary, Dublin Literary Award
 Inspector Imanishi Investigates | Seichō Matsumoto | 3.83 | 12 | mystery
 Confession of the Lioness | Mia Couto | 3.83 | 7 | contemporary, Mozambique, unread-country
 Ceremony | Leslie Marmon Silko | 3.83 | 9 | classics, historical, literary, indigenous, American Book Award
@@ -378,6 +383,7 @@ The Grace of Kings | Ken Liu | 3.78 | 22 | fantasy, Locus, dandelion-dynasty-1
 Long Division | Kiese Laymon | 3.78 | 8 | sci-fi, magical realism, YA
 And Put Away Childish Things | Adrian Tchaikovsky | 3.78 | 5 | fantasy, sci-fi
 The Devourers | Indra Das | 3.77 | 13 | fantasy, horror, LGBT, India, Jemisin-rec
+The Autobiography of My Mother | Jamaica Kincaid | 3.77 | 6 | historical, literary, feminism
 Saints and Misfits | S.K. Ali | 3.77 | 8 | contemporary, YA, Muslim
 History of Violence | Édouard Louis | 3.77 | 5 | nonfiction, autobiography, LGBT, France
 Dhalgren | Samuel R. Delany | 3.77 | 35 | sci-fi, literary, LGBT, magical realism
@@ -458,7 +464,11 @@ The Premonition | Banana Yoshimoto | 3.52 | 3 | contemporary, Japan
 Feed Them Silence | Lee Mandelo | 3.52 | 4 | horror, sci-fi
 Watched | Marina Budhos | 3.51 | 7 | contemporary, YA, Muslim-American
 Dog Park | Sofi Oksanen | 3.51 | 12 | historical, thriller, Finland
+Moonstorm | Yoon Ha Lee | 3.50 | 10 | YA, sci-fi, fantasy, LGBT
+Victories Greater Than Death | Charlie Jane Anders | 3.49 | 13 | sci-fi, YA, LGBT
 Libertie | Kaitlyn Greenidge | 3.49 | 12 | historical, Reconstruction, Brooklyn
+Composite Creatures | Caroline Hardaker | 3.47 | 10 | horror, sci-fi, dystopian
+Then We Came to the End | Joshua Ferris | 3.46 | 5 | humor, literary
 Red Dust | Yoss | 3.46 | 4 | sci-fi, unread-country, Cuba, [hoopla]
 One-Shot Harry | Gary Phillips | 3.46 | 8 | mystery, historical, 1963 L.A.
 Give Me Some Truth | Eric Gansworth | 3.45 | 14 | YA, historical, music, indigenous
