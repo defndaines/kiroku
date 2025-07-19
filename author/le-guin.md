@@ -44,7 +44,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Unchosen Love” (Short story, Fall 1994)
 - [ ] “Solitude” (Short story, Dec 1994) [Nebula]
 - [x] “Forgiveness Day” (1995) [Locus]
-- [ ] “A Man of the People” (1995)
+- [x] “A Man of the People” (1995)
 - [ ] “A Woman’s Liberation” (1995)
 - [ ] “Coming of Age in Karhide” (Short story, 1995)
 - [ ] “Old Music and the Slave Women” (Novella, Aug 1996)
