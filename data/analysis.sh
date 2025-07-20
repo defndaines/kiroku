@@ -177,18 +177,18 @@ done
 
 ## TBR Documents
 
-cut -d \| -f 5 data/audiobooks.txt | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
+cut -d \| -f 8 data/audiobooks.txt | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
 
 ### 10 short books
 
 sort -t \| -k 4 -n data/ebooks.txt | head
 
-sort -t \| -k 4 -n data/audiobooks.txt | head
+sort -t \| -k 7 -n data/audiobooks.txt | head
 
 ### re-sort
 
 sort -t \| -k 3 -rn data/ebooks.txt -o data/ebooks.txt
 
-sort -t \| -k 3 -rn data/audiobooks.txt -o data/audiobooks.txt
+sort -t \| -k 9 -rn data/audiobooks.txt -o data/audiobooks.txt
 
 sort -t \| -k 3 -rn data/printbooks.txt -o data/printbooks.txt
