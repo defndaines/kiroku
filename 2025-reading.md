@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| There’s Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 2024 | U.S. | 4.5 | audio | 334 | memoir, sports, poetry, essays, nonfiction |
 | Counterattacks at Thirty | Sohn Won-Pyung | 2017 | South Korea | 4.0 | audio | 240 | literary, contemporary |
 | Native Nations: A Millennium in North America | Kathleen DuVal | 2024 | U.S. | 5.0 | audio | 752 | history, nonfiction, Native American, Pulitzer |
 | Beautyland | Marie-Helene Bertino | 2024 | U.S. | 4.5 | audio | 327 | literary, sci-fi |
