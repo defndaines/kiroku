@@ -181,14 +181,32 @@ cut -d \| -f 8 data/audiobooks.txt | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | u
 
 ### 10 short books
 
-sort -t \| -k 4 -n data/ebooks.txt | head
+sort -t \| -k 6 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-8
 
-sort -t \| -k 7 -n data/audiobooks.txt | head
+sort -t \| -k 6 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+
+sort -t \| -k 7 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-9
+
+### 10 obscure books
+
+sort -t \| -k 9 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+
+sort -t \| -k 9 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+
+sort -t \| -k 10 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-9
+
+### 10 popular books
+
+sort -t \| -k 9 -nr data/ebooks.md | head -10 | cut -d \| -f 2-8
+
+sort -t \| -k 9 -nr data/printbooks.md | head -10 | cut -d \| -f 2-8
+
+sort -t \| -k 10 -nr data/audiobooks.md | head -10 | cut -d \| -f 2-9
 
 ### re-sort
 
-sort -t \| -k 3 -rn data/ebooks.txt -o data/ebooks.txt
+(head -n 2 data/ebooks.md && tail -n +3 data/ebooks.md | sort -t \| -k 8 -rn) > data/tmp.md && mv data/tmp.md data/ebooks.md
 
-sort -t \| -k 9 -rn data/audiobooks.txt -o data/audiobooks.txt
+(head -n 2 data/audiobooks.md && tail -n +3 data/audiobooks.md | sort -t \| -k 9 -rn) > data/tmp.md && mv data/tmp.md data/audiobooks.md
 
-sort -t \| -k 3 -rn data/printbooks.txt -o data/printbooks.txt
+(head -n 2 data/printbooks.md && tail -n +3 data/printbooks.md | sort -t \| -k 8 -rn) > data/tmp.md && mv data/tmp.md data/printbooks.md

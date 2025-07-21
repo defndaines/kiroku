@@ -1,3 +1,5 @@
+| title | author | year | country | pages | hours | tags | rating | # ratings | gr ID | goodreads link |
+| --- | --- | :---: | --- | ---: | ---: | --- | :---: | ---: | --- | --- |
 | They Called Me a Lioness: A Palestinian Girl’s Fight for Freedom | Ahed Tamimi | 2022 | Palestine | 288 | 8 | social justice, memoir, politics, nonfiction, biography, history | 4.67 | 4671 | 60149517 | https://www.goodreads.com/book/show/60149517-they-called-me-a-lioness |
 | The Way of Kings | Brandon Sanderson | 2010 | U.S. | 1007 | 46 | fantasy, the-stormlight-archive-1, stormlight-archive-1 | 4.67 | 623514 | 7235533 | https://www.goodreads.com/book/show/7235533-the-way-of-kings |
 | The Nightingale | Kristin Hannah | 2015 | U.S. | 440 | 18 | historical, WWII, war, occupied France | 4.64 | 1883920 | 21853621 | https://www.goodreads.com/book/show/21853621-the-nightingale |
@@ -99,8 +101,8 @@
 | Quick Fixes: Drugs in America from Prohibition to the 21st Century Binge | Benjamin Y. Fong | 2023 | U.S. | 331 | 8 | sociology, science, medicine, nonfiction, history, politics, [hoopla] | 4.21 | 212 | 120992630 | https://www.goodreads.com/book/show/120992630-quick-fixes |
 | Deep River | Karl Marlantes | 2019 | U.S. | 820 | 26 | historical, literary, Finnish-U.S. | 4.21 | 5783 | 36395451 | https://www.goodreads.com/book/show/36395451-deep-river |
 | The Shadow of the Gods | John Gwynne | 2021 | U.K. | 480 | 19 | mythology, fantasy, bloodsworn-saga-1 | 4.20 | 75723 | 52694527 | https://www.goodreads.com/book/show/52694527-the-shadow-of-the-gods |
-| The Invisible Life of Addie LaRue | V.E. Schwab | 2020 | U.S., U.K. | 447 | 17 | fantasy, historical, literary | 4.20 | 55 | 60795461 | https://www.goodreads.com/book/show/60795461-the-invisible-life-of-addie-larue |
-| The Four Winds | Kristin Hannah | 2023 | U.S. | 27 | 15 | historical, 1934 Texas–California | 4.20 | 66 | 123433995 | https://www.goodreads.com/book/show/123433995-the-four-winds-by-kristin-hannah |
+| The Invisible Life of Addie LaRue | V.E. Schwab | 2020 | U.S., U.K. | 448 | 17 | fantasy, historical, literary, romance | 4.17 | 1386137 | 50623864 | https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue |
+| The Four Winds | Kristin Hannah | 2021 | U.S. | 464 | 15 | historical, 1934 Texas–California | 4.30 | 897054 | 53138081 | https://www.goodreads.com/book/show/53138081-the-four-winds |
 | The Emigrants | Vilhelm Moberg | 1949 | Sweden | 366 | 17 | historical, classics, the-emigrants-1 | 4.20 | 9386 | 165035 | https://www.goodreads.com/book/show/165035.The_Emigrants |
 | The Blacktongue Thief | Christopher Buehlman | 2021 | U.S. | 416 | 13 | fantasy, adventure, horror, blacktongue-1 | 4.20 | 36736 | 55077697 | https://www.goodreads.com/book/show/55077697-the-blacktongue-thief |
 | Revolutionary Spring | Christopher Clark | 2023 | Australia | 1152 | 33 | nonfiction, politics, history, war, 1848 | 4.20 | 921 | 62192405 | https://www.goodreads.com/book/show/62192405-revolutionary-spring |
@@ -111,7 +113,7 @@
 | Assassin’s Apprentice | Robin Hobb | 1995 | U.S. | 435 | 17 | fantasy, the-farseer-trilogy-1 | 4.19 | 377209 | 77197 | https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice |
 | The Scar | China Miéville | 2002 | U.K. | 578 | 27 | sci-fi, steampunk, weird, fantasy, new-crobuzon-2 | 4.18 | 34153 | 68497 | https://www.goodreads.com/book/show/68497.The_Scar |
 | Stormbringer | Michael Moorcock | 1965 | U.K. | 220 | 28 | sci-fi, sword and sorcery, dark fantasy, fantasy, classics, the-elric-saga-6 | 4.18 | 10235 | 60141 | https://www.goodreads.com/book/show/60141.Stormbringer |
-| Sapiens: A Brief History of Humankind | Yuval Noah Harari | 2019 | Israel | 92 | 15 | nonfiction, history, science, philosophy | 4.18 | 181 | 52364756 | https://www.goodreads.com/book/show/52364756-summary |
+| Sapiens: A Brief History of Humankind | Yuval Noah Harari | 2011 | Israel | 512 | 15 | nonfiction, history, science, philosophy | 4.34 | 1199513 | 23692271 | https://www.goodreads.com/book/show/23692271-sapiens |
 | Paladin of Souls | Lois McMaster Bujold | 2003 | U.S. | 470 | 16 | romance, fantasy, world-of-the-five-gods-2, Hugo, Locus, Nebula | 4.18 | 26634 | 61904 | https://www.goodreads.com/book/show/61904.Paladin_of_Souls |
 | Mind of My Mind | Octavia E. Butler | 1977 | U.S. | 226 | 8 | sci-fi, speculative, fantasy, patternist-2 | 4.18 | 15040 | 116254 | https://www.goodreads.com/book/show/116254.Mind_of_My_Mind |
 | Interpreter of Maladies | Jhumpa Lahiri | 1999 | U.K., U.S., India | 198 | 6 | literary, contemporary, short stories, Pulitzer | 4.18 | 202861 | 5439 | https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies |
@@ -334,6 +336,7 @@
 | The Book Censor’s Library | Bothayna Al-Essa | 2019 | Kuwait | 263 | 5 | sci-fi, fantasy, literary, dystopia, unread-country | 3.86 | 9000 | 175678711 | https://www.goodreads.com/book/show/175678711-the-book-censor-s-library |
 | Red Mars | Kim Stanley Robinson | 1992 | U.S. | 572 | 24 | sci-fi, speculative, fantasy, mars-trilogy-1, Nebula | 3.86 | 86951 | 77507 | https://www.goodreads.com/book/show/77507.Red_Mars |
 | Oona Out of Order | Margarita Montimore | 2020 | USSR, Ukraine, U.S. | 339 | 12 | sci-fi, time travel, contemporary, fantasy, magical realism | 3.86 | 94783 | 45046893 | https://www.goodreads.com/book/show/45046893-oona-out-of-order |
+| The Mechanics of Memory | Audrey Lee | 2024 | U.S. | 384 | 10 | sci-fi, thriller, mystery, Edgar nominee, Naomi-Hirahara-rec | 3.85 | 445 | 199597622 | https://www.goodreads.com/book/show/199597622-the-mechanics-of-memory |
 | Midnight Riot | Ben Aaronovitch | 2011 | U.K. | 310 | 10 | crime, mystery, fantasy, paranormal, urban fantasy, rivers-of-london-1 | 3.85 | 143673 | 8680417 | https://www.goodreads.com/book/show/8680417-midnight-riot |
 | Hild | Nicola Griffith | 2013 | U.K. | 546 | 24 | queer, medieval, fantasy, historical, LGBT, the-hild-sequence-1 | 3.85 | 12519 | 17332243 | https://www.goodreads.com/book/show/17332243-hild |
 | Bright Shiny Morning | James Frey | 2008 | U.S. | 501 | 14 | contemporary, literary, Los Angeles, Tobias-McGowan-rec | 3.85 | 15063 | 2179832 | https://www.goodreads.com/book/show/2179832.Bright_Shiny_Morning |
@@ -418,7 +421,7 @@
 | Tomb of Sand | Geetanjali Shree | 2018 | India | 739 | 18 | literary, contemporary, historical, Booker | 3.68 | 3730 | 58703758 | https://www.goodreads.com/book/show/58703758-tomb-of-sand |
 | The Annual Migration of Clouds | Premee Mohamed | 2021 | Canada | 158 | 5 | sci-fi, novella, dystopia, post-apocalyptic, climate, literary, the-annual-migration-of-clouds-1 | 3.68 | 3273 | 56996758 | https://www.goodreads.com/book/show/56996758-the-annual-migration-of-clouds |
 | Mobility | Lydia Kiesling | 2023 | Azerbaijan | 352 | 11 | literary, contemporary, historical, politics, coming of age, unread-country | 3.68 | 2192 | 85323183 | https://www.goodreads.com/book/show/85323183-mobility |
-| Everything I Never Told You | Celeste Ng | 2015 | U.S. | 23 | 10 | mystery, historical, literary | 3.68 | 44 | 24663677 | https://www.goodreads.com/book/show/24663677-a-15-minute-summary-analysis-everything-i-never-told-you-by-celeste-ng |
+| Everything I Never Told You | Celeste Ng | 2014 | U.S. | 297 | 10 | mystery, historical, literary | 3.84 | 597611 | 18693763 | https://www.goodreads.com/book/show/18693763-everything-i-never-told-you |
 | The Initial Insult | Mindy McGinnis | 2021 | U.S. | 372 | 8 | YA, mystery, retellings, contemporary, thriller, horror, the-initial-insult-1 | 3.67 | 6741 | 53487133 | https://www.goodreads.com/book/show/53487133-the-initial-insult |
 | The Hurricane Wars | Thea Guanzon | 2023 | Philippines | 472 | 17 | enemies to lovers, romantasy, the-hurricane-wars-1, Willow-rec | 3.67 | 41464 | 75668288 | https://www.goodreads.com/book/show/75668288-the-hurricane-wars |
 | The Children of Men | P.D. James | 1992 | U.K. | 241 | 10 | sci-fi, post-apocalyptic, dystopia, mystery, thriller | 3.67 | 51056 | 406161 | https://www.goodreads.com/book/show/406161.The_Children_of_Men |
@@ -454,7 +457,7 @@
 | The Family Trade | Charles Stross | 2004 | U.K. | 308 | 12 | sci-fi, alternate history, urban fantasy, fantasy, the-merchant-princes-1, steampunk | 3.54 | 6239 | 17861 | https://www.goodreads.com/book/show/17861.The_Family_Trade |
 | Flowers of Mold | Ha Seong-nan | 1999 | South Korea | 212 | 7 | literary, contemporary, short stories, horror | 3.53 | 1343 | 43064674 | https://www.goodreads.com/book/show/43064674-flowers-of-mold |
 | Watched | Marina Budhos | 2016 | U.S. | 272 | 7 | YA, contemporary, Muslim | 3.52 | 716 | 28250907 | https://www.goodreads.com/book/show/28250907-watched |
-| Gulliver’s Travels | Jonathan Swift | 1726 | U.K., Ireland | 306 | 5 | classics, fantasy | 3.52 | 65 | 7733 | https://www.goodreads.com/book/show/7733.Gulliver_s_Travels |
+| Gulliver’s Travels | Jonathan Swift | 1726 | U.K., Ireland | 306 | 5 | classics, fantasy | 3.59 | 293734 | 7733 | https://www.goodreads.com/book/show/7733.Gulliver_s_Travels |
 | The Tiger Flu | Larissa Lai | 2018 | Canada | 330 | 10 | sci-fi, queer, dystopia, LGBT, fantasy | 3.51 | 1283 | 39070352 | https://www.goodreads.com/book/show/39070352-the-tiger-flu |
 | Dog Park | Sofi Oksanen | 2019 | Finland | 368 | 12 | thriller, Ukraine, historical, contemporary | 3.51 | 3977 | 55573520 | https://www.goodreads.com/book/show/55573520-dog-park |
 | White Horse | Erika T. Wurth | 2022 | U.S. | 320 | 10 | mystery, indigenous, paranormal, thriller, horror, contemporary, literary | 3.50 | 12921 | 60652964 | https://www.goodreads.com/book/show/60652964-white-horse |
