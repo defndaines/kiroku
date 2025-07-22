@@ -147,6 +147,7 @@
 | Children of the New World | Assia Djebar | 1962 | Algeria | 233 | historical, feminism, unread-country | 3.69 | 520 | 720926 | https://www.goodreads.com/book/show/720926.Children_of_the_New_World |
 | The President’s Brain Is Missing | John Scalzi | 2010 | U.S. | 29 | sci-fi, mystery, short stories, humor, [owned] | 3.67 | 2702 | 10365532 | https://www.goodreads.com/book/show/10365532-the-president-s-brain-is-missing |
 | Familiar Things | Hwang Sok-yong | 2011 | South Korea | 224 | fantasy, contemporary, magical realism | 3.67 | 1689 | 33148672 | https://www.goodreads.com/book/show/33148672-familiar-things |
+| The Verdant Passage | Troy Denning | 1991 | U.S. | 341 | fantasy, sci-fi, post-apocalyptic | 3.66 | 2190 | 497317 | https://www.goodreads.com/book/show/497317.The_Verdant_Passage |
 | Re: Colonised Planet 5, Shikasta | Doris Lessing | 1979 | U.K. | 365 | sci-fi, speculative, fantasy, canopus-in-argos-1, Nobel | 3.65 | 2768 | 186682 | https://www.goodreads.com/book/show/186682.Re |
 | Your Hatemail Will Be Graded | John Scalzi | 2008 | U.S. | 368 | nonfiction, essays, humor, writing, politics, memoir, science, whatever-1, [owned] | 3.64 | 1234 | 3852882 | https://www.goodreads.com/book/show/3852882-your-hate-mail-will-be-graded |
 | Xala | Ousmane Sembène | 1973 | Senegal | 112 | literary, satire, Senegal | 3.64 | 1015 | 574425 | https://www.goodreads.com/book/show/574425.Xala |
