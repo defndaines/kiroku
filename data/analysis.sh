@@ -177,7 +177,17 @@ done
 
 ## TBR Documents
 
-cut -d \| -f 8 data/audiobooks.txt | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
+cut -d \| -f 8 data/audiobooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+
+cut -d \| -f 8 data/audiobooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
+
+cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+
+cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "owned" | sort -n | tail
+
+cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+
+cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | sort -n | tail
 
 ### 10 short books
 
@@ -197,11 +207,11 @@ sort -t \| -k 10 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-9
 
 ### 10 popular books
 
-sort -t \| -k 9 -nr data/ebooks.md | head -10 | cut -d \| -f 2-8
+sort -t \| -k 9 -nr data/ebooks.md | head | cut -d \| -f 2-8
 
-sort -t \| -k 9 -nr data/printbooks.md | head -10 | cut -d \| -f 2-8
+sort -t \| -k 9 -nr data/printbooks.md | head | cut -d \| -f 2-8
 
-sort -t \| -k 10 -nr data/audiobooks.md | head -10 | cut -d \| -f 2-9
+sort -t \| -k 10 -nr data/audiobooks.md | head | cut -d \| -f 2-9
 
 ### re-sort
 
