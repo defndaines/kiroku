@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Avatar: The Last Airbender: Team Avatar Tales | Gene Luen Yang, et. al. | U.S. | 3.5 | ebook | 292 | fantasy, YA |
 | The Savage Sword of Conan #9 | Patrick Zircher | 2025 | U.S. | 4.0 | print | 64 | fantasy |
 | LaGuardia | Nnedi Okorafor | 2019 | U.S., Nigeria | 4.0 | ebook | 128 | sci-fi, Hugo, Eisner Award |
 | Monstress, Volume 3: Haven | Marjorie Liu | 2018 | U.S. | 3.5 | ebook | 152 | fantasy, steampunk, Hugo, Eisner Award, Harvey Award |
