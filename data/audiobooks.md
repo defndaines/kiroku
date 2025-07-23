@@ -89,6 +89,7 @@
 | The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin | Ursula K. Le Guin | 2013 | U.S. | 715 | 26 | sci-fi, short stories, fantasy, the-unreal-and-the-real-1 | 4.24 | 1006 | 29868607 | https://www.goodreads.com/book/show/29868607-the-unreal-and-the-real |
 | The Perks of Being a Wallflower | Stephen Chbosky | 1999 | U.S. | 213 | 6 | YA, contemporary, classics, mental health, coming of age, romance | 4.24 | 1945177 | 22628 | https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower |
 | The Collected Stories of Lydia Davis | Lydia Davis | 2009 | U.S. | 733 | 21 | literary, contemporary, short stories | 4.24 | 6875 | 6670287 | https://www.goodreads.com/book/show/6670287-the-collected-stories-of-lydia-davis |
+| Sheine Lende | Darcie Little Badger | 2024 | U.S. | 391 | 14 | fantasy, YA, mystery, indigenous, magical realism | 4.24 | 1145 | 190854829 | https://www.goodreads.com/book/show/190854829-sheine-lende |
 | House of Suns | Alastair Reynolds | 2008 | Wales | 512 | 18 | sci-fi, fantasy, space opera | 4.24 | 31280 | 1126719 | https://www.goodreads.com/book/show/1126719.House_of_Suns |
 | Halfway Home | Reuben Jonathan Miller | 2021 | U.S. | 352 | 8 | nonfiction, social justice, memoir, history, politics, sociology, race | 4.24 | 1186 | 53915329 | https://www.goodreads.com/book/show/53915329-halfway-home |
 | Finding Junie Kim | Ellen Oh | 2021 | U.S. | 368 | 9 | historical, contemporary, war, YA | 4.24 | 2643 | 54798474 | https://www.goodreads.com/book/show/54798474-finding-junie-kim |
