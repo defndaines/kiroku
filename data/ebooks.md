@@ -14,7 +14,7 @@
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 214 | Black, race, historical, classics, literary | 4.34 | 751 | 15346902 | https://www.goodreads.com/book/show/15346902-the-stone-face |
 | The Day Lasts More than a Hundred Years | Chingiz Aitmatov | 1980 | Kyrgyzstan | 368 | sci-fi, classics, historical, unread-country | 4.33 | 7880 | 366889 | https://www.goodreads.com/book/show/366889.The_Day_Lasts_More_than_a_Hundred_Years |
 | Walkable City: How Downtown Can Save America, One Step at a Time | Jeff Speck | 2012 | U.S. | 312 | nonfiction, urban planning, urbanism, architecture | 4.32 | 8326 | 13538794 | https://www.goodreads.com/book/show/13538794-walkable-city |
-| Scythe | Neal Shusterman | 2016 | U.S. | 435 | YA, sci-fi, fantasy, dystopia, romance, arc-of-a-scythe-1, [audible] | 4.32 | 388617 | 28954189 | https://www.goodreads.com/book/show/28954189-scythe |
+| Scythe | Neal Shusterman | 2016 | U.S. | 435 | YA, sci-fi, fantasy, dystopian, romance, arc-of-a-scythe-1, [audible] | 4.32 | 388617 | 28954189 | https://www.goodreads.com/book/show/28954189-scythe |
 | The Lions of Al-Rassan | Guy Gavriel Kay | 1995 | Canada | 528 | fantasy, historical, romance, [audible] | 4.30 | 25359 | 104101 | https://www.goodreads.com/book/show/104101.The_Lions_of_Al_Rassan |
 | The First Civil Right | Naomi Murakawa | 2014 | U.S. | 280 | nonfiction, law, politics, history, race, social justice, postwar, prison, studies-in-postwar-american-political-development | 4.30 | 158 | 19502115 | https://www.goodreads.com/book/show/19502115-the-first-civil-right |
 | My Friends | Hisham Matar | 2024 | Libya, U.S., U.K. | 399 | contemporary, historical, literary, unread-country, [audible] | 4.30 | 11177 | 127488823 | https://www.goodreads.com/book/show/127488823-my-friends |
@@ -27,9 +27,9 @@
 | Old Man’s War | John Scalzi | 2005 | U.S. | 318 | war, space opera, sci-fi, old-man’s-war-1, [owned] | 4.23 | 216200 | 36510196 | https://www.goodreads.com/book/show/36510196-old-man-s-war |
 | The Consuming Fire | John Scalzi | 2018 | U.S. | 304 | speculative, space opera, sci-fi, the-interdependency-2, [owned] | 4.22 | 35962 | 34942741 | https://www.goodreads.com/book/show/34942741-the-consuming-fire |
 | Everyday Life in the North Korean Revolution, 1945–1950 | Suzy Kim | 2013 | North Korea | 328 | nonfiction, politics, history | 4.22 | 86 | 17719882 | https://www.goodreads.com/book/show/17719882-everyday-life-in-the-north-korean-revolution-1945-1950 |
-| Wool | Hugh Howey | 2012 | U.S. | 509 | fantasy, dystopia, post-apocalyptic, sci-fi, silo-1, [owned] | 4.20 | 366643 | 13453029 | https://www.goodreads.com/book/show/13453029-wool-omnibus |
+| Wool | Hugh Howey | 2012 | U.S. | 509 | fantasy, dystopian, post-apocalyptic, sci-fi, silo-1, [owned] | 4.20 | 366643 | 13453029 | https://www.goodreads.com/book/show/13453029-wool-omnibus |
 | The Contested Murder of Latasha Harlins: Justice, Gender, and the Origins of the L.A. Riots | Brenda E. Stevenson | 2013 | U.S. | 444 | nonfiction, history, true crime, Black, race, politics, social justice, [audible] | 4.20 | 127 | 16225549 | https://www.goodreads.com/book/show/16225549-the-contested-murder-of-latasha-harlins |
-| Chevengur | Andrei Platonov | 1928 | Russia | 333 | dystopia, literary | 4.20 | 1626 | 800586 | https://www.goodreads.com/book/show/800586.Chevengur |
+| Chevengur | Andrei Platonov | 1928 | Russia | 333 | dystopian, literary | 4.20 | 1626 | 800586 | https://www.goodreads.com/book/show/800586.Chevengur |
 | Flood Song | Sherwin Bitsui | 2009 | U.S., Diné | 120 | nonfiction, poetry, Native American, indigenous | 4.19 | 189 | 6450884 | https://www.goodreads.com/book/show/6450884-flood-song |
 | The Wild Iris | Louise Glück | 1992 | U.S. | 65 | poetry, classics, nature, contemporary, Nobel | 4.18 | 14580 | 76546 | https://www.goodreads.com/book/show/76546.The_Wild_Iris |
 | Pigs Might Fly: The Inside Story of Pink Floyd | Mark Blake | 2007 | U.K. | 438 | nonfiction, music, biography, history | 4.17 | 3098 | 37883800 | https://www.goodreads.com/book/show/37883800-pigs-might-fly |
@@ -48,7 +48,7 @@
 | Khatyn | Ales Adamovich | 1974 | USSR, Belarus | 244 | war, WWII, classics, historical, Nazi occupation, author wrote screenplay for “Come and See” | 4.12 | 153 | 55278901 | https://www.goodreads.com/book/show/55278901-khatyn |
 | Inside Out: A Personal History of Pink Floyd | Nick Mason | 2004 | U.K. | 360 | nonfiction, music, history, memoir | 4.12 | 5278 | 265734 | https://www.goodreads.com/book/show/265734.Inside_Out |
 | I’m OK, I’m Pig! | Kim Hyesoon | 2014 | South Korea | 160 | poetry | 4.12 | 50 | 22916618 | https://www.goodreads.com/book/show/22916618-i-m-ok-i-m-pig |
-| Childhood’s End | Arthur C. Clarke | 1953 | U.K. | 258 | sci-fi, classics, dystopia | 4.12 | 169869 | 28178752 | https://www.goodreads.com/book/show/28178752-childhood-s-end |
+| Childhood’s End | Arthur C. Clarke | 1953 | U.K. | 258 | sci-fi, classics, dystopian | 4.12 | 169869 | 28178752 | https://www.goodreads.com/book/show/28178752-childhood-s-end |
 | The Hour of the Star | Clarice Lispector | 1977 | Brazil | 96 | novella, classics, literary | 4.11 | 48108 | 762390 | https://www.goodreads.com/book/show/762390.The_Hour_of_the_Star |
 | The Many Worlds of Albie Bright | Christopher Edge | 2017 | U.K. | 191 | sci-fi, adventure, time travel, YA | 4.10 | 2404 | 26202647 | https://www.goodreads.com/book/show/26202647-the-many-worlds-of-albie-bright |
 | The Last Colony | John Scalzi | 2007 | U.S. | 320 | sci-fi, war, old-man’s-war-3, [owned] | 4.10 | 70473 | 88071 | https://www.goodreads.com/book/show/88071.The_Last_Colony |
@@ -77,12 +77,12 @@
 | Common Sense | Thomas Paine | 1776 | U.S. | 104 | nonfiction, classics, philosophy, politics, essays | 4.00 | 38527 | 161744 | https://www.goodreads.com/book/show/161744.Common_Sense |
 | The Old Garden | Hwang Sok-yong | 2000 | South Korea | 480 | historical | 3.99 | 307 | 2525119 | https://www.goodreads.com/book/show/2525119.The_Old_Garden |
 | The Android’s Dream | John Scalzi | 2006 | U.S. | 396 | fantasy, sci-fi, humor, the-android’s-dream-1, [owned] | 3.99 | 23652 | 7081 | https://www.goodreads.com/book/show/7081.The_Android_s_Dream |
-| The Knife of Never Letting Go | Patrick Ness | 2008 | U.S. | 528 | sci-fi, dystopia, fantasy, adventure, YA, chaos-walking-1 | 3.98 | 202026 | 20758104 | https://www.goodreads.com/book/show/20758104-the-knife-of-never-letting-go |
+| The Knife of Never Letting Go | Patrick Ness | 2008 | U.S. | 528 | sci-fi, dystopian, fantasy, adventure, YA, chaos-walking-1 | 3.98 | 202026 | 20758104 | https://www.goodreads.com/book/show/20758104-the-knife-of-never-letting-go |
 | The Kaiju Preservation Society | John Scalzi | 2022 | U.S. | 264 | fantasy, sci-fi, humor, adventure, [owned] | 3.98 | 67034 | 57693406 | https://www.goodreads.com/book/show/57693406-the-kaiju-preservation-society |
 | Omeros | Derek Walcott | 1997 | Saint Lucia | 200 | nonfiction, poetry, classics, unread-country, Nobel | 3.98 | 3237 | 786699 | https://www.goodreads.com/book/show/786699.Omeros |
-| The Last Day | Owain Owain | 1976 | Wales | 136 | dystopia, sci-fi, translated from Welsh | 3.97 | 74 | 204478558 | https://www.goodreads.com/book/show/204478558-the-last-day |
+| The Last Day | Owain Owain | 1976 | Wales | 136 | dystopian, sci-fi, translated from Welsh | 3.97 | 74 | 204478558 | https://www.goodreads.com/book/show/204478558-the-last-day |
 | Laura | Vera Caspary | 1942 | U.S. | 219 | noir, mystery, classics, crime, thriller | 3.97 | 3842 | 601799 | https://www.goodreads.com/book/show/601799.Laura |
-| Unlocked: An Oral History of Haden’s Syndrome | John Scalzi | 2014 | U.S. | 63 | sci-fi, dystopia, novella, short stories, lock-in-0.5, [owned] | 3.96 | 9834 | 21805681 | https://www.goodreads.com/book/show/21805681-unlocked |
+| Unlocked: An Oral History of Haden’s Syndrome | John Scalzi | 2014 | U.S. | 63 | sci-fi, dystopian, novella, short stories, lock-in-0.5, [owned] | 3.96 | 9834 | 21805681 | https://www.goodreads.com/book/show/21805681-unlocked |
 | The Uninvited | Dorothy Macardle | 1942 | Ireland | 342 | horror, mystery, classics, Gothic | 3.96 | 1659 | 3564508 | https://www.goodreads.com/book/show/3564508-the-uninvited |
 | On War | Carl von Clausewitz | 1832 | Prussia | 461 | nonfiction, war, classics, politics, philosophy, history, reread, [owned] | 3.96 | 14219 | 117031 | https://www.goodreads.com/book/show/117031.On_War |
 | Broken Wings | Kahlil Gibran | 1912 | Lebanon | 132 | classics, poetry, romance, philosophy, short stories | 3.96 | 27617 | 291 | https://www.goodreads.com/book/show/291.The_Broken_Wings |
@@ -154,7 +154,7 @@
 | Waylaid | Ed Lin | 2001 | U.S. | 200 | coming of age, YA, Chinese-American | 3.63 | 260 | 193574 | https://www.goodreads.com/book/show/193574.Waylaid |
 | Phantasmagoria and Other Poems | Lewis Carroll | 1869 | U.K. | 112 | poetry, fantasy, humor, classics, [owned] | 3.63 | 987 | 1183959 | https://www.goodreads.com/book/show/1183959.Phantasmagoria_and_Other_Poems_by_Lewis_Carroll_Poetry_English_Irish_Scottish_Welsh |
 | A Carnival of Atrocities | Natalia García Freire | 2025 | Ecuador | 154 | horror, literary, magical realism, fantasy | 3.62 | 572 | 214488947 | https://www.goodreads.com/book/show/214488947-a-carnival-of-atrocities |
-| Gather, Darkness! | Fritz Leiber | 1943 | U.S. | 172 | sci-fi, dystopia, fantasy, apocalyptic, post-apocalyptic, horror | 3.60 | 1254 | 561311 | https://www.goodreads.com/book/show/561311.Gather_Darkness_ |
+| Gather, Darkness! | Fritz Leiber | 1943 | U.S. | 172 | sci-fi, dystopian, fantasy, apocalyptic, post-apocalyptic, horror | 3.60 | 1254 | 561311 | https://www.goodreads.com/book/show/561311.Gather_Darkness_ |
 | Fifteen Seconds without Sorrow | Shim Bo-Seon | 2016 | South Korea | 84 | poetry, [hoopla] | 3.60 | 10 | 31153679 | https://www.goodreads.com/book/show/31153679-fifteen-seconds-without-sorrow |
 | Your Republic Is Calling You | Young-ha Kim | 2006 | South Korea | 326 | espionage, thriller, mystery | 3.59 | 1799 | 8131789 | https://www.goodreads.com/book/show/8131789-your-republic-is-calling-you |
 | Stone Dreams | Akram Aylisli | 2012 | Azerbaijan | 141 | literary, historical, unread-country | 3.59 | 415 | 61550284 | https://www.goodreads.com/book/show/61550284-stone-dreams |
@@ -163,8 +163,8 @@
 | Lost in the Garden | Adam S. Leslie | 2024 | U.K. | 446 | horror, mystery, fantasy, thriller, magical realism, queer, Willow-rec | 3.55 | 2758 | 208159162 | https://www.goodreads.com/book/show/208159162-lost-in-the-garden |
 | Leiningen versus the Ants | Carl Stephenson | 1938 | Austria | 16 | short stories, adventure, classics, [owned] | 3.55 | 328 | 6413738 | https://www.goodreads.com/book/show/6413738-leiningen-versus-the-ants |
 | In the Café of Lost Youth | Patrick Modiano | 2007 | France | 153 | classics, literary, Nobel | 3.53 | 14109 | 31839659 | https://www.goodreads.com/book/show/31839659-in-the-caf-of-lost-youth |
-| Soft Apocalypse | Will McIntosh | 2011 | U.S. | 256 | sci-fi, speculative, dystopia, post-apocalyptic | 3.52 | 2752 | 10075553 | https://www.goodreads.com/book/show/10075553-soft-apocalypse |
-| Metropole | Ferenc Karinthy | 1970 | Hungary | 279 | sci-fi, dystopia, classics | 3.51 | 3501 | 3349113 | https://www.goodreads.com/book/show/3349113-metropole |
+| Soft Apocalypse | Will McIntosh | 2011 | U.S. | 256 | sci-fi, speculative, dystopian, post-apocalyptic | 3.52 | 2752 | 10075553 | https://www.goodreads.com/book/show/10075553-soft-apocalypse |
+| Metropole | Ferenc Karinthy | 1970 | Hungary | 279 | sci-fi, dystopian, classics | 3.51 | 3501 | 3349113 | https://www.goodreads.com/book/show/3349113-metropole |
 | Soda Science: Making the World Safe for Coca-Cola | Susan Greenhalgh | 2024 | U.S. | 364 | nonfiction, food, science | 3.50 | 4 | 209050265 | https://www.goodreads.com/book/show/209050265-soda-science |
 | The Coin | Yasmin Zaher | 2024 | Palestine | 240 | literary, contemporary, LGBT, queer | 3.47 | 7128 | 199349912 | https://www.goodreads.com/book/show/199349912-the-coin |
 | Blood and Guts in High School | Kathy Acker | 1984 | U.S. | 165 | feminism, classics, post-punk | 3.46 | 6844 | 321950 | https://www.goodreads.com/book/show/321950.Blood_and_Guts_in_High_School |

@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Fault Lines | Robert Cullen | 2025 | Ireland | 5.0 | ebook | 126 | contemporary, magical realism |
 | Ashes of the Academy | Faith Erin Hicks | 2025 | U.S. | 4.5 | ebook | 76 | fantasy, YA |
 | Infinitum: An Afrofuturist Tale | Tim Fielder | 2021 | U.S. | 3.5 | print | 288 | fantasy, sci-fi |
 | Avatar: The Last Airbender: Team Avatar Tales | Gene Luen Yang, et. al. | 2019 | U.S. | 3.5 | ebook | 292 | fantasy, YA |

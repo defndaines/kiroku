@@ -18,9 +18,9 @@
 | For Dignity, Justice, and Revolution: An Anthology of Japanese Proletarian Literature | Norma Field (editor), Heather Bowen-Struyk (editor) | 2012 | Japan | 488 | short stories, literary, proletarian literature | 4.44 | 16 | 13210055 | https://www.goodreads.com/book/show/13210055-for-dignity-justice-and-revolution |
 | How to Steal a Dragon’s Sword | Cressida Cowell | 2011 | U.K. | 384 | fantasy, adventure, YA, how-to-train-your-dragon-9 | 4.43 | 8226 | 8087051 | https://www.goodreads.com/book/show/8087051-how-to-steal-a-dragon-s-sword |
 | City of Speed | Alex London | 2022 | U.S. | 272 | fantasy, sci-fi, LGBT, queer, YA, battle-dragons-2 | 4.42 | 180 | 58874673 | https://www.goodreads.com/book/show/58874673-city-of-speed |
-| Winter | Marissa Meyer | 2015 | U.S. | 827 | fantasy, sci-fi, romance, retellings, dystopia, YA, the-lunar-chronicles-4 | 4.41 | 303880 | 13206900 | https://www.goodreads.com/book/show/13206900-winter |
+| Winter | Marissa Meyer | 2015 | U.S. | 827 | fantasy, sci-fi, romance, retellings, dystopian, YA, the-lunar-chronicles-4 | 4.41 | 303880 | 13206900 | https://www.goodreads.com/book/show/13206900-winter |
 | The German Revolution, 1917-1923 | Pierre Broué | 1971 | France, Germany | 991 | nonfiction, history, politics, WWI, historical-materialism-5 | 4.41 | 126 | 184901 | https://www.goodreads.com/book/show/184901.The_German_Revolution_1917_1923 |
-| Cress | Marissa Meyer | 2014 | U.S. | 552 | fantasy, sci-fi, romance, retellings, dystopia, YA, the-lunar-chronicles-3 | 4.40 | 395786 | 13206828 | https://www.goodreads.com/book/show/13206828-cress |
+| Cress | Marissa Meyer | 2014 | U.S. | 552 | fantasy, sci-fi, romance, retellings, dystopian, YA, the-lunar-chronicles-3 | 4.40 | 395786 | 13206828 | https://www.goodreads.com/book/show/13206828-cress |
 | Wolves: Behavior, Ecology, and Conservation | L. David Mech (editor), Luigi Boitani (editor) | 2003 | U.S. | 472 | nonfiction, nature, science, natural history | 4.38 | 226 | 890201 | https://www.goodreads.com/book/show/890201.Wolves |
 | The Shadow Crosser | J.C. Cervantes | 2020 | U.S. | 432 | fantasy, adventure, YA, mythology, the-storm-runner-3 | 4.38 | 2863 | 49293602 | https://www.goodreads.com/book/show/49293602-the-shadow-crosser |
 | The Elders | Inbali Iserles | 2016 | Israel, U.K., U.S. | 304 | fantasy, adventure, YA, foxcraft-2 | 4.37 | 1824 | 29241312 | https://www.goodreads.com/book/show/29241312-the-elders |
@@ -44,7 +44,7 @@
 | Willa of Dark Hollow | Robert Beatty | 2021 | U.S. | 368 | fantasy, adventure, historical, YA, willa-2 | 4.25 | 1640 | 50998648 | https://www.goodreads.com/book/show/50998648-willa-of-dark-hollow |
 | The Lives of Christopher Chant | Diana Wynne Jones | 1988 | U.K. | 240 | fantasy, adventure, YA, chrestomanci-2 | 4.25 | 23791 | 519933 | https://www.goodreads.com/book/show/519933.The_Lives_of_Christopher_Chant |
 | Socialism and the Irish Rebellion: Writings from James Connolly | James Connolly | 2008 | Ireland | 263 | nonfiction, history, politics | 4.24 | 62 | 5919343 | https://www.goodreads.com/book/show/5919343-socialism-and-the-irish-rebellion |
-| Scarlet | Marissa Meyer | 2013 | U.S. | 454 | fantasy, sci-fi, romance, retellings, dystopia, YA, the-lunar-chronicles-2 | 4.24 | 451497 | 13206760 | https://www.goodreads.com/book/show/13206760-scarlet |
+| Scarlet | Marissa Meyer | 2013 | U.S. | 454 | fantasy, sci-fi, romance, retellings, dystopian, YA, the-lunar-chronicles-2 | 4.24 | 451497 | 13206760 | https://www.goodreads.com/book/show/13206760-scarlet |
 | NAM: The Vietnam War in the Words of the Men and Women Who Fought There | Mark Baker | 1981 | U.S. | 324 | nonfiction, history, war, biography | 4.24 | 1247 | 63582 | https://www.goodreads.com/book/show/63582.NAM |
 | How to Twist a Dragon’s Tale | Cressida Cowell | 2007 | U.K. | 246 | fantasy, adventure, how-to-train-your-dragon-5, YA | 4.23 | 12031 | 2038010 | https://www.goodreads.com/book/show/2038010.How_to_Twist_a_Dragon_s_Tale |
 | How to Cheat a Dragon’s Curse | Cressida Cowell | 2006 | U.K. | 241 | fantasy, adventure, YA, how-to-train-your-dragon-4 | 4.23 | 14232 | 454600 | https://www.goodreads.com/book/show/454600.How_to_Cheat_a_Dragon_s_Curse |
@@ -57,13 +57,13 @@
 | Dark Matter: A Century of Speculative Fiction from the African Diaspora | Sheree R. Thomas (editor) | 2000 | U.S. | 427 | sci-fi, short stories, fantasy, speculative, race, Black | 4.17 | 1432 | 510342 | https://www.goodreads.com/book/show/510342.Dark_Matter |
 | Asia’s Unknown Uprisings, Volume 1: South Korean Social Movements in the 20th Century | George Katsiaficas | 2012 | U.S. | 480 | nonfiction, history, politics | 4.17 | 47 | 12784437 | https://www.goodreads.com/book/show/12784437-asia-s-unknown-uprisings-volume-1 |
 | The Coming of Conan the Cimmerian | Robert E. Howard | 2002 | U.S. | 496 | fantasy, sword and sorcery, adventure, short stories, classics, conan-the-cimmerian-1, [audio available] | 4.16 | 14478 | 33482 | https://www.goodreads.com/book/show/33482.The_Coming_of_Conan_the_Cimmerian |
-| The Book of the Unnamed Midwife | Meg Elison | 2014 | U.S. | 291 | sci-fi, apocalyptic, feminism, dystopia, post-apocalyptic, the-road-to-nowhere-1 | 4.15 | 25580 | 29806086 | https://www.goodreads.com/book/show/29806086-the-book-of-the-unnamed-midwife |
-| Stars Above | Marissa Meyer | 2016 | U.S. | 400 | fantasy, sci-fi, romance, retellings, dystopia, short stories, YA, the-lunar-chronicles-4.5 | 4.15 | 104167 | 25689074 | https://www.goodreads.com/book/show/25689074-stars-above |
+| The Book of the Unnamed Midwife | Meg Elison | 2014 | U.S. | 291 | sci-fi, apocalyptic, feminism, dystopian, post-apocalyptic, the-road-to-nowhere-1 | 4.15 | 25580 | 29806086 | https://www.goodreads.com/book/show/29806086-the-book-of-the-unnamed-midwife |
+| Stars Above | Marissa Meyer | 2016 | U.S. | 400 | fantasy, sci-fi, romance, retellings, dystopian, short stories, YA, the-lunar-chronicles-4.5 | 4.15 | 104167 | 25689074 | https://www.goodreads.com/book/show/25689074-stars-above |
 | When You Trap a Tiger | Tae Keller | 2020 | U.S. | 336 | fantasy, magical realism, YA, Korean mythology, [audio available] | 4.14 | 19583 | 148125154 | https://www.goodreads.com/book/show/148125154 |
 | How to Speak Dragonese | Cressida Cowell | 2005 | U.K. | 256 | fantasy, adventure, YA, how-to-train-your-dragon-3 | 4.14 | 17108 | 971239 | https://www.goodreads.com/book/show/971239.How_to_Speak_Dragonese |
 | The Tombs of Atuan | Ursula K. Le Guin | 1971 | U.S. | 180 | fantasy, classics, YA, earthsea-cycle-2 | 4.13 | 130358 | 13662 | https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan |
 | The Farthest Shore | Ursula K. Le Guin | 1972 | U.S. | 259 | fantasy, classics, YA, earthsea-cycle-3 | 4.13 | 122787 | 13667 | https://www.goodreads.com/book/show/13667.The_Farthest_Shore |
-| Cinder | Marissa Meyer | 2012 | U.S. | 400 | fantasy, sci-fi, romance, retellings, dystopia, YA, the-lunar-chronicles-1 | 4.13 | 992033 | 36381037 | https://www.goodreads.com/book/show/36381037-cinder |
+| Cinder | Marissa Meyer | 2012 | U.S. | 400 | fantasy, sci-fi, romance, retellings, dystopian, YA, the-lunar-chronicles-1 | 4.13 | 992033 | 36381037 | https://www.goodreads.com/book/show/36381037-cinder |
 | The Girl Who Drank the Moon | Kelly Barnhill | 2016 | U.S. | 388 | fantasy, YA, Newbery, [audio hoopla] | 4.12 | 110965 | 28110852 | https://www.goodreads.com/book/show/28110852-the-girl-who-drank-the-moon |
 | Inside Out & Back Again | Thanhhà Lại | 2011 | Vietnam, U.S. | 262 | historical, poetry, YA, inside-out-and-back-again-1 | 4.12 | 65600 | 8537327 | https://www.goodreads.com/book/show/8537327-inside-out-back-again |
 | The Man Who Cried I Am | John A. Williams | 1967 | U.S. | 410 | Black, race, politics, classics, historical | 4.11 | 414 | 446307 | https://www.goodreads.com/book/show/446307.The_Man_Who_Cried_I_Am |
@@ -85,7 +85,7 @@
 | Defekt | Nino Cipri | 2021 | U.S. | 170 | fantasy, sci-fi, LGBT, novella, queer, litenverse-2, [audio hoopla] | 4.08 | 2904 | 53261640 | https://www.goodreads.com/book/show/53261640-defekt |
 | Autoworkers Under the Gun: A Shop-Floor View of the End of the American Dream | Gregg Shotwell | 2012 | U.S. | 200 | nonfiction, labor, politics | 4.08 | 13 | 13236688 | https://www.goodreads.com/book/show/13236688-autoworkers-under-the-gun |
 | After Appomattox | Gregory P. Downs | 2015 | U.S. | 352 | nonfiction, history, politics | 4.07 | 134 | 23502999 | https://www.goodreads.com/book/show/23502999-after-appomattox |
-| The Last Cuentista | Donna Barba Higuera | 2021 | U.S. | 320 | fantasy, sci-fi, dystopia, YA, Newbery, [audio hoopla] | 4.06 | 26625 | 56817365 | https://www.goodreads.com/book/show/56817365-the-last-cuentista |
+| The Last Cuentista | Donna Barba Higuera | 2021 | U.S. | 320 | fantasy, sci-fi, dystopian, YA, Newbery, [audio hoopla] | 4.06 | 26625 | 56817365 | https://www.goodreads.com/book/show/56817365-the-last-cuentista |
 | Perma Red | Debra Magpie Earling | 2002 | U.S., Bitterroot Salish | 320 | historical, indigenous, race, western, Native American, thriller, [audio hoopla] | 4.06 | 1667 | 237077 | https://www.goodreads.com/book/show/237077.Perma_Red |
 | The Storm Runner | J.C. Cervantes | 2018 | U.S. | 448 | fantasy, adventure, YA, mythology, the-storm-runner-1 | 4.05 | 10819 | 34966353 | https://www.goodreads.com/book/show/34966353-the-storm-runner |
 | The Art of Prophecy | Wesley Chu | 2022 | Taiwan, U.S. | 533 | fantasy, sci-fi, war-arts-1, [audio available] | 4.05 | 5385 | 58409712 | https://www.goodreads.com/book/show/58409712-the-art-of-prophecy |
@@ -97,7 +97,7 @@
 | Readymade Bodhisattva: The Kaya Anthology of South Korean Science Fiction | Sunyoung Park (editor), Park Sang Joon (editor) | 2018 | South Korea | 528 | sci-fi, short stories, speculative | 4.03 | 110 | 38814143 | https://www.goodreads.com/book/show/38814143-readymade-bodhisattva |
 | Me (Moth) | Amber McBride | 2021 | U.S. | 256 | fantasy, romance, poetry, mental health, YA, magical realism, [audio hoopla] | 4.03 | 9055 | 50498335 | https://www.goodreads.com/book/show/50498335-me |
 | Binti: The Complete Trilogy | Nnedi Okorafor | 2015 | U.S. | 368 | fantasy, sci-fi, novella, short stories, YA, Hugo, partial reread | 4.03 | 6845 | 48637511 | https://www.goodreads.com/book/show/48637511-binti |
-| A Scanner Darkly | Philip K. Dick | 1977 | U.S. | 324 | cyberpunk, dystopia, sci-fi, classics, [audio hoopla] | 4.03 | 108132 | 14817 | https://www.goodreads.com/book/show/14817.A_Scanner_Darkly |
+| A Scanner Darkly | Philip K. Dick | 1977 | U.S. | 324 | cyberpunk, dystopian, sci-fi, classics, [audio hoopla] | 4.03 | 108132 | 14817 | https://www.goodreads.com/book/show/14817.A_Scanner_Darkly |
 | Three Times Lucky | Sheila Turnage | 2012 | U.S. | 312 | mystery, YA, mo-&-dale-mysteries-1 | 4.02 | 25742 | 11737313 | https://www.goodreads.com/book/show/11737313-three-times-lucky |
 | Spirit Hunters | Ellen Oh | 2017 | U.S. | 281 | horror, paranormal, fantasy, mystery, YA, spirit-hunters-1 | 4.01 | 3836 | 25117605 | https://www.goodreads.com/book/show/25117605-spirit-hunters |
 | Shipwrecks | Akira Yoshimura | 1982 | Japan | 180 | historical, literary | 4.01 | 2977 | 1140987 | https://www.goodreads.com/book/show/1140987.Shipwrecks |
@@ -119,7 +119,7 @@
 | Woe Is I: The Grammarphobe’s Guide to Better English in Plain English | Patricia T. O’Conner | 1996 | U.S. | 240 | nonfiction, linguistics, self help | 3.94 | 4499 | 108835 | https://www.goodreads.com/book/show/108835.Woe_Is_I |
 | History of the Peloponnesian War | Thucydides | 411 BCE | Athens | 172 | nonfiction, history, politics, classics, war, [audio hoopla] | 3.94 | 39913 | 261243 | https://www.goodreads.com/book/show/261243.History_of_the_Peloponnesian_War |
 | Hana Khan Carries On | Uzma Jalaluddin | 2021 | Canada | 367 | contemporary, romance, [audio available] | 3.94 | 13198 | 53746115 | https://www.goodreads.com/book/show/53746115-hana-khan-carries-on |
-| Fairest | Marissa Meyer | 2015 | U.S. | 272 | sci-fi, retellings, dystopia, fantasy, YA, romance, the-lunar-chronicles-3.5 | 3.94 | 151306 | 22489107 | https://www.goodreads.com/book/show/22489107-fairest |
+| Fairest | Marissa Meyer | 2015 | U.S. | 272 | sci-fi, retellings, dystopian, fantasy, YA, romance, the-lunar-chronicles-3.5 | 3.94 | 151306 | 22489107 | https://www.goodreads.com/book/show/22489107-fairest |
 | Bel Canto | Ann Patchett | 2001 | U.S. | 318 | literary, music, contemporary, historical, Womens Prize, [audio available] | 3.94 | 311940 | 5826 | https://www.goodreads.com/book/show/5826.Bel_Canto |
 | The Magicians of Caprona | Diana Wynne Jones | 1980 | U.K. | 288 | YA, fantasy, chrestomanci-4 | 3.93 | 13409 | 47525 | https://www.goodreads.com/book/show/47525.The_Magicians_of_Caprona |
 | Mixed Up | Gordon Korman | 2023 | Canada | 256 | fantasy, sci-fi, mystery, YA | 3.93 | 1433 | 61780002 | https://www.goodreads.com/book/show/61780002-mixed-up |
