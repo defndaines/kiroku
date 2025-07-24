@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Giants: Erin and Yrso, Book 1 | Lylian | 2020 | Canada | 3.5 | ebook | 48 | fantasy, YA |
 | Fault Lines | Robert Cullen | 2025 | Ireland | 5.0 | ebook | 126 | contemporary, magical realism |
 | Ashes of the Academy | Faith Erin Hicks | 2025 | U.S. | 4.5 | ebook | 76 | fantasy, YA |
 | Infinitum: An Afrofuturist Tale | Tim Fielder | 2021 | U.S. | 3.5 | print | 288 | fantasy, sci-fi |
