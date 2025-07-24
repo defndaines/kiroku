@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Second Shift | Kit Anderson | 2025 | U.S. | 4.5 | ebook | 152 | sci-fi, dystopian |
 | The Giants: Erin and Yrso, Book 1 | Lylian | 2020 | Canada | 3.5 | ebook | 48 | fantasy, YA |
 | Fault Lines | Robert Cullen | 2025 | Ireland | 5.0 | ebook | 126 | contemporary, magical realism |
 | Ashes of the Academy | Faith Erin Hicks | 2025 | U.S. | 4.5 | ebook | 76 | fantasy, YA |
