@@ -10,6 +10,7 @@
 | Zuleikha | Guzel Yakhina | 2015 | Russia | 382 | contemporary, historical, Tatars in Soviet Union | 4.39 | 17568 | 203048540 | https://www.goodreads.com/book/show/203048540-zuleikha-urdu-translation-zuleikha---by-guzel-yakhina |
 | Meet Behind Mars | Renee Simms | 2018 | U.S. | 131 | short stories | 4.39 | 142 | 35926747 | https://www.goodreads.com/book/show/35926747-meet-behind-mars |
 | Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II | Douglas A. Blackmon | 2008 | U.S. | 480 | nonfiction, history, race, politics, social justice, Black, sociology | 4.38 | 7032 | 2319745 | https://www.goodreads.com/book/show/2319745.Slavery_by_Another_Name |
+| Karl Marx in America | Andrew Hartman | 2025 | U.S. | 600 | history, politics, philosophy | 4.38 | 8 | 218462117 | https://www.goodreads.com/book/show/218462117-karl-marx-in-america |
 | Walkable City Rules: 101 Steps to Making Better Places | Jeff Speck | 2018 | U.S. | 312 | nonfiction, urban planning, urbanism, architecture | 4.37 | 645 | 39858765 | https://www.goodreads.com/book/show/39858765-walkable-city-rules |
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 214 | Black, race, historical, classics, literary | 4.34 | 751 | 15346902 | https://www.goodreads.com/book/show/15346902-the-stone-face |
 | The Day Lasts More than a Hundred Years | Chingiz Aitmatov | 1980 | Kyrgyzstan | 368 | sci-fi, classics, historical, unread-country | 4.33 | 7880 | 366889 | https://www.goodreads.com/book/show/366889.The_Day_Lasts_More_than_a_Hundred_Years |
@@ -26,6 +27,7 @@
 | The Fall of Hyperion | Dan Simmons | 1990 | U.S. | 517 | fantasy, sci-fi, time travel, space opera, hyperion-cantos-2 | 4.24 | 141599 | 77565 | https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion |
 | Old Man’s War | John Scalzi | 2005 | U.S. | 318 | war, space opera, sci-fi, old-man’s-war-1, [owned] | 4.23 | 216200 | 36510196 | https://www.goodreads.com/book/show/36510196-old-man-s-war |
 | The Consuming Fire | John Scalzi | 2018 | U.S. | 304 | speculative, space opera, sci-fi, the-interdependency-2, [owned] | 4.22 | 35962 | 34942741 | https://www.goodreads.com/book/show/34942741-the-consuming-fire |
+| M. R. James: The Complete Supernatural Stories | M. R. James | 1936 | U.K. | 277 | horror, fantasy, classics | 4.22 | 85 | 40215184 | https://www.goodreads.com/book/show/40215184-m-r-james |
 | Everyday Life in the North Korean Revolution, 1945–1950 | Suzy Kim | 2013 | North Korea | 328 | nonfiction, politics, history | 4.22 | 86 | 17719882 | https://www.goodreads.com/book/show/17719882-everyday-life-in-the-north-korean-revolution-1945-1950 |
 | Wool | Hugh Howey | 2012 | U.S. | 509 | fantasy, dystopian, post-apocalyptic, sci-fi, silo-1, [owned] | 4.20 | 366643 | 13453029 | https://www.goodreads.com/book/show/13453029-wool-omnibus |
 | The Contested Murder of Latasha Harlins: Justice, Gender, and the Origins of the L.A. Riots | Brenda E. Stevenson | 2013 | U.S. | 444 | nonfiction, history, true crime, Black, race, politics, social justice, [audible] | 4.20 | 127 | 16225549 | https://www.goodreads.com/book/show/16225549-the-contested-murder-of-latasha-harlins |
@@ -33,6 +35,7 @@
 | Flood Song | Sherwin Bitsui | 2009 | U.S., Diné | 120 | nonfiction, poetry, Native American, indigenous | 4.19 | 189 | 6450884 | https://www.goodreads.com/book/show/6450884-flood-song |
 | The Wild Iris | Louise Glück | 1992 | U.S. | 65 | poetry, classics, nature, contemporary, Nobel | 4.18 | 14580 | 76546 | https://www.goodreads.com/book/show/76546.The_Wild_Iris |
 | Pigs Might Fly: The Inside Story of Pink Floyd | Mark Blake | 2007 | U.K. | 438 | nonfiction, music, biography, history | 4.17 | 3098 | 37883800 | https://www.goodreads.com/book/show/37883800-pigs-might-fly |
+| Lili Is Crying | Hélène Bessette | 2025 | France | 192 | france | 4.17 | 46 | 219299662 | https://www.goodreads.com/book/show/219299662-lili-is-crying |
 | Kim Jiyoung, Born 1982 | Cho Nam-Joo | 2016 | South Korea | 163 | feminism, literary, contemporary | 4.17 | 179201 | 46041199 | https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982 |
 | Grimgar of Fantasy and Ash: Volume 1 | Ao Jyumonji | 2013 | Japan | 260 | YA, light novel, adventure, fantasy, manga, 灰と幻想のグリムガル-1 | 4.17 | 1497 | 33395397 | https://www.goodreads.com/book/show/33395397-grimgar-of-fantasy-and-ash |
 | Joanna Russ: Novels & Stories | Joanna Russ | 2023 | U.S. | 852 | sci-fi, classics, fantasy, feminism, speculative, short stories | 4.16 | 31 | 75860351 | https://www.goodreads.com/book/show/75860351-joanna-russ |
@@ -77,6 +80,7 @@
 | Common Sense | Thomas Paine | 1776 | U.S. | 104 | nonfiction, classics, philosophy, politics, essays | 4.00 | 38527 | 161744 | https://www.goodreads.com/book/show/161744.Common_Sense |
 | The Old Garden | Hwang Sok-yong | 2000 | South Korea | 480 | historical | 3.99 | 307 | 2525119 | https://www.goodreads.com/book/show/2525119.The_Old_Garden |
 | The Android’s Dream | John Scalzi | 2006 | U.S. | 396 | fantasy, sci-fi, humor, the-android’s-dream-1, [owned] | 3.99 | 23652 | 7081 | https://www.goodreads.com/book/show/7081.The_Android_s_Dream |
+| North Continent Ribbon | Ursula Whitcher | 2024 | U.S. | 172 | sci-fi, speculative, short stories, novella, queer | 3.99 | 68 | 216963966 | https://www.goodreads.com/book/show/216963966-north-continent-ribbon |
 | The Knife of Never Letting Go | Patrick Ness | 2008 | U.S. | 528 | sci-fi, dystopian, fantasy, adventure, YA, chaos-walking-1 | 3.98 | 202026 | 20758104 | https://www.goodreads.com/book/show/20758104-the-knife-of-never-letting-go |
 | The Kaiju Preservation Society | John Scalzi | 2022 | U.S. | 264 | fantasy, sci-fi, humor, adventure, [owned] | 3.98 | 67034 | 57693406 | https://www.goodreads.com/book/show/57693406-the-kaiju-preservation-society |
 | Omeros | Derek Walcott | 1997 | Saint Lucia | 200 | nonfiction, poetry, classics, unread-country, Nobel | 3.98 | 3237 | 786699 | https://www.goodreads.com/book/show/786699.Omeros |
@@ -90,12 +94,14 @@
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 128 | literary, short stories, contemporary | 3.95 | 25011 | 126262032 | https://www.goodreads.com/book/show/126262032-so-late-in-the-day |
 | Nick and Tesla’s High-Voltage Danger Lab | Bob Pflugfelder, Steve Hockensmith | 2013 | U.S. | 240 | mystery, humor, science, adventure, nick-and-tesla-1, YA | 3.95 | 1014 | 17345277 | https://www.goodreads.com/book/show/17345277-nick-and-tesla-s-high-voltage-danger-lab |
 | How to Blow Up a Pipeline | Andreas Malm | 2021 | Sweden | 208 | nonfiction, climate change, politics, philosophy | 3.95 | 7643 | 51686708 | https://www.goodreads.com/book/show/51686708-how-to-blow-up-a-pipeline |
+| Delicious Hunger | Hai Fan | 2024 | Singapore | 272 | short stories, unread-country, author was solider in Malayan Communist Party | 3.95 | 39 | 210676888 | https://www.goodreads.com/book/show/210676888-delicious-hunger |
 | The End of Eddy | Édouard Louis | 2014 | France | 208 | contemporary, LGBT, queer | 3.94 | 35450 | 31574750 | https://www.goodreads.com/book/show/31574750-the-end-of-eddy |
 | Optional Practical Training | Shubha Sunder | 2025 | U.S. | 256 | literary, author 2025 Whiting Award winner | 3.94 | 85 | 211934937 | https://www.goodreads.com/book/show/211934937-optional-practical-training |
 | An Informal History of the Hugos: A Personal Look Back at the Hugo Awards, 1953–2000 | Jo Walton | 2018 | U.K. | 576 | nonfiction, essays, history | 3.94 | 308 | 31702806 | https://www.goodreads.com/book/show/31702806-an-informal-history-of-the-hugos |
 | After the Coup | John Scalzi | 2008 | U.S. | 26 | sci-fi, space opera, short stories, humor, old-man’s-war-4.5, [owned] | 3.94 | 3988 | 8627906 | https://www.goodreads.com/book/show/8627906-after-the-coup |
 | Octavia’s Brood: Science Fiction Stories from Social Justice Movements | Adrienne Maree Brown | 2015 | U.S. | 296 | sci-fi, fantasy, short stories, speculative, social justice | 3.93 | 4243 | 23129839 | https://www.goodreads.com/book/show/23129839-octavia-s-brood |
 | Agent to the Stars | John Scalzi | 2004 | U.S. | 286 | sci-fi, humor, fantasy, [owned] | 3.93 | 23342 | 88072 | https://www.goodreads.com/book/show/88072.Agent_to_the_Stars |
+| The Man Who Saw Seconds | Alexander Boldizar | 2024 | Slovakia | 325 | time travel, action, thriller, sci-fi, mystery, unread-country | 3.92 | 1118 | 192631651 | https://www.goodreads.com/book/show/192631651-the-man-who-saw-seconds |
 | Of Cattle and Men | Ana Paula Maia | 2013 | Brazil | 99 | horror, novella, feminism, contemporary, literary, Republic of Consciousness | 3.92 | 2365 | 63903384 | https://www.goodreads.com/book/show/63903384-of-cattle-and-men |
 | Lock In | John Scalzi | 2014 | U.S. | 336 | sci-fi, thriller, mystery, crime, lock-in-1, [owned] | 3.92 | 70410 | 21418013 | https://www.goodreads.com/book/show/21418013-lock-in |
 | Johnny Mad Dog | Emmanuel Dongala | 2002 | Republic of Congo | 336 | war, historical, unread-country | 3.92 | 427 | 321441 | https://www.goodreads.com/book/show/321441.Johnny_Mad_Dog |
@@ -106,6 +112,7 @@
 | Rikki-Tikki-Tavi | Rudyard Kipling | 1894 | U.K., India | 48 | YA, classics, short stories, [owned] | 3.91 | 17797 | 577542 | https://www.goodreads.com/book/show/577542.Rikki_Tikki_Tavi |
 | Madwomen | Gabriela Mistral | 2008 | France | 168 | poetry, classics, feminism, Nobel | 3.91 | 558 | 2213236 | https://www.goodreads.com/book/show/2213236.Madwomen |
 | The Black Cloud | Fred Hoyle | 1957 | U.K. | 200 | sci-fi, classics | 3.90 | 5122 | 1246118 | https://www.goodreads.com/book/show/1246118.The_Black_Cloud |
+| The Inugami Curse | Seishi Yokomizo | 1950 | Japan | 321 | mystery, crime, thriller, detective-kosuke-kindaichi-6 | 3.89 | 8316 | 50362362 | https://www.goodreads.com/book/show/50362362-the-inugami-curse |
 | The Bee Sting | Paul Murray | 2023 | Ireland | 645 | literary, contemporary | 3.89 | 112530 | 62039166 | https://www.goodreads.com/book/show/62039166-the-bee-sting |
 | Stone Mattress | Margaret Atwood | 2014 | Canada | 273 | short stories, literary, fantasy, [owned], [Spotify] | 3.89 | 26308 | 22642472 | https://www.goodreads.com/book/show/22642472-stone-mattress |
 | New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 2016 | Barbados | 147 | sci-fi, fantasy, short stories, speculative | 3.89 | 142 | 29483900 | https://www.goodreads.com/book/show/29483900-new-worlds-old-ways |
@@ -114,6 +121,7 @@
 | Rupetta | Nike Sulway | 2013 | Australia | 352 | sci-fi, speculative, LGBT, fantasy, [owned] | 3.88 | 223 | 17252752 | https://www.goodreads.com/book/show/17252752-rupetta |
 | Pattern Recognition | William Gibson | 2003 | U.S. | 367 | sci-fi, thriller, mystery, cyberpunk, blue-ant-1 | 3.88 | 52098 | 22320 | https://www.goodreads.com/book/show/22320.Pattern_Recognition |
 | Redshirts | John Scalzi | 2012 | U.S. | 320 | sci-fi, humor, fantasy, [owned] | 3.87 | 114837 | 13055592 | https://www.goodreads.com/book/show/13055592-redshirts |
+| Internment | Samira Ahmed | 2019 | India, U.S. | 386 | YA, dystopian, contemporary, sci-fi | 3.87 | 20039 | 38167114 | https://www.goodreads.com/book/show/38167114-internment |
 | Warda | Sonallah Ibrahim | 2000 | Egypt | 464 | politics, historical, literary, 1950s Cairo | 3.86 | 1034 | 401955 | https://www.goodreads.com/book/show/401955.Warda |
 | The Thorn Puller | Hiromi Ito | 2007 | Japan | 300 | literary, contemporary, poetry | 3.85 | 295 | 58906519 | https://www.goodreads.com/book/show/58906519-the-thorn-puller |
 | Mumbo Jumbo | Ishmael Reed | 1972 | U.S. | 224 | satire, classics, Black, race, literary, historical | 3.85 | 4789 | 761156 | https://www.goodreads.com/book/show/761156.Mumbo_Jumbo |
