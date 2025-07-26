@@ -116,7 +116,7 @@ sed -n '1,/## Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 grep "^Count:" [a-z]*.md
 
-for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
+for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
   mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
@@ -128,7 +128,7 @@ for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
   grep '\[x\]' $award | sort | uniq -c | wc -l
 done
 
-for award in booker-prize.md andrew-carnegie-medal-for-excellence.md \
+for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   hugo-award.md ignyte-award.md kirkus-prize.md locus-award.md \
   mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
@@ -144,7 +144,7 @@ done
 
 ## Analysis of individual awards when there are different categories.
 
-for award in andrew-carnegie-medal-for-excellence.md booker-prize.md \
+for award in british-fantasy-award.md andrew-carnegie-medal-for-excellence.md booker-prize.md \
   golden-poppy-book-award.md hugo-award.md ignyte-award.md kirkus-prize.md \
   locus-award.md mythopoeic-award.md national-book-award.md nebula-award.md \
   nommo-award.md ohioana-book-award.md pulitzer-prize.md womens-prize.md \

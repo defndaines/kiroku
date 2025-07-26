@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Girl from the Sea | Molly Knox Ostertag | 2021 | Canada, U.S. | 4.5 | print | 256 | LGBT, romance, fantasy, mythology, YA, British Fantasy Award |
 | Living Hell | Caitlin Yarsky | 2025 | U.S. | 4.5 | ebook | 120 | urban fantasy, mythology |
 | Second Shift | Kit Anderson | 2025 | U.S. | 4.5 | ebook | 152 | sci-fi, dystopian |
 | The Giants: Erin and Yrso, Book 1 | Lylian | 2020 | Canada | 3.5 | ebook | 48 | fantasy, YA |

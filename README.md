@@ -25,6 +25,7 @@ I use awards to guide some of my reading choices. To that end, I keep track of
 which award-winning books I’ve read in the following files.
 
 * [Booker Prize](booker-prize.md)
+* [British Fantasy Award](british-fantasy-award.md)
 * [Andrew Carnegie Medal for Excellence](andrew-carnegie-medal-for-excellence.md)
 * [Arthur C. Clarke Award](arthur-c-clarke-award.md)
 * [Dublin Literary Award](dublin-literary-award.md)
