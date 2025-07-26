@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Drop of Corruption | Robert Jackson Bennett | 2025 | U.S. | 4.5 | audio | 465 | fantasy, mystery, thriller |
 | Rogue Protocol | Martha Wells | 2018 | U.S. | 4.0 | audio | 158 | sci-fi, novella |
 | There’s Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 2024 | U.S. | 4.5 | audio | 334 | memoir, sports, poetry, essays, nonfiction |
 | Counterattacks at Thirty | Sohn Won-Pyung | 2017 | South Korea | 4.0 | audio | 240 | literary, contemporary |
