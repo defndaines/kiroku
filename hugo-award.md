@@ -319,7 +319,7 @@ Count: 70
 - [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
 <!-- Short Story -->
 
-## Graphic Story (15)
+## Graphic Story (16)
 
 - [x] 1941: _Batman_ #1; Bill Finger, Bob Kane
 - [ ] 1944: _Wonder Woman_ #5: “Battle for Womanhood”; William Moulton Marston, H. G. Peter
@@ -328,9 +328,9 @@ Count: 70
 - [x] 2009: _Girl Genius, Volume 8: Agatha Heterodyne and the Chapel of Bones_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2010: _Girl Genius, Volume 9: Agatha Heterodyne and the Heirs of the Storm_ Kaja Foglio, Phil Foglio, Cheyenne Wright
 - [x] 2011: _Girl Genius, Volume 10: Agatha Heterodyne and the Guardian Muse_ Kaja Foglio, Phil Foglio, Cheyenne Wright
-- [ ] 2012: _Digger_ Ursula Vernon
+- [ ] 2012: [_Digger_](https://diggercomic.com/) Ursula Vernon
 - [x] 2013: _Saga, Volume 1_ Brian K. Vaughan, Fiona Staples
-- [ ] 2014: _“Time”_ Randall Munroe
+- [x] 2014: [_“Time”_](https://xkcd.com/1190/) Randall Munroe
 - [x] 2015: _Ms. Marvel, Volume 1: No Normal_ G. Willow Wilson, Adrian Alphona, Jake Wyatt
 - [x] 2017: _Monstress, Volume 1: Awakening_ Marjorie Liu
 - [x] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu

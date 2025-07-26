@@ -6,7 +6,7 @@
 | How to Fight a Dragon’s Fury | Cressida Cowell | 2015 | U.K. | 416 | fantasy, adventure, how-to-train-your-dragon-12, YA | 4.59 | 6192 | 23590446 | https://www.goodreads.com/book/show/23590446-how-to-fight-a-dragon-s-fury |
 | City of Secrets | Alex London | 2023 | U.S. | 272 | fantasy, queer, YA, battle-dragons-3 | 4.56 | 139 | 59806044 | https://www.goodreads.com/book/show/59806044-city-of-secrets |
 | Teamster Rebellion | Farrell Dobbs | 1972 | U.S. | 258 | nonfiction, history, politics, labor, teamsters-1, reread | 4.50 | 240 | 187429 | https://www.goodreads.com/book/show/187429.Teamster_Rebellion |
-| Rank & File | Alice Lynd (editor), Staughton Lynd (editor) | 1973 | U.S. | 442 | nonfiction, history, labor, politics | 4.50 | 48 | 11197446 | https://www.goodreads.com/book/show/11197446-rank-and-file |
+| Rank and File: Personal Histories by Working-Class Organizers | Alice Lynd (editor), Staughton Lynd (editor) | 1973 | U.S. | 442 | nonfiction, history, labor, politics | 4.50 | 48 | 11197446 | https://www.goodreads.com/book/show/11197446-rank-and-file |
 | How to Betray a Dragon’s Hero | Cressida Cowell | 2013 | U.K. | 366 | fantasy, adventure, how-to-train-your-dragon-11, YA | 4.50 | 6388 | 17368237 | https://www.goodreads.com/book/show/17368237-how-to-betray-a-dragon-s-hero |
 | The Man Who Loved Dogs | Leonardo Padura | 2009 | Cuba | 592 | historical, politics | 4.47 | 11639 | 16059356 | https://www.goodreads.com/book/show/16059356-the-man-who-loved-dogs |
 | My Soul Is Rested: The Story of the Civil Rights Movement in the Deep South | Howell Raines | 1977 | U.S. | 496 | nonfiction, history, Black, memoir, politics, race | 4.47 | 295 | 320651 | https://www.goodreads.com/book/show/320651.My_Soul_Is_Rested |
@@ -35,7 +35,7 @@
 | A People’s Guide to Capitalism: An Introduction to Marxist Economics | Hadas Thier | 2018 | U.S. | 300 | nonfiction, history, economics, sociology, politics, social justice | 4.30 | 1206 | 52365259 | https://www.goodreads.com/book/show/52365259-a-people-s-guide-to-capitalism |
 | Prairie Lotus | Linda Sue Park | 2020 | U.S. | 260 | historical, YA | 4.28 | 8893 | 44230407 | https://www.goodreads.com/book/show/44230407-prairie-lotus |
 | How to Ride a Dragon’s Storm | Cressida Cowell | 2008 | U.K. | 272 | fantasy, adventure, YA, how-to-train-your-dragon-7 | 4.28 | 9829 | 5116480 | https://www.goodreads.com/book/show/5116480-how-to-ride-a-dragon-s-storm |
-| Wobblies on the Waterfront: Interracial Unionism in Progressive-Era Philadelphia | Peter Cole | 2007 | U.S., Israel | 256 | nonfiction, history, labor, politics, race | 4.27 | 33 | 1597435 | https://www.goodreads.com/book/show/1597435.Wobblies_on_the_Waterfront |
+| Wobblies on the Waterfront: Interracial Unionism in Progressive-Era Philadelphia | Peter Cole | 2007 | U.S., Israel | 256 | nonfiction, history, labor, politics, race, the-working-class-in-american-history | 4.27 | 33 | 1597435 | https://www.goodreads.com/book/show/1597435.Wobblies_on_the_Waterfront |
 | The Princess Bride | William Goldman | 1973 | U.S. | 429 | fantasy, humor, romance, classics, adventure, YA, [audio hoopla] | 4.27 | 936023 | 21787 | https://www.goodreads.com/book/show/21787.The_Princess_Bride |
 | Swim Team | Johnnie Christmas | 2022 | U.S., Canada | 248 | graphic novels, sports, YA | 4.27 | 9409 | 58842729 | https://www.goodreads.com/book/show/58842729-swim-team |
 | Soledad Brother: The Prison Letters of George Jackson | George L. Jackson | 1970 | U.S. | 368 | nonfiction, history, Black, memoir, race, politics, biography | 4.27 | 3832 | 962568 | https://www.goodreads.com/book/show/962568.Soledad_Brother |
@@ -50,12 +50,12 @@
 | How to Cheat a Dragon’s Curse | Cressida Cowell | 2006 | U.K. | 241 | fantasy, adventure, YA, how-to-train-your-dragon-4 | 4.23 | 14232 | 454600 | https://www.goodreads.com/book/show/454600.How_to_Cheat_a_Dragon_s_Curse |
 | A Hero’s Guide to Deadly Dragons | Cressida Cowell | 2008 | U.K. | 256 | fantasy, adventure, how-to-train-your-dragon-6, YA | 4.22 | 10200 | 1950067 | https://www.goodreads.com/book/show/1950067.A_Hero_s_Guide_to_Deadly_Dragons |
 | More to the Story | Hena Khan | 2019 | U.S. | 272 | retellings, contemporary, YA | 4.21 | 2079 | 43822031 | https://www.goodreads.com/book/show/43822031-more-to-the-story |
-| Charlotte’s Web | E. B. White | 1952 | U.S. | 184 | fantasy, YA, classics | 4.21 | 1992223 | 1922731 | https://www.goodreads.com/book/show/1922731.Charlotte_s_Web |
+| Charlotte’s Web | E.B. White | 1952 | U.S. | 184 | fantasy, YA, classics | 4.21 | 1992223 | 1922731 | https://www.goodreads.com/book/show/1922731.Charlotte_s_Web |
 | The Other Wind | Ursula K. Le Guin | 2001 | U.S. | 211 | fantasy, classics, YA, earthsea-cycle-6 | 4.20 | 31416 | 13658 | https://www.goodreads.com/book/show/13658.The_Other_Wind |
 | Haunting the Korean Diaspora: Shame, Secrecy, and the Forgotten War | Grace M. Cho | 2008 | South Korea, U.S. | 232 | nonfiction, history, sociology, feminism, politics, race | 4.19 | 179 | 5366000 | https://www.goodreads.com/book/show/5366000-haunting-the-korean-diaspora |
 | The Priory of the Orange Tree | Samantha Shannon | 2019 | U.K. | 848 | fantasy, LGBT, romance, queer, lesbian, the-roots-of-chaos-1 | 4.18 | 261263 | 40275288 | https://www.goodreads.com/book/show/40275288-the-priory-of-the-orange-tree |
-| Dark Matter: A Century of Speculative Fiction from the African Diaspora | Sheree R. Thomas (editor) | 2000 | U.S. | 427 | sci-fi, short stories, fantasy, speculative, race, Black | 4.17 | 1432 | 510342 | https://www.goodreads.com/book/show/510342.Dark_Matter |
-| Asia’s Unknown Uprisings, Volume 1: South Korean Social Movements in the 20th Century | George Katsiaficas | 2012 | U.S. | 480 | nonfiction, history, politics | 4.17 | 47 | 12784437 | https://www.goodreads.com/book/show/12784437-asia-s-unknown-uprisings-volume-1 |
+| Dark Matter: A Century of Speculative Fiction from the African Diaspora | Sheree Renée Thomas, W.E.B. Du Bois, Kalamu ya Salaam | 2000 | U.S. | 427 | sci-fi, short stories, fantasy, speculative, race, Black | 4.17 | 1432 | 510342 | https://www.goodreads.com/book/show/510342.Dark_Matter |
+| Asia’s Unknown Uprisings Volume 1: South Korean Social Movements in the 20th Century | George Katsiaficas | 2012 | U.S. | 480 | nonfiction, history, politics | 4.17 | 47 | 12784437 | https://www.goodreads.com/book/show/12784437-asia-s-unknown-uprisings-volume-1 |
 | The Coming of Conan the Cimmerian | Robert E. Howard | 2002 | U.S. | 496 | fantasy, sword and sorcery, adventure, short stories, classics, conan-the-cimmerian-1, [audio available] | 4.16 | 14478 | 33482 | https://www.goodreads.com/book/show/33482.The_Coming_of_Conan_the_Cimmerian |
 | The Book of the Unnamed Midwife | Meg Elison | 2014 | U.S. | 291 | sci-fi, apocalyptic, feminism, dystopian, post-apocalyptic, the-road-to-nowhere-1 | 4.15 | 25580 | 29806086 | https://www.goodreads.com/book/show/29806086-the-book-of-the-unnamed-midwife |
 | Stars Above | Marissa Meyer | 2016 | U.S. | 400 | fantasy, sci-fi, romance, retellings, dystopian, short stories, YA, the-lunar-chronicles-4.5 | 4.15 | 104167 | 25689074 | https://www.goodreads.com/book/show/25689074-stars-above |
@@ -84,13 +84,13 @@
 | The First Rule of Punk | Celia C. Pérez | 2017 | U.S. | 336 | music, contemporary, YA | 4.08 | 7881 | 33245571 | https://www.goodreads.com/book/show/33245571-the-first-rule-of-punk |
 | Defekt | Nino Cipri | 2021 | U.S. | 170 | fantasy, sci-fi, LGBT, novella, queer, litenverse-2, [audio hoopla] | 4.08 | 2904 | 53261640 | https://www.goodreads.com/book/show/53261640-defekt |
 | Autoworkers Under the Gun: A Shop-Floor View of the End of the American Dream | Gregg Shotwell | 2012 | U.S. | 200 | nonfiction, labor, politics | 4.08 | 13 | 13236688 | https://www.goodreads.com/book/show/13236688-autoworkers-under-the-gun |
-| After Appomattox | Gregory P. Downs | 2015 | U.S. | 352 | nonfiction, history, politics | 4.07 | 134 | 23502999 | https://www.goodreads.com/book/show/23502999-after-appomattox |
+| After Appomattox: Military Occupation and the Ends of War | Gregory P. Downs | 2015 | U.S. | 352 | nonfiction, history, politics | 4.07 | 134 | 23502999 | https://www.goodreads.com/book/show/23502999-after-appomattox |
 | The Last Cuentista | Donna Barba Higuera | 2021 | U.S. | 320 | fantasy, sci-fi, dystopian, YA, Newbery, [audio hoopla] | 4.06 | 26625 | 56817365 | https://www.goodreads.com/book/show/56817365-the-last-cuentista |
 | Perma Red | Debra Magpie Earling | 2002 | U.S., Bitterroot Salish | 320 | historical, indigenous, race, western, Native American, thriller, [audio hoopla] | 4.06 | 1667 | 237077 | https://www.goodreads.com/book/show/237077.Perma_Red |
 | The Storm Runner | J.C. Cervantes | 2018 | U.S. | 448 | fantasy, adventure, YA, mythology, the-storm-runner-1 | 4.05 | 10819 | 34966353 | https://www.goodreads.com/book/show/34966353-the-storm-runner |
 | The Art of Prophecy | Wesley Chu | 2022 | Taiwan, U.S. | 533 | fantasy, sci-fi, war-arts-1, [audio available] | 4.05 | 5385 | 58409712 | https://www.goodreads.com/book/show/58409712-the-art-of-prophecy |
 | Tehanu | Ursula K. Le Guin | 1990 | U.S. | 281 | fantasy, classics, YA, earthsea-cycle-4 | 4.05 | 56792 | 13661 | https://www.goodreads.com/book/show/13661.Tehanu |
-| The Plum in the Golden Vase or, Chin P’ing Mei: Vol. One: The Gathering | Lanling Xiaoxiao Sheng, David Tod Roy (translator) | 1596 | China | 720 | classics, literary | 4.04 | 392 | 1320196 | https://www.goodreads.com/book/show/1320196 |
+| The Plum in the Golden Vase, or, Chin P’ing Mei, Vol. 1: The Gathering | Lanling Xiaoxiao Sheng, David Tod Roy (translator) | 1596 | China | 720 | classics, literary | 4.04 | 392 | 1320196 | https://www.goodreads.com/book/show/1320196 |
 | The Astonishing Color of After | Emily X.R. Pan | 2018 | U.S. | 462 | fantasy, mental health, magical realism, contemporary, romance, YA | 4.04 | 33444 | 35604686 | https://www.goodreads.com/book/show/35604686-the-astonishing-color-of-after |
 | Esperanza Rising | Pam Muñoz Ryan | 2000 | U.S. | 304 | historical, YA | 4.04 | 111255 | 89763 | https://www.goodreads.com/book/show/89763.Esperanza_Rising |
 | The Silmarillion | J.R.R. Tolkien | 1977 | U.K. | 365 | fantasy, mythology, classics, [audio available] | 4.03 | 324587 | 20256735 | https://www.goodreads.com/book/show/20256735-the-silmarillion |
@@ -102,10 +102,10 @@
 | Spirit Hunters | Ellen Oh | 2017 | U.S. | 281 | horror, paranormal, fantasy, mystery, YA, spirit-hunters-1 | 4.01 | 3836 | 25117605 | https://www.goodreads.com/book/show/25117605-spirit-hunters |
 | Shipwrecks | Akira Yoshimura | 1982 | Japan | 180 | historical, literary | 4.01 | 2977 | 1140987 | https://www.goodreads.com/book/show/1140987.Shipwrecks |
 | I Rode a Horse of Milk White Jade | Diane Lee Wilson | 1998 | U.S. | 272 | historical, adventure, YA | 4.01 | 1547 | 7850119 | https://www.goodreads.com/book/show/7850119-i-rode-a-horse-of-milk-white-jade |
-| Dragons of Autumn Twilight | Tracy Hickman | 1984 | U.S. | 444 | fantasy, YA, dragonlance-chronicles-1, reread | 4.01 | 121149 | 259836 | https://www.goodreads.com/book/show/259836.Dragons_of_Autumn_Twilight |
+| Dragons of Autumn Twilight | Margaret Weis, Tracy Hickman | 1984 | U.S. | 444 | fantasy, YA, dragonlance-chronicles-1, reread | 4.01 | 121149 | 259836 | https://www.goodreads.com/book/show/259836.Dragons_of_Autumn_Twilight |
 | A Wizard of Earthsea | Ursula K. Le Guin | 1968 | U.S. | 183 | fantasy, classics, YA, earthsea-cycle-1, reread | 4.01 | 348485 | 13642 | https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea |
 | The Westing Game | Ellen Raskin | 1978 | U.S. | 182 | classics, mystery, YA | 3.99 | 230061 | 902 | https://www.goodreads.com/book/show/902.The_Westing_Game |
-| The Oedipus Cycle | Sophocles | 451 BCE | Attica, Athens | 259 | classics, play, mythology, [audio hoopla] | 3.99 | 69708 | 1540 | https://www.goodreads.com/book/show/1540.The_Oedipus_Cycle |
+| The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone | Sophocles | 451 BCE | Attica, Athens | 259 | classics, play, mythology, the-theban-plays-1, [audio hoopla] | 3.99 | 69708 | 1540 | https://www.goodreads.com/book/show/1540.The_Oedipus_Cycle |
 | Sylvia & Aki | Winifred Conkling | 2011 | U.S. | 160 | historical, YA, [audio available] | 3.99 | 1463 | 9806277 | https://www.goodreads.com/book/show/9806277-sylvia-aki |
 | Mars Evacuees | Sophia McDougall | 2014 | U.K. | 336 | adventure, sci-fi, YA, mars-evacuees-1 | 3.99 | 700 | 20338840 | https://www.goodreads.com/book/show/20338840-mars-evacuees |
 | City of Thieves | Alex London | 2021 | U.S. | 272 | LGBT, fantasy, sci-fi, YA, battle-dragons-1 | 3.98 | 652 | 55977916 | https://www.goodreads.com/book/show/55977916-city-of-thieves |
@@ -125,7 +125,7 @@
 | Mixed Up | Gordon Korman | 2023 | Canada | 256 | fantasy, sci-fi, mystery, YA | 3.93 | 1433 | 61780002 | https://www.goodreads.com/book/show/61780002-mixed-up |
 | Holding the Line: Women in the Great Arizona Mine Strike of 1983 | Barbara Kingsolver | 1989 | U.S. | 213 | nonfiction, history, labor, feminism, social justice, gender | 3.93 | 1053 | 25459 | https://www.goodreads.com/book/show/25459.Holding_the_Line |
 | Gardens of the Moon | Steven Erikson | 1999 | Canada | 666 | fantasy, malazan-book-of-the-fallen-1 | 3.93 | 131919 | 55399 | https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon |
-| Diné | Peter Iverson | 2002 | U.S., Diné | 432 | nonfiction, history, Native American | 3.93 | 109 | 292747 | https://www.goodreads.com/book/show/292747.Din_ |
+| Diné: A History of the Navajos | Peter Iverson | 2002 | U.S., Diné | 432 | nonfiction, history, Native American | 3.93 | 109 | 292747 | https://www.goodreads.com/book/show/292747.Din_ |
 | Witch Week | Diana Wynne Jones | 1982 | U.K. | 288 | fantasy, YA, chrestomanci-3 | 3.92 | 15036 | 47572 | https://www.goodreads.com/book/show/47572.Witch_Week |
 | Ugly | Robert Hoge | 2013 | Australia | 304 | nonfiction, autobiography, biography, disability, memoir, YA | 3.92 | 5833 | 18296509 | https://www.goodreads.com/book/show/18296509-ugly |
 | The Iliad | Homer, Emily Wilson (translator) | 801 BCE | Greece | 848 | classics, poetry, mythology, literary | 3.92 | 494062 | 77265004 | https://www.goodreads.com/book/show/77265004-the-iliad |
@@ -134,8 +134,8 @@
 | State of Wonder | Ann Patchett | 2011 | U.S. | 353 | literary, mystery, contemporary, [audio hoopla] | 3.90 | 197407 | 9118135 | https://www.goodreads.com/book/show/9118135-state-of-wonder |
 | Flush | Carl Hiaasen | 2005 | U.S. | 263 | mystery, YA, humor | 3.89 | 32532 | 13067 | https://www.goodreads.com/book/show/13067.Flush |
 | The Last Dragonslayer | Jasper Fforde | 2010 | U.K. | 287 | humor, adventure, fantasy, YA, the-last-dragonslayer-1 | 3.88 | 22837 | 13316328 | https://www.goodreads.com/book/show/13316328-the-last-dragonslayer |
-| Aeneid | Virgil, Robert Fitzgerald (translator) | 19 BCE | Rome | 442 | classics, poetry, mythology, literary, [audio hoopla] | 3.87 | 139041 | 12914 | https://www.goodreads.com/book/show/12914.The_Aeneid |
-| The Death of Artemio Cruz | Carlos Fuentes | 1962 | Brazil | 307 | classics, literary | 3.86 | 11447 | 12764 | https://www.goodreads.com/book/show/12764.The_Death_of_Artemio_Cruz |
+| The Aeneid | Virgil, Robert Fitzgerald (translator) | 19 BCE | Rome | 442 | classics, poetry, mythology, literary, [audio hoopla] | 3.87 | 139041 | 12914 | https://www.goodreads.com/book/show/12914.The_Aeneid |
+| The Death of Artemio Cruz | Carlos Fuentes | 1962 | Panama, Mexico | 307 | classics, literary | 3.86 | 11447 | 12764 | https://www.goodreads.com/book/show/12764.The_Death_of_Artemio_Cruz |
 | Forest of Wonders | Linda Sue Park | 2016 | U.S. | 343 | adventure, fantasy, wing-&-claw-1, YA | 3.86 | 1281 | 25817038 | https://www.goodreads.com/book/show/25817038-forest-of-wonders |
 | Mixed Magics: Four Tales of Chrestomanci | Diana Wynne Jones | 2000 | U.K. | 208 | fantasy, YA, short stories, chrestomanci-* | 3.85 | 5293 | 47514 | https://www.goodreads.com/book/show/47514.Mixed_Magics |
 | Let Sleeping Dragons Lie | Garth Nix, Sean Williams | 2018 | Australia | 272 | adventure, fantasy, YA, have-sword-will-travel-2 | 3.85 | 389 | 37825398 | https://www.goodreads.com/book/show/37825398-let-sleeping-dragons-lie |
@@ -155,7 +155,7 @@
 | We’re Not Here to Entertain: Punk Rock, Ronald Reagan, and the Real Culture War of 1980s America | Kevin Mattson | 2020 | U.S. | 352 | nonfiction, history, politics, music, sociology | 3.75 | 126 | 52048816 | https://www.goodreads.com/book/show/52048816-we-re-not-here-to-entertain |
 | Mission Child | Maureen F. McHugh | 1998 | U.S. | 370 | queer, speculative, LGBT, sci-fi, gender | 3.75 | 513 | 189111 | https://www.goodreads.com/book/show/189111.Mission_Child |
 | Bone Talk | Candy Gourlay | 2018 | Philippines | 256 | adventure, war, YA, historical | 3.75 | 955 | 39723033 | https://www.goodreads.com/book/show/39723033-bone-talk |
-| The Seattle General Strike | Robin Friedheim | 1964 | U.S. | 296 | nonfiction, history, politics | 3.71 | 14 | 39871894 | https://www.goodreads.com/book/show/39871894-the-seattle-general-strike |
+| The Seattle General Strike | Robert L. Friedheim | 1964 | U.S. | 296 | nonfiction, history, politics | 3.71 | 14 | 39871894 | https://www.goodreads.com/book/show/39871894-the-seattle-general-strike |
 | The Case of Windy Lake | Michael Hutchinson | 2019 | Canada | 160 | mystery, indigenous, mighty-muskrats-1, YA | 3.69 | 339 | 41427830 | https://www.goodreads.com/book/show/41427830-the-case-of-windy-lake |
 | Bond of Iron: Master and Slave at Buffalo Forge | Charles B. Dew | 1994 | U.S. | 448 | nonfiction, labor, history | 3.69 | 39 | 3994083 | https://www.goodreads.com/book/show/3994083-bond-of-iron |
 | The Red Years: Theory, Politics, and Aesthetics in the Japanese ’68 | Gavin Walker (editor) | 2020 | Japan | 176 | nonfiction, history, politics | 3.66 | 44 | 42179279 | https://www.goodreads.com/book/show/42179279-the-red-years |
@@ -164,7 +164,7 @@
 | To Catch a Thief | Matt Forbeck | 2018 | U.S. | 122 | fantasy, choose your own adventure, YA, D&D-Endless-Quest | 3.59 | 188 | 38398948 | https://www.goodreads.com/book/show/38398948-to-catch-a-thief |
 | Daughter of Xanadu | Dori Jones Yang | 2010 | U.S. | 352 | historical, adventure, fantasy, YA, romance, daughter-of-xanadu-1 | 3.59 | 646 | 7795696 | https://www.goodreads.com/book/show/7795696-daughter-of-xanadu |
 | Into the Jungle | Matt Forbeck | 2018 | U.S. | 128 | fantasy, choose your own adventure, adventure, YA, D&D-Endless-Quest | 3.58 | 176 | 38398952 | https://www.goodreads.com/book/show/38398952-into-the-jungle |
-| The Best of Michael Moorcock | Michael Moorcock | 1971 | U.K. | 353 | time travel, sci-fi, fantasy, speculative, short stories | 3.57 | 424 | 26254767 | https://www.goodreads.com/book/show/26254767-breakfast-in-the-ruins-and-other-stories |
+| The Best of Michael Moorcock | Michael Moorcock | 2009 | U.K. | 403 | fantasy, short stories, sci-fi | 3.56 | 156 | 6234214 | https://www.goodreads.com/book/show/6234214-the-best-of-michael-moorcock |
 | Big Trouble | Matt Forbeck | 2018 | U.S. | 128 | fantasy, choose your own adventure, YA, D&D-Endless-Quest | 3.54 | 138 | 38398950 | https://www.goodreads.com/book/show/38398950-big-trouble |
 | Flood | S. Alexander Reed, Elizabeth Sandifer | 2013 | U.S. | 152 | nonfiction, essays, music, 33⅓-main-series-88 | 3.52 | 291 | 17188264 | https://www.goodreads.com/book/show/17188264-flood |
 | The Story of Hong Gildong | Unknown, Minsoo Kang (translator) | 1600 | Korea | 100 | classics, literary, fantasy | 3.51 | 1158 | 25810328 | https://www.goodreads.com/book/show/25810328-the-story-of-hong-gildong |

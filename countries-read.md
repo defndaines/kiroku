@@ -81,7 +81,7 @@ Count: 93
 - [x] Cameroon: [_Behold the Dreamers_](https://www.goodreads.com/book/show/35259724-behold-the-dreamers) Imbolo Mbue; [_How Beautiful We Were_](https://www.goodreads.com/book/show/51794532-how-beautiful-we-were) Imbolo Mbue
 - [ ] Madagascar:
 - [x] Australia: [_True History of the Kelly Gang_](https://www.goodreads.com/book/show/110090.True_History_of_the_Kelly_Gang) Peter Carey; [_Sabriel_](https://www.goodreads.com/book/show/518848.Sabriel) Garth Nix
-- [x] North Korea: _The Accusation_ Bandi (NOT recommended)
+- [x] North Korea: _The Accusation_ Bandi (NOT recommended); Younghill Kang?
 - [ ] Niger:
 - [x] Taiwan: [_The Man with the Compound Eyes_](https://www.goodreads.com/book/show/17614822-the-man-with-the-compound-eyes) Wu Ming-Yi
 - [x] Syria: [_Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS_](https://www.goodreads.com/book/show/59521653-their-blood-got-mixed) Janet Biehl
