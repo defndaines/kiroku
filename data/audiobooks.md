@@ -462,7 +462,6 @@
 | Watched | Marina Budhos | 2016 | U.S. | 272 | 7 | YA, contemporary, Muslim | 3.52 | 716 | 28250907 | https://www.goodreads.com/book/show/28250907-watched |
 | The Tiger Flu | Larissa Lai | 2018 | Canada | 330 | 10 | sci-fi, queer, dystopian, LGBT, fantasy | 3.51 | 1283 | 39070352 | https://www.goodreads.com/book/show/39070352-the-tiger-flu |
 | The End of August | Yū Miri | 2004 | Japan | 720 | 28 | historical, fantasy, literary, 1930s Japanese-occupied Korea | 3.51 | 399 | 63215787 | https://www.goodreads.com/book/show/63215787-the-end-of-august |
-| Misinterpretation | Ledia Xhoga | 2024 | Albania, U.S. | 304 | 10 | literary, contemporary, mental health, unread-country | 3.51 | 317 | 205973374 | https://www.goodreads.com/book/show/205973374-misinterpretation |
 | Dog Park | Sofi Oksanen | 2019 | Finland | 368 | 12 | thriller, Ukraine, historical, contemporary | 3.51 | 3977 | 55573520 | https://www.goodreads.com/book/show/55573520-dog-park |
 | White Horse | Erika T. Wurth | 2022 | U.S. | 320 | 10 | mystery, indigenous, paranormal, thriller, horror, contemporary, literary | 3.50 | 12921 | 60652964 | https://www.goodreads.com/book/show/60652964-white-horse |
 | Victories Greater Than Death | Charlie Jane Anders | 2021 | U.S. | 288 | 13 | sci-fi, queer, fantasy, LGBT, YA, space opera, unstoppable-1 | 3.49 | 3402 | 53205810 | https://www.goodreads.com/book/show/53205810-victories-greater-than-death |

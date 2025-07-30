@@ -34,9 +34,11 @@ grep '\[ ]' countries-read.md | head | sed 's/- \[ ] \([^:]*\).*/\1/'
 
 tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | sort -u
 
-### Count of non-U.[SK]. work
+tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | sort | uniq -c | sort -nr | head
 
-tail -n +8 2025-reading.md | grep -vc "U\.[SK]\."
+### Count of non-U.S/U.K./Canada work
+
+tail -n +8 2025-reading.md | grep -v Canada | grep -vc "U\.[SK]\."
 
 ## Genres
 

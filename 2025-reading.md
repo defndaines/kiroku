@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Misinterpretation | Ledia Xhoga | 2024 | Albania, U.S. | 4.0 | audio | 304 | literary, contemporary, mental health |
 | A Drop of Corruption | Robert Jackson Bennett | 2025 | U.S. | 4.5 | audio | 465 | fantasy, mystery, thriller |
 | Rogue Protocol | Martha Wells | 2018 | U.S. | 4.0 | audio | 158 | sci-fi, novella |
 | There’s Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 2024 | U.S. | 4.5 | audio | 334 | memoir, sports, poetry, essays, nonfiction |
@@ -59,7 +60,7 @@ fiction otherwise). The most recently finished book is on top.
 | You Dreamed of Empires | Álvaro Enrigue | 2022 | Mexico | 4.0 | audio | 220 | historical, magical realism, literary |
 | Water Moon | Samantha Sotto Yambao | 2025 | Philippines, Japan | 3.5 | audio | 384 | fantasy, romance, mystery |
 | Nesting | Roisín O’Donnell | 2025 | Ireland | 5.0 | audio | 400 | literary |
-| I Cheerfully Refuse | Leif Enger | 2024 | U.S | 4.0 | audio | 336 | sci-fi, dystopian, literary |
+| I Cheerfully Refuse | Leif Enger | 2024 | U.S. | 4.0 | audio | 336 | sci-fi, dystopian, literary |
 | The Joy Luck Club | Amy Tan | 1989 | U.S. | 4.0 | audio | 288 | historical, classics |
 | Hunchback | Saou Ichikawa | 2023 | Japan | 4.5 | audio | 112 | literary, disability, Akutagawa Prize |
 | The Spear Cuts Through Water | Simon Jimenez | 2022 | U.S. | 4.5 | audio | 525 | fantasy, LGBT, Robert Holdstock Award (BFA) |
@@ -78,7 +79,7 @@ fiction otherwise). The most recently finished book is on top.
 | Acceptance | Jeff VanderMeer | 2014 | U.S. | 4.0 | audio | 341 | sci-fi, horror |
 | One Day, Everyone Will Have Always Been Against This | Omar El Akkad | 2025 | U.S., Canada, Egypt, Qatar | 5.0 | audio | 208 | nonfiction, memoir, history, politics, Palestine |
 | A Short History of Reconstruction | Eric Foner | 1990 | U.S. | 4.5 | audio | 299 | nonfiction, history, race |
-| Parable of the Sower | Octavia E. Butler | 1993 | U.S | 5.0 | print | 329 | sci-fi, dystopian, reread |
+| Parable of the Sower | Octavia E. Butler | 1993 | U.S. | 5.0 | print | 329 | sci-fi, dystopian, reread |
 | My Brilliant Life | Kim Ae-ran | 2011 | South Korea | 4.0 | audio | 208 | literary |
 | Authority | Jeff VanderMeer | 2014 | U.S. | 4.0 | audio | 341 | sci-fi, horror |
 | The Principles of Communism | Friedrich Engels | 1847 | Belgium | 5.0 | ebook | 24 | nonfiction, politics, economics, history |
@@ -86,7 +87,7 @@ fiction otherwise). The most recently finished book is on top.
 | We Do Not Part | Han Kang | 2021 | South Korea | 5.0 | print | 272 | historical, literary |
 | No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline Jones | 2023 | U.S. | 4.5 | audio | 544 | nonfiction, history, race, Pulitzer |
 | Kusamakura | Natsume Sōseki | 1906 | Japan | 3.5 | audio | 152 | literary, classics |
-| The Reformatory | Tananarive Due | 2023 | U.S | 5.0 | audio | 576 | horror, historical, Bram Stoker Award, World Fantasy Award, Shirley Jackson Award |
+| The Reformatory | Tananarive Due | 2023 | U.S. | 5.0 | audio | 576 | horror, historical, Bram Stoker Award, World Fantasy Award, Shirley Jackson Award |
 | The Sword of Kaigen | M.L. Wang | 2019 | U.S. | 4.0 | print | 617 | fantasy |
 | Wayward Lives, Beautiful Experiments | Saidiya Hartman | 2019 | U.S. | 4.0 | audio | 441 | nonfiction, history, feminism, race, LGBT |
 | Notes of a Native Son | James Baldwin | 1955 | U.S., France | 4.5 | audio | 192 | nonfiction, essays, race, memoir |
