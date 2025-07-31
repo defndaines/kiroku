@@ -8,7 +8,7 @@ Review_.
 
 Count: 20
 
-- [ ] 100: _Tree of Smoke_ Denis Johnson, 2007
+- [ ] 100: _Tree of Smoke_ Denis Johnson, 2004
 - [ ] 99: _How to Be Both_ Ali Smith, 2014
 - [ ] 98: _Bel Canto_ Ann Patchett, 2001
 - [x] 97: _Men We Reaped_ Jesmyn Ward, 2013
@@ -16,19 +16,19 @@ Count: 20
 - [ ] 95: _Bring Up the Bodies_ Hilary Mantel, 2012
 - [ ] 94: _On Beauty_ Zadie Smith, 2005
 - [ ] 93: _Station Eleven_ Emily St. John Mandel, 2014
-- [ ] 92: _The Days of Abandonment_ Elena Ferrante; translated by Ann Goldstein, 2005
+- [ ] 92: _The Days of Abandonment_ Elena Ferrante; translated by Ann Goldstein, 2002
 - [ ] 91: _The Human Stain_ Philip Roth, 2000
 - [ ] 90: _The Sympathizer_ Viet Thanh Nguyen, 2015
 - [ ] 89: _The Return_ Hisham Matar, 2016
-- [ ] 88: _The Collected Stories of Lydia Davis_ Lydia Davis, 2010
+- [ ] 88: _The Collected Stories of Lydia Davis_ Lydia Davis, 2009
 - [ ] 87: _Detransition, Baby_ Torrey Peters, 2021
 - [ ] 86: _Frederick Douglass_ David W. Blight, 2018
 - [ ] 85: _Pastoralia_ George Saunders, 2000
 - [ ] 84: _The Emperor of All Maladies_ Siddhartha Mukherjee, 2010
-- [ ] 83: _When We Cease to Understand the World_ Benjamín Labatut; translated by Adrian Nathan West, 2021
+- [ ] 83: _When We Cease to Understand the World_ Benjamín Labatut; translated by Adrian Nathan West, 2020
 - [ ] 82: _Hurricane Season_ Fernanda Melchor; translated by Sophie Hughes, 2020
 - [ ] 81: _Pulphead_ John Jeremiah Sullivan, 2011
-- [ ] 80: _The Story of the Lost Child_ Elena Ferrante; translated by Ann Goldstein, 2015
+- [ ] 80: _The Story of the Lost Child_ Elena Ferrante; translated by Ann Goldstein, 2014
 - [ ] 79: _A Manual for Cleaning Women_ Lucia Berlin, 2015
 - [x] 78: _Septology_ Jon Fosse; translated by Damion Searls, 2022
 - [ ] 77: _An American Marriage_ Tayari Jones, 2018
@@ -36,8 +36,8 @@ Count: 20
 - [ ] 75: _Exit West_ Mohsin Hamid, 2017
 - [ ] 74: _Olive Kitteridge_ Elizabeth Strout, 2008
 - [ ] 73: _The Passage of Power_ Robert Caro, 2012
-- [ ] 72: _Secondhand Time_ Svetlana Alexievich; translated by Bela Shayevich, 2016
-- [ ] 71: _The Copenhagen Trilogy_ Tove Ditlevsen; translated by Tiina Nunnally and Michael Favala Goldman, 2021
+- [ ] 72: _Secondhand Time_ Svetlana Alexievich; translated by Bela Shayevich, 2013
+- [ ] 71: _The Copenhagen Trilogy_ Tove Ditlevsen; translated by Tiina Nunnally and Michael Favala Goldman, 1967
 - [ ] 70: _All Aunt Hagar’s Children_ Edward P. Jones, 2006
 - [ ] 69: _The New Jim Crow_ Michelle Alexander, 2010
 - [ ] 68: _The Friend_ Sigrid Nunez, 2018
@@ -70,8 +70,8 @@ Count: 20
 - [x] 41: _Small Things Like These_ Claire Keegan, 2021
 - [ ] 40: _H Is for Hawk_ Helen Macdonald, 2015
 - [ ] 39: _A Visit From the Goon Squad_ Jennifer Egan, 2010
-- [ ] 38: _The Savage Detectives_ Roberto Bolaño; translated by Natasha Wimmer, 2007
-- [ ] 37: _The Years_ Annie Ernaux; translated by Alison L. Strayer, 2018
+- [ ] 38: _The Savage Detectives_ Roberto Bolaño; translated by Natasha Wimmer, 1998
+- [ ] 37: _The Years_ Annie Ernaux; translated by Alison L. Strayer, 2008
 - [ ] 36: _Between the World and Me_ Ta-Nehisi Coates, 2015
 - [ ] 35: _Fun Home_ Alison Bechdel, 2006
 - [ ] 34: _Citizen_ Claudia Rankine, 2014
@@ -102,7 +102,7 @@ Count: 20
 - [x] 9: _Never Let Me Go_ Kazuo Ishiguro, 2005
 - [ ] 8: _Austerlitz_ W.G. Sebald; translated by Anthea Bell, 2001
 - [x] 7: _The Underground Railroad_ Colson Whitehead, 2016
-- [ ] 6: _2666_ Roberto Bolaño; translated by Natasha Wimmer, 2008
+- [ ] 6: _2666_ Roberto Bolaño; translated by Natasha Wimmer, 2004
 - [ ] 5: _The Corrections_ Jonathan Franzen, 2001
 - [ ] 4: _The Known World_ Edward P. Jones, 2003
 - [ ] 3: _Wolf Hall_ Hilary Mantel, 2009

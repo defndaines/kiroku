@@ -193,27 +193,35 @@ cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | un
 
 ### 10 short books
 
-sort -t \| -k 6 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+sort -t \| -k 6 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8
 
-sort -t \| -k 6 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+sort -t \| -k 6 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8
 
-sort -t \| -k 7 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-9
+sort -t \| -k 7 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-7,9
+
+### 10 long books
+
+sort -t \| -k 6 -nr data/ebooks.md | head -10 | cut -d \| -f 2-6,8
+
+sort -t \| -k 6 -nr data/printbooks.md | head -10 | cut -d \| -f 2-6,8
+
+sort -t \| -k 7 -nr data/audiobooks.md | head -10 | cut -d \| -f 2-7,9
 
 ### 10 obscure books
 
-sort -t \| -k 9 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+sort -t \| -k 9 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8
 
-sort -t \| -k 9 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-8
+sort -t \| -k 9 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8
 
-sort -t \| -k 10 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-9
+sort -t \| -k 10 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-7,9
 
 ### 10 popular books
 
-sort -t \| -k 9 -nr data/ebooks.md | head | cut -d \| -f 2-8
+sort -t \| -k 9 -nr data/ebooks.md | head | cut -d \| -f 2-6,8
 
-sort -t \| -k 9 -nr data/printbooks.md | head | cut -d \| -f 2-8
+sort -t \| -k 9 -nr data/printbooks.md | head | cut -d \| -f 2-6,8
 
-sort -t \| -k 10 -nr data/audiobooks.md | head | cut -d \| -f 2-9
+sort -t \| -k 10 -nr data/audiobooks.md | head | cut -d \| -f 2-7,9
 
 ### re-sort
 

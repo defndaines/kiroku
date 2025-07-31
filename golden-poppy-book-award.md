@@ -11,7 +11,7 @@ Count: 6
 
 ## Fiction (3)
 
-- [x] 2020: _The Vanishing Half_ Britt Bennett
+- [x] 2020: _The Vanishing Half_ Brit Bennett
 - [x] 2021: _Afterparties_ Anthony Veasna So
 - [ ] 2022: _Properties of Thirst_ Marianne Wiggins
 - [ ] 2023: _The Covenant of Water_ Abraham Verghese
