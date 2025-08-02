@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Dungeons & Dragons: Dungeon Club: Roll Call | Molly Knox Ostertag | 2022 | U.S. | 4.5 | print | 203 | fantasy, YA |
 | “Dr. Werthless”: The Man Who Studied Murder (And Nearly Killed the Comics Industry) | Harold Schechter, Eric Powell | 2025 | U.S. | 4.0 | ebook | 187 | nonfiction, history |
 | The Girl from the Sea | Molly Knox Ostertag | 2021 | Canada, U.S. | 4.5 | print | 256 | LGBT, romance, fantasy, mythology, YA, British Fantasy Award |
 | Living Hell | Caitlin Yarsky | 2025 | U.S. | 4.5 | ebook | 120 | urban fantasy, mythology |
