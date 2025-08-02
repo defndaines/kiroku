@@ -45,7 +45,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Solitude” (Short story, Dec 1994) [Nebula]
 - [x] “Forgiveness Day” (1995) [Locus]
 - [x] “A Man of the People” (1995)
-- [ ] “A Woman’s Liberation” (1995)
+- [x] “A Woman’s Liberation” (1995)
 - [ ] “Coming of Age in Karhide” (Short story, 1995)
 - [ ] “Old Music and the Slave Women” (Novella, Aug 1996)
 - [ ] “Mountain Ways” (Short story, Aug 1996)
