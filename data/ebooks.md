@@ -15,6 +15,7 @@
 | A Little Luck | Claudia Piñeiro | 2015 | Argentina | 211 | literary, thriller, mystery, contemporary, crime | 4.28 | 8495 | 75582270 | https://www.goodreads.com/book/show/75582270-a-little-luck |
 | Marx at the Margins: On Nationalism, Ethnicity, and Non-Western Societies | Kevin B. Anderson | 2010 | U.S. | 336 | nonfiction, sociology, politics, philosophy, history, economics | 4.27 | 164 | 7619408 | https://www.goodreads.com/book/show/7619408-marx-at-the-margins |
 | Ida: A Sword Among Lions | Paula J. Giddings | 2008 | U.S. | 800 | nonfiction, politics, biography, history, feminism, race | 4.27 | 946 | 1126292 | https://www.goodreads.com/book/show/1126292.Ida |
+| Pleasure Activism: The Politics of Feeling Good | Adrienne Maree Brown | 2019 | U.S. | 441 | nonfiction, feminism, politics, social justice, essays | 4.23 | 9175 | 40549668 | https://www.goodreads.com/book/show/40549668-pleasure-activism |
 | Old Man’s War | John Scalzi | 2005 | U.S. | 318 | war, space opera, sci-fi, old-man’s-war-1, [owned], [audio available] | 4.23 | 216658 | 36510196 | https://www.goodreads.com/book/show/36510196-old-man-s-war |
 | The Consuming Fire | John Scalzi | 2018 | U.S. | 304 | speculative, space opera, sci-fi, the-interdependency-2, [owned] | 4.22 | 36040 | 34942741 | https://www.goodreads.com/book/show/34942741-the-consuming-fire |
 | M. R. James: The Complete Supernatural Stories | M.R. James | 1936 | U.K. | 277 | classics horror, fantasy, horror | 4.22 | 85 | 40215184 | https://www.goodreads.com/book/show/40215184-m-r-james |
@@ -65,6 +66,7 @@
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 128 | literary, short stories, contemporary | 3.94 | 25229 | 126262032 | https://www.goodreads.com/book/show/126262032-so-late-in-the-day |
 | An Informal History of the Hugos: A Personal Look Back at the Hugo Awards, 1953-2000 | Jo Walton | 2018 | U.K. | 576 | nonfiction, essays, history | 3.94 | 308 | 31702806 | https://www.goodreads.com/book/show/31702806-an-informal-history-of-the-hugos |
 | After the Coup | John Scalzi | 2008 | U.S. | 26 | sci-fi, space opera, short stories, humor, old-man’s-war-4.5, [owned] | 3.94 | 3999 | 8627906 | https://www.goodreads.com/book/show/8627906-after-the-coup |
+| ... y no se lo tragó la tierra ... and the Earth Did Not Devour Him | Tomás Rivera | 1971 | U.S. | 208 | classics, short stories | 3.94 | 2768 | 503215 | https://www.goodreads.com/book/show/503215._y_no_se_lo_trag_la_tierra_and_the_Earth_Did_Not_Devour_Him |
 | Octavia’s Brood: Science Fiction Stories from Social Justice Movements | Adrienne Maree Brown | 2015 | U.S. | 296 | sci-fi, fantasy, short stories, speculative, social justice | 3.93 | 4244 | 23129839 | https://www.goodreads.com/book/show/23129839-octavia-s-brood |
 | Of Cattle and Men | Ana Paula Maia | 2013 | Brazil | 99 | literary, horror, novella, feminism, contemporary, Republic of Consciousness | 3.92 | 2388 | 63903384 | https://www.goodreads.com/book/show/63903384-of-cattle-and-men |
 | Johnny Mad Dog | Emmanuel Dongala | 2002 | Republic of Congo | 336 | war, historical, unread-country | 3.92 | 427 | 321441 | https://www.goodreads.com/book/show/321441.Johnny_Mad_Dog |
@@ -117,6 +119,7 @@
 | Fifteen Seconds without Sorrow | Shim Bo-Seon | 2016 | South Korea | 84 | poetry, [hoopla] | 3.60 | 10 | 31153679 | https://www.goodreads.com/book/show/31153679-fifteen-seconds-without-sorrow |
 | Your Republic Is Calling You | Young-ha Kim | 2006 | South Korea | 326 | espionage, thriller, mystery | 3.59 | 1801 | 8131789 | https://www.goodreads.com/book/show/8131789-your-republic-is-calling-you |
 | Stone Dreams: A Novel-Requiem | Akram Aylisli | 2012 | Azerbaijan | 141 | literary, historical, unread-country | 3.59 | 416 | 61550284 | https://www.goodreads.com/book/show/61550284-stone-dreams |
+| Mess-Mend: Yankees in Petrograd | Marietta Shaginyan | 1924 | Russia | 268 | sci-fi | 3.57 | 54 | 579476 | https://www.goodreads.com/book/show/579476.Mess_Mend |
 | Summer of the Big Bachi | Naomi Hirahara | 2004 | U.S. | 287 | crime, historical, mystery, Pasadena, mas-arai-1 | 3.55 | 1146 | 54566 | https://www.goodreads.com/book/show/54566.Summer_of_the_Big_Bachi |
 | Leiningen Versus the Ants | Carl Stephenson | 1938 | Austria | 16 | classics, short stories, adventure, [owned] | 3.55 | 328 | 6413738 | https://www.goodreads.com/book/show/6413738-leiningen-versus-the-ants |
 | In the Café of Lost Youth | Patrick Modiano | 2007 | France | 153 | classics, literary, contemporary, Nobel Prize | 3.53 | 14144 | 31839659 | https://www.goodreads.com/book/show/31839659-in-the-caf-of-lost-youth |

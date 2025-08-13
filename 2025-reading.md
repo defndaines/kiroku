@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Maid and the Crocodile | Jordan Ifueko | 2024 | U.S., Nigeria | 5.0 | audio | 304 | YA, romantasy, romance, fantasy |
 | Exit Strategy | Martha Wells | 2018 | U.S. | 4.0 | audio | 172 | sci-fi, novella |
 | Misinterpretation | Ledia Xhoga | 2024 | Albania, U.S. | 4.0 | audio | 304 | literary, contemporary, mental health |
 | A Drop of Corruption | Robert Jackson Bennett | 2025 | U.S. | 4.5 | audio | 465 | fantasy, mystery, thriller |
