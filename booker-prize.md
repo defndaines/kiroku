@@ -9,9 +9,9 @@ five-person panel consisting of authors, publishers and journalists, as well
 as politicians, actors, artists and musicians, is appointed by the Booker
 Prize Foundation each year to choose the winning book.
 
-Count: 11
+Count: 12
 
-## Booker Prize (7)
+## Booker Prize (8)
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -56,7 +56,7 @@ Count: 11
 - [ ] 2006: Kiran Desai _The Inheritance of Loss_
 - [ ] 2007: Anne Enright _The Gathering_
 - [x] 2008: Aravind Adiga _The White Tiger_
-- [ ] 2009: Hilary Mantel _Wolf Hall_
+- [x] 2009: Hilary Mantel _Wolf Hall_
 - [ ] 2010: Howard Jacobson _The Finkler Question_
 - [ ] 2011: Julian Barnes _The Sense of an Ending_
 - [ ] 2012: Hilary Mantel _Bring Up the Bodies_

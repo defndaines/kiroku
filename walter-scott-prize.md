@@ -12,9 +12,9 @@ The winner is announced each June at the Borders Book Festival in Melrose.
 
 https://www.walterscottprize.co.uk/
 
-Count: 0
+Count: 1
 
-- [ ] 2010: Hilary Mantel _Wolf Hall_
+- [x] 2010: Hilary Mantel _Wolf Hall_
 - [ ] 2011: Andrea Levy _The Long Song_
 - [ ] 2012: Sebastian Barry _On Canaan’s Side_
 - [ ] 2013: Tan Twan Eng _The Garden of Evening Mists_

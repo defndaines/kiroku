@@ -21,6 +21,7 @@
 | Ripening: Selected Work, 1927-1980 | Meridel Le Sueur | 1982 | U.S. | 291 | feminism, [not owned] | 4.40 | 48 | 1261244 | https://www.goodreads.com/book/show/1261244.Ripening |
 | Song of Arirang: The Story of a Korean Rebel Revolutionary in China | Nym Wales | 1973 | U.S. | 512 | nonfiction, history, politics, biography | 4.39 | 64 | 38814142 | https://www.goodreads.com/book/show/38814142-song-of-arirang |
 | Wolves: Behavior, Ecology, and Conservation | L. David Mech | 2003 | U.S. | 472 | nonfiction, nature, science, natural history | 4.38 | 226 | 890201 | https://www.goodreads.com/book/show/890201.Wolves |
+| The Enduring Wild: A Journey Into California’s Public Lands | Josh Jackson | 2025 | U.S. | 264 | nonfiction, nature, memoir | 4.37 | 30 | 215056366 | https://www.goodreads.com/book/show/215056366-the-enduring-wild |
 | The Book of Night Women | Marlon James | 2009 | Jamaica | 417 | literary, historical, race, Black, [audio available] | 4.37 | 14808 | 4682558 | https://www.goodreads.com/book/show/4682558-the-book-of-night-women |
 | If It Sounds Good, It Is Good: Seeking Subversion, Transcendence, and Solace in America’s Music | Richard Manning | 2020 | U.S. | 320 | nonfiction, music | 4.36 | 14 | 53052170 | https://www.goodreads.com/book/show/53052170-if-it-sounds-good-it-is-good |
 | The Wretched of the Earth | Frantz Fanon | 1961 | Martinique | 251 | nonfiction, history, politics, race, unread-country | 4.34 | 30605 | 66933 | https://www.goodreads.com/book/show/66933.The_Wretched_of_the_Earth |
@@ -108,6 +109,7 @@
 | Binti: The Complete Trilogy | Nnedi Okorafor | 2015 | U.S. | 368 | fantasy, sci-fi, novella, short stories, YA, binti, Hugo Award, partial reread | 4.03 | 6852 | 48637511 | https://www.goodreads.com/book/show/48637511-binti |
 | A Scanner Darkly | Philip K. Dick | 1977 | U.S. | 324 | classics, cyberpunk, dystopian, sci-fi, [audio hoopla] | 4.03 | 108216 | 14817 | https://www.goodreads.com/book/show/14817.A_Scanner_Darkly |
 | Three Times Lucky | Sheila Turnage | 2012 | U.S. | 312 | mystery, YA, mo-&-dale-mysteries-1 | 4.02 | 25750 | 11737313 | https://www.goodreads.com/book/show/11737313-three-times-lucky |
+| The Gryphon King | Sara Omer | 2025 | U.S. | 464 | fantasy, queer, LGBT, the-chaos-constellation-1, [audio available] | 4.02 | 155 | 216461825 | https://www.goodreads.com/book/show/216461825-the-gryphon-king |
 | Spirit Hunters | Ellen Oh | 2017 | U.S. | 281 | horror, paranormal, fantasy, mystery, YA, spirit-hunters-1 | 4.01 | 3841 | 25117605 | https://www.goodreads.com/book/show/25117605-spirit-hunters |
 | Shipwrecks | Akira Yoshimura | 1982 | Japan | 180 | literary, historical | 4.01 | 2981 | 1140987 | https://www.goodreads.com/book/show/1140987.Shipwrecks |
 | I Rode a Horse of Milk White Jade | Diane Lee Wilson | 1998 | U.S. | 272 | historical, adventure, YA | 4.01 | 1547 | 7850119 | https://www.goodreads.com/book/show/7850119-i-rode-a-horse-of-milk-white-jade |

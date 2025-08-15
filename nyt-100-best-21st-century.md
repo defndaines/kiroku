@@ -6,7 +6,7 @@ As voted on by 503 novelists, nonfiction writers, poets, critics and other
 book lovers—with a little help from the staff of _The New York Times Book
 Review_.
 
-Count: 20
+Count: 21
 
 - [ ] 100: _Tree of Smoke_ Denis Johnson, 2004
 - [ ] 99: _How to Be Both_ Ali Smith, 2014
@@ -105,7 +105,7 @@ Count: 20
 - [ ] 6: _2666_ Roberto Bolaño; translated by Natasha Wimmer, 2004
 - [ ] 5: _The Corrections_ Jonathan Franzen, 2001
 - [ ] 4: _The Known World_ Edward P. Jones, 2003
-- [ ] 3: _Wolf Hall_ Hilary Mantel, 2009
+- [x] 3: _Wolf Hall_ Hilary Mantel, 2009
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
 - [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012
 
