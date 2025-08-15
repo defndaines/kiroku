@@ -14,6 +14,7 @@
 | A Little Luck | Claudia Piñeiro | 2015 | Argentina | 211 | literary, thriller, mystery, contemporary, crime | 4.28 | 8554 | 75582270 | https://www.goodreads.com/book/show/75582270-a-little-luck |
 | Marx at the Margins: On Nationalism, Ethnicity, and Non-Western Societies | Kevin B. Anderson | 2010 | U.S. | 336 | nonfiction, sociology, politics, philosophy, history, economics | 4.27 | 163 | 7619408 | https://www.goodreads.com/book/show/7619408-marx-at-the-margins |
 | Ida: A Sword Among Lions | Paula J. Giddings | 2008 | U.S. | 800 | nonfiction, politics, biography, history, feminism, race | 4.27 | 946 | 1126292 | https://www.goodreads.com/book/show/1126292.Ida |
+| The Unquiet Earth | Denise Giardina | 1992 | U.S. | 3339 | historical | 4.24 | 734 | 690266 | https://www.goodreads.com/book/show/690266.The_Unquiet_Earth |
 | Old Man’s War | John Scalzi | 2005 | U.S. | 318 | war, space opera, sci-fi, old-man’s-war-1, [owned], [audio available] | 4.23 | 217143 | 36510196 | https://www.goodreads.com/book/show/36510196-old-man-s-war |
 | The Consuming Fire | John Scalzi | 2018 | U.S. | 304 | speculative, space opera, sci-fi, the-interdependency-2, [owned] | 4.22 | 36145 | 34942741 | https://www.goodreads.com/book/show/34942741-the-consuming-fire |
 | Lili Is Crying | Hélène Bessette | 2025 | France | 192 | contemporary | 4.22 | 79 | 219299662 | https://www.goodreads.com/book/show/219299662-lili-is-crying |
@@ -41,6 +42,7 @@
 | The Tale of the Heike | Anonymous | 1219 | Japan | 734 | classics, poetry, historical | 4.05 | 1554 | 13589162 | https://www.goodreads.com/book/show/13589162-the-tale-of-the-heike |
 | Night Prayers | Santiago Gamboa | 2012 | Colombia | 320 | thriller, mystery, contemporary, crime | 4.05 | 1253 | 25734302 | https://www.goodreads.com/book/show/25734302-night-prayers |
 | Mis(h)adra | Iasmin Omar Ata | 2017 | U.S. | 288 | graphic novels, disability, mental health, Arab-American | 4.04 | 1334 | 34466927 | https://www.goodreads.com/book/show/34466927-mis-h-adra |
+| Mean Spirit | Linda Hogan | 1990 | U.S. | 384 | historical, Native American, indigenous, mystery | 4.04 | 1689 | 530878 | https://www.goodreads.com/book/show/530878.Mean_Spirit |
 | The Steerswoman | Rosemary Kirstein | 1989 | U.S. | 279 | fantasy, sci-fi, mystery, speculative, the-steerswoman-1 | 4.03 | 3748 | 793297 | https://www.goodreads.com/book/show/793297.The_Steerswoman |
 | The Borrowers | Mary Norton | 1952 | U.K. | 180 | classics, YA, adventure, fantasy, the-borrowers-1 | 4.03 | 100305 | 348573 | https://www.goodreads.com/book/show/348573.The_Borrowers |
 | Factories in the Field: The Story of Migratory Farm Labor in California | Carey McWilliams | 1969 | U.S. | 366 | nonfiction, food, history, economics, labor | 4.03 | 72 | 614698 | https://www.goodreads.com/book/show/614698.Factories_in_the_Field |

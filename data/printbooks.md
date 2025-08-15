@@ -2,6 +2,7 @@
 | --- | --- | :---: | --- | ---: | --- | :---: | ---: | --- | --- |
 | The Diary of Curious Cuthbert | Jack Challoner | 2017 | U.K. | 122 | YA, poetry | 5.00 | 3 | 36827687 | https://www.goodreads.com/book/show/36827687-the-diary-of-curious-cuthbert |
 | Ka’m-t’em: A Journey Toward Healing | Kishan Lara-Cooper, Walter J. Lara Sr. | 2019 | U.S., Yurok | 356 | nonfiction, essays, religion, sociology | 4.67 | 18 | 46120799 | https://www.goodreads.com/book/show/46120799-ka-m-t-em |
+| Reading Blue Devils: A Novel | Jon Bennett | 2018 | U.S. | 296 | contemporary, high school, Ohio, [not owned] | 4.63 | 8 | 36501912 | https://www.goodreads.com/book/show/36501912-reading-blue-devils |
 | Copaganda: How Police and the Media Manipulate Our News | Alec Karakatsanis | 2025 | U.S. | 432 | nonfiction, politics, social justice, police, crime | 4.63 | 128 | 206303786 | https://www.goodreads.com/book/show/206303786-copaganda |
 | Under the Thumb: Stories of Police Oppression | S.A. Cosby | 2021 | U.S. | 239 | nonfiction, essays, race | 4.60 | 25 | 59691919 | https://www.goodreads.com/book/show/59691919-under-the-thumb |
 | Caliban and the Witch: Women, the Body and Primitive Accumulation | Silvia Federici | 2004 | Italy | 288 | nonfiction, feminism, history, politics, sociology | 4.56 | 12680 | 403846 | https://www.goodreads.com/book/show/403846.Caliban_and_the_Witch |
@@ -14,7 +15,10 @@
 | For Dignity, Justice, and Revolution: An Anthology of Japanese Proletarian Literature | Norma Field (editor), Heather Bowen-Struyk (editor) | 2012 | Japan | 488 | literary, short stories, proletarian literature | 4.44 | 16 | 13210055 | https://www.goodreads.com/book/show/13210055-for-dignity-justice-and-revolution |
 | The Essential Neruda: Selected Poems | Pablo Neruda | 2004 | Chile | 200 | classics, poetry, Nobel Prize, reread | 4.42 | 6553 | 5931 | https://www.goodreads.com/book/show/5931.The_Essential_Neruda |
 | Laozi’s Dao De Jing: A New Interpretation for a Transformative Time | Ken Liu (adapter/translator), Lao Tzu | 2024 | China | 176 | nonfiction, classics, philosophy, poetry | 4.42 | 209 | 199797958 | https://www.goodreads.com/book/show/199797958-laozi-s-dao-de-jing |
+| Indignant Heart, A Black Worker’s Journal | Charles Denby | 1978 | U.S. | 295 | nonfiction, labor, history, politics, [not owned] | 4.42 | 19 | 3890522 | https://www.goodreads.com/book/show/3890522-indignant-heart-a-black-worker-s-journal |
 | The German Revolution, 1917-1923 | Pierre Broué | 1971 | France, Germany | 991 | nonfiction, history, politics, WWI, historical-materialism-5 | 4.41 | 126 | 184901 | https://www.goodreads.com/book/show/184901.The_German_Revolution_1917_1923 |
+| Rugged Road | Theresa Wallach | 2001 | U.K. | 152 | nonfiction, travel, 1935, [not owned] | 4.41 | 44 | 12407934 | https://www.goodreads.com/book/show/12407934-the-rugged-road |
+| Ripening: Selected Work, 1927-1980 | Meridel Le Sueur | 1982 | U.S. | 291 | feminism, [not owned] | 4.40 | 48 | 1261244 | https://www.goodreads.com/book/show/1261244.Ripening |
 | Song of Arirang: The Story of a Korean Rebel Revolutionary in China | Nym Wales | 1973 | U.S. | 512 | nonfiction, history, politics, biography | 4.39 | 64 | 38814142 | https://www.goodreads.com/book/show/38814142-song-of-arirang |
 | Wolves: Behavior, Ecology, and Conservation | L. David Mech | 2003 | U.S. | 472 | nonfiction, nature, science, natural history | 4.38 | 226 | 890201 | https://www.goodreads.com/book/show/890201.Wolves |
 | The Book of Night Women | Marlon James | 2009 | Jamaica | 417 | literary, historical, race, Black, [audio available] | 4.37 | 14808 | 4682558 | https://www.goodreads.com/book/show/4682558-the-book-of-night-women |
@@ -23,11 +27,14 @@
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 214 | classics, historical, race, Black | 4.34 | 755 | 15346902 | https://www.goodreads.com/book/show/15346902-the-stone-face |
 | Half of a Yellow Sun | Chimamanda Ngozi Adichie | 2006 | Nigeria | 448 | historical, war | 4.34 | 176502 | 576650 | https://www.goodreads.com/book/show/576650.Half_of_a_Yellow_Sun |
 | On the Origin of Species and Other Stories | Kim Bo-young | 2021 | South Korea | 224 | sci-fi, short stories, fantasy, horror, Korea | 4.32 | 838 | 55528293 | https://www.goodreads.com/book/show/55528293-on-the-origin-of-species-and-other-stories |
+| Karl Marx and Friedrich Engels | David Riazanov | 1923 | Russia | 240 | nonfiction, history, biography, politics, [not owned] | 4.32 | 85 | 332207 | https://www.goodreads.com/book/show/332207.Karl_Marx_and_Friedrich_Engels |
 | Disnaeland | D.D. Johnston | 2022 | Scotland | 373 | sci-fi, Scots | 4.32 | 68 | 60859321 | https://www.goodreads.com/book/show/60859321-disnaeland |
 | Capital: Critique of Political Economy, Volume 1 | Karl Marx | 1887 | kingdom of Prussia | 944 | nonfiction, classics, economics, politics, history, reread | 4.32 | 2163 | 201604423 | https://www.goodreads.com/book/show/201604423-capital |
 | The Fort | Gordon Korman | 2022 | Canada | 256 | adventure, YA | 4.31 | 5327 | 58719134 | https://www.goodreads.com/book/show/58719134-the-fort |
 | DMZ Colony | Don Mee Choi | 2020 | South Korea | 128 | nonfiction, poetry, history, politics, memoir, essays | 4.31 | 1196 | 51819851 | https://www.goodreads.com/book/show/51819851-dmz-colony |
+| Carla Rising | Topper Sherwood | 2015 | U.S. | 294 | historical, [not owned] | 4.30 | 20 | 25278563 | https://www.goodreads.com/book/show/25278563-carla-rising |
 | A People’s Guide to Capitalism: An Introduction to Marxist Economics | Hadas Thier | 2018 | U.S. | 300 | nonfiction, history, economics, sociology, politics, social justice | 4.30 | 1210 | 52365259 | https://www.goodreads.com/book/show/52365259-a-people-s-guide-to-capitalism |
+| Pilgrimage: The Book of the People | Zenna Henderson | 1961 | U.S. | 255 | classics, sci-fi, fantasy, short stories, speculative, [not owned, [not owned]] | 4.29 | 1508 | 491889 | https://www.goodreads.com/book/show/491889.Pilgrimage |
 | Prairie Lotus | Linda Sue Park | 2020 | U.S. | 260 | historical, YA | 4.28 | 8909 | 44230407 | https://www.goodreads.com/book/show/44230407-prairie-lotus |
 | Wobblies on the Waterfront: Interracial Unionism in Progressive-Era Philadelphia | Peter Cole | 2007 | U.S., Israel | 256 | nonfiction, history, labor, politics, race, the-working-class-in-american-history | 4.27 | 33 | 1597435 | https://www.goodreads.com/book/show/1597435.Wobblies_on_the_Waterfront |
 | This Blinding Absence of Light | Tahar Ben Jelloun | 2001 | Morocco | 195 | historical | 4.27 | 13307 | 20870778 | https://www.goodreads.com/book/show/20870778-this-blinding-absence-of-light |
@@ -42,6 +49,7 @@
 | Socialism and the Irish Rebellion: Writings from James Connolly | James Connolly | 2008 | Ireland | 263 | nonfiction, history, politics | 4.24 | 62 | 5919343 | https://www.goodreads.com/book/show/5919343-socialism-and-the-irish-rebellion |
 | NAM: The Vietnam War in the Words of the Men and Women Who Fought There | Mark Baker | 1981 | U.S. | 324 | nonfiction, history, war, biography | 4.24 | 1250 | 63582 | https://www.goodreads.com/book/show/63582.NAM |
 | The Seven Necessary Sins for Women and Girls | Mona Eltahawy | 2019 | Egypt | 216 | nonfiction, feminism, politics, social justice, essays | 4.21 | 3110 | 43427042 | https://www.goodreads.com/book/show/43427042-the-seven-necessary-sins-for-women-and-girls |
+| The Diversity of Life | Edward O. Wilson | 1992 | U.S. | 432 | nonfiction, science, biology, nature, evolution, [not owned] | 4.21 | 6190 | 503051 | https://www.goodreads.com/book/show/503051.The_Diversity_of_Life |
 | More to the Story | Hena Khan | 2019 | U.S. | 272 | retelling, contemporary, YA | 4.21 | 2079 | 43822031 | https://www.goodreads.com/book/show/43822031-more-to-the-story |
 | Lore Isle | Jiin Kim | 2023 | Canada | 304 | fantasy, YA | 4.21 | 24 | 67956322 | https://www.goodreads.com/book/show/67956322-lore-isle |
 | James P. Cannon and the Origins of the American Revolutionary Left, 1890-1928 | Bryan D. Palmer | 2007 | U.S. | 576 | nonfiction, history, labor, politics, biography | 4.21 | 19 | 156528 | https://www.goodreads.com/book/show/156528.James_P_Cannon_and_the_Origins_of_the_American_Revolutionary_Left_1890_1928 |
@@ -53,11 +61,13 @@
 | Asia’s Unknown Uprisings Volume 1: South Korean Social Movements in the 20th Century | George Katsiaficas | 2012 | U.S. | 480 | nonfiction, history, politics | 4.17 | 47 | 12784437 | https://www.goodreads.com/book/show/12784437-asia-s-unknown-uprisings-volume-1 |
 | The Coming of Conan the Cimmerian | Robert E. Howard | 2002 | U.S. | 496 | classics, fantasy, sword and sorcery, adventure, short stories, conan-the-cimmerian-1, [audio available] | 4.16 | 14497 | 33482 | https://www.goodreads.com/book/show/33482.The_Coming_of_Conan_the_Cimmerian |
 | Dark Matter: A Century of Speculative Fiction from the African Diaspora | Sheree Renée Thomas, W.E.B. Du Bois, Kalamu ya Salaam | 2000 | U.S. | 427 | sci-fi, short stories, fantasy, speculative, race, Black, dark-matter | 4.16 | 1434 | 510342 | https://www.goodreads.com/book/show/510342.Dark_Matter |
+| Accidental Death of an Anarchist | Dario Fo | 1970 | Italy | 176 | classics, play, [not owned] | 4.16 | 5957 | 72957 | https://www.goodreads.com/book/show/72957.Accidental_Death_of_an_Anarchist |
 | The Book of the Unnamed Midwife | Meg Elison | 2014 | U.S. | 291 | sci-fi, apocalyptic, feminism, dystopian, post-apocalyptic, the-road-to-nowhere-1 | 4.15 | 25626 | 29806086 | https://www.goodreads.com/book/show/29806086-the-book-of-the-unnamed-midwife |
 | Emplumada | Lorna Dee Cervantes | 1981 | U.S. | 80 | nonfiction, poetry, indigenous | 4.15 | 304 | 531514 | https://www.goodreads.com/book/show/531514.Emplumada |
 | Dawn | Octavia E. Butler | 1987 | U.S. | 320 | sci-fi, post-apocalyptic, dystopian, fantasy, feminism, xenogenesis-1, [audio available] | 4.15 | 60534 | 54817568 | https://www.goodreads.com/book/show/54817568-dawn |
 | When You Trap a Tiger | Tae Keller | 2020 | U.S. | 297 | fantasy, magical realism, YA, Korean mythology, [audio available] | 4.14 | 19612 | 44901877 | https://www.goodreads.com/book/show/44901877-when-you-trap-a-tiger |
 | The Prison Industry: How It Works and Who Profits | Bianca Tylek, Worth Rises | 2025 | U.S. | 260 | nonfiction, politics | 4.14 | 7 | 207453290 | https://www.goodreads.com/book/show/207453290-the-prison-industry |
+| The Exploits of Engelbrecht: Abstracted from the Chronicles of the Surrealist Sportsman’s Club | Maurice Richardson | 1950 | U.K. | 208 | fantasy, short stories, [not owned] | 4.14 | 86 | 1681402 | https://www.goodreads.com/book/show/1681402.The_Exploits_of_Engelbrecht |
 | The Tombs of Atuan | Ursula K. Le Guin | 1971 | U.S. | 180 | classics, fantasy, YA, earthsea-cycle-2 | 4.13 | 130577 | 13662 | https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan |
 | The Farthest Shore | Ursula K. Le Guin | 1972 | U.S. | 259 | classics, fantasy, YA, earthsea-cycle-3 | 4.13 | 122943 | 13667 | https://www.goodreads.com/book/show/13667.The_Farthest_Shore |
 | The Bluest Eye | Toni Morrison | 1970 | U.S. | 216 | classics, historical, race, Black | 4.13 | 288187 | 11337 | https://www.goodreads.com/book/show/11337.The_Bluest_Eye |
@@ -122,6 +132,7 @@
 | History of the Peloponnesian War | Thucydides | 411 BCE | Athens | 172 | nonfiction, classics, history, politics, war, [audio hoopla] | 3.94 | 39936 | 261243 | https://www.goodreads.com/book/show/261243.History_of_the_Peloponnesian_War |
 | Hana Khan Carries On | Uzma Jalaluddin | 2021 | Canada | 367 | contemporary, romance, [audio available] | 3.94 | 13220 | 53746115 | https://www.goodreads.com/book/show/53746115-hana-khan-carries-on |
 | Bel Canto | Ann Patchett | 2001 | U.S. | 318 | literary, music, contemporary, historical, Womens Prize, [audio available] | 3.94 | 312402 | 5826 | https://www.goodreads.com/book/show/5826.Bel_Canto |
+| Westmark | Lloyd Alexander | 1981 | U.S. | 184 | fantasy, YA, westmark-1, [not owned] | 3.93 | 4841 | 24783 | https://www.goodreads.com/book/show/24783.Westmark |
 | Mixed Up | Gordon Korman | 2023 | Canada | 256 | fantasy, sci-fi, mystery, YA | 3.93 | 1444 | 61780002 | https://www.goodreads.com/book/show/61780002-mixed-up |
 | Holding the Line: Women in the Great Arizona Mine Strike of 1983 | Barbara Kingsolver | 1989 | U.S. | 213 | nonfiction, history, labor, feminism, social justice, gender | 3.93 | 1057 | 25459 | https://www.goodreads.com/book/show/25459.Holding_the_Line |
 | Gardens of the Moon | Steven Erikson | 1999 | Canada | 666 | fantasy, malazan-book-of-the-fallen-1 | 3.93 | 132133 | 55399 | https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon |
@@ -137,6 +148,7 @@
 | Flush | Carl Hiaasen | 2005 | U.S. | 263 | mystery, YA, humor | 3.89 | 32568 | 13067 | https://www.goodreads.com/book/show/13067.Flush |
 | Three Plays: An Enemy of the People / The Wild Duck / Rosmersholm | Henrik Ibsen | 1971 | Norway | 352 | classics, play | 3.88 | 188 | 246036 | https://www.goodreads.com/book/show/246036.Three_Plays |
 | The Last Dragonslayer | Jasper Fforde | 2010 | U.K. | 287 | humor, adventure, fantasy, YA, the-last-dragonslayer-1 | 3.88 | 22856 | 13316328 | https://www.goodreads.com/book/show/13316328-the-last-dragonslayer |
+| The Haygoods of Columbus: A Love Story | Wil Haygood | 1997 | U.S. | 360 | biography, memoir, [not owned] | 3.88 | 42 | 513543 | https://www.goodreads.com/book/show/513543.The_Haygoods_of_Columbus |
 | The Flat Woman | Vanessa Saunders | 2024 | U.S. | 149 | dystopian, sci-fi, speculative, feminism, climate change | 3.88 | 51 | 208433179 | https://www.goodreads.com/book/show/208433179-the-flat-woman |
 | Strawberry Girl | Lois Lenski | 1945 | U.S. | 208 | classics, historical, YA | 3.88 | 13812 | 42447 | https://www.goodreads.com/book/show/42447.Strawberry_Girl |
 | The Figaro Trilogy | Pierre de Beaumarchais | 1775 | France | 352 | classics, play | 3.87 | 519 | 4356654 | https://www.goodreads.com/book/show/4356654-the-figaro-trilogy |
@@ -144,6 +156,7 @@
 | The Death of Artemio Cruz | Carlos Fuentes | 1962 | Panama, Mexico | 307 | classics, literary | 3.86 | 11455 | 12764 | https://www.goodreads.com/book/show/12764.The_Death_of_Artemio_Cruz |
 | Olive Kitteridge | Elizabeth Strout | 2008 | U.S. | 286 | literary, contemporary, short stories, olive-kitteridge-1, Pulitzer Prize, [audio available] | 3.86 | 259693 | 5552635 | https://www.goodreads.com/book/show/5552635-olive-kitteridge |
 | Forest of Wonders | Linda Sue Park | 2016 | U.S. | 343 | adventure, fantasy, wing-&-claw-1, YA | 3.86 | 1281 | 25817038 | https://www.goodreads.com/book/show/25817038-forest-of-wonders |
+| The Ice Palace | Tarjei Vesaas | 1963 | Norway | 176 | literary, classics, [not owned] | 3.85 | 13847 | 138110 | https://www.goodreads.com/book/show/138110.The_Ice_Palace |
 | At the End of the Matinee | Keiichirō Hirano | 2016 | Japan | 312 | literary, contemporary, romance | 3.85 | 2920 | 55156106 | https://www.goodreads.com/book/show/55156106-at-the-end-of-the-matinee |
 | Let Sleeping Dragons Lie | Garth Nix, Sean Williams | 2018 | Australia | 272 | adventure, fantasy, YA, have-sword-will-travel-2 | 3.84 | 390 | 37825398 | https://www.goodreads.com/book/show/37825398-let-sleeping-dragons-lie |
 | Go for Beginners | Kaoru Iwamoto | 1972 | Japan | 160 | nonfiction, games | 3.84 | 306 | 1371689 | https://www.goodreads.com/book/show/1371689.Go_for_Beginners |
@@ -153,8 +166,10 @@
 | The Odyssey | Homer | 701 BCE | Greece | 582 | classics, literary, poetry, mythology, fantasy | 3.82 | 1156709 | 1381 | https://www.goodreads.com/book/show/1381.The_Odyssey |
 | The Map That Changed the World: William Smith and the Birth of Modern Geology | Simon Winchester | 2001 | U.K. | 329 | nonfiction, history, science, biography, geology, geography, [audio hoopla] | 3.82 | 13927 | 25014 | https://www.goodreads.com/book/show/25014.The_Map_That_Changed_the_World |
 | Flight Behavior | Barbara Kingsolver | 2012 | U.S. | 436 | literary, contemporary, nature | 3.82 | 100182 | 13438524 | https://www.goodreads.com/book/show/13438524-flight-behavior |
+| Puerto Rico under Colonial Rule: Political Persecution and the Quest for Human Rights | Ramon Bosque-Perez | 2005 | Puerto Rico | 270 | nonfiction, history, [not owned] | 3.81 | 27 | 1124026 | https://www.goodreads.com/book/show/1124026.Puerto_Rico_under_Colonial_Rule |
 | Geeks, Girls and Secret Identities | Mike Jung | 2012 | U.S. | 307 | sci-fi, fantasy, superheroes, humor, YA | 3.81 | 507 | 12606292 | https://www.goodreads.com/book/show/12606292-geeks-girls-and-secret-identities |
 | Frogkisser! | Garth Nix | 2017 | Australia | 374 | adventure, fantasy, YA | 3.81 | 6530 | 29736231 | https://www.goodreads.com/book/show/29736231-frogkisser |
+| Dreamweaver's Dilemma | Lois McMaster Bujold | 1996 | U.S. | 252 | sci-fi, short stories, fantasy, Hugo Award, vorkosigan-saga-9.1, [not owned] | 3.80 | 1589 | 990089 | https://www.goodreads.com/book/show/990089.Dreamweaver_s_Dilemma |
 | Out of This Furnace | Thomas Bell | 1941 | U.S. | 424 | labor, historical | 3.79 | 1832 | 133404 | https://www.goodreads.com/book/show/133404.Out_of_This_Furnace |
 | The Case of the Missing Marquess | Nancy Springer | 2006 | U.S. | 216 | mystery, YA, historical, enola-holmes-1 | 3.78 | 42416 | 606928 | https://www.goodreads.com/book/show/606928.The_Case_of_the_Missing_Marquess |
 | Paradise of the Blind | Dương Thu Hương | 1988 | Vietnam | 270 | classics, historical | 3.78 | 2967 | 53629 | https://www.goodreads.com/book/show/53629.Paradise_of_the_Blind |
@@ -162,13 +177,14 @@
 | The Iron Heel | Jack London | 1908 | U.S. | 304 | dystopian, classics, sci-fi, politics | 3.77 | 11958 | 29659891 | https://www.goodreads.com/book/show/29659891-the-iron-heel |
 | Stargirl | Jerry Spinelli | 2000 | U.S. | 186 | contemporary, YA, romance, stargirl-1 | 3.77 | 334145 | 22232 | https://www.goodreads.com/book/show/22232.Stargirl |
 | Theogony / Works and Days | Hesiod | 700 BCE | Greece | 112 | classics, poetry, mythology | 3.76 | 15869 | 27418 | https://www.goodreads.com/book/show/27418.Theogony_Works_and_Days |
+| The Proletarian Wave: Literature and Leftist Culture in Colonial Korea, 1910–1945 | Sunyoung Park | 2014 | South Korea | 348 | politics, history, harvard-east-asian-monographs-374, [not owned] | 3.75 | 8 | 21878175 | https://www.goodreads.com/book/show/21878175-the-proletarian-wave |
 | Mission Child | Maureen F. McHugh | 1998 | U.S. | 385 | sci-fi, queer, speculative, LGBT | 3.75 | 513 | 1744634 | https://www.goodreads.com/book/show/1744634.Mission_Child |
-| Mission Child | Maureen F. McHugh | 1998 | U.S. | 370 | queer, speculative, LGBT, sci-fi, gender | 3.75 | 513 | 189111 | https://www.goodreads.com/book/show/189111.Mission_Child |
 | Bone Talk | Candy Gourlay | 2018 | Philippines | 256 | adventure, war, YA, historical | 3.75 | 955 | 39723033 | https://www.goodreads.com/book/show/39723033-bone-talk |
 | We’re Not Here to Entertain: Punk Rock, Ronald Reagan, and the Real Culture War of 1980s America | Kevin Mattson | 2020 | U.S. | 352 | nonfiction, history, politics, music, sociology, punk | 3.74 | 127 | 52048816 | https://www.goodreads.com/book/show/52048816-we-re-not-here-to-entertain |
 | The Seattle General Strike | Robert L. Friedheim | 1964 | U.S. | 296 | nonfiction, history, politics | 3.71 | 14 | 39871894 | https://www.goodreads.com/book/show/39871894-the-seattle-general-strike |
 | The Many and the Few: A Chronicle of the Dynamic Auto Workers | Henry Kraus | 1985 | U.S. | 328 | nonfiction, history, labor | 3.70 | 10 | 3144693 | https://www.goodreads.com/book/show/3144693-the-many-and-the-few |
 | The Case of Windy Lake | Michael Hutchinson | 2019 | Canada | 160 | mystery, indigenous, mighty-muskrats-1, YA | 3.69 | 339 | 41427830 | https://www.goodreads.com/book/show/41427830-the-case-of-windy-lake |
+| The Best of Judith Merril | Judith Merril | 1976 | U.S. | 254 | short stories, sci-fi, [not owned] | 3.69 | 32 | 587609 | https://www.goodreads.com/book/show/587609.The_Best_of_Judith_Merril |
 | Ink and Ashes | Valynne E. Maetani | 2015 | U.S. | 386 | mystery, YA, contemporary, thriller, romance | 3.69 | 1669 | 23009011 | https://www.goodreads.com/book/show/23009011-ink-and-ashes |
 | Bond of Iron: Master and Slave at Buffalo Forge | Charles B. Dew | 1994 | U.S. | 448 | nonfiction, labor, history | 3.69 | 39 | 3994083 | https://www.goodreads.com/book/show/3994083-bond-of-iron |
 | The Red Years: Theory, Politics, and Aesthetics in the Japanese ’68 | Gavin Walker | 2020 | Japan | 176 | nonfiction, history, politics | 3.66 | 44 | 42179279 | https://www.goodreads.com/book/show/42179279-the-red-years |
