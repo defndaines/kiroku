@@ -151,7 +151,6 @@
 | Three Plays: An Enemy of the People / The Wild Duck / Rosmersholm | Henrik Ibsen | 1971 | Norway | 352 | classics, play | 3.88 | 188 | 246036 | https://www.goodreads.com/book/show/246036.Three_Plays |
 | The Last Dragonslayer | Jasper Fforde | 2010 | U.K. | 287 | humor, adventure, fantasy, YA, the-last-dragonslayer-1 | 3.88 | 22856 | 13316328 | https://www.goodreads.com/book/show/13316328-the-last-dragonslayer |
 | The Haygoods of Columbus: A Love Story | Wil Haygood | 1997 | U.S. | 360 | biography, memoir, [not owned] | 3.88 | 42 | 513543 | https://www.goodreads.com/book/show/513543.The_Haygoods_of_Columbus |
-| The Flat Woman | Vanessa Saunders | 2024 | U.S. | 149 | dystopian, sci-fi, speculative, feminism, climate change | 3.88 | 51 | 208433179 | https://www.goodreads.com/book/show/208433179-the-flat-woman |
 | Strawberry Girl | Lois Lenski | 1945 | U.S. | 208 | classics, historical, YA | 3.88 | 13812 | 42447 | https://www.goodreads.com/book/show/42447.Strawberry_Girl |
 | The Figaro Trilogy | Pierre de Beaumarchais | 1775 | France | 352 | classics, play | 3.87 | 519 | 4356654 | https://www.goodreads.com/book/show/4356654-the-figaro-trilogy |
 | The Aeneid | Virgil | 19 BCE | Rome | 442 | classics, literary, poetry, mythology, fantasy, [audio hoopla] | 3.87 | 139140 | 12914 | https://www.goodreads.com/book/show/12914.The_Aeneid |

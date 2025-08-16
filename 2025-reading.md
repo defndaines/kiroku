@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Flat Woman | Vanessa Saunders | 2024 | U.S. | 4.0 | print | 149 | dystopian, sci-fi, speculative, feminism, climate change |
 | Wolf Hall | Hilary Mantel | 2009 | U.K. | 4.0 | audio | 653 | literary, historical, Booker Prize, Walter Scott Prize, National Book Critics Circle Award |
 | The Golden Compass | Philip Pullman | 1995 | U.K. | 4.5 | audio | 399 | fantasy, YA, reread |
 | Mutual Aid: Building Solidarity during This Crisis (and the Next) | Dean Spade | 2020 | U.S. | 4.5 | print | 152 | nonfiction, politics, social justice, sociology |
