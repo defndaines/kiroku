@@ -179,9 +179,9 @@ done
 
 ## TBR Documents
 
-cut -d \| -f 8 data/audiobooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
-cut -d \| -f 8 data/audiobooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
+cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
 
 cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
