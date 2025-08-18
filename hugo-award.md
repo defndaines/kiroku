@@ -11,7 +11,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 70
+Count: 71
 
 ## Novel (25)
 

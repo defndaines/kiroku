@@ -28,17 +28,18 @@ tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | 
 
 tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
 
+### Show ten most populous countries from which I haven’t year read a book
 grep '\[ ]' countries-read.md | head | sed 's/- \[ ] \([^:]*\).*/\1/'
 
-### Non-U.S. or U.K. works
+### Filter out the major English-native countries.
 
-tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | sort -u
+tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort -u
 
-tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | sort | uniq -c | sort -nr | head
+tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort | uniq -c | sort -nr | head
 
-### Count of non-U.S/U.K./Canada work
+### Count of non-U.S/U.K./Canada/Australia work
 
-tail -n +8 2025-reading.md | grep -v Canada | grep -vc "U\.[SK]\."
+tail -n +8 2025-reading.md | grep -v Canada | grep -v Australia | grep -vc "U\.[SK]\."
 
 ## Genres
 
@@ -62,7 +63,7 @@ tail -n +11 2025-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=
 
 ### Most common genres
 
-tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | grep -v "short story" | sort -nr | head
+tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | grep -v "short story" | grep -v "Hugo finalist" | sort -nr | head
 
 ## Formats
 
@@ -123,7 +124,7 @@ for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-
   great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
   mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
   nommo-award.md ohioana-book-award.md pulitzer-prize.md \
-  ursula-k-le-guin-prize.md walter-scott-prize.md  womens-prize.md \
+  ursula-k-le-guin-prize.md walter-scott-prize.md womens-prize.md \
   world-fantasy-award.md; do
   head -1 $award
   grep "^Count" $award
@@ -179,17 +180,17 @@ done
 
 ## TBR Documents
 
-cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
+cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v reread | grep -v novella | sort -n | tail
 
-cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v "owned" | sort -n | tail
+cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v "\[own]" | sort -n | tail
 
-cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | sort -n | tail
+cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | grep -v "not owned" | sort | uniq -c | sort -n | tail
 
 ### 10 short books
 
