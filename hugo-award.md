@@ -11,9 +11,9 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 71
+Count: 76
 
-## Novel (25)
+## Novel (26)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -96,9 +96,10 @@ Count: 71
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 - [ ] 2024: Emily Tesh _Some Desperate Glory_
+- [x] 2025: Robert Jackson Bennett _The Tainted Cup_
 <!-- Novel -->
 
-## Novella (10)
+## Novella (11)
 
 - [x] 1939: John W. Campbell “Who Goes There?”
 - [ ] 1941: ~Robert A. Heinlein “If This Goes On…”~
@@ -166,9 +167,10 @@ Count: 71
 - [x] 2022: Becky Chambers _A Psalm for the Wild-Built_
 - [ ] 2023: Seanan McGuire _Where the Drowned Girls Go_
 - [ ] 2024: Ursula Vernon _Thornhedge_
+- [x] 2025: Ray Nayler _The Tusks of Extinction_
 <!-- Novella -->
 
-## Novelette (5)
+## Novelette (6)
 
 - [ ] 1939: Clifford D. Simak “Rule 18”
 - [ ] 1941: ~Robert A. Heinlein “The Roads Must Roll”~
@@ -236,9 +238,10 @@ Count: 71
 - [ ] 2022: Suzanne Palmer ”Bots of the Lost Ark”
 - [ ] 2023: Hai Ya ”The Space-Time Painter”
 - [x] 2024: Naomi Kritzer “The Year Without Sunshine”
+- [x] 2025: Naomi Kritzer “The Four Sisters Overlooking the Sea”
 <!-- Novelette -->
 
-## Short Story (11)
+## Short Story (12)
 
 - [ ] 1939: Arthur C. Clarke “How We Went to Mars”
 - [ ] 1941: Isaac Asimov “Robbie”
@@ -317,9 +320,10 @@ Count: 71
 - [x] 2022: Sarah Pinsker “Where Oaken Hearts Do Gather”
 - [x] 2023: Samantha Mills “Rabbit Test”
 - [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
+- [x] 2025: Nghi Vo “Stitched to Skin Like Family Is”
 <!-- Short Story -->
 
-## Graphic Story (16)
+## Graphic Story (17)
 
 - [x] 1941: _Batman_ #1; Bill Finger, Bob Kane
 - [ ] 1944: _Wonder Woman_ #5: “Battle for Womanhood”; William Moulton Marston, H. G. Peter
@@ -340,6 +344,7 @@ Count: 71
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
 - [x] 2024: _Saga, Volume 11_ Brian K. Vaughan
+- [x] 2025: _Star Trek: Lower Decks: Warp Your Own Way_ Ryan North, Chris Fenoglio
 <!-- Graphic Story -->
 
 ## Related Work (1)
@@ -389,6 +394,8 @@ Count: 71
 - [ ] 2022: Charlie Jane Anders _Never Say You Can’t Survive_
 - [ ] 2023: Rob Wilkins _Terry Pratchett: A Life with Footnotes_
 - [ ] 2024: Kelly Weinersmith, Zach Weinersmith _A City on Mars_
+- [ ] 2025: Jordan S. Carroll, _Speculative Whiteness: Science Fiction and the Alt-Right_
+
 <!-- Related Work -->
 
 ## Lodestar Award for Best Young Adult Book (3)
@@ -400,8 +407,9 @@ Count: 71
 - [ ] 2023: Naomi Novik _The Last Graduate_
 - [ ] 2023: Nnedi Okorafor _Akata Woman_
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
+- [ ] 2025: Darcie Little Badger _Sheine Lende_
 
-## Dramatic Presentation (58)
+## Dramatic Presentation (60)
 
 - [ ] 1939: _The War of the Worlds_ Orson Welles, H.G. Wells
 - [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer (Long Form)
@@ -497,4 +505,6 @@ Count: 71
 - [ ] 2023: _The Expanse_: “Babylon’s Ashes” Breck Eisner, Daniel Abraham, Ty Franck, Naren Shankar (Short Form)
 - [x] 2024: _Dungeons & Dragons: Honor Among Thieves_ John Francis Daley, Jonathan Goldstein, Michael Gilio (Long Form)
 - [ ] 2024: _The Last of Us_: “Long, Long Time” Peter Hoar, Craig Mazin, Neil Druckmann (Short Form)
+- [x] 2025: _Star Trek: Lower Decks_: “The New Next Generation,” Mike McMahan, Megan Lloyd
+- [x] 2025: _Dune: Part Two_ Denis Villeneuve, Jon Spaihts
 <!-- Dramatic Presentation -->
