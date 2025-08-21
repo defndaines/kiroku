@@ -32,7 +32,7 @@ Count: 94
 - [x] United States\*: [_American Midnight: The Great War, a Violent Peace, and Democracy’s Forgotten Crisis_](https://www.goodreads.com/book/show/60141696-american-midnight) Adam Hochschild
 - [x] Indonesia: [_Fruit Maps_](https://www.asymptotejournal.com/special-feature/fruit-maps-rio-johan/) Rio Johan; [_Mysteries of Visiocherries_](http://samovar.strangehorizons.com/2021/04/26/mysteries-of-visiocherries-misteri-visiceri/) Rio Johan; [_Negative Scholarship on the Fifth State of Being_](https://clarkesworldmagazine.com/prihandita_11_24/) A.W. Prihandita
 - [x] Pakistan: [_Amal Unbound_](https://www.goodreads.com/book/show/46180981-amal-unbound) Aisha Saeed
-- [x] Nigeria: [Iyanu: Child of Wonder](https://www.goodreads.com/book/show/55211551-iyanu-child-of-wonder-volume-one) Roye Okupe; [Things Fall Apart](https://www.goodreads.com/book/show/37781.Things_Fall_Apart) Chinua Achebe
+- [x] Nigeria: [_Iyanu: Child of Wonder_](https://www.goodreads.com/book/show/55211551-iyanu-child-of-wonder-volume-one) Roye Okupe; [_Things Fall Apart_](https://www.goodreads.com/book/show/37781.Things_Fall_Apart) Chinua Achebe
 - [x] Brazil: [_The Posthumous Memoirs of Brás Cubas_](https://www.goodreads.com/book/show/87262.The_Posthumous_Memoirs_of_Br_s_Cubas) Machado de Assis
 - [x] Bangladesh: [_Bright Lines_](https://www.goodreads.com/book/show/23398905-bright-lines) Tanwi Nandini Islam
 - [x] Russia\*: [_The Autobiography of a Sexually Emancipated Communist Woman_](https://www.goodreads.com/book/show/13025259-the-autobiography-of-a-sexually-emancipated-communist-woman) Aleksandra Kollontai; [_Cement_](https://www.goodreads.com/book/show/143523.Cement) Feodor Gladkov
@@ -142,7 +142,7 @@ Count: 94
 - [ ] Serbia: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [ ] Bulgaria:
 - [ ] Paraguay:
-- [x] Democratic Republic of the Congo: [The Poisonwood Bible](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
+- [x] Democratic Republic of the Congo: [_The Poisonwood Bible_](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
 - [ ] Republic of the Congo:
 - [x] Denmark: [_Smilla’s Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [ ] Singapore:
