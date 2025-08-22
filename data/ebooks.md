@@ -26,6 +26,7 @@
 | I’m OK, I’m Pig! | Kim Hyesoon | 2014 | South Korea | 160 | poetry | 4.15 | 52 | [22916618](https://www.goodreads.com/book/show/22916618-i-m-ok-i-m-pig) |
 | Structures: Or Why Things Don’t Fall Down | J.E. Gordon | 1978 | U.K. | 395 | nonfiction, architecture, technology, engineering, physics, science | 4.13 | 3605 | [245344](https://www.goodreads.com/book/show/245344.Structures) |
 | The Book of Disappearance | Ibtisam Azem | 2014 | Palestine | 256 | literary, speculative, sci-fi, magical realism, contemporary | 4.12 | 2052 | [42921509](https://www.goodreads.com/book/show/42921509-the-book-of-disappearance) |
+| Somewhere Toward Freedom: Sherman’s March and the Story of America’s Largest Emancipation | Bennett Parten | 2025 | U.S. | 272 | nonfiction, history, war | 4.12 | 395 | [214152277](https://www.goodreads.com/book/show/214152277-somewhere-toward-freedom) |
 | Khatyn | Ales Adamovich | 1974 | USSR, Belarus | 244 | classics, war, WWII, historical, Nazi occupation, author wrote screenplay for “Come and See” | 4.12 | 154 | [55278901](https://www.goodreads.com/book/show/55278901-khatyn) |
 | Inside Out: A Personal History of Pink Floyd | Nick Mason | 2004 | U.K. | 360 | nonfiction, music, history, memoir, biography | 4.12 | 5305 | [265734](https://www.goodreads.com/book/show/265734.Inside_Out) |
 | The Complete Fairy Tales of Charles Perrault | Charles Perrault | 1697 | France | 156 | classics, fantasy, short stories, [own] | 4.10 | 15066 | [577552](https://www.goodreads.com/book/show/577552.The_Complete_Fairy_Tales_of_Charles_Perrault) |

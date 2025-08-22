@@ -8,7 +8,8 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| The Stoneshore Register | G. Willow Wilson | 2025 | U.S. | 4.0 | 119 | contemporary |
+| Parable of the Sower: A Graphic Novel Adaptation | Damian Duffy, Octavia E. Butler | 2020 | U.S. | 5.0 | print | 262 | classics, sci-fi, dystopian |
+| The Stoneshore Register | G. Willow Wilson | 2025 | U.S. | 4.0 | ebook | 119 | contemporary |
 | Dungeons & Dragons: Dungeon Club: Time to Party | Molly Knox Ostertag | 2024 | U.S. | 5.0 | print | 207 | fantasy, YA |
 | Dungeons & Dragons: Dungeon Club: Roll Call | Molly Knox Ostertag | 2022 | U.S. | 4.5 | print | 203 | fantasy, YA |
 | “Dr. Werthless”: The Man Who Studied Murder (And Nearly Killed the Comics Industry) | Harold Schechter, Eric Powell | 2025 | U.S. | 4.0 | ebook | 187 | nonfiction, history |

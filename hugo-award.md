@@ -11,7 +11,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 76
+Count: 77
 
 ## Novel (26)
 
@@ -323,7 +323,7 @@ Count: 76
 - [x] 2025: Nghi Vo “Stitched to Skin Like Family Is”
 <!-- Short Story -->
 
-## Graphic Story (17)
+## Graphic Story (18)
 
 - [x] 1941: _Batman_ #1; Bill Finger, Bob Kane
 - [ ] 1944: _Wonder Woman_ #5: “Battle for Womanhood”; William Moulton Marston, H. G. Peter
@@ -340,7 +340,7 @@ Count: 76
 - [x] 2018: _Monstress, Volume 2: The Blood_ Marjorie Liu
 - [x] 2019: _Monstress, Volume 3: Haven_ Marjorie Liu
 - [x] 2020: _LaGuardia_ Nnedi Okorafor
-- [ ] 2021: _Parable of the Sower: A Graphic Novel Adaptation_ Octavia E. Butler, Damian Duffy
+- [x] 2021: _Parable of the Sower: A Graphic Novel Adaptation_ Octavia E. Butler, Damian Duffy
 - [x] 2022: _Far Sector_ N. K. Jemisin, Jamal Campbell
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
 - [x] 2024: _Saga, Volume 11_ Brian K. Vaughan
