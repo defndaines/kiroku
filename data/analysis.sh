@@ -186,13 +186,17 @@ cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{
 
 cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v reread | grep -v novella | grep -v "\[own]" | grep -v Audible | sort -n | tail
 
-cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cut -d \| -f 7 data/ebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 7 data/ebooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v "\[own]" | sort -n | tail
+cut -d \| -f 7 data/ebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v "\[own]" | sort -n | tail
 
-cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cut -d \| -f 7 data/printbooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 7 data/printbooks.md | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | grep -v "not owned" | sort | uniq -c | sort -n | tail
+cut -d \| -f 7 data/printbooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | grep -v "not owned" | sort | uniq -c | sort -n | tail
+
+cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/ebooks.md) <(cut -d \| -f 7 data/printbooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+
+cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/ebooks.md) <(cut -d \| -f 7 data/printbooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c |  grep -v "\[own]" | sort -n | tail
 
 ### 10 short books
 
