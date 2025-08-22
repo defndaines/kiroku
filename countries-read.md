@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 94
+Count: 95
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -145,7 +145,7 @@ Count: 94
 - [x] Democratic Republic of the Congo: [_The Poisonwood Bible_](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
 - [ ] Republic of the Congo:
 - [x] Denmark: [_Smilla’s Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
-- [ ] Singapore:
+- [x] Singapore: [_Dissolution_](https://www.goodreads.com/book/show/215362027-dissolution) Nicholas Binge
 - [ ] Central African Republic:
 - [x] Finland: [_Kalevala: The Graphic Novel_](https://www.goodreads.com/book/show/194925833-kalevala) Sami Makkonen; [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll’s House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
