@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Rema Chronicles: Realm of the Blue Mist | Amy Kim Kibuishi | 2022 | U.S. | 4.0 | print | 272 | fantasy, YA, reread |
 | Parable of the Sower: A Graphic Novel Adaptation | Damian Duffy, Octavia E. Butler | 2020 | U.S. | 5.0 | print | 262 | classics, sci-fi, dystopian |
 | The Stoneshore Register | G. Willow Wilson | 2025 | U.S. | 4.0 | ebook | 119 | contemporary |
 | Dungeons & Dragons: Dungeon Club: Time to Party | Molly Knox Ostertag | 2024 | U.S. | 5.0 | print | 207 | fantasy, YA |
