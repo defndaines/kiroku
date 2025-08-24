@@ -36,7 +36,6 @@
 | The Listening Book: Discovering Your Own Music | William Allaudin Mathieu | 1991 | U.S. | 192 | nonfiction, music, psychology, philosophy | 4.07 | 282 | [659361](https://www.goodreads.com/book/show/659361.The_Listening_Book) |
 | Autobiography of Death | Kim Hyesoon | 2016 | South Korea | 110 | poetry | 4.07 | 691 | [38458431](https://www.goodreads.com/book/show/38458431-autobiography-of-death) |
 | Eve out of Her Ruins | Ananda Devi | 2006 | Mauritius | 160 | literary, contemporary, unread country | 4.06 | 1627 | [32068085](https://www.goodreads.com/book/show/32068085-eve-out-of-her-ruins) |
-| Eve out of Her Ruins | Ananda Devi | 2006 | Mauritius | 160 | literary, contemporary, unread country | 4.06 | 1627 | [32068085](https://www.goodreads.com/book/show/32068085-eve-out-of-her-ruins) |
 | The Tale of the Heike | Anonymous | 1219 | Japan | 734 | poetry, classics, historical | 4.05 | 1556 | [13589162](https://www.goodreads.com/book/show/13589162-the-tale-of-the-heike) |
 | Night Prayers | Santiago Gamboa | 2012 | Colombia | 320 | thriller, mystery, contemporary, crime | 4.05 | 1255 | [25734302](https://www.goodreads.com/book/show/25734302-night-prayers) |
 | Mis(h)adra | Iasmin Omar Ata | 2017 | U.S. | 288 | graphic novel, disability, mental health, Arab-American | 4.04 | 1335 | [34466927](https://www.goodreads.com/book/show/34466927-mis-h-adra) |

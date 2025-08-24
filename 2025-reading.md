@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| When the Wolf Comes Home | Nat Cassidy | 2025 | U.S. | 4.5 | audio | 304 | horror, thriller, fantasy, mystery, paranormal |
 | Dissolution | Nicholas Binge | 2025 | Singapore, Scotland | 5.0 | audio | 384 | sci-fi, thriller, mystery, fantasy, time travel |
 | The Sapling Cage | Margaret Killjoy | 2024 | U.S. | 4.0 | audio | 329 | fantasy, YA, LGBT, queer |
 | The Flat Woman | Vanessa Saunders | 2024 | U.S. | 4.0 | print | 149 | sci-fi, dystopian, speculative, feminism, climate change |
