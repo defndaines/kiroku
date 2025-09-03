@@ -11,7 +11,8 @@
 - [ ] Klara and the Sun (2021)
 
 ## Short-story collections
-- [ ] Nocturnes: Five Stories of Music and Nightfall (2009)
+- [ ] Nocturnes: Five Stories of Music and Nightfall (2009): “Crooner”,
+      “Come Rain or Come Shine”, “Malvern Hills”, “Nocturne”, “Cellists”
 
 ## Screenplays
 - [ ] A Profile of Arthur J. Mason (1984)

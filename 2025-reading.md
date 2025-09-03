@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Rapport: Friendship, Solidarity, Communion, Empathy | Martha Wells | 2025 | U.S. | 4.0 | ebook | 34 | sci-fi, novella |
 | Inferno | Dante Alighieri, Robert Pinksy (translator) | 1320 | Italy | 3.5 | audio | 490 | poetry, classics, fantasy |
 | Munmun | Jesse Andrews | 2018 | U.S. | 2.5 | audio | 41 | DNF, fantasy, sci-fi, YA, dystopian, magical realism |
 | Pleasure Activism: The Politics of Feeling Good | Adrienne Maree Brown | 2019 | U.S. | 3.5 | audio | 441 | nonfiction, essays, politics, feminism, social justice |
