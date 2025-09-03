@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Katabasis | R.F. Kuang | 2025 | U.S., China | 4.0 | audio | 559 | fantasy, historical, romance, mythology, dark academia |
 | Rapport: Friendship, Solidarity, Communion, Empathy | Martha Wells | 2025 | U.S. | 4.0 | ebook | 34 | sci-fi, novella |
 | Inferno | Dante Alighieri, Robert Pinksy (translator) | 1320 | Italy | 3.5 | audio | 490 | poetry, classics, fantasy |
 | Munmun | Jesse Andrews | 2018 | U.S. | 2.5 | audio | 41 | DNF, fantasy, sci-fi, YA, dystopian, magical realism |
