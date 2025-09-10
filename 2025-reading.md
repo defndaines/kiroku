@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Raven Scholar | Antonia Hodgson | 2025 | U.K. | 5.0 | audio | 656 | mystery, fantasy |
 | Compulsory | Martha Wells | 2018 | U.S. | 4.0 | ebook | 8 | short stories, sci-fi |
 | Katabasis | R.F. Kuang | 2025 | U.S., China | 4.0 | audio | 559 | fantasy, historical, romance, mythology, dark academia |
 | Rapport: Friendship, Solidarity, Communion, Empathy | Martha Wells | 2025 | U.S. | 4.0 | ebook | 34 | sci-fi, novella |
