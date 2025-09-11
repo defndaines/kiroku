@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Flavors of Iraq: Impressions of My Vanished Homeland | Feurat Alani | 2018 | Iraq, France | 4.5 | ebook | 176 | nonfiction, memoir, history, war |
 | The Rema Chronicles: Kingdom of Water | Amy Kim | 2025 | U.S. | 4.5 | print | 240 | fantasy, YA |
 | The Rema Chronicles: Realm of the Blue Mist | Amy Kim Kibuishi | 2022 | U.S. | 4.0 | print | 272 | fantasy, YA, reread |
 | Parable of the Sower: A Graphic Novel Adaptation | Damian Duffy, Octavia E. Butler | 2020 | U.S. | 5.0 | print | 262 | classics, sci-fi, dystopian, Hugo Award |
