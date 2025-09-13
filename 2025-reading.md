@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Volatile Memory | Seth Haddon | 2025 | Australia | 5.0 | audio | 176 | novella, sci-fi, LGBT |
 | Perfection | Vincenzo Latronico | 2022 | Italy | 2.0 | audio | 137 | contemporary, literary |
 | The Raven Scholar | Antonia Hodgson | 2025 | U.K. | 5.0 | audio | 656 | mystery, fantasy |
 | Compulsory | Martha Wells | 2018 | U.S. | 4.0 | ebook | 8 | short stories, sci-fi |
