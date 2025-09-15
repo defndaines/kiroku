@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Whatever Happened to Frankie King | Jay Neugeboren | 2024 | U.S. | 4.0 | ebook | 119 | nonfiction, biography |
 | The Pass | Espé, J.T. Mahany | 2020 | France | 4.0 | ebook | 100 | nonfiction, memoir |
 | Cry Wolf Girl | Ariel Slamet Ries | 2019 | Australia | 3.5 | ebook | 44 | fantasy |
 | The Flavors of Iraq: Impressions of My Vanished Homeland | Feurat Alani | 2018 | Iraq, France | 4.5 | ebook | 176 | nonfiction, memoir, history, war |
