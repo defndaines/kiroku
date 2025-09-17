@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Witch’s Life in Mongol, Vol. 1 | Tomato Soup | 2022 | Japan | 4.0 | ebook | 189 | manga, historical |
 | The Savage Sword of Conan #10 | Jim Zub | 2025 | U.S. | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Whatever Happened to Frankie King | Jay Neugeboren | 2024 | U.S. | 4.0 | ebook | 119 | nonfiction, biography |
 | The Pass | Espé, J.T. Mahany | 2020 | France | 4.0 | ebook | 100 | nonfiction, memoir |
