@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #10 | Jim Zub | 2025 | U.S. | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Whatever Happened to Frankie King | Jay Neugeboren | 2024 | U.S. | 4.0 | ebook | 119 | nonfiction, biography |
 | The Pass | Espé, J.T. Mahany | 2020 | France | 4.0 | ebook | 100 | nonfiction, memoir |
 | Cry Wolf Girl | Ariel Slamet Ries | 2019 | Australia | 3.5 | ebook | 44 | fantasy |
