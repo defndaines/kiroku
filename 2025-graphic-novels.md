@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Nuking Alaska: Notes of an Atomic Fugitive | Peter Dunlap-Shohl | 2023 | U.S. | 4.5 | ebook | 91 | nonfiction, history, politics, war |
 | A Witch’s Life in Mongol, Vol. 1 | Tomato Soup | 2022 | Japan | 4.0 | ebook | 189 | manga, historical |
 | The Savage Sword of Conan #10 | Jim Zub | 2025 | U.S. | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Whatever Happened to Frankie King | Jay Neugeboren | 2024 | U.S. | 4.0 | ebook | 119 | nonfiction, biography |
