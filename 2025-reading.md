@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| You Weren’t Meant to Be Human | Andrew Joseph White | 2025 | U.S. | 3.5 | audio | 336 | horror, sci-fi, fantasy, LGBT, queer |
 | There Are Rivers in the Sky | Elif Shafak | 2024 | Türkiye, U.K., France | 4.5 | audio | 464 | literary, historical, contemporary |
 | Volatile Memory | Seth Haddon | 2025 | Australia | 5.0 | audio | 176 | novella, sci-fi, LGBT |
 | Perfection | Vincenzo Latronico | 2022 | Italy | 2.0 | audio | 137 | contemporary, literary |
