@@ -666,7 +666,6 @@
 | The Premonition | Banana Yoshimoto | 1988 | Japan | 133 | 03:29 | literary, contemporary | 3.37 | 10457 | [90564433](https://www.goodreads.com/book/show/90564433-the-premonition) |
 | Remember You Will Die | Eden Robins | 2024 | U.S. | 336 | 07:23 | sci-fi, speculative, time travel | 3.37 | 544 | [203751806](https://www.goodreads.com/book/show/203751806-remember-you-will-die) |
 | Kairos | Jenny Erpenbeck | 2021 | Germany | 379 | 10:25 | literary, historical, romance, Booker Prize, [Audible](https://www.audible.com/pd/Kairos-Audiobook/B0C7S8TFDC) | 3.36 | 23083 | [58877223](https://www.goodreads.com/book/show/58877223-kairos) |
-| Universality | Natasha Brown | 2025 | U.K. | 152 | 04:21 | novella, literary, thriller, mystery, contemporary | 3.34 | 4802 | [214269374](https://www.goodreads.com/book/show/214269374-universality) |
 | Blackass | A. Igoni Barrett | 2015 | Nigeria | 262 | 09:01 | fantasy, contemporary, magical realism, race, [Audible](https://www.audible.com/pd/Blackass-Audiobook/B01E9DEWMA) | 3.34 | 2473 | [23482810](https://www.goodreads.com/book/show/23482810-blackass) |
 | Audition | Katie Kitamura | 2025 | U.S. | 200 | 04:46 | literary, contemporary | 3.34 | 14902 | [216247518](https://www.goodreads.com/book/show/216247518-audition) |
 | Waste Tide | Chen Qiufan | 2013 | China | 352 | 12:07 | sci-fi, fantasy, dystopian, cyberpunk | 3.32 | 2850 | [39863294](https://www.goodreads.com/book/show/39863294-waste-tide) |
