@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| On the Origin of Species and Other Stories | Kim Bo-young | 2021 | South Korea | 5.0 | print | 300 | short stories, sci-fi, fantasy, horror |
 | Universality | Natasha Brown | 2025 | U.K. | 4.0 | audio | 152 | novella, literary, thriller, mystery, contemporary |
 | You Weren’t Meant to Be Human | Andrew Joseph White | 2025 | U.S. | 3.5 | audio | 336 | horror, sci-fi, fantasy, LGBT, queer |
 | There Are Rivers in the Sky | Elif Shafak | 2024 | Türkiye, U.K., France | 4.5 | audio | 464 | literary, historical, contemporary |
