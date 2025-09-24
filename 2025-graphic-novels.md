@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Traces of Madness: A Graphic Memoir | Fernando Balius | 2018 | Spain | 4.0 | ebook | 128 | nonfiction, memoir, mental health |
 | Adabana, Vol. 1 | NoN | 2020 | Japan | 4.0 | ebook | 196 | manga, thriller, mystery, horror, crime |
 | Nuking Alaska: Notes of an Atomic Fugitive | Peter Dunlap-Shohl | 2023 | U.S. | 4.5 | ebook | 91 | nonfiction, history, politics, war |
 | A Witch’s Life in Mongol, Vol. 1 | Tomato Soup | 2022 | Japan | 4.0 | ebook | 189 | manga, historical |
