@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S. | 5.0 | audio | 337 | nonfiction, history, politics, social justice, journalism, sociology, reread |
 | On the Origin of Species and Other Stories | Kim Bo-young | 2021 | South Korea | 5.0 | print | 300 | short stories, sci-fi, fantasy, horror |
 | Universality | Natasha Brown | 2025 | U.K. | 4.0 | audio | 152 | novella, literary, thriller, mystery, contemporary |
 | You Weren’t Meant to Be Human | Andrew Joseph White | 2025 | U.S. | 3.5 | audio | 336 | horror, sci-fi, fantasy, LGBT, queer |
