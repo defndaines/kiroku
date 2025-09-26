@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Home: Habitat, Range, Niche, Territory | Martha Wells | 2020 | U.S. | 4.0 | ebook | 19 | short story, sci-fi |
 | If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S. | 5.0 | audio | 337 | nonfiction, history, politics, social justice, journalism, sociology, reread |
 | On the Origin of Species and Other Stories | Kim Bo-young | 2021 | South Korea | 5.0 | print | 300 | short stories, sci-fi, fantasy, horror |
 | Universality | Natasha Brown | 2025 | U.K. | 4.0 | audio | 152 | novella, literary, thriller, mystery, contemporary |
@@ -13,9 +14,9 @@ fiction otherwise). The most recently finished book is on top.
 | Volatile Memory | Seth Haddon | 2025 | Australia | 5.0 | audio | 176 | novella, sci-fi, LGBT |
 | Perfection | Vincenzo Latronico | 2022 | Italy | 2.0 | audio | 137 | contemporary, literary |
 | The Raven Scholar | Antonia Hodgson | 2025 | U.K. | 5.0 | audio | 656 | mystery, fantasy |
-| Compulsory | Martha Wells | 2018 | U.S. | 4.0 | ebook | 8 | short stories, sci-fi |
+| Compulsory | Martha Wells | 2018 | U.S. | 4.0 | ebook | 8 | short story, sci-fi |
 | Katabasis | R.F. Kuang | 2025 | U.S., China | 4.0 | audio | 559 | fantasy, historical, romance, mythology, dark academia |
-| Rapport: Friendship, Solidarity, Communion, Empathy | Martha Wells | 2025 | U.S. | 4.0 | ebook | 34 | sci-fi, novella |
+| Rapport: Friendship, Solidarity, Communion, Empathy | Martha Wells | 2025 | U.S. | 4.0 | ebook | 34 | novella, sci-fi |
 | Inferno | Dante Alighieri, Robert Pinksy (translator) | 1320 | Italy | 3.5 | audio | 490 | poetry, classics, fantasy |
 | Munmun | Jesse Andrews | 2018 | U.S. | 2.5 | audio | 41 | DNF, fantasy, sci-fi, YA, dystopian, magical realism |
 | Pleasure Activism: The Politics of Feeling Good | Adrienne Maree Brown | 2019 | U.S. | 3.5 | audio | 441 | nonfiction, essays, politics, feminism, social justice |
