@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| How Europe Underdeveloped Africa | Walter Rodney | 1971 | Guyana | 4.5 | audio | 312 | nonfiction, history, politics, economics, race |
 | Home: Habitat, Range, Niche, Territory | Martha Wells | 2020 | U.S. | 4.0 | ebook | 19 | short story, sci-fi |
 | If We Burn: The Mass Protest Decade and the Missing Revolution | Vincent Bevins | 2023 | U.S. | 5.0 | audio | 337 | nonfiction, history, politics, social justice, journalism, sociology, reread |
 | On the Origin of Species and Other Stories | Kim Bo-young | 2021 | South Korea | 5.0 | print | 300 | short stories, sci-fi, fantasy, horror |

@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 95
+Count: 96
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -63,7 +63,7 @@ Count: 95
 - [ ] Uganda:
 - [x] Sudan: [_Season of Migration to the North_](https://www.goodreads.com/book/show/6145869-season-of-migration-to-the-north) Tayeb Salih
 - [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
-- [x] Canada: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
+- [x] Canada\*: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
 - [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor’s Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner; [_Drive Your Plow Over the Bones of the Dead_](https://www.goodreads.com/book/show/51648276-drive-your-plow-over-the-bones-of-the-dead) Olga Tokarczuk
 - [ ] Morocco:
 - [ ] Uzbekistan:
@@ -199,7 +199,7 @@ Count: 95
 - [ ] Fiji:
 - [ ] Bhutan:
 - [ ] Comoros:
-- [ ] Guyana:
+- [x] Guyana: [_How Europe Underdeveloped Africa_](https://www.goodreads.com/book/show/40630.How_Europe_Underdeveloped_Africa)  Walter Rodney
 - [ ] Solomon Islands:
 - [ ] Luxembourg:
 - [ ] Montenegro:
