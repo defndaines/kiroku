@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 96
+Count: 97
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -140,7 +140,7 @@ Count: 96
 - [x] El Salvador: [_Solito_](https://www.goodreads.com/book/show/59900688-solito) Javier Zamora
 - [ ] Nicaragua: Claribel Alegría ?
 - [ ] Serbia: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
-- [ ] Bulgaria:
+- [x] Bulgaria: [_The Physics of Sorrow_](https://www.goodreads.com/book/show/23129709-the-physics-of-sorrow) Georgi Gospodinov
 - [ ] Paraguay:
 - [x] Democratic Republic of the Congo: [_The Poisonwood Bible_](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
 - [ ] Republic of the Congo:
