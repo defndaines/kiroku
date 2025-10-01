@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Transformers, Vol. 1: Robots in Disguise | Daniel Warren Johnson | 2024 | U.S. | 3.5 | ebook | 144 | sci-fi |
 | The Blessed Machine: The Complete Collection | Jesse Hamm, Mark Rodgers | 2020 | U.S. | 3.5 | ebook | 136 | sci-fi |
 | Traces of Madness: A Graphic Memoir | Fernando Balius | 2018 | Spain | 4.0 | ebook | 128 | nonfiction, memoir, mental health |
 | Adabana, Vol. 1 | NoN | 2020 | Japan | 4.0 | ebook | 196 | manga, thriller, mystery, horror, crime |
