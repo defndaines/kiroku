@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 36
+Count: 37
 
 ## Novel (4)
 
@@ -73,7 +73,7 @@ Count: 36
 - [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
 <!-- Fantasy Novel -->
 
-## Science Fiction Novel (3)
+## Science Fiction Novel (4)
 
 - [ ] 1980: John Varley _Titan_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
@@ -116,7 +116,7 @@ Count: 36
 - [ ] 2018: John Scalzi _The Collapsing Empire_
 - [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [ ] 2020: Charlie Jane Anders  _The City in the Middle of the Night_
-- [ ] 2021: Martha Wells _Network Effect_
+- [x] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Martha Wells _System Collapse_

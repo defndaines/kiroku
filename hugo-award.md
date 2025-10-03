@@ -11,9 +11,9 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 77
+Count: 78
 
-## Novel (26)
+## Novel (27)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -92,7 +92,7 @@ Count: 77
 - [x] 2018: N. K. Jemisin _The Stone Sky_
 - [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [x] 2020: Arkady Martine _A Memory Called Empire_
-- [ ] 2021: Martha Wells _Network Effect_
+- [x] 2021: Martha Wells _Network Effect_
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 - [ ] 2024: Emily Tesh _Some Desperate Glory_

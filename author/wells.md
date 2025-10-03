@@ -66,7 +66,7 @@ to track her other writings.
 - [x] Exit Strategy (2018)
 - [x] “Compulsory” (2018)
 - [x] “Home: Habitat, Range, Niche, Territory” (2020)
-- [ ] Network Effect (2020) [Hugo, Locus, Nebula]
+- [x] Network Effect (2020) [Hugo, Locus, Nebula]
 - [ ] Fugitive Telemetry (2021)
 - [ ] System Collapse (2023) [Locus]
 - [ ] Platform Decay (2026)

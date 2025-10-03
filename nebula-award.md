@@ -13,9 +13,9 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 36
+Count: 37
 
-## Novel (17)
+## Novel (18)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -73,7 +73,7 @@ Count: 36
 - [x] 2018: N. K. Jemisin _The Stone Sky_
 - [x] 2019: Mary Robinette Kowal _The Calculating Stars_
 - [ ] 2020: Sarah Pinsker _A Song for a New Day_
-- [ ] 2021: Martha Wells _Network Effect_
+- [x] 2021: Martha Wells _Network Effect_
 - [ ] 2022: P. Djèlí Clark _A Master of Djinn_
 - [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
