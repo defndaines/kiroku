@@ -70,5 +70,6 @@ Tracking favorite authors I’d like to read more of.
 * [Victor Serge](author/serge.md)
 * [Adrian Tchaikovsky](author/tchaikovsky.md)
 * [B. Traven](author/traven.md)
+* [Nghi Vo](author/vo.md)
 * [Martha Wells](author/wells.md)
 * [Richard Wright](author/wright.md)
