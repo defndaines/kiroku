@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Down to the Bone: A Leukemia Story | Catherine Pioli | 2018 | France | 4.5 | ebook | 146 | nonfiction, memoir |
 | Transformers, Vol. 1: Robots in Disguise | Daniel Warren Johnson | 2024 | U.S. | 3.5 | ebook | 144 | sci-fi |
 | The Blessed Machine: The Complete Collection | Jesse Hamm, Mark Rodgers | 2020 | U.S. | 3.5 | ebook | 136 | sci-fi |
 | Traces of Madness: A Graphic Memoir | Fernando Balius | 2018 | Spain | 4.0 | ebook | 128 | nonfiction, memoir, mental health |
