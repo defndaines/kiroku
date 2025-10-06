@@ -62,6 +62,7 @@ Tracking favorite authors I’d like to read more of.
 * [Becky Chambers](author/chambers.md)
 * [Kazuo Ishiguro](author/ishiguro.md)
 * [N. K. Jemisin](author/jemisin.md)
+* [Claire Keegan](author/keegan.md)
 * [Barbara Kingsolver](author/kingsolver.md)
 * [Ursula K. Le Guin](author/le-guin.md)
 * [Yoon Ha Lee](author/lee.md)
