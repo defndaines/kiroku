@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Copaganda: How Police and the Media Manipulate Our News | Alec Karakatsanis | 2025 | U.S. | 5.0 | print | 342 | nonfiction, politics, crime, social justice |
 | Network Effect | Martha Wells | 2020 | U.S. | 4.5 | audio | 350 | sci-fi, space opera, Nebula Award, Hugo Award, Locus Award |
 | The Physics of Sorrow | Georgi Gospodinov | 2011 | Bulgaria | 4.0 | audio | 287 | literary, contemporary, mythology, Jan Michalski Prize |
 | How Europe Underdeveloped Africa | Walter Rodney | 1971 | Guyana | 4.5 | audio | 312 | nonfiction, history, politics, economics, race |
