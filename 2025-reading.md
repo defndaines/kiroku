@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Red Scare: Blacklists, McCarthyism, and the Making of Modern America | Clay Risen | 2025 | U.S. | 4.5 | audio | 480 | nonfiction, history, politics |
 | Copaganda: How Police and the Media Manipulate Our News | Alec Karakatsanis | 2025 | U.S. | 5.0 | print | 342 | nonfiction, politics, crime, social justice |
 | Network Effect | Martha Wells | 2020 | U.S. | 4.5 | audio | 350 | sci-fi, space opera, Nebula Award, Hugo Award, Locus Award |
 | The Physics of Sorrow | Georgi Gospodinov | 2011 | Bulgaria | 4.0 | audio | 287 | literary, contemporary, mythology, Jan Michalski Prize |
@@ -38,7 +39,7 @@ fiction otherwise). The most recently finished book is on top.
 | Rogue Protocol | Martha Wells | 2018 | U.S. | 4.0 | audio | 158 | novella, sci-fi |
 | There’s Always This Year: On Basketball and Ascension | Hanif Abdurraqib | 2024 | U.S. | 4.5 | audio | 334 | nonfiction, poetry, essays, memoir, sports |
 | Counterattacks at Thirty | Sohn Won-Pyung | 2017 | South Korea | 4.0 | audio | 240 | literary, contemporary |
-| Native Nations: A Millennium in North America | Kathleen DuVal | 2024 | U.S. | 5.0 | audio | 752 | nonfiction, history, Native American, Pulitzer |
+| Native Nations: A Millennium in North America | Kathleen DuVal | 2024 | U.S. | 5.0 | audio | 752 | nonfiction, history, Native American, Pulitzer Prize |
 | Beautyland | Marie-Helene Bertino | 2024 | U.S. | 4.5 | audio | 327 | literary, sci-fi |
 | Programming in Lua, Fourth edition | Roberto Ierusalimschy | 2016 | Brazil | 4.0 | print | 359 | nonfiction, programming, technology |
 | A Song of Legends Lost | M.H. Ayinde | 2025 | U.K. | 4.5 | audio | 592 | fantasy, sci-fi |
@@ -56,7 +57,7 @@ fiction otherwise). The most recently finished book is on top.
 | Calypso | Oliver K. Langmead | 2024 | U.K. | 3.5 | audio | 215 | poetry, sci-fi, Hugo finalist |
 | The Secret | Fumio Takano | 2025 | Japan | 4.0 | audio | 32 | sci-fi |
 | The Lady of the Yellow-Painted Library | Tobi Ogundiran | 2022 | Nigeria | 4.5 | audio | 50 | horror, fantasy, short story, Ignyte Award |
-| Negative Scholarship on the Fifth State of Being | A.W. Prihandita | 2024 | Indonesia, U.S. | 4.5 | ebook | 19 | novelette, sci-fi, Nebula |
+| Negative Scholarship on the Fifth State of Being | A.W. Prihandita | 2024 | Indonesia, U.S. | 4.5 | ebook | 19 | novelette, sci-fi, Nebula Award |
 | The Tainted Cup | Robert Jackson Bennett | 2024 | U.S. | 5.0 | audio | 410 | fantasy, mystery, Hugo finalist |
 | Runes | Martin Findell | 2014 | U.K. | 4.0 | print | 99 | nonfiction, history, linguistics |
 | The Tusks of Extinction | Ray Nayler | 2024 | Canada, U.S., Russia | 4.5 | audio | 192 | novella, sci-fi, Hugo finalist |
@@ -71,9 +72,9 @@ fiction otherwise). The most recently finished book is on top.
 | The Ministry of Time | Kaliane Bradley | 2024 | U.K. | 3.5 | audio | 339 | sci-fi, romance, Hugo finalist |
 | When the Tiger Came Down the Mountain | Nghi Vo | 2020 | U.S. | 4.0 | audio | 128 | novella, fantasy |
 | Navigational Entanglements | Aliette de Bodard | 2024 | France | 4.0 | ebook | 165 | novella, sci-fi, LGBT, Hugo finalist |
-| What Moves the Dead | T. Kingfisher | 2022 | U.S. | 4.0 | audio | 165 | novella, horror, fantasy, mystery, Locus |
+| What Moves the Dead | T. Kingfisher | 2022 | U.S. | 4.0 | audio | 165 | novella, horror, fantasy, mystery, Locus Award |
 | Axiom’s End | Lindsay Ellis | 2000 | U.S. | 3.5 | audio | 384 | sci-fi |
-| Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom during the Civil War | Edda L. Fields-Black | 2024 | U.S. | 4.5 | audio | 776 | nonfiction, history, Pulitzer |
+| Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom during the Civil War | Edda L. Fields-Black | 2024 | U.S. | 4.5 | audio | 776 | nonfiction, history, Pulitzer Prize |
 | Five Views of the Planet Tartarus | Rachael K. Jones | 2024 | U.S. | 4.5 | ebook | 10 | sci-fi, short story, Hugo finalist |
 | Three Faces of a Beheading | Arkady Martine | 2024 | U.S. | 3.5 | ebook | 22 | sci-fi, fantasy, short story, Hugo finalist |
 | Marginalia | Mary Robinette Kowal | 2024 | U.S. | 4.0 | ebook | 25 | fantasy, short story, Hugo finalist, reread |
@@ -95,12 +96,12 @@ fiction otherwise). The most recently finished book is on top.
 | Never Let Me Go | Kazuo Ishiguro | 2005 | U.K. | 4.5 | print | 288 | literary, sci-fi, dystopian, Nobel |
 | No More Tears: The Dark Secrets of Johnson & Johnson | Gardiner Harris | 2025 | U.S. | 5.0 | audio | 464 | nonfiction, history, politics, true crime, business, science |
 | Dearborn | Ghassan Zeineddine | 2023 | U.S. | 4.5 | audio | 240 | short stories, literary, contemporary, LGBT, race |
-| Orbital | Samantha Harvey | 2023 | U.K. | 3.5 | audio | 207 | literary, sci-fi, Booker |
+| Orbital | Samantha Harvey | 2023 | U.K. | 3.5 | audio | 207 | literary, sci-fi, Booker Prize |
 | I Hotel | Karen Tei Yamashita | 2010 | U.S. | 4.0 | audio | 613 | short stories, literary, historical, race |
 | The Houseguest and Other Stories | Amparo Dávila | 2018 | Mexico | 3.5 | print | 122 | short stories, horror |
 | The Memory Police | Yōko Ogawa | 1994 | Japan | 4.5 | audio | 274 | sci-fi, dystopian, magical realism |
 | The Decagon House Murders | Yukito Ayatsuji | 1987 | Japan | 4.0 | audio | 228 | mystery |
-| Parable of the Talents | Octavia E. Butler | 1998 | U.S. | 5.0 | print | 390 | sci-fi, dystopian, Nebula, reread |
+| Parable of the Talents | Octavia E. Butler | 1998 | U.S. | 5.0 | print | 390 | sci-fi, dystopian, Nebula Award, reread |
 | The Dream Hotel | Laila Lalami | 2025 | U.S. | 5.0 | audio | 336 | literary, sci-fi, dystopian |
 | Shoko’s Smile: Stories | Choi Eunyoung | 2016 | South Korea | 4.5 | audio | 272 | short stories, literary, feminism |
 | The Nazis Next Door: How America Became a Safe Haven for Hitler’s Men | Eric Lichtblau | 2014 | U.S. | 4.0 | audio | 288 | nonfiction, history, politics |
@@ -113,16 +114,16 @@ fiction otherwise). The most recently finished book is on top.
 | The Principles of Communism | Friedrich Engels | 1847 | Belgium | 5.0 | ebook | 24 | nonfiction, history, politics, economics |
 | Alien Clay | Adrian Tchaikovsky | 2024 | U.K. | 5.0 | audio | 396 | sci-fi |
 | We Do Not Part | Han Kang | 2021 | South Korea | 5.0 | print | 272 | literary, historical |
-| No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline Jones | 2023 | U.S. | 4.5 | audio | 544 | nonfiction, history, race, Pulitzer |
+| No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era | Jacqueline Jones | 2023 | U.S. | 4.5 | audio | 544 | nonfiction, history, race, Pulitzer Prize |
 | Kusamakura | Natsume Sōseki | 1906 | Japan | 3.5 | audio | 152 | classics, literary |
 | The Reformatory | Tananarive Due | 2023 | U.S. | 5.0 | audio | 576 | horror, historical, Bram Stoker Award, World Fantasy Award, Shirley Jackson Award |
 | The Sword of Kaigen | M.L. Wang | 2019 | U.S. | 4.0 | print | 617 | fantasy |
 | Wayward Lives, Beautiful Experiments | Saidiya Hartman | 2019 | U.S. | 4.0 | audio | 441 | nonfiction, history, LGBT, feminism, race |
 | Notes of a Native Son | James Baldwin | 1955 | U.S., France | 4.5 | audio | 192 | nonfiction, essays, memoir, race |
 | Usual Cruelty: The Complicity of Lawyers in the Criminal Injustice System | Alec Karakatsanis | 2019 | U.S. | 5.0 | audio | 234 | nonfiction, history, politics, law, social justice, race |
-| Annihilation | Jeff VanderMeer | 2014 | U.S. | 4.5 | audio | 195 | sci-fi, horror, Nebula |
+| Annihilation | Jeff VanderMeer | 2014 | U.S. | 4.5 | audio | 195 | sci-fi, horror, Nebula Award |
 | African Europeans: An Untold History | Olivette Otélé | 2020 | U.K., Cameroon | 3.5 | audio | 288 | nonfiction, history, race |
-| The Nickel Boys | Colson Whitehead | 2019 | U.S. | 5.0 | audio | 213 | literary, historical, race, Pulitzer, Kirkus, Orwell Prize Political Fiction |
+| The Nickel Boys | Colson Whitehead | 2019 | U.S. | 5.0 | audio | 213 | literary, historical, race, Pulitzer Prize, Kirkus Prize, Orwell Prize Political Fiction |
 | The Horse | Willy Vlautin | 2024 | U.S. | 4.5 | audio | 194 | literary, music |
 | Witchcraft for Wayward Girls | Grady Hendrix | 2025 | U.S. | 4.0 | audio | 496 | horror, fantasy, historical |
 | The Buddha in the Attic | Julie Otsuka | 2011 | U.S. | 5.0 | audio | 144 | literary, historical |

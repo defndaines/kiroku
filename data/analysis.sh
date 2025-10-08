@@ -4,7 +4,11 @@
 
 tail -n +8 2025-reading.md | wc -l
 
+count_2025=$(tail -n +8 2025-reading.md | wc -l)
+
 tail -n +11 2025-graphic-novels.md | wc -l
+
+count_gn_2025=$(tail -n +11 2025-graphic-novels.md | wc -l)
 
 ## Authors
 
