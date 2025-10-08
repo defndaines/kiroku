@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Resident Alien, Omnibus: Volume 1 | Peter Hogan | 2020 | U.K. | 4.0 | ebook | 286 | sci-fi, mystery, crime |
 | Down to the Bone: A Leukemia Story | Catherine Pioli | 2018 | France | 4.5 | ebook | 146 | nonfiction, memoir |
 | Transformers, Vol. 1: Robots in Disguise | Daniel Warren Johnson | 2024 | U.S. | 3.5 | ebook | 144 | sci-fi |
 | The Blessed Machine: The Complete Collection | Jesse Hamm, Mark Rodgers | 2020 | U.S. | 3.5 | ebook | 136 | sci-fi |
