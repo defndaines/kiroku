@@ -6,12 +6,16 @@ publishers nominate books, but panelists may request particular nominations
 from publishers. Each panel comprises five judges, including writers,
 librarians, booksellers, and literary critics.
 
+I’m including the pre-1950 books only where I’ve read them.
+
 https://www.nationalbook.org/national-book-awards/
 
-Count: 17
+Count: 20
 
-## Fiction (7)
+## Fiction (9)
 
+- [x] 1938: Daphne Du Maurier _Rebecca_
+- [x] 1939: John Steinbeck _The Grapes of Wrath_
 - [ ] 1950: Nelson Algren _The Man with the Golden Arm_
 - [ ] 1951: William Faulkner _The Collected Stories of William Faulkner_
 - [ ] 1952: James Jones _From Here to Eternity_
@@ -95,6 +99,11 @@ Count: 17
 - [ ] 2023: Justin Torres _Blackouts_
 - [x] 2024: Percival Everett _James_
 <!-- Fiction -->
+
+## Most Original Book (1)
+
+- [x] 1939: Dalton Trumbo _Johnny Got His Gun_
+<!-- Most Original Book -->
 
 ## Nonfiction (4)
 
