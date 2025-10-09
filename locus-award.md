@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 37
+Count: 38
 
 ## Novel (4)
 
@@ -73,7 +73,7 @@ Count: 37
 - [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
 <!-- Fantasy Novel -->
 
-## Science Fiction Novel (4)
+## Science Fiction Novel (5)
 
 - [ ] 1980: John Varley _Titan_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
@@ -120,7 +120,7 @@ Count: 37
 - [ ] 2022: Arkady Martine _A Desolation Called Peace_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Martha Wells _System Collapse_
-- [ ] 2025: Alexander Boldizar _The Man Who Saw Seconds_
+- [x] 2025: Alexander Boldizar _The Man Who Saw Seconds_
 <!-- Science Fiction Novel -->
 
 ## First Novel (3)

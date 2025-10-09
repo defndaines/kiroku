@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Man Who Saw Seconds | Alexander Boldizar | 2024 | Slovakia, U.S., Canada | 5.0 | audio | 325 | sci-fi, thriller, mystery, time travel, Locus Award, Mark Twain Award |
 | Red Scare: Blacklists, McCarthyism, and the Making of Modern America | Clay Risen | 2025 | U.S. | 4.5 | audio | 480 | nonfiction, history, politics |
 | Copaganda: How Police and the Media Manipulate Our News | Alec Karakatsanis | 2025 | U.S. | 5.0 | print | 342 | nonfiction, politics, crime, social justice |
 | Network Effect | Martha Wells | 2020 | U.S. | 4.5 | audio | 350 | sci-fi, space opera, Nebula Award, Hugo Award, Locus Award |

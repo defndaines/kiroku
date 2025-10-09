@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 97
+Count: 98
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -152,7 +152,7 @@ Count: 97
 - [x] Lebanon: [_A Game for Swallows: To Die, To Leave, To Return_](https://www.goodreads.com/book/show/13773346-a-game-for-swallows) Zeina Abirached
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
 - [x] Scotland\*: [_Poor Things_](https://www.goodreads.com/book/show/72355.Poor_Things) Alasdair Gray; Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
-- [ ] Slovakia:
+- [x] Slovakia: [_The Man Who Saw Seconds_](https://www.goodreads.com/book/show/192631651-the-man-who-saw-seconds) Alexander Boldizar
 - [x] Ireland: [_Small Things Like These_](https://www.goodreads.com/book/show/58662236-small-things-like-these) Claire Keegan; [_Prophet Song_](https://www.goodreads.com/book/show/158875813-prophet-song) Paul Lynch
 - [x] Northern Ireland: [_Milkman_](https://www.goodreads.com/book/show/36047860-milkman) Anna Burns
 - [ ] Costa Rica:
