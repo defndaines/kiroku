@@ -131,3 +131,4 @@ Count: 33
 - [x] 2022: Annie Ernaux [France]: _Happening_, _A Woman’s Story_, _La place_
 - [x] 2023: Jon Fosse [Norway]: _The Other Name_
 - [x] 2024: Han Kang [South Korea]: _Human Acts_, _We Do Not Part_, _The Vegetarian_, _Greek Lessons_, _The White Book_
+- [ ] 2025: László Krasznahorkai [Hungary]:
