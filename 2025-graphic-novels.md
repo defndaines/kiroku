@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Resident Alien Volume 8: The Book of Life | Peter Hogan | 2025 | U.K., U.S. | 4.0 | ebook | 86 | sci-fi, mystery, crime |
 | Resident Alien Volume 7: The Book of Love | Peter Hogan | 2023 | U.K., U.S. | 4.0 | ebook | 94 | sci-fi, mystery, crime |
 | Resident Alien, Omnibus: Volume 2 | Peter Hogan | 2023 | U.K., U.S. | 4.0 | ebook | 338 | sci-fi, mystery, crime |
 | Resident Alien, Omnibus: Volume 1 | Peter Hogan | 2020 | U.K., U.S. | 4.0 | ebook | 286 | sci-fi, mystery, crime |
