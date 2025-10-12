@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Mouthful of Dust | Nghi Vo | 2025 | U.S. | 4.0 | audio | 112 | novella, short story, fantasy |
 | Ring Shout | P. Djèlí Clark | 2020 | U.S. | 4.0 | audio | 185 | novella, horror, fantasy, historical, Locus Award, Nebula Award, British Fantasy Award |
 | The Korean War: A History | Bruce Cumings | 2010 | U.S., South Korea, North Korea | 5.0 | audio | 320 | nonfiction, history, war |
 | The Man Who Saw Seconds | Alexander Boldizar | 2024 | Slovakia, U.S., Canada | 5.0 | audio | 325 | sci-fi, thriller, mystery, time travel, Locus Award, Mark Twain Award |

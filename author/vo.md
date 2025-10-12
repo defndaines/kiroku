@@ -8,7 +8,7 @@ Given that I’ve read the Singing Hills Cycle, tracking all of her works here.
 - [x] Into the Riverlands (2022) [Ignyte]
 - [x] Mammoths at the Gates (2023)
 - [x] The Brides of High Hill (2024)
-- [ ] A Mouthful of Dust (2025)
+- [x] A Mouthful of Dust (2025)
 
 ## Novels
 - [ ] The Chosen and the Beautiful (2021)
