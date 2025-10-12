@@ -10,7 +10,7 @@ Awards announced in October or early November.
 
 https://britishfantasysociety.org/about-the-bfs/the-british-fantasy-awards/
 
-Count: 9
+Count: 10
 
 ## Novel (1)
 
@@ -89,7 +89,7 @@ Count: 9
 - [ ] 2024: _Don’t Fear the Reaper_, Stephen Graham Jones
 <!-- Horror Novel -->
 
-## Novella (1)
+## Novella (2)
 
 - [ ] 2005: _Breathe_, Christopher Fowler
 - [ ] 2006: _The Mask Behind the Face_, Stuart Young
@@ -107,7 +107,7 @@ Count: 9
 - [ ] 2018: _Passing Strange_, Ellen Klages
 - [ ] 2019: _The Tea Master and the Detective_, Aliette de Bodard
 - [ ] 2020: _Ormeshadow_, Priya Sharma
-- [ ] 2021: _Ring Shout_, P. Djèlí Clark
+- [x] 2021: _Ring Shout_, P. Djèlí Clark
 - [x] 2022: _Defekt_, Nino Cipri
 - [ ] 2023: _The Queen of the High Fields_, Rhiannon A. Grist
 - [ ] 2024: _The Last Dragoners of Bowbazar_, Indra Das

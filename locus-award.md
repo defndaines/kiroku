@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 38
+Count: 39
 
 ## Novel (4)
 
@@ -222,7 +222,7 @@ Count: 38
 - [ ] 2025 Chuck Tingle _Bury Your Gays_
 <!-- Horror -->
 
-## Novella (6)
+## Novella (7)
 
 - [ ] 1973: Frederik Pohl _The Gold at the Starbow’s End_
 - [ ] 1974: Gene Wolfe _The Death of Doctor Island_
@@ -272,7 +272,7 @@ Count: 38
 - [x] 2018: Martha Wells _All Systems Red_
 - [x] 2019: Martha Wells _Artificial Condition_
 - [x] 2020: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
-- [ ] 2021: P. Djèlí Clark _Ring Shout_
+- [x] 2021: P. Djèlí Clark _Ring Shout_
 - [ ] 2022: Martha Wells _Fugitive Telemetry_
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_

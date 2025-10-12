@@ -13,7 +13,7 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 37
+Count: 38
 
 ## Novel (18)
 
@@ -80,7 +80,7 @@ Count: 37
 - [x] 2025: John Wiswell _Someone You Can Build a Nest In_
 <!-- Novel -->
 
-## Novella (5)
+## Novella (6)
 
 - [ ] 1965: Brian W. Aldiss “The Saliva Tree”
 - [ ] 1965: Roger Zelazny “He Who Shapes”
@@ -138,7 +138,7 @@ Count: 37
 - [x] 2017: Martha Wells _All Systems Red_
 - [ ] 2018: Aliette de Bodard _The Tea Master and the Detective_
 - [x] 2019: Amal El-Mohtar, Max Gladstone _This Is How You Lose the Time War_
-- [ ] 2020: P. Djèlí Clark _Ring Shout_
+- [x] 2020: P. Djèlí Clark _Ring Shout_
 - [ ] 2021: Premee Mohamed _And What Can We Offer You Tonight_
 - [x] 2022: C. L. Polk _Even Though I Knew the End_
 - [ ] 2023: Ai Jiang “Linghun”
