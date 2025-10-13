@@ -71,6 +71,7 @@
 | New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 2016 | Barbados | 147 | short stories, sci-fi, fantasy, speculative | 3.89 | 142 | [29483900](https://www.goodreads.com/book/show/29483900-new-worlds-old-ways) |
 | Rupetta | Nike Sulway | 2013 | Australia | 352 | sci-fi, fantasy, speculative, LGBT, [own] | 3.88 | 223 | [17252752](https://www.goodreads.com/book/show/17252752-rupetta) |
 | Warda | Sonallah Ibrahim | 2000 | Egypt | 464 | literary, historical, politics, 1950s Cairo | 3.86 | 1041 | [401955](https://www.goodreads.com/book/show/401955.Warda) |
+| Killing Stella | Marlen Haushofer | 2025 | Austria | 80 | novella, short story, classics, literary, horror, MadeUBook-rec | 3.85 | 1237 | [219299650](https://www.goodreads.com/book/show/219299650-killing-stella) |
 | How Kyoto Breaks Your Heart | Florentyna Leow | 2023 | Malaysia, Japan | 96 | nonfiction, essays, memoir, travel | 3.83 | 840 | [73347377](https://www.goodreads.com/book/show/73347377-how-kyoto-breaks-your-heart) |
 | Hills Like White Elephants | Ernest Hemingway | 1927 | U.S. | 6 | short stories, classics, Nobel Prize | 3.83 | 18820 | [56814505](https://www.goodreads.com/book/show/56814505-hills-like-white-elephants) |
 | The Thorn Puller | Hiromi Itō | 2007 | Japan | 300 | poetry, literary, contemporary | 3.82 | 322 | [58906519](https://www.goodreads.com/book/show/58906519-the-thorn-puller) |

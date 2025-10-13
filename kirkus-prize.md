@@ -21,6 +21,7 @@ Count: 7
 - [ ] 2022: Hernan Diaz _Trust_
 - [x] 2023: James McBride _The Heaven & Earth Grocery Store_
 - [x] 2024: Percival Everett _James_
+- [ ] 2025: Lucas Schaefer _The Slip_
 
 ## Nonfiction (0)
 
@@ -35,6 +36,7 @@ Count: 7
 - [ ] 2022: Tanaïs _In Sensorium_
 - [ ] 2023: Héctor Tobar _Our Migrant Souls: A Meditation on the Meanings and Myths of “Latino”_
 - [ ] 2024: Adam Higginbotham _Challenger_
+- [ ] 2025: Scott Anderson _King of Kings: The Iranian Revolution: A Story of Hubris, Delusion and Catastrophic Miscalculation_
 
 ## Young Readers’ Literature (3)
 

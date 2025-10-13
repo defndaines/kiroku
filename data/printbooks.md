@@ -64,6 +64,7 @@
 | Woe Is I: The Grammarphobe’s Guide to Better English in Plain English | Patricia T. O’Conner | 1996 | U.S. | 240 | nonfiction, linguistics | 3.94 | 4398 | [108835](https://www.goodreads.com/book/show/108835.Woe_Is_I) |
 | The Wards | Terry Doyle | 2022 | Canada | 240 | contemporary | 3.94 | 125 | [61378714](https://www.goodreads.com/book/show/61378714-the-wards) |
 | Westmark | Lloyd Alexander | 1981 | U.S. | 184 | fantasy, YA, westmark-1, [not owned] | 3.93 | 4847 | [24783](https://www.goodreads.com/book/show/24783.Westmark) |
+| The Revolt of Gunner Asch | Hans Hellmut Kirst | 1954 | Germany | 240 | historical, humor, WWII, gunner-asch-1, [not owned] | 3.93 | 349 | [1021099](https://www.goodreads.com/book/show/1021099.The_Revolt_of_Gunner_Asch) |
 | Diné: A History of the Navajos | Peter Iverson | 2002 | U.S., Diné | 432 | nonfiction, history, Native American | 3.93 | 111 | [292747](https://www.goodreads.com/book/show/292747.Din_) |
 | The Haygoods of Columbus: A Love Story | Wil Haygood | 1997 | U.S. | 360 | biography, memoir, [not owned] | 3.91 | 43 | [513543](https://www.goodreads.com/book/show/513543.The_Haygoods_of_Columbus) |
 | Three Plays: An Enemy of the People / The Wild Duck / Rosmersholm | Henrik Ibsen | 1971 | Norway | 352 | play, classics | 3.88 | 192 | [246036](https://www.goodreads.com/book/show/246036.Three_Plays) |
@@ -71,6 +72,7 @@
 | The Ice Palace | Tarjei Vesaas | 1963 | Norway | 176 | classics, literary, [not owned] | 3.85 | 14060 | [138110](https://www.goodreads.com/book/show/138110.The_Ice_Palace) |
 | Go for Beginners | Kaoru Iwamoto | 1972 | Japan | 160 | nonfiction, games | 3.84 | 309 | [1371689](https://www.goodreads.com/book/show/1371689.Go_for_Beginners) |
 | The Argonautika | Apollonius of Rhodes | 221 BCE | Rhodes | 474 | poetry, classics, literary, fantasy, mythology | 3.83 | 11179 | [2662486](https://www.goodreads.com/book/show/2662486-the-argonautika) |
+| The Night of the Generals | Hans Hellmut Kirst | 1962 | Germany | 288 | historical, thriller, mystery, crime, WWII, [not owned] | 3.82 | 588 | [133008](https://www.goodreads.com/book/show/133008.The_Night_of_the_Generals) |
 | The Many and the Few: A Chronicle of the Dynamic Auto Workers | Henry Kraus | 1985 | U.S. | 328 | nonfiction, history, labor | 3.82 | 11 | [3144693](https://www.goodreads.com/book/show/3144693-the-many-and-the-few) |
 | Geeks, Girls and Secret Identities | Mike Jung | 2012 | U.S. | 307 | sci-fi, fantasy, humor, YA, superheroes | 3.81 | 507 | [12606292](https://www.goodreads.com/book/show/12606292-geeks-girls-and-secret-identities) |
 | Dreamweaver’s Dilemma | Lois McMaster Bujold | 1996 | U.S. | 252 | short stories, sci-fi, fantasy, Hugo Award, vorkosigan-saga-9.1, [not owned] | 3.80 | 1600 | [990089](https://www.goodreads.com/book/show/990089.Dreamweaver_s_Dilemma) |
