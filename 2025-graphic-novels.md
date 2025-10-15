@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Family Force V: Book One | Matt Braly | 2025 | U.S. | 3.5 | ebook | 232 | YA, sci-fi, adventure, superheroes |
 | Shepherdess Warriors, Volume 1 | Jonathan Garnier | 2018 | France | 3.5 | ebook | 141 | fantasy |
 | Resident Alien Volume 8: The Book of Life | Peter Hogan | 2025 | U.K., U.S. | 4.0 | ebook | 86 | sci-fi, mystery, crime |
 | Resident Alien Volume 7: The Book of Love | Peter Hogan | 2023 | U.K., U.S. | 4.0 | ebook | 94 | sci-fi, mystery, crime |
