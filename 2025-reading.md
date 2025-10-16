@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Incandescent | Emily Tesh | 2025 | U.K. | 5.0 | audio | 416 | fantasy, LGBT, queer, lesbian, dark academia |
 | A Mouthful of Dust | Nghi Vo | 2025 | U.S. | 4.0 | audio | 112 | novella, short story, fantasy |
 | Ring Shout | P. Djèlí Clark | 2020 | U.S. | 4.0 | audio | 185 | novella, horror, fantasy, historical, Locus Award, Nebula Award, British Fantasy Award |
 | The Korean War: A History | Bruce Cumings | 2010 | U.S., South Korea, North Korea | 5.0 | audio | 320 | nonfiction, history, war |
