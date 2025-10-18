@@ -258,7 +258,6 @@
 | The First Rule of Punk | Celia C. Pérez | 2017 | U.S. | 336 | 05:21 | contemporary, YA, music, [own] | 4.08 | 7953 | [33245571](https://www.goodreads.com/book/show/33245571-the-first-rule-of-punk) |
 | Songs on Endless Repeat: Essays and Outtakes | Anthony Veasna So | 2023 | U.S., Cambodia | 240 | 06:58 | nonfiction, short stories, essays, memoir, LGBT, queer | 4.08 | 557 | [127823320](https://www.goodreads.com/book/show/127823320-songs-on-endless-repeat) |
 | Four Treasures of the Sky | Jenny Tinghui Zhang | 2022 | China, U.S. | 326 | 12:19 | literary, historical | 4.08 | 19479 | [55987334](https://www.goodreads.com/book/show/55987334-four-treasures-of-the-sky) |
-| Defekt | Nino Cipri | 2021 | U.S. | 170 | 04:30 | novella, fantasy, sci-fi, LGBT, queer, litenverse-2, [own] | 4.08 | 2980 | [53261640](https://www.goodreads.com/book/show/53261640-defekt) |
 | City | Clifford D. Simak | 1952 | U.S. | 251 | 09:45 | short stories, classics, sci-fi, fantasy, speculative, [Audible](https://www.audible.com/pd/City-Audiobook/B002V9Z8FU) | 4.08 | 18851 | [222093](https://www.goodreads.com/book/show/222093.City) |
 | Animal Dreams | Barbara Kingsolver | 1990 | U.S. | 342 | 13:53 | literary, contemporary, [own] | 4.08 | 77115 | [77262](https://www.goodreads.com/book/show/77262.Animal_Dreams) |
 | We Measure the Earth with Our Bodies | Tsering Yangzom Lama | 2022 | Nepal, Tibet, Canada | 368 | 15:05 | literary, historical, unread country | 4.07 | 3620 | [58532200](https://www.goodreads.com/book/show/58532200-we-measure-the-earth-with-our-bodies) |
