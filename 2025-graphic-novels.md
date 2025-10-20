@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Kindred: A Graphic Novel Adaptation | Damian Duffy, Octavia E. Butler | 2017 | U.S. | 5.0 | print | 237 | historical, sci-fi, time travel, Bram Stoker Award, Eisner Award |
 | Ew, It’s Beautiful: A False Knees Comic Collection | Joshua Barkman | 2025 | Canada | 5.0 | ebook | 142 | humor, nature, birds |
 | False Knees: An Illustrated Guide to Animal Behavior | Joshua Barkman | 2019 | Canada | 5.0 | ebook | 144 | humor, nature, birds |
 | The Buildings Are Barking: Diane Noomin in Memoriam | Bill Griffith | 2023 | U.S. | 3.5 | ebook | 24 | nonfiction |
