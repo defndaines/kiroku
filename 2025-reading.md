@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Anji Kills a King | Evan Leikam | 2025 | U.S. | 5.0 | audio | 368 | fantasy |
 | Defekt | Nino Cipri | 2021 | U.S. | 4.5 | print | 170 | novella, fantasy, sci-fi, LGBT, queer, British Fantasy Award |
 | The Incandescent | Emily Tesh | 2025 | U.K. | 5.0 | audio | 416 | fantasy, LGBT, queer, lesbian, dark academia |
 | A Mouthful of Dust | Nghi Vo | 2025 | U.S. | 4.0 | audio | 112 | novella, short story, fantasy |

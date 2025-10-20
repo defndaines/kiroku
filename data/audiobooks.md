@@ -587,7 +587,6 @@
 | Siren Queen | Nghi Vo | 2022 | U.S. | 281 | 08:43 | fantasy, historical, LGBT, magical realism, queer, Chakraborty-rec | 3.68 | 12887 | [54102727](https://www.goodreads.com/book/show/54102727-siren-queen) |
 | Mobility | Lydia Kiesling | 2023 | Azerbaijan | 352 | 07:05 | literary, historical, contemporary, politics, coming of age, unread country | 3.68 | 2251 | [85323183](https://www.goodreads.com/book/show/85323183-mobility) |
 | I Feed Her to the Beast and the Beast Is Me | Jamison Shea | 2023 | U.S. | 339 | 12:02 | thriller, fantasy, horror, YA, LGBT, queer, Ignyte Award | 3.68 | 6192 | [75283912](https://www.goodreads.com/book/show/75283912-i-feed-her-to-the-beast-and-the-beast-is-me) |
-| Anji Kills a King | Evan Leikam | 2025 | U.S. | 368 | 10:37 | fantasy, the-rising-tide-1 | 3.68 | 3152 | [217387849](https://www.goodreads.com/book/show/217387849-anji-kills-a-king) |
 | All the Lovers in the Night | Mieko Kawakami | 2011 | Japan | 224 | 07:44 | literary, contemporary, romance | 3.68 | 47814 | [59336625](https://www.goodreads.com/book/show/59336625-all-the-lovers-in-the-night) |
 | Up the Line | Robert Silverberg | 1969 | U.S. | 320 | 08:11 | sci-fi, fantasy, historical, time travel, speculative, reread | 3.67 | 2062 | [449343](https://www.goodreads.com/book/show/449343.Up_the_Line) |
 | Tomb of Sand | Geetanjali Shree | 2018 | India | 739 | 18:22 | literary, historical, contemporary, Booker Prize | 3.67 | 3865 | [58703758](https://www.goodreads.com/book/show/58703758-tomb-of-sand) |
