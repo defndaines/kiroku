@@ -15,7 +15,7 @@
 | A Little Luck | Claudia Piñeiro | 2015 | Argentina | 211 | literary, thriller, mystery, contemporary, crime | 4.28 | 8900 | [75582270](https://www.goodreads.com/book/show/75582270-a-little-luck) |
 | Ida: A Sword Among Lions | Paula J. Giddings | 2008 | U.S. | 800 | nonfiction, biography, history, politics, feminism, race | 4.27 | 951 | [1126292](https://www.goodreads.com/book/show/1126292.Ida) |
 | The Pasha of Cuisine | Saygın Ersin | 2016 | Turkey | 300 | historical, fantasy, food, Chakraborty-rec | 4.26 | 1636 | [38330852](https://www.goodreads.com/book/show/38330852-the-pasha-of-cuisine) |
-| The Unquiet Earth | Denise Giardina | 1992 | U.S. | 3339 | historical | 4.24 | 738 | [690266](https://www.goodreads.com/book/show/690266.The_Unquiet_Earth) |
+| The Unquiet Earth | Denise Giardina | 1992 | U.S. | 374 | historical, American Book Award, Weatherford Award, Lillian Smith Book Award | 4.24 | 738 | [690266](https://www.goodreads.com/book/show/690266.The_Unquiet_Earth) |
 | Everyday Life in the North Korean Revolution, 1945–1950 | Suzy Kim | 2013 | North Korea | 328 | nonfiction, history, politics | 4.24 | 91 | [17719882](https://www.goodreads.com/book/show/17719882-everyday-life-in-the-north-korean-revolution-1945-1950) |
 | Lili Is Crying | Hélène Bessette | 2025 | France | 192 | contemporary | 4.22 | 164 | [219299662](https://www.goodreads.com/book/show/219299662-lili-is-crying) |
 | M. R. James: The Complete Supernatural Stories | M.R. James | 1936 | U.K. | 277 | classics, horror, fantasy | 4.21 | 84 | [40215184](https://www.goodreads.com/book/show/40215184-m-r-james) |

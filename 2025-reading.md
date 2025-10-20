@@ -55,7 +55,7 @@ fiction otherwise). The most recently finished book is on top.
 | No Gods, No Monsters | Cadwell Turnbull | 2021 | U.S. | 4.0 | audio | 387 | fantasy, horror, LGBT |
 | You Perfect, Broken Thing | C. L. Clark | 2020 | U.K. | 4.5 | ebook | 14 | sci-fi, dystopian, LGBT, short story, Ignyte Award |
 | If the Martians Have Magic | P. Djèlí Clark | 2021 | U.S. | 4.0 | ebook | 16 | sci-fi, fantasy, historical, short story, Ignyte Award |
-| Demian | Hermann Hesse | 1919 | Switzerland, Germany | 3.0 | audio | 166 | literary, philosophy, Nobel |
+| Demian | Hermann Hesse | 1919 | Switzerland, Germany | 3.0 | audio | 166 | literary, philosophy, Nobel Prize |
 | A Witch’s Transition in the City of Ghosts | Oluwatomiwa Ajeigbe | 2024 | Nigeria | 4.0 | ebook | 18 | fantasy, short story, Ignyte Award |
 | The Brides of High Hill | Nghi Vo | 2024 | U.S. | 4.0 | audio | 116 | novella, fantasy, horror, Hugo nominee |
 | Mammoths at the Gates | Nghi Vo | 2023 | U.S. | 4.0 | audio | 123 | novella, fantasy |
@@ -100,7 +100,7 @@ fiction otherwise). The most recently finished book is on top.
 | The Joy Luck Club | Amy Tan | 1989 | U.S. | 4.0 | audio | 288 | classics, historical |
 | Hunchback | Saou Ichikawa | 2023 | Japan | 4.5 | audio | 112 | literary, disability, Akutagawa Prize |
 | The Spear Cuts Through Water | Simon Jimenez | 2022 | U.S. | 4.5 | audio | 525 | fantasy, LGBT, Robert Holdstock Award (BFA) |
-| Never Let Me Go | Kazuo Ishiguro | 2005 | U.K. | 4.5 | print | 288 | literary, sci-fi, dystopian, Nobel |
+| Never Let Me Go | Kazuo Ishiguro | 2005 | U.K. | 4.5 | print | 288 | literary, sci-fi, dystopian, Nobel Prize |
 | No More Tears: The Dark Secrets of Johnson & Johnson | Gardiner Harris | 2025 | U.S. | 5.0 | audio | 464 | nonfiction, history, politics, true crime, business, science |
 | Dearborn | Ghassan Zeineddine | 2023 | U.S. | 4.5 | audio | 240 | short stories, literary, contemporary, LGBT, race |
 | Orbital | Samantha Harvey | 2023 | U.K. | 3.5 | audio | 207 | literary, sci-fi, Booker Prize |

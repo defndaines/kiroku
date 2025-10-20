@@ -32,7 +32,7 @@ tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | 
 
 tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
 
-### Show ten most populous countries from which I haven’t year read a book
+### Show ten most populous countries from which I haven’t yet read a book
 grep '\[ ]' countries-read.md | head | sed 's/- \[ ] \([^:]*\).*/\1/'
 
 ### Filter out the major English-native countries.
@@ -123,6 +123,7 @@ sed -n '1,/## Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 grep "^Count:" [a-z]*.md
 
+### Audit Count Values
 for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
@@ -135,6 +136,7 @@ for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-
   grep '\[x\]' $award | sort | uniq -c | wc -l
 done
 
+### What Percentage of Award Books Have I Read?
 for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   hugo-award.md ignyte-award.md kirkus-prize.md locus-award.md \
@@ -149,8 +151,7 @@ for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-
   echo "  ${count} (${pct}%)"
 done
 
-## Analysis of individual awards when there are different categories.
-
+### Analysis of individual awards when there are different categories.
 for award in british-fantasy-award.md andrew-carnegie-medal-for-excellence.md booker-prize.md \
   golden-poppy-book-award.md hugo-award.md ignyte-award.md kirkus-prize.md \
   locus-award.md mythopoeic-award.md national-book-award.md nebula-award.md \
