@@ -11,7 +11,7 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 10
+Count: 11
 
 ## Novel (1)
 
@@ -20,6 +20,7 @@ Count: 10
 - [ ] 2022: _A Master of Djinn_ P. Djèlí Clark
 - [ ] 2023: _The Blood Trials_ N. E. Davenport
 - [ ] 2024: _The Saint of Bright Doors_ Vajra Chandrasekera
+- [ ] 2025: _The Sentence_ Gautam Bhatia
 
 ## Novel: Young Adult (1)
 
@@ -28,6 +29,7 @@ Count: 10
 - [x] 2022: _A Snake Falls to Earth_ Darcie Little Badger
 - [ ] 2023: _Bloodmarked_ Tracy Deonn
 - [ ] 2024: _I Feed Her to the Beast and the Beast Is Me_ Jamison Shae
+- [ ] 2025: _Heir_ Sabaa Tahir
 
 ## Novella (2)
 
@@ -36,6 +38,7 @@ Count: 10
 - [ ] 2022: _And This Is How to Stay Alive_ Shingai Njeri Kagunda
 - [x] 2023: _Into the Riverlands_ Nghi Vo
 - [ ] 2024: _The Lies of the Ajungo_ Moses Ose Utomi
+- [ ] 2025: _Lost Ark Dreaming_ Suyi Okungbowa Davies
 
 ## Novelette (2)
 
@@ -44,11 +47,13 @@ Count: 10
 - [ ] 2022: _The Future Library_ Peng Shepherd
 - [x] 2023: _If You Find Yourself Speaking to God, Address God with the Informal You_ John Chu
 - [ ] 2024: _Spell for Grief and Longing_ Eboni J. Dunbar
+- [ ] 2025: _We Who Will Not Die_ Shingai Njeri Kagunda
 
-## Short Story (4)
+## Short Story (5)
 
 - [ ] 2020: _A Brief Lesson in Native American Astronomy_ Rebecca Roanhorse
 - [x] 2021: _You Perfect, Broken Thing_ C. L. Clark
 - [x] 2022: _If the Martians Have Magic_ P. Djèlí Clark
 - [x] 2023: _The Lady of the Yellow-Painted Library_ Tobi Ogundiran
 - [x] 2024: _A Witch’s Transition in the City of Ghosts_ Oluwatomiwa Ajeigbe
+- [x] 2025: _We Will Teach You How to Read | We Will Teach You How to Read_ Caroline M. Yoachim
