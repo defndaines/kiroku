@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Luciole Has a Dream, Volume 1 | Yū Morikawa | 2023 | Japan | 3.0 | ebook | 192 | manga, fantasy, dystopian |
 | The Color of the End: Mission in the Apocalypse, Volume 1 | Haruo Iwamune | 2023 | Japan | 3.0 | ebook | 216 | manga, sci-fi, dystopian, post-apocalyptic, horror |
 | Kindred: A Graphic Novel Adaptation | Damian Duffy, Octavia E. Butler | 2017 | U.S. | 5.0 | print | 237 | historical, sci-fi, time travel, Bram Stoker Award, Eisner Award |
 | Ew, It’s Beautiful: A False Knees Comic Collection | Joshua Barkman | 2025 | Canada | 5.0 | ebook | 142 | humor, nature, birds |
