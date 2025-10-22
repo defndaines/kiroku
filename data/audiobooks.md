@@ -308,7 +308,6 @@
 | Me: Moth | Amber McBride | 2021 | U.S. | 256 | 03:26 | poetry, fantasy, romance, YA, magical realism, mental health, [own] | 4.02 | 9752 | [50498335](https://www.goodreads.com/book/show/50498335-me) |
 | Little | Edward Carey | 2018 | U.K. | 448 | 14:15 | historical, 1700s Paris | 4.02 | 13787 | [38649806](https://www.goodreads.com/book/show/38649806-little) |
 | Fortune Favors the Dead | Stephen Spotswood | 2020 | U.S. | 321 | 08:32 | historical, mystery, LGBT, queer, pentecost-and-parker-1, Sunny-Lu-rec | 4.02 | 11425 | [50666983](https://www.goodreads.com/book/show/50666983-fortune-favors-the-dead) |
-| Emergency Skin | N.K. Jemisin | 2019 | U.S. | 38 | 01:04 | novelette, sci-fi, fantasy, dystopian, Hugo Award, Ignyte Award, forward-collection-3, [Audible](https://www.audible.com/pd/Emergency-Skin-Audiobook/1978650841) | 4.02 | 33138 | [49669410](https://www.goodreads.com/book/show/49669410-emergency-skin) |
 | Beasts of a Little Land | Juhea Kim | 2021 | South Korea, U.S. | 416 | 13:30 | literary, historical, war | 4.02 | 19449 | [57151981](https://www.goodreads.com/book/show/57151981-beasts-of-a-little-land) |
 | Walk the Blue Fields | Claire Keegan | 2007 | Ireland | 168 | 05:05 | short stories, literary, contemporary | 4.01 | 10330 | [2524702](https://www.goodreads.com/book/show/2524702.Walk_the_Blue_Fields) |
 | The Woman in White | Wilkie Collins | 1859 | U.K. | 672 | 25:22 | classics, mystery, horror, gothic | 4.01 | 164237 | [35996864](https://www.goodreads.com/book/show/35996864-the-woman-in-white) |

@@ -11,7 +11,7 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 11
+Count: 12
 
 ## Novel (1)
 
@@ -40,9 +40,9 @@ Count: 11
 - [ ] 2024: _The Lies of the Ajungo_ Moses Ose Utomi
 - [ ] 2025: _Lost Ark Dreaming_ Suyi Okungbowa Davies
 
-## Novelette (2)
+## Novelette (3)
 
-- [ ] 2020: _Emergency Skin_ N K Jemisin
+- [x] 2020: _Emergency Skin_ N. K. Jemisin
 - [x] 2021: _The Inaccessibility of Heaven_ Aliette de Bodard
 - [ ] 2022: _The Future Library_ Peng Shepherd
 - [x] 2023: _If You Find Yourself Speaking to God, Address God with the Informal You_ John Chu

@@ -11,7 +11,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 78
+Count: 79
 
 ## Novel (27)
 
@@ -170,7 +170,7 @@ Count: 78
 - [x] 2025: Ray Nayler _The Tusks of Extinction_
 <!-- Novella -->
 
-## Novelette (6)
+## Novelette (7)
 
 - [ ] 1939: Clifford D. Simak “Rule 18”
 - [ ] 1941: ~Robert A. Heinlein “The Roads Must Roll”~
@@ -233,7 +233,7 @@ Count: 78
 - [ ] 2017: Ursula Vernon “The Tomato Thief”
 - [x] 2018: Suzanne Palmer “The Secret Life of Bots”
 - [x] 2019: Zen Cho “If at First You Don’t Succeed, Try, Try Again”
-- [ ] 2020: N. K. Jemisin _Emergency Skin_
+- [x] 2020: N. K. Jemisin _Emergency Skin_
 - [ ] 2021: Sarah Pinsker _Two Truths and a Lie_
 - [ ] 2022: Suzanne Palmer ”Bots of the Lost Ark”
 - [ ] 2023: Hai Ya ”The Space-Time Painter”

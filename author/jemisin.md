@@ -57,7 +57,7 @@ I’d like to read more of Jemisin’s work.
 - [x] “The Storyteller’s Replacement” (2018)
 - [x] “The Elevator Dancer” (2018)
 - [x] “Cuisine des Mémoires” (2018)
-- [ ] “Emergency Skin” (2019) [Hugo]
+- [x] “Emergency Skin” (2019) [Hugo]
 - [x] “The Ones Who Stay and Fight” (2020)
 - [ ] “Reckless Eyeballing” (2023)
 
