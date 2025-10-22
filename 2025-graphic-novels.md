@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Uncanny Counter, Volume 1 | Jang E | 2021 | South Korea | 4.5 | ebook | 233 | manhwa, fantasy |
 | Soul Eater, Volume 1 | Atsushi Ōkubo | 2004 | Japan | 2.0 | ebook | 50 | DNF, manga, fantasy |
 | Luciole Has a Dream, Volume 1 | Yū Morikawa | 2023 | Japan | 3.0 | ebook | 192 | manga, fantasy, dystopian |
 | The Color of the End: Mission in the Apocalypse, Volume 1 | Haruo Iwamune | 2023 | Japan | 3.0 | ebook | 216 | manga, sci-fi, dystopian, post-apocalyptic, horror |
