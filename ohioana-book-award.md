@@ -98,6 +98,7 @@ Count: 6
 - [ ] 2022: Anthony Doerr _Cloud Cuckoo Land_
 - [ ] 2023: Celeste Ng _Our Missing Hearts_
 - [x] 2024: James McBride _The Heaven and Earth Grocery Store_
+- [ ] 2025: Christopher Bollen _Havoc_
 <!-- Fiction -->
 
 ## Nonfiction (1)
@@ -212,6 +213,7 @@ Count: 6
 - [x] 2022: Hanif Abdurraqib _A Little Devil in America: Notes in Praise of Black Performance_
 - [ ] 2023: Ross Gay _Inciting Joy_
 - [ ] 2024: Sarah Lohman _Endangered Eating: America’s Vanishing Foods_
+- [ ] 2025: Timothy Snyder _On Freedom_
 <!-- Nonfiction -->
 
 ## About Ohio (2)
@@ -299,6 +301,7 @@ Count: 6
 - [x] 2022: Brian Alexander _The Hospital: Life, Death, and Dollars in a Small American Town_
 - [ ] 2023: Kelcey Ervick _The Keeper: Soccer, Me, and the Law That Changed Women’s Lives_
 - [ ] 2024: Laura Meckler _Dream Town: Shaker Heights and the Quest for Racial Equity_
+- [ ] 2025: Keith O’Brien _Charlie Hustle: The Rise and Fall of Pete Rose, and the Last Glory Days of Baseball_
 <!-- About Ohio -->
 
 ## Reader’s Choice Award (1)
@@ -312,4 +315,5 @@ Count: 6
 - [ ] 2022: Manuel Iris _The Parting Present / Lo que se irá_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Sarah Lohman _Endangered Eating: America’s Vanishing Foods_
+- [ ] 2025: Amanda Flower _To Slip the Bonds of Earth (A Katharine Wright Mystery)_
 <!-- Reader’s Choice Award -->
