@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Uncanny Counter, Volume 3 | Jang E | 2021 | South Korea | 4.5 | ebook | 240 | manhwa, fantasy |
 | The Uncanny Counter, Volume 2 | Jang E | 2021 | South Korea | 4.5 | ebook | 219 | manhwa, fantasy |
 | The Uncanny Counter, Volume 1 | Jang E | 2021 | South Korea | 4.5 | ebook | 233 | manhwa, fantasy |
 | Soul Eater, Volume 1 | Atsushi Ōkubo | 2004 | Japan | 2.0 | ebook | 50 | DNF, manga, fantasy |
