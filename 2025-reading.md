@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| There Is No Place for Us: Working and Homeless in America | Brian Goldstone | 2025 | U.S. | 5.0 | audio | 448 | nonfiction, history, politics, economics, sociology, social justice |
 | Emergency Skin | N. K. Jemisin | 2019 | U.S. | 5.0 | audio | 38 | novelette, sci-fi, dystopian, Hugo Award, Ignyte Award |
 | Anji Kills a King | Evan Leikam | 2025 | U.S. | 5.0 | audio | 368 | fantasy |
 | Defekt | Nino Cipri | 2021 | U.S. | 4.5 | print | 170 | novella, fantasy, sci-fi, LGBT, queer, British Fantasy Award |
