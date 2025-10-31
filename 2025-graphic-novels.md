@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Electric Cowboy | Ansel Kite | 2025 | U.S. | 3.0 | ebook | 48 | sci-fi |
 | The Summer Hikaru Died, Volume 6 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |
 | The Uncanny Counter, Volume 5 | Jang E | 2021 | South Korea | 4.5 | ebook | 232 | manhwa, fantasy |
 | The Uncanny Counter, Volume 4 | Jang E | 2021 | South Korea | 4.5 | ebook | 221 | manhwa, fantasy |
