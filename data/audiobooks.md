@@ -666,7 +666,6 @@
 | Blackass | A. Igoni Barrett | 2015 | Nigeria | 262 | 09:01 | fantasy, contemporary, magical realism, race, [Audible](https://www.audible.com/pd/Blackass-Audiobook/B01E9DEWMA) | 3.35 | 2480 | [23482810](https://www.goodreads.com/book/show/23482810-blackass) |
 | Audition | Katie Kitamura | 2025 | U.S. | 200 | 04:46 | literary, contemporary | 3.34 | 19569 | [216247518](https://www.goodreads.com/book/show/216247518-audition) |
 | Waste Tide | Chen Qiufan | 2013 | China | 352 | 12:07 | sci-fi, fantasy, dystopian, cyberpunk | 3.32 | 2893 | [39863294](https://www.goodreads.com/book/show/39863294-waste-tide) |
-| Rakesfall | Vajra Chandrasekera | 2024 | Sri Lanka | 304 | 08:57 | sci-fi, fantasy, LGBT, romance, time travel, queer, Otherwise Award, Le Guin Prize | 3.31 | 1197 | [195791063](https://www.goodreads.com/book/show/195791063-rakesfall) |
 | The Hearing Test | Eliza Barry Callahan | 2024 | U.S. | 162 | 03:37 | literary, contemporary, disability, [Audible](https://www.audible.com/pd/The-Hearing-Test-Audiobook/B0DL7S9ZJG) | 3.24 | 1481 | [185767235](https://www.goodreads.com/book/show/185767235-the-hearing-test) |
 | I’m a Fan | Sheena Patel | 2022 | U.K. | 207 | 04:31 | literary, contemporary, romance, feminism, Katerina-Reem-rec | 3.24 | 31332 | [60151826](https://www.goodreads.com/book/show/60151826-i-m-a-fan) |
 | Dare Me | Megan Abbott | 2012 | U.S. | 290 | 09:12 | mystery, thriller, YA, contemporary, cheerleaders | 3.24 | 30044 | [12982393](https://www.goodreads.com/book/show/12982393-dare-me) |

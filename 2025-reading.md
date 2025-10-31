@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Rakesfall | Vajra Chandrasekera | 2024 | Sri Lanka | 4.0 | audio | 304 | fantasy, sci-fi, romance, LGBT, time travel, queer, Otherwise Award, Ursula K. Le Guin Prize |
 | There Is No Place for Us: Working and Homeless in America | Brian Goldstone | 2025 | U.S. | 5.0 | audio | 448 | nonfiction, history, politics, economics, sociology, social justice |
 | Emergency Skin | N. K. Jemisin | 2019 | U.S. | 5.0 | audio | 38 | novelette, sci-fi, dystopian, Hugo Award, Ignyte Award |
 | Anji Kills a King | Evan Leikam | 2025 | U.S. | 5.0 | audio | 368 | fantasy |

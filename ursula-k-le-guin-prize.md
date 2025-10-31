@@ -11,9 +11,9 @@ Award is announced in October.
 
 https://www.ursulakleguin.com/prize-overview
 
-Count: 2
+Count: 3
 
 - [x] 2022: Khadija Abdalla Bajaber _The House of Rust_
 - [ ] 2023: Rebecca Campbell _Arboreality_
 - [x] 2024: Anne de Marcken _It Lasts Forever and Then It’s Over_
-- [ ] 2025: Vajra Chandrasekera _Rakesfall_
+- [x] 2025: Vajra Chandrasekera _Rakesfall_
