@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Summer Hikaru Died, Volume 6 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |
 | The Uncanny Counter, Volume 5 | Jang E | 2021 | South Korea | 4.5 | ebook | 232 | manhwa, fantasy |
 | The Uncanny Counter, Volume 4 | Jang E | 2021 | South Korea | 4.5 | ebook | 221 | manhwa, fantasy |
 | The Uncanny Counter, Volume 3 | Jang E | 2021 | South Korea | 4.5 | ebook | 240 | manhwa, fantasy |
@@ -67,7 +68,7 @@ on top.
 | Iyanu: Child of Wonder, Volume 1 | Roye Okupe | 2021 | Nigeria | 4.0 | ebook | 117 | fantasy, YA, folklore |
 | My Favorite Thing Is Monsters, Vol. 1 | Emil Ferris | 2017 | U.S. | 5.0 | ebook | 416 | historical, horror, mystery, Ignatz Award, Eisner Award |
 | よつばと! 16 | あずまきよひこ | 2025 | Japan | 4.5 | print | 256 | manga, humor |
-| The Summer Hikaru Died, Vol. 5 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |
+| The Summer Hikaru Died, Volume 5 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |
 | Gunnerkrigg Court, Volume 1: Orientation & Research | Thomas Siddell | 2010 | U.K. | 4.5 | ebook | 558 | fantasy, sci-fi, YA |
 | Birdking Volume 3 | Daniel Freedman | 2024 | U.S. | 3.5 | ebook | 108 | fantasy, YA |
 | The Savage Sword of Conan #7 | Roy Thomas | 2025 | U.S. | 4.5 | print | 69 | fantasy |
