@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| State of Resistance: What California’s Dizzying Descent and Remarkable Resurgence Means for America’s Future | Manuel Pastor | 2018 | U.S. | 2.5 | print | 204 | nonfiction, history, politics, sociology, social justice |
 | Rakesfall | Vajra Chandrasekera | 2024 | Sri Lanka | 4.0 | audio | 304 | fantasy, sci-fi, romance, LGBT, time travel, queer, Otherwise Award, Ursula K. Le Guin Prize |
 | There Is No Place for Us: Working and Homeless in America | Brian Goldstone | 2025 | U.S. | 5.0 | audio | 448 | nonfiction, history, politics, economics, sociology, social justice |
 | Emergency Skin | N. K. Jemisin | 2019 | U.S. | 5.0 | audio | 38 | novelette, sci-fi, dystopian, Hugo Award, Ignyte Award |
