@@ -1,6 +1,5 @@
 | title | author | year | country | pages | tags | rating | # ratings | goodreads |
 | --- | --- | :---: | --- | ---: | --- | :---: | ---: | --- |
-| The Diary of Curious Cuthbert | Jack Challoner | 2017 | U.K. | 122 | poetry, YA | 5.00 | 3 | [36827687](https://www.goodreads.com/book/show/36827687-the-diary-of-curious-cuthbert) |
 | Ka’m-t’em: A Journey Toward Healing | Kishan Lara-Cooper, Walter J. Lara Sr. | 2019 | U.S., Yurok | 356 | nonfiction, essays, religion, sociology | 4.67 | 18 | [46120799](https://www.goodreads.com/book/show/46120799-ka-m-t-em) |
 | Reading Blue Devils: A Novel | Jon Bennett | 2018 | U.S. | 296 | contemporary, high school, Ohio, [not owned] | 4.63 | 8 | [36501912](https://www.goodreads.com/book/show/36501912-reading-blue-devils) |
 | Under the Thumb: Stories of Police Oppression | S.A. Cosby | 2021 | U.S. | 239 | nonfiction, essays, race | 4.58 | 26 | [59691919](https://www.goodreads.com/book/show/59691919-under-the-thumb) |
