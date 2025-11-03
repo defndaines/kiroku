@@ -87,10 +87,10 @@ Count: 98
 - [x] Syria: [_Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS_](https://www.goodreads.com/book/show/59521653-their-blood-got-mixed) Janet Biehl
 - [ ] Mali:
 - [x] Burkina Faso: [_Women’s Liberation and the African Freedom Struggle_](https://www.goodreads.com/book/show/3039894-women-s-liberation-and-the-african-freedom-struggle) Thomas Sankara
-- [x] Sri Lanka: [_Island of a Thousand Mirrors_](https://www.goodreads.com/book/show/19286587-island-of-a-thousand-mirrors) Nayomi Munaweera; [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula
+- [x] Sri Lanka: [_Island of a Thousand Mirrors_](https://www.goodreads.com/book/show/19286587-island-of-a-thousand-mirrors) Nayomi Munaweera; [_What the Buddha Taught_](https://www.goodreads.com/book/show/390562.What_the_Buddha_Taught) Walpola Rahula; [_Rakesfall_](https://www.goodreads.com/book/show/195791063-rakesfall) Vajra Chandrasekera
 - [ ] Malawi:
 - [x] Chile: [_Zorro_](https://www.goodreads.com/book/show/24796.Zorro) Isabel Allende
-- [ ] Kazakhstan:
+- [ ] Kazakhstan: Baqytgul Sarmekova ?
 - [ ] Zambia:
 - [x] Romania: [_The Fox Was Ever the Hunter_](https://www.goodreads.com/book/show/23847927-the-fox-was-ever-the-hunter) Herta Muller
 - [x] Ecuador: [_La mandíbula del río_](https://www.uncannymagazine.com/article/la-mandibula-del-rio/) Ana Hurtado

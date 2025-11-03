@@ -10,7 +10,7 @@ Awards announced in October or early November.
 
 https://britishfantasysociety.org/about-the-bfs/the-british-fantasy-awards/
 
-Count: 10
+Count: 11
 
 ## Novel (1)
 
@@ -70,6 +70,7 @@ Count: 10
 - [ ] 2022: _She Who Became the Sun_, Shelley Parker-Chan
 - [x] 2023: _The Spear Cuts Through Water_, Simon Jimenez
 - [ ] 2024: _Talonsister_, Jen Williams
+- [ ] 2025: _Masquerade_, O.O. Sangoyomi
 <!-- Fantasy Novel -->
 
 ## Horror Novel (August Derleth Award) (0)
@@ -87,6 +88,7 @@ Count: 10
 - [ ] 2022: _The Last House on Needless Street_, Catriona Ward
 - [ ] 2023: _Just Like Home_, Sarah Gailey
 - [ ] 2024: _Don’t Fear the Reaper_, Stephen Graham Jones
+- [ ] 2025: _My Darling Dreadful Thing_, Johanna van Veen
 <!-- Horror Novel -->
 
 ## Novella (2)
@@ -111,9 +113,10 @@ Count: 10
 - [x] 2022: _Defekt_, Nino Cipri
 - [ ] 2023: _The Queen of the High Fields_, Rhiannon A. Grist
 - [ ] 2024: _The Last Dragoners of Bowbazar_, Indra Das
+- [ ] 2025: _The Last to Drown_, Lorraine Wilson
 <!-- Novella -->
 
-## Short Fiction (0)
+## Short Fiction (1)
 
 - [ ] 1973: _The Fallible Fiend_, L Sprague de Camp
 - [ ] 1974: _The Jade Man’s Eyes_, Michael Moorcock
@@ -162,11 +165,12 @@ Count: 10
 - [ ] 2017: “White Rabbit”, Georgina Bruce
 - [ ] 2018: “Looking for Laika”, Laura Mauro
 - [ ] 2019: “Down Where Sound Comes Blunt”, G. V. Anderson
-g [ ] 2020: “The Pain-Eater’s Daughter”, Laura Mauro
+- [ ] 2020: “The Pain-Eater’s Daughter”, Laura Mauro
 - [ ] 2021: “Infinite Tea in the Demara Café”, Ida Keogh
 - [ ] 2022: _Bathymetry_, Lorraine Wilson
 - [ ] 2023: _Morta_, James Bennett
 - [ ] 2024: _The Brazen Head of Westinghouse_, Tim Major, (IZ Digital)
+- [x] 2025: _Loneliness Universe_, Eugenia Triantafyllou
 <!-- Short Fiction -->
 
 ## Comic / Graphic Novel (5)
@@ -211,6 +215,7 @@ g [ ] 2020: “The Pain-Eater’s Daughter”, Laura Mauro
 - [ ] 2022: _Writing the Uncanny_, ed. Dan Coxon & Richard V. Hirst
 - [ ] 2023: _An Earnest Blackness_, Eugen Bacon
 - [ ] 2024: _Writing the Future_, eds. Dan Coxon & Richard V. Hirst
+- [ ] 2025: _Queer as Folklore: The Hidden Queer History of Myths and Monsters_, Sacha Coward
 <!-- Non-Fiction -->
 
 ## Newcomer (Sydney J. Bounds Award) (0)
@@ -222,4 +227,10 @@ g [ ] 2020: “The Pain-Eater’s Daughter”, Laura Mauro
 - [ ] 2022: Shelley Parker-Chan, for _She Who Became the Sun_
 - [ ] 2023: Hiron Ennes, for _Leech_
 - [ ] 2024: Teika Marija Smits, for “Umbilical” & “Waterlore”
+- [ ] 2025: Frances White, for _Voyage of the Damned_
 <!-- Newcomer -->
+
+## Aldiss Award (0)
+
+- [ ] 2025: Rogba Payne, for _The Dance of Shadows_
+<!-- Aldiss -->

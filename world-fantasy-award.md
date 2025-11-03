@@ -10,9 +10,9 @@ November.
 
 https://worldfantasy.org/
 
-Count: 5
+Count: 6
 
-## Novel (5)
+## Novel (6)
 
 - [ ] 1975: Patricia A. McKillip _The Forgotten Beasts of Eld_
 - [ ] 1976: Richard Matheson _Bid Time Return_
@@ -66,6 +66,7 @@ Count: 5
 - [ ] 2022: Tasha Suri _The Jasmine Throne_
 - [ ] 2023: C.S.E. Cooney _Saint Death’s Daughter_
 - [x] 2024: Tananarive Due _The Reformatory_
+- [x] 2025: Robert Jackson Bennett _The Tainted Cup_
 <!-- Novel -->
 
 ## Novella (0)
@@ -116,6 +117,7 @@ Count: 5
 - [ ] 2022: Premee Mohamed _And What Can We Offer You Tonight_
 - [ ] 2023: Priya Sharma _Pomegranates_
 - [ ] 2024: Josh Malerman _Half the House Is Haunted_
+- [ ] 2025: R.B. Lemberg _Yoke of Stars_
 <!-- Novella -->
 
 ## Short Fiction (0)
@@ -171,4 +173,5 @@ Count: 5
 - [ ] 2022: Lauren Ring “(emet)”
 - [ ] 2023: Tananarive Due “Incident at Bear Creek Lodge”
 - [ ] 2024: Nghi Vo “Silk and Cotton and Linen and Blood”
+- [ ] 2025: Maura McHugh “Raptor”
 <!-- Short Fiction -->

@@ -103,6 +103,12 @@ tail -n +8 2025-reading.md | sort -t\| -k 8 -n
 
 # Awards
 
+## What Awards Have Not Yet Been Awarded this Year
+
+grep -F -v -f <(grep -l `date +%Y` *.md) <(ls *{award,medal,prize}*.md)
+
+grep -F -v -f <(grep -l 2025 *.md) <(ls *{award,medal,prize}*.md)
+
 ## Hugo Novels Read
 
 sed -n '1,/## Novella/p' hugo-award.md | grep -c '\[x\]'
