@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Heartcore | Štěpánka Jislová | 2023 | Czech Republic | 4.5 | ebook | 236 | nonfiction, autobiography, feminism |
 | Pop Kill | Jimmy Palmiotti | 2025 | U.S. | 3.0 | ebook | 144 | thriller |
 | Electric Cowboy | Ansel Kite | 2025 | U.S. | 3.0 | ebook | 48 | sci-fi |
 | The Summer Hikaru Died, Volume 6 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT, romance |

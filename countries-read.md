@@ -116,7 +116,7 @@ Count: 98
 - [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
 - [ ] Jordan:
 - [ ] Cuba:
-- [x] Czech Republic: [_The Trial_](https://www.goodreads.com/book/show/17690.The_Trial) Franz Kafka
+- [x] Czech Republic: [_The Trial_](https://www.goodreads.com/book/show/17690.The_Trial) Franz Kafka; [_Heartcore_](https://www.goodreads.com/book/show/220293074-heartcore) Štěpánka Jislová
 - [x] Dominican Republic: [_The Feast of the Goat_](https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat) Mario Vargas Llosa
 - [x] Sweden: [_The Girl with the Dragon Tattoo_](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) Stieg Larsson
 - [x] Greece: _The Odyssey_ Homer
