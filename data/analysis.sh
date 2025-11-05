@@ -127,9 +127,15 @@ sed -n '1,/## Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
 ## Other awards (for loop audits)
 
-grep "^Count:" [a-z]*.md
+grep "^Count:" *{award,medal,prize}*.md
 
-### Audit Count Values
+### Awards by Year
+for award in *{award,medal,prize}*.md; do
+  head -1 "${award}"
+  grep 2025 "${award}"
+done
+
+### Audit Count Values (skips Hugo and Nebula, which include films and scripts)
 for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
   great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
@@ -137,47 +143,39 @@ for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-
   nommo-award.md ohioana-book-award.md pulitzer-prize.md \
   ursula-k-le-guin-prize.md walter-scott-prize.md womens-prize.md \
   world-fantasy-award.md; do
-  head -1 $award
-  grep "^Count" $award
-  grep '\[x\]' $award | sort | uniq -c | wc -l
+  head -1 "${award}"
+  grep "^Count" "${award}"
+  grep '\[x\]' "${award}" | sort | uniq -c | wc -l
 done
 
 ### What Percentage of Award Books Have I Read?
-for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
-  arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
-  hugo-award.md ignyte-award.md kirkus-prize.md locus-award.md \
-  mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
-  nebula-award.md nommo-award.md ohioana-book-award.md pulitzer-prize.md \
-  ursula-k-le-guin-prize.md walter-scott-prize.md womens-prize.md \
-  world-fantasy-award.md great-american-novels.md nyt-100-best-21st-century.md; do
-  head -1 $award
-  count=$(grep "^Count:" ${award} | sed 's/Count: //')
-  total=$(grep -c "^- \[" ${award})
+for award in *{award,medal,prize}*.md great-american-novels.md nyt-100-best-21st-century.md; do
+  head -1 "${award}"
+  count=$(grep "^Count:" "${award}" | sed 's/Count: //')
+  total=$(grep -c "^- \[" "${award}")
   pct=$((count * 100 / total))
   echo "  ${count} (${pct}%)"
 done
 
 ### Analysis of individual awards when there are different categories.
-for award in british-fantasy-award.md andrew-carnegie-medal-for-excellence.md booker-prize.md \
-  golden-poppy-book-award.md hugo-award.md ignyte-award.md kirkus-prize.md \
-  locus-award.md mythopoeic-award.md national-book-award.md nebula-award.md \
-  nommo-award.md ohioana-book-award.md pulitzer-prize.md womens-prize.md \
-  world-fantasy-award.md; do
-  head -1 $award
-  lines=($(grep -n "^## " ${award} | sed 's/:.*//'))
-  for i in $(seq ${#lines[@]}); do
-    if [[ $i -eq "${#lines[@]}" ]]; then
-      until="\$"
-    else
-      until=${lines[$((i + 1))]}
-    fi
-    sed -n "${lines[i]},${lines[i]}p" ${award}
-    count=$(sed -n "${lines[i]},${until}p" ${award} | grep -c '\[x\]')
-    total=$(sed -n "${lines[i]},${until}p" ${award} | grep -c '^- \[')
-    pct=$((count * 100 / total))
-    echo "  ${count} (${pct}% of ${total})"
-  done
-  echo ""
+for award in *{award,medal,prize}*.md; do
+  if grep -q "##" "${award}"; then
+    head -1 "${award}"
+    lines=($(grep -n "^## " "${award}" | sed 's/:.*//'))
+    for i in $(seq ${#lines[@]}); do
+      if [[ $i -eq "${#lines[@]}" ]]; then
+        until="\$"
+      else
+        until=${lines[$((i + 1))]}
+      fi
+      sed -n "${lines[i]},${lines[i]}p" "${award}"
+      count=$(sed -n "${lines[i]},${until}p" "${award}" | grep -c '\[x\]')
+      total=$(sed -n "${lines[i]},${until}p" "${award}" | grep -c '^- \[')
+      pct=$((count * 100 / total))
+      echo "  ${count} (${pct}% of ${total})"
+    done
+    echo ""
+  fi
 done
 
 ## Yearly (since 2024) Analysis

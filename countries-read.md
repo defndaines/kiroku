@@ -199,7 +199,7 @@ Count: 98
 - [ ] Fiji:
 - [ ] Bhutan:
 - [ ] Comoros:
-- [x] Guyana: [_How Europe Underdeveloped Africa_](https://www.goodreads.com/book/show/40630.How_Europe_Underdeveloped_Africa)  Walter Rodney
+- [x] Guyana: [_How Europe Underdeveloped Africa_](https://www.goodreads.com/book/show/40630.How_Europe_Underdeveloped_Africa) Walter Rodney
 - [ ] Solomon Islands:
 - [ ] Luxembourg:
 - [ ] Montenegro:

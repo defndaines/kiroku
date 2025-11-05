@@ -409,7 +409,7 @@ Count: 79
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 - [ ] 2025: Darcie Little Badger _Sheine Lende_
 
-## Dramatic Presentation (60)
+## Dramatic Presentation (62)
 
 - [ ] 1939: _The War of the Worlds_ Orson Welles, H.G. Wells
 - [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer (Long Form)
@@ -463,7 +463,7 @@ Count: 79
 - [x] 2002: _The Lord of the Rings: The Fellowship of the Ring_ Peter Jackson, Fran Walsh, Philippa Boyens, J. R. R. Tolkien
 - [ ] 2003: _Buffy the Vampire Slayer_: “Conversations with Dead People” Nick Marck, Jane Espenson, Drew Goddard (Short Form)
 - [x] 2003: _The Lord of the Rings: The Two Towers_ Peter Jackson, Fran Walsh, Philippa Boyens, Stephen Sinclair, J. R. R. Tolkien (Long Form)
-- [ ] 2004: _Gollum’s Acceptance Speech at the 2003 MTV Movie Awards_ Fran Walsh, Philippa Boyens, Peter Jackson (Short Form)
+- [x] 2004: _Gollum’s Acceptance Speech at the 2003 MTV Movie Awards_ Fran Walsh, Philippa Boyens, Peter Jackson (Short Form)
 - [x] 2004: _The Lord of the Rings: The Return of the King_ Peter Jackson, Fran Walsh, Philippa Boyens, J. R. R. Tolkien (Long Form)
 - [x] 2005: _Battlestar Galactica_: “33” Michael Rymer, Ronald D. Moore (Short Form)
 - [x] 2005: _The Incredibles_ Brad Bird (Long Form)
@@ -497,7 +497,7 @@ Count: 79
 - [x] 2019: _The Good Place_: “Janet(s)” Morgan Sackett, Josh Siegal, Dylan Morgan (Short Form)
 - [x] 2020: _The Good Place_: “The Answer” Valeria Migliassi Collins, Daniel Schofield (Short Form)
 - [ ] 2020: ~_Good Omens_ Douglas Mackinnon, Neil Gaiman, Terry Pratchett (Long Form)~
-- [ ] 2021: _The Good Place_: “Whenever You’re Ready” Michael Schur (Short Form)
+- [x] 2021: _The Good Place_: “Whenever You’re Ready” Michael Schur (Short Form)
 - [x] 2021: _The Old Guard_ Gina Prince-Bythewood, Greg Rucka (Long Form)
 - [x] 2022: _Dune_ Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert (Long Form)
 - [ ] 2022: _The Expanse_: “Nemesis Games” Breck Eisner, Daniel Abraham, Ty Franck, Naren Shankar (Short Form)

@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Light in August | William Faulkner | 1932 | U.S. | 3.5 | audio | 507 | classics, literary, southern gothic, Nobel Prize |
 | The Diary of Curious Cuthbert | Jack Challoner | 2017 | U.K. | 4.0 | print | 122 | poetry, YA |
 | State of Resistance: What California’s Dizzying Descent and Remarkable Resurgence Means for America’s Future | Manuel Pastor | 2018 | U.S. | 2.5 | print | 204 | nonfiction, history, politics, sociology, social justice |
 | Rakesfall | Vajra Chandrasekera | 2024 | Sri Lanka | 4.0 | audio | 304 | fantasy, sci-fi, romance, LGBT, time travel, queer, Otherwise Award, Ursula K. Le Guin Prize |
@@ -65,17 +66,17 @@ fiction otherwise). The most recently finished book is on top.
 | The Brides of High Hill | Nghi Vo | 2024 | U.S. | 4.0 | audio | 116 | novella, fantasy, horror, Hugo nominee |
 | Mammoths at the Gates | Nghi Vo | 2023 | U.S. | 4.0 | audio | 123 | novella, fantasy |
 | Into the Riverlands | Nghi Vo | 2022 | U.S. | 4.5 | audio | 100 | novella, fantasy, Ignyte Award |
-| What Feasts at Night | T. Kingfisher | 2024 | U.S. | 4.0 | audio | 151 | novella, horror, fantasy, mystery, Hugo finalist |
+| What Feasts at Night | T. Kingfisher | 2024 | U.S. | 4.0 | audio | 151 | novella, horror, fantasy, mystery, Hugo finalist, Locus Award |
 | Calypso | Oliver K. Langmead | 2024 | U.K. | 3.5 | audio | 215 | poetry, sci-fi, Hugo finalist |
 | The Secret | Fumio Takano | 2025 | Japan | 4.0 | audio | 32 | sci-fi |
 | The Lady of the Yellow-Painted Library | Tobi Ogundiran | 2022 | Nigeria | 4.5 | audio | 50 | horror, fantasy, short story, Ignyte Award |
 | Negative Scholarship on the Fifth State of Being | A.W. Prihandita | 2024 | Indonesia, U.S. | 4.5 | ebook | 19 | novelette, sci-fi, Nebula Award |
-| The Tainted Cup | Robert Jackson Bennett | 2024 | U.S. | 5.0 | audio | 410 | fantasy, mystery, Hugo finalist |
+| The Tainted Cup | Robert Jackson Bennett | 2024 | U.S. | 5.0 | audio | 410 | fantasy, mystery, Hugo finalist, Hugo Award, World Fantasy Award |
 | Runes | Martin Findell | 2014 | U.K. | 4.0 | print | 99 | nonfiction, history, linguistics |
-| The Tusks of Extinction | Ray Nayler | 2024 | Canada, U.S., Russia | 4.5 | audio | 192 | novella, sci-fi, Hugo finalist |
+| The Tusks of Extinction | Ray Nayler | 2024 | Canada, U.S., Russia | 4.5 | audio | 192 | novella, sci-fi, Hugo finalist, Hugo Award |
 | Shroud | Adrian Tchaikovsky | 2025 | U.K. | 5.0 | audio | 436 | sci-fi, horror |
 | Theory & Practice | Michelle de Kretser | 2024 | Sri Lanka, Australia | 3.5 | audio | 192 | literary, historical, Stella Prize |
-| The Four Sisters Overlooking the Sea | Naomi Kritzer | 2024 | U.S. | 5.0 | print | 23 | novelette, fantasy, Hugo finalist |
+| The Four Sisters Overlooking the Sea | Naomi Kritzer | 2024 | U.S. | 5.0 | print | 23 | novelette, fantasy, Hugo finalist, Hugo Award |
 | Lake of Souls | Ann Leckie | 2024 | U.S. | 4.0 | print | 38 | novelette, sci-fi, Hugo finalist |
 | The Practice, the Horizon, and the Chain | Sofia Samatar | 2024 | U.S. | 4.5 | ebook | 128 | novella, sci-fi, dystopian, Hugo finalist |
 | Compound Fracture | Andrew Joseph White | 2024 | U.S. | 5.0 | audio | 370 | horror, LGBT, YA |
@@ -90,14 +91,14 @@ fiction otherwise). The most recently finished book is on top.
 | Five Views of the Planet Tartarus | Rachael K. Jones | 2024 | U.S. | 4.5 | ebook | 10 | sci-fi, short story, Hugo finalist |
 | Three Faces of a Beheading | Arkady Martine | 2024 | U.S. | 3.5 | ebook | 22 | sci-fi, fantasy, short story, Hugo finalist |
 | Marginalia | Mary Robinette Kowal | 2024 | U.S. | 4.0 | ebook | 25 | fantasy, short story, Hugo finalist, reread |
-| Stitched to Skin Like Family Is | Nghi Vo | 2024 | U.S. | 4.0 | ebook | 10 | fantasy, horror, historical, short story, Hugo finalist |
-| By Salt, By Sea, By Light of Stars | Premee Mohamed | 2024 | Canada | 4.0 | ebook | 38 | novelette, fantasy, Hugo finalist |
+| Stitched to Skin Like Family Is | Nghi Vo | 2024 | U.S. | 4.0 | ebook | 10 | fantasy, horror, historical, short story, Hugo finalist, Hugo Award |
+| By Salt, By Sea, By Light of Stars | Premee Mohamed | 2024 | Canada | 4.0 | ebook | 38 | novelette, fantasy, Hugo finalist, Locus Award |
 | The Brotherhood of Montague St. Video | Thomas Ha | 2024 | U.S. | 4.5 | ebook | 20 | novelette, sci-fi, dystopian, Hugo finalist |
-| Loneliness Universe | Eugenia Triantafyllou | 2024 | Greece | 4.5 | ebook | 30 | novelette, sci-fi, Hugo finalist |
-| We Will Teach You How to Read &#124; We Will Teach You How to Read | Caroline M. Yoachim | 2024 | U.S. | 3.0 | ebook | 21 | sci-fi, short story, Hugo finalist |
+| Loneliness Universe | Eugenia Triantafyllou | 2024 | Greece | 4.5 | ebook | 30 | novelette, sci-fi, Hugo finalist, British Fantasy Award |
+| We Will Teach You How to Read &#124; We Will Teach You How to Read | Caroline M. Yoachim | 2024 | U.S. | 3.0 | ebook | 21 | sci-fi, short story, Hugo finalist, Ignyte Award |
 | Signs of Life | Sarah Pinsker | 2024 | U.S. | 4.0 | ebook | 35 | novelette, sci-fi, Hugo finalist |
 | The Latinos of Asia: How Filipino Americans Break the Rules of Race | Anthony Christian Ocampo | 2016 | U.S. | 4.5 | print | 270 | nonfiction, history, race, sociology |
-| Someone You Can Build a Nest In | John Wiswell | 2024 | U.S. | 4.5 | audio | 310 | fantasy, horror, romance, LGBT |
+| Someone You Can Build a Nest In | John Wiswell | 2024 | U.S. | 4.5 | audio | 310 | fantasy, horror, romance, LGBT, Locus Award, Nebula Award |
 | You Dreamed of Empires | Álvaro Enrigue | 2022 | Mexico | 4.0 | audio | 220 | literary, historical, magical realism |
 | Water Moon | Samantha Sotto Yambao | 2025 | Philippines, Japan | 3.5 | audio | 384 | fantasy, mystery, romance |
 | Nesting | Roisín O’Donnell | 2025 | Ireland | 5.0 | audio | 400 | literary |

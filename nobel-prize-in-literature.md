@@ -53,7 +53,7 @@ Count: 33
 - [x] 1946: Hermann Hesse [Germany, Switzerland]: _Siddhartha_, _Steppenwolf_, _Demian_
 - [ ] 1947: André Paul Guillaume Gide [France]:
 - [x] 1948: Thomas Stearns Eliot [U.K.]: several poems
-- [x] 1949: William Faulkner [U.S.]: _The Sound and the Fury_
+- [x] 1949: William Faulkner [U.S.]: _The Sound and the Fury_, _Light in August_
 - [ ] 1950: Bertrand Russell [U.K.]:
 - [ ] 1951: Pär Fabian Lagerkvist [Sweden]:
 - [ ] 1952: François Mauriac [France]:
