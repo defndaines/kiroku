@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Wish We Weren’t Here: Postcards From the Apocalypse | Peter Kuper | 2025 | U.S. | 3.5 | ebook | 144 | environment |
 | The Summer Hikaru Died, Volume 7 | Mokumokuren | 2025 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT |
 | Heartcore | Štěpánka Jislová | 2023 | Czech Republic | 4.5 | ebook | 236 | nonfiction, autobiography, feminism |
 | Pop Kill | Jimmy Palmiotti | 2025 | U.S. | 3.0 | ebook | 144 | thriller |
