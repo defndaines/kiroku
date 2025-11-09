@@ -69,6 +69,7 @@
 | Three Plays: An Enemy of the People / The Wild Duck / Rosmersholm | Henrik Ibsen | 1971 | Norway | 352 | play, classics | 3.88 | 192 | [246036](https://www.goodreads.com/book/show/246036.Three_Plays) |
 | The Ice Palace | Tarjei Vesaas | 1963 | Norway | 176 | classics, literary, [not owned] | 3.86 | 14199 | [138110](https://www.goodreads.com/book/show/138110.The_Ice_Palace) |
 | The Figaro Trilogy | Pierre de Beaumarchais | 1775 | France | 352 | play, classics | 3.86 | 527 | [4356654](https://www.goodreads.com/book/show/4356654-the-figaro-trilogy) |
+| The Gladiators | Arthur Koestler | 1939 | Hungary | 319 | classics, historical, war | 3.85 | 418 | [2425371](https://www.goodreads.com/book/show/2425371.The_Gladiators) |
 | Go for Beginners | Kaoru Iwamoto | 1972 | Japan | 160 | nonfiction, games | 3.85 | 311 | [1371689](https://www.goodreads.com/book/show/1371689.Go_for_Beginners) |
 | The Night of the Generals | Hans Hellmut Kirst | 1962 | Germany | 288 | historical, thriller, mystery, crime, WWII, [not owned] | 3.83 | 590 | [133008](https://www.goodreads.com/book/show/133008.The_Night_of_the_Generals) |
 | The Argonautika | Apollonius of Rhodes | 221 BCE | Rhodes | 474 | poetry, classics, literary, fantasy, mythology | 3.83 | 11213 | [2662486](https://www.goodreads.com/book/show/2662486-the-argonautika) |

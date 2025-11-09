@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Shining | Stephen King | 1977 | U.S. | 4.5 | audio | 497 | classics, thriller, mystery, horror, paranormal |
 | Light in August | William Faulkner | 1932 | U.S. | 3.5 | audio | 507 | classics, literary, southern gothic, Nobel Prize |
 | The Diary of Curious Cuthbert | Jack Challoner | 2017 | U.K. | 4.0 | print | 122 | poetry, YA |
 | State of Resistance: What California’s Dizzying Descent and Remarkable Resurgence Means for America’s Future | Manuel Pastor | 2018 | U.S. | 2.5 | print | 204 | nonfiction, history, politics, sociology, social justice |

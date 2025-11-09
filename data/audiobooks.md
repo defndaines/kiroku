@@ -86,8 +86,8 @@
 | The Great Believers | Rebecca Makkai | 2018 | U.S. | 421 | 18:17 | literary, historical, LGBT, queer, Andrew Carnegie Medal | 4.29 | 167214 | [45304101](https://www.goodreads.com/book/show/45304101-the-great-believers) |
 | Beartown | Fredrik Backman | 2016 | Sweden | 432 | 13:12 | literary, contemporary, sports, beartown-1 | 4.29 | 571879 | [33413128](https://www.goodreads.com/book/show/33413128-beartown) |
 | A People’s Guide to Capitalism: An Introduction to Marxist Economics | Hadas Thier | 2018 | U.S. | 300 | 10:18 | nonfiction, history, economics, politics, sociology, social justice, [own] | 4.29 | 1252 | [52365259](https://www.goodreads.com/book/show/52365259-a-people-s-guide-to-capitalism) |
-| The Shining | Stephen King | 1977 | U.S. | 497 | 15:51 | classics, thriller, fantasy, mystery, horror, paranormal, the-shining-1 | 4.28 | 1677599 | [11588](https://www.goodreads.com/book/show/11588.The_Shining) |
 | The Player of Games | Iain M. Banks | 1988 | Scotland | 293 | 11:25 | sci-fi, fantasy, space opera, culture-2 | 4.28 | 79582 | [18630](https://www.goodreads.com/book/show/18630.The_Player_of_Games) |
+| Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 368 | nonfiction, history, memoir, politics | 3.98 | 202 | [222376548](https://www.goodreads.com/book/show/222376548-indignity) |
 | Prairie Lotus | Linda Sue Park | 2020 | U.S. | 260 | 05:18 | historical, YA, [own] | 4.28 | 9031 | [44230407](https://www.goodreads.com/book/show/44230407-prairie-lotus) |
 | Letters to a Young Poet | Rainer Maria Rilke | 1929 | Austria | 80 | 01:51 | nonfiction, poetry, essays, classics, philosophy | 4.28 | 118220 | [46199](https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet) |
 | The Street | Ann Petry | 1946 | U.S. | 435 | 12:48 | classics, literary, historical, Black, race, 1940s Harlem | 4.27 | 13212 | [186926](https://www.goodreads.com/book/show/186926.The_Street) |

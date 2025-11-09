@@ -50,11 +50,11 @@ Count: 98
 - [x] United Kingdom\*: [_Spear_](https://www.goodreads.com/book/show/57693308-spear) Nicola Griffith
 - [x] Tanzania: [_Paradise_](https://www.goodreads.com/book/show/765618.Paradise) Abdulrazak Gurnah
 - [x] South Africa: [_Zoo City_](https://www.goodreads.com/book/show/7163862-zoo-city) Lauren Beukes; [_Crossroads: I Live Where I Like_](https://www.goodreads.com/book/show/53125734-crossroads) Koni Benson
-- [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa; [_My Brilliant Friend_](https://www.goodreads.com/book/show/35036409-my-brilliant-friend) Elena Ferrante
+- [x] Italy: [_The Prince_](https://www.goodreads.com/book/show/28862.The_Prince) Niccolò Machiavelli; [_My Brilliant Friend_](https://www.goodreads.com/book/show/35036409-my-brilliant-friend) Elena Ferrante; [_The Leopard_](https://www.goodreads.com/book/show/625094.The_Leopard) Giuseppe Tomasi di Lampedusa
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
 - [x] Myanmar: [_From the Land of Green Ghosts: A Burmese Odyssey_](https://www.goodreads.com/book/show/103148.From_the_Land_of_Green_Ghosts) Pascal Khoo Thwe
 - [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden; Gabriel García Márquez ?
-- [x] Kenya: [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham; [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber
+- [x] Kenya: [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber; [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham
 - [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang; [_Mater 2–10_](https://www.goodreads.com/book/show/63241868-mater-2-10) Hwang Sok-yong
 - [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
 - [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
@@ -113,7 +113,7 @@ Count: 98
 - [x] Tunisia: [_Tunis to Sydney_](https://www.goodreads.com/book/show/202454816-tunis-to-sydney) Meriam Carnouche, Christian Carnouche
 - [ ] Papua New Guinea:
 - [x] Belgium: [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_I Who Have Never Known Men_](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men) Jacqueline Harpman
-- [x] Haiti: [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James
+- [x] Haiti: [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James; [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi
 - [ ] Jordan:
 - [ ] Cuba:
 - [x] Czech Republic: [_The Trial_](https://www.goodreads.com/book/show/17690.The_Trial) Franz Kafka; [_Heartcore_](https://www.goodreads.com/book/show/220293074-heartcore) Štěpánka Jislová
@@ -125,10 +125,10 @@ Count: 98
 - [ ] Tajikistan:
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
 - [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker; [_Soldiers and Kings: Survival and Hope in the World of Human Smuggling_](https://www.goodreads.com/book/show/165938555-soldiers-and-kings) Jason De León
-- [x] Hungary: [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész; [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán
+- [x] Hungary: [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán; [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész
 - [ ] United Arab Emirates:
 - [x] Belarus: [_The Unwomanly Face of War: An Oral History of Women in World War II_](https://www.goodreads.com/book/show/32905382-the-unwomanly-face-of-war) Svetlana Alexievich
-- [x] Austria: Sigmund Freud; [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer
+- [x] Austria: [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer; Sigmund Freud
 - [x] Switzerland: [_Siddhartha_](https://www.goodreads.com/book/show/52036.Siddhartha) Hermann Hesse; Jean-Jacques Rousseau
 - [ ] Sierra Leone:
 - [ ] Togo:
@@ -142,13 +142,13 @@ Count: 98
 - [ ] Serbia: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
 - [x] Bulgaria: [_The Physics of Sorrow_](https://www.goodreads.com/book/show/23129709-the-physics-of-sorrow) Georgi Gospodinov
 - [ ] Paraguay:
-- [x] Democratic Republic of the Congo: [_The Poisonwood Bible_](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver; [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara
+- [x] Democratic Republic of the Congo: [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_Cobalt Red: How the Blood of the Congo Powers Our Lives_](https://www.goodreads.com/book/show/60784614-cobalt-red) Siddharth Kara; [_The Poisonwood Bible_](https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible) Barbara Kingsolver
 - [ ] Republic of the Congo:
 - [x] Denmark: [_Smilla’s Sense of Snow_](https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow) Peter Høeg
 - [x] Singapore: [_Dissolution_](https://www.goodreads.com/book/show/215362027-dissolution) Nicholas Binge
 - [ ] Central African Republic:
-- [x] Finland: [_Kalevala: The Graphic Novel_](https://www.goodreads.com/book/show/194925833-kalevala) Sami Makkonen; [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci
-- [x] Norway: [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse; [_A Doll’s House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen
+- [x] Finland: [_Bolla_](https://www.goodreads.com/book/show/45321864-bolla) Pajtim Statovci; [_Kalevala: The Graphic Novel_](https://www.goodreads.com/book/show/194925833-kalevala) Sami Makkonen
+- [x] Norway: [_A Doll’s House_](https://www.goodreads.com/book/show/37793.A_Doll_s_House) Henrik Ibsen; [_The Other Name_](https://www.goodreads.com/book/show/46024004-the-other-name) Jon Fosse
 - [x] Lebanon: [_A Game for Swallows: To Die, To Leave, To Return_](https://www.goodreads.com/book/show/13773346-a-game-for-swallows) Zeina Abirached
 - [x] Palestine: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco; [_Minor Detail_](https://www.goodreads.com/book/show/52045757-minor-detail) Adania Shibli
 - [x] Scotland\*: [_Poor Things_](https://www.goodreads.com/book/show/72355.Poor_Things) Alasdair Gray; Robert Louis Stevenson; Arthur Conan Doyle; [_Ivanhoe_](https://www.goodreads.com/book/show/6440.Ivanhoe) Walter Scott
