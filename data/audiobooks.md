@@ -87,7 +87,6 @@
 | Beartown | Fredrik Backman | 2016 | Sweden | 432 | 13:12 | literary, contemporary, sports, beartown-1 | 4.29 | 571879 | [33413128](https://www.goodreads.com/book/show/33413128-beartown) |
 | A People’s Guide to Capitalism: An Introduction to Marxist Economics | Hadas Thier | 2018 | U.S. | 300 | 10:18 | nonfiction, history, economics, politics, sociology, social justice, [own] | 4.29 | 1252 | [52365259](https://www.goodreads.com/book/show/52365259-a-people-s-guide-to-capitalism) |
 | The Player of Games | Iain M. Banks | 1988 | Scotland | 293 | 11:25 | sci-fi, fantasy, space opera, culture-2 | 4.28 | 79582 | [18630](https://www.goodreads.com/book/show/18630.The_Player_of_Games) |
-| Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 368 | nonfiction, history, memoir, politics | 3.98 | 202 | [222376548](https://www.goodreads.com/book/show/222376548-indignity) |
 | Prairie Lotus | Linda Sue Park | 2020 | U.S. | 260 | 05:18 | historical, YA, [own] | 4.28 | 9031 | [44230407](https://www.goodreads.com/book/show/44230407-prairie-lotus) |
 | Letters to a Young Poet | Rainer Maria Rilke | 1929 | Austria | 80 | 01:51 | nonfiction, poetry, essays, classics, philosophy | 4.28 | 118220 | [46199](https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet) |
 | The Street | Ann Petry | 1946 | U.S. | 435 | 12:48 | classics, literary, historical, Black, race, 1940s Harlem | 4.27 | 13212 | [186926](https://www.goodreads.com/book/show/186926.The_Street) |
@@ -347,6 +346,7 @@
 | Southland | Nina Revoyr | 2003 | U.S. | 350 | 13:36 | mystery, historical, LGBT, queer, race, L.A. | 3.98 | 1506 | [428722](https://www.goodreads.com/book/show/428722.Southland) |
 | Salka Valka | Halldór Laxness | 1931 | Iceland | 432 | 19:20 | classics, historical, Nobel Prize, unread country | 3.98 | 2001 | [150473](https://www.goodreads.com/book/show/150473.Salka_Valka) |
 | On the Beach | Nevil Shute | 1957 | Australia, U.K. | 296 | 09:24 | classics, sci-fi, dystopian, post-apocalyptic, apocalyptic | 3.98 | 49000 | [38180](https://www.goodreads.com/book/show/38180.On_the_Beach) |
+| Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 368 | 10:29 | nonfiction, history, memoir, politics | 3.98 | 202 | [222376548](https://www.goodreads.com/book/show/222376548-indignity) |
 | Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America | Steven J. Ross | 2017 | U.S. | 432 | 14:00 | nonfiction, history, politics, Jewish, WWII, Village-Well-rec | 3.98 | 889 | [33590281](https://www.goodreads.com/book/show/33590281-hitler-in-los-angeles) |
 | Empire of Silence | Christopher Ruocchio | 2018 | U.S. | 753 | 26:07 | sci-fi, fantasy, space opera, the-sun-eater-1 | 3.98 | 42516 | [36454667](https://www.goodreads.com/book/show/36454667-empire-of-silence) |
 | Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity | Katherine Boo | 2012 | India | 278 | 08:16 | nonfiction, history, sociology, National Book Award | 3.98 | 115962 | [11869272](https://www.goodreads.com/book/show/11869272-behind-the-beautiful-forevers) |
@@ -492,6 +492,7 @@
 | The Lions’ Den | Iris Mwanza | 2024 | Zambia | 272 | 07:00 | mystery, historical, LGBT, Eric-Karl-Anderson-rec, unread country | 3.83 | 482 | [150444485](https://www.goodreads.com/book/show/150444485-the-lions-den) |
 | Moon of the Crusted Snow | Waubgeshig Rice | 2018 | Canada, Wasauksing | 213 | 06:46 | sci-fi, horror, dystopian, post-apocalyptic, indigenous, moon-1 | 3.83 | 41346 | [39082248](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) |
 | Inspector Imanishi Investigates | Seichō Matsumoto | 1961 | Japan | 360 | 11:41 | mystery, crime | 3.83 | 5557 | [112895](https://www.goodreads.com/book/show/112895.Inspector_Imanishi_Investigates) |
+| Flesh | David Szalay | 2025 | Canada | 368 | 09:37 | literary, contemporary, coming of age | 3.83 | 9195 | [214152261](https://www.goodreads.com/book/show/214152261-flesh) |
 | Everything I Never Told You | Celeste Ng | 2014 | U.S. | 297 | 10:02 | literary, mystery, historical, contemporary, Alex Award | 3.83 | 605642 | [18693763](https://www.goodreads.com/book/show/18693763-everything-i-never-told-you) |
 | Confession of the Lioness | Mia Couto | 2012 | Mozambique | 208 | 06:36 | contemporary, magical realism, unread country | 3.83 | 3723 | [23941325](https://www.goodreads.com/book/show/23941325-confession-of-the-lioness) |
 | Bluebird, Bluebird | Attica Locke | 2017 | U.S. | 320 | 09:25 | mystery, thriller, crime, Black, Texas, Edgar Allan Poe Award, highway-59-1 | 3.83 | 29819 | [40605488](https://www.goodreads.com/book/show/40605488-bluebird-bluebird) |
@@ -662,6 +663,7 @@
 | Transmission | Hari Kunzru | 2004 | U.K. | 297 | 09:35 | contemporary, technology, Indian immigrant computer programmer | 3.38 | 2234 | [854899](https://www.goodreads.com/book/show/854899.Transmission) |
 | Remember You Will Die | Eden Robins | 2024 | U.S. | 336 | 07:23 | sci-fi, speculative, time travel | 3.38 | 594 | [203751806](https://www.goodreads.com/book/show/203751806-remember-you-will-die) |
 | The Premonition | Banana Yoshimoto | 1988 | Japan | 133 | 03:29 | literary, contemporary | 3.36 | 10833 | [90564433](https://www.goodreads.com/book/show/90564433-the-premonition) |
+| The Hole | Hye-Young Pyun | 2016 | South Korea | 198 | 04:19 | horror, thriller, mystery, Shirley Jackson Award, [hoopla](https://www.hoopladigital.com/audiobook/the-hole-hye-young-pyun/13603131) | 3.35 | 9490 | [31213272](https://www.goodreads.com/book/show/31213272-the-hole) |
 | Kairos | Jenny Erpenbeck | 2021 | Germany | 379 | 10:25 | literary, historical, romance, Booker Prize, [Audible](https://www.audible.com/pd/Kairos-Audiobook/B0C7S8TFDC) | 3.35 | 24282 | [58877223](https://www.goodreads.com/book/show/58877223-kairos) |
 | Blackass | A. Igoni Barrett | 2015 | Nigeria | 262 | 09:01 | fantasy, contemporary, magical realism, race, [Audible](https://www.audible.com/pd/Blackass-Audiobook/B01E9DEWMA) | 3.34 | 2485 | [23482810](https://www.goodreads.com/book/show/23482810-blackass) |
 | Audition | Katie Kitamura | 2025 | U.S. | 200 | 04:46 | literary, contemporary | 3.34 | 21097 | [216247518](https://www.goodreads.com/book/show/216247518-audition) |
