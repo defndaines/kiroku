@@ -492,7 +492,7 @@
 | The Lions’ Den | Iris Mwanza | 2024 | Zambia | 272 | 07:00 | mystery, historical, LGBT, Eric-Karl-Anderson-rec, unread country | 3.83 | 482 | [150444485](https://www.goodreads.com/book/show/150444485-the-lions-den) |
 | Moon of the Crusted Snow | Waubgeshig Rice | 2018 | Canada, Wasauksing | 213 | 06:46 | sci-fi, horror, dystopian, post-apocalyptic, indigenous, moon-1 | 3.83 | 41346 | [39082248](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) |
 | Inspector Imanishi Investigates | Seichō Matsumoto | 1961 | Japan | 360 | 11:41 | mystery, crime | 3.83 | 5557 | [112895](https://www.goodreads.com/book/show/112895.Inspector_Imanishi_Investigates) |
-| Flesh | David Szalay | 2025 | Canada | 368 | 09:37 | literary, contemporary, coming of age | 3.83 | 9195 | [214152261](https://www.goodreads.com/book/show/214152261-flesh) |
+| Flesh | David Szalay | 2025 | Canada | 368 | 09:37 | literary, contemporary, coming of age, Booker Prize | 3.83 | 9255 | [214152261](https://www.goodreads.com/book/show/214152261-flesh) |
 | Everything I Never Told You | Celeste Ng | 2014 | U.S. | 297 | 10:02 | literary, mystery, historical, contemporary, Alex Award | 3.83 | 605642 | [18693763](https://www.goodreads.com/book/show/18693763-everything-i-never-told-you) |
 | Confession of the Lioness | Mia Couto | 2012 | Mozambique | 208 | 06:36 | contemporary, magical realism, unread country | 3.83 | 3723 | [23941325](https://www.goodreads.com/book/show/23941325-confession-of-the-lioness) |
 | Bluebird, Bluebird | Attica Locke | 2017 | U.S. | 320 | 09:25 | mystery, thriller, crime, Black, Texas, Edgar Allan Poe Award, highway-59-1 | 3.83 | 29819 | [40605488](https://www.goodreads.com/book/show/40605488-bluebird-bluebird) |

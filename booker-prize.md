@@ -73,6 +73,7 @@ Count: 12
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
 - [x] 2023: Paul Lynch _Prophet Song_
 - [x] 2024: Samantha Harvey _Orbital_
+- [ ] 2025: David Szalay _Flesh_
 
 ## International Booker Prize (4)
 
