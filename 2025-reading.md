@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Mongrels | Stephen Graham Jones | 2016 | U.S. | 4.5 | audio | 302 | urban fantasy, coming of age, slice of life, YA, paranormal, werewolves, indigenous |
 | The Shining | Stephen King | 1977 | U.S. | 4.5 | audio | 497 | classics, thriller, mystery, horror, paranormal |
 | Light in August | William Faulkner | 1932 | U.S. | 3.5 | audio | 507 | classics, literary, southern gothic, Nobel Prize |
 | The Diary of Curious Cuthbert | Jack Challoner | 2017 | U.K. | 4.0 | print | 122 | poetry, YA |
