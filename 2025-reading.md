@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| When Sleeping Women Wake | Emma Pei Yin | 2025 | U.K., Hong Kong | 4.0| audio | 336 | historical, WWII |
 | Mongrels | Stephen Graham Jones | 2016 | U.S. | 4.5 | audio | 302 | urban fantasy, coming of age, slice of life, YA, paranormal, werewolves, indigenous |
 | The Shining | Stephen King | 1977 | U.S. | 4.5 | audio | 497 | classics, thriller, mystery, horror, paranormal |
 | Light in August | William Faulkner | 1932 | U.S. | 3.5 | audio | 507 | classics, literary, southern gothic, Nobel Prize |
