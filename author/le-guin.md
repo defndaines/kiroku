@@ -47,7 +47,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [x] “A Man of the People” (1995)
 - [x] “A Woman’s Liberation” (1995)
 - [ ] “Coming of Age in Karhide” (Short story, 1995)
-- [ ] “Old Music and the Slave Women” (Novella, Aug 1996)
+- [x] “Old Music and the Slave Women” (Novella, Aug 1996)
 - [ ] “Mountain Ways” (Short story, Aug 1996)
 - [ ] The Telling (2000) [Locus]
 
