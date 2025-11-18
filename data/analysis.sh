@@ -16,6 +16,12 @@ tail -n +8 2025-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | 
 
 tail -n +8 2025-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n | grep -v " 1 "
 
+for author in author/*.md; do
+  name=$(head -1 "${author}" | sed 's/# //')
+  count=$(grep -c "${name} |" 2025-reading.md)
+  echo "${name}: ${count}"
+done
+
 ## Publication Year
 
 ### Books older than 10 year
