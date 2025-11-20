@@ -10,7 +10,7 @@ I’m including the pre-1950 books only where I’ve read them.
 
 https://www.nationalbook.org/national-book-awards/
 
-Count: 20
+Count: 21
 
 ## Fiction (9)
 
@@ -98,6 +98,7 @@ Count: 20
 - [ ] 2022: Tess Gunty _The Rabbit Hutch_
 - [ ] 2023: Justin Torres _Blackouts_
 - [x] 2024: Percival Everett _James_
+- [ ] 2025: Rabih Alameddine _The True True Story of Raja the Gullible (and His Mother)_
 <!-- Fiction -->
 
 ## Most Original Book (1)
@@ -105,7 +106,7 @@ Count: 20
 - [x] 1939: Dalton Trumbo _Johnny Got His Gun_
 <!-- Most Original Book -->
 
-## Nonfiction (4)
+## Nonfiction (5)
 
 - [ ] 1950: Ralph L. Rusk _The Life of Ralph Waldo Emerson_
 - [ ] 1951: Newton Arvin _Herman Melville_
@@ -158,6 +159,7 @@ Count: 20
 - [ ] 2022: Imani Perry _South to America: A Journey Below the Mason-Dixon To Understand the Soul of a Nation_
 - [x] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History_
 - [x] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
+- [x] 2025: Omar El Akkad _One Day, Everyone Will Have Always Been Against This_
 <!-- Nonfiction -->
 
 ## Young People’s Literature (3)
@@ -191,6 +193,7 @@ Count: 20
 - [x] 2022: Sabaa Tahir _All My Rage_
 - [ ] 2023: Dan Santat _A First Time for Everything_
 - [ ] 2024: Shifa Saltagi Safadi _Kareem Between_
+- [ ] 2025: Daniel Nayeri _The Teacher of Nomad Land: A World War II Story_
 <!-- Young People’s Literature -->
 
 ## Translated Literature (3)
@@ -225,4 +228,5 @@ Count: 20
 - [x] 2022: Megan McDowell, Samanta Schweblin, _Seven Empty Houses_
 - [ ] 2023: Stênio Gardel, Bruna Dantas Lobato, _The Words that Remain_
 - [ ] 2024: Yáng Shuāng-zǐ _Taiwan Travelogue_
+- [ ] 2025: Gabriela Cabezón Cámara _We Are Green and Trembling_
 <!-- Translated Literature -->
