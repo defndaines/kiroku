@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Devil Is a Southpaw | Brandon Hobson | 2025 | U.S. | 4.5 | audio | 352 | literary, mystery, Native American, contemporary, indigenous |
 | The Seed Keeper | Diane Wilson | 2021 | U.S., Dakota | 5.0 | audio | 372 | historical, Native American, contemporary, indigenous, nature, Minnesota Book Award, Clara Johnson Award for Women’s Literature |
 | When Sleeping Women Wake | Emma Pei Yin | 2025 | U.K., Hong Kong | 4.0| audio | 336 | historical, WWII |
 | Mongrels | Stephen Graham Jones | 2016 | U.S. | 4.5 | audio | 302 | urban fantasy, coming of age, slice of life, YA, paranormal, werewolves, indigenous |
