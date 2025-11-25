@@ -16,6 +16,7 @@
 | Ripening: Selected Work, 1927-1980 | Meridel Le Sueur | 1982 | U.S. | 291 | feminism, [not owned] | 4.39 | 49 | [1261244](https://www.goodreads.com/book/show/1261244.Ripening) |
 | Wolves: Behavior, Ecology, and Conservation | L. David Mech | 2003 | U.S. | 472 | nonfiction, nature, science, natural history | 4.37 | 227 | [890201](https://www.goodreads.com/book/show/890201.Wolves) |
 | If It Sounds Good, It Is Good: Seeking Subversion, Transcendence, and Solace in America’s Music | Richard Manning | 2020 | U.S. | 320 | nonfiction, music | 4.36 | 14 | [53052170](https://www.goodreads.com/book/show/53052170-if-it-sounds-good-it-is-good) |
+| Forces of Labor: Workers’ Movements and Globalization Since 1870 | Beverly J. Silver | 2003 | U.S. | 260 | nonfiction, history, politics, economics, labor, sociology, [not owned] | 4.36 | 119 | [1417341](https://www.goodreads.com/book/show/1417341.Forces_of_Labor) |
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 214 | classics, historical, Black, race | 4.35 | 803 | [15346902](https://www.goodreads.com/book/show/15346902-the-stone-face) |
 | The Prison Industry: How It Works and Who Profits | Bianca Tylek, Worth Rises | 2025 | U.S. | 260 | nonfiction, politics | 4.32 | 22 | [207453290](https://www.goodreads.com/book/show/207453290-the-prison-industry) |
 | Disnaeland | D.D. Johnston | 2022 | Scotland | 373 | sci-fi, in Scots | 4.32 | 68 | [60859321](https://www.goodreads.com/book/show/60859321-disnaeland) |

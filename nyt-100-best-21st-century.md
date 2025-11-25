@@ -109,7 +109,7 @@ Count: 21
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
 - [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012
 
-## Readers Pick (17)
+## Readers Pick (18)
 
 Only listing the ones not in the original list.
 
@@ -122,7 +122,7 @@ Only listing the ones not in the original list.
 - [ ] 94: _The Bee Sting_ Paul Murray
 - [ ] 93: _Remarkably Bright Creatures_ Shelby Van Pelt
 - [x] 92: _Drive Your Plow Over the Bones of the Dead_ Olga Tokarczuk; translated by Antonia Lloyd-Jones
-- [ ] 91: _Project Hail Mary_ Andy Weir
+- [x] 91: _Project Hail Mary_ Andy Weir
 - [ ] 90: _In the Dream House_ Carmen Maria Machado
 - [ ] 89: _The Glass Castle_ Jeannette Walls
 - [ ] 87: _Girl, Woman, Other_ Bernardine Evaristo

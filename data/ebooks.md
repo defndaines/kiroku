@@ -15,7 +15,7 @@
 | Marx at the Margins: On Nationalism, Ethnicity, and Non-Western Societies | Kevin B. Anderson | 2010 | U.S. | 336 | nonfiction, history, politics, economics, sociology, philosophy | 4.29 | 166 | [7619408](https://www.goodreads.com/book/show/7619408-marx-at-the-margins) |
 | A Little Luck | Claudia Piñeiro | 2015 | Argentina | 211 | literary, thriller, mystery, contemporary, crime | 4.28 | 9048 | [75582270](https://www.goodreads.com/book/show/75582270-a-little-luck) |
 | Ida: A Sword Among Lions | Paula J. Giddings | 2008 | U.S. | 800 | nonfiction, biography, history, politics, feminism, race | 4.27 | 954 | [1126292](https://www.goodreads.com/book/show/1126292.Ida) |
-| The Pasha of Cuisine | Saygın Ersin | 2016 | Turkey | 300 | historical, fantasy, food, Chakraborty-rec | 4.26 | 1658 | [38330852](https://www.goodreads.com/book/show/38330852-the-pasha-of-cuisine) |
+| The Pasha of Cuisine | Saygın Ersin | 2016 | Türkiye | 300 | historical, fantasy, food, Chakraborty-rec | 4.26 | 1658 | [38330852](https://www.goodreads.com/book/show/38330852-the-pasha-of-cuisine) |
 | Everyday Life in the North Korean Revolution, 1945–1950 | Suzy Kim | 2013 | North Korea | 328 | nonfiction, history, politics | 4.26 | 93 | [17719882](https://www.goodreads.com/book/show/17719882-everyday-life-in-the-north-korean-revolution-1945-1950) |
 | The Unquiet Earth | Denise Giardina | 1992 | U.S. | 374 | historical, American Book Award, Weatherford Award, Lillian Smith Book Award | 4.24 | 739 | [690266](https://www.goodreads.com/book/show/690266.The_Unquiet_Earth) |
 | M. R. James: The Complete Supernatural Stories | M.R. James | 1936 | U.K. | 277 | classics, horror, fantasy | 4.21 | 84 | [40215184](https://www.goodreads.com/book/show/40215184-m-r-james) |
@@ -91,6 +91,7 @@
 | Jimmie Higgins | Upton Sinclair | 1920 | U.S. | 280 | classics, politics, [own] | 3.72 | 46 | [5897237](https://www.goodreads.com/book/show/5897237-jimmie-higgins) |
 | Children of the New World | Assia Djebar | 1962 | Algeria | 233 | historical, feminism, unread country | 3.69 | 529 | [720926](https://www.goodreads.com/book/show/720926.Children_of_the_New_World) |
 | Familiar Things | Hwang Sok-yong | 2011 | South Korea | 224 | fantasy, contemporary, magical realism | 3.67 | 1729 | [33148672](https://www.goodreads.com/book/show/33148672-familiar-things) |
+| The Rarest Fruit | Gaëlle Bélem | 2025 | France, Réunion | 192 | historical, nature, [hoopla](https://www.hoopladigital.com/title/18363504) | 3.65 | 241 | [219091401](https://www.goodreads.com/book/show/219091401-the-rarest-fruit) |
 | Broken Glass | Alain Mabanckou | 2005 | Congo | 165 | literary, contemporary, unread country | 3.65 | 2007 | [7331797](https://www.goodreads.com/book/show/7331797-broken-glass) |
 | Your Hate Mail Will Be Graded | John Scalzi | 2008 | U.S. | 368 | nonfiction, essays, memoir, humor, politics, science, whatever-1, [own] | 3.64 | 1237 | [3852882](https://www.goodreads.com/book/show/3852882-your-hate-mail-will-be-graded) |
 | Xala | Ousmane Sembène | 1973 | Senegal | 112 | literary, satire, Senegal | 3.64 | 1032 | [574425](https://www.goodreads.com/book/show/574425.Xala) |
