@@ -8,7 +8,8 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| The Savage Sword of Conan #11 | Jim Zub | 2025 | U.S. | 3.5 | print | 69 | fantasy, adventure, sword and sorcery |
+| The Rocketfellers Volume 1: First Family of the Future | Peter J. Tomasi | 2024 | U.S. | 4.0 | print | 176 | sci-fi, time travel |
+| The Savage Sword of Conan #11 | Liam Sharp, Ron Marz | 2025 | U.S. | 3.5 | print | 69 | fantasy, adventure, sword and sorcery |
 | The Savage Sword of Conan Reforged | Robert E. Howard | 2025 | U.S. | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time, Volume 1 | Mato Kousaka | 2022 | Japan | 4.0 | ebook | 198 | manga, fantasy, humor |
 | Wish We Weren’t Here: Postcards From the Apocalypse | Peter Kuper | 2025 | U.S. | 3.5 | ebook | 144 | environment |
