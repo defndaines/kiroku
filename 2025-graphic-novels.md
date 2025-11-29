@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Wonder Woman Volume 1: Outlaw | Tom King | 2024 | U.S. | 5.0 | print | 164 | superhero |
 | The Rocketfellers Volume 1: First Family of the Future | Peter J. Tomasi | 2024 | U.S. | 4.0 | print | 176 | sci-fi, time travel |
 | The Savage Sword of Conan #11 | Liam Sharp, Ron Marz | 2025 | U.S. | 3.5 | print | 69 | fantasy, adventure, sword and sorcery |
 | The Savage Sword of Conan Reforged | Robert E. Howard | 2025 | U.S. | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
