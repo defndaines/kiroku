@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Buckeye | Patrick Ryan | 2025 | U.S. | 3.5 | audio | 464 | literary, historical, war |
 | Capitalists Must Starve | Park Seolyeon | 2018 | South Korea | 4.5 | print | 199 | literary, historical, feminism, labor, Hankyoreh Literature Prize |
 | Project Hail Mary | Andy Weir | 2021 | U.S. | 4.5 | audio | 476 | sci-fi, Goodreads Choice Award |
 | The Devil Is a Southpaw | Brandon Hobson | 2025 | U.S. | 4.5 | audio | 352 | literary, mystery, Native American, contemporary, indigenous |
