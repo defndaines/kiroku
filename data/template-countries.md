@@ -49,7 +49,7 @@
 - [ ] Saudi Arabia
 - [ ] Yemen
 - [ ] Ghana
-- [ ] Côte d'Ivoire
+- [ ] Côte d’Ivoire
 - [ ] Nepal
 - [ ] Venezuela
 - [ ] Cameroon
