@@ -8,7 +8,7 @@ Academy decides and announces the name of the laureate in early October.
 List of Nobel Prize winners, identified by whether I’ve read them (or seen
 them in the case of plays).
 
-Count: 33
+Count: 34
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -39,7 +39,7 @@ Count: 33
 - [ ] 1927: Henri Bergson [France]:
 - [ ] 1928: Sigrid Undset [Norway, Denmark]:
 - [x] 1929: Thomas Mann [Germany]: _Death in Venice_
-- [ ] 1930: Sinclair Lewis [U.S.]:
+- [x] 1930: Sinclair Lewis [U.S.]: _It Can’t Happen Here_
 - [ ] 1931: Erik Axel Karlfeldt [Sweden]:
 - [ ] 1932: John Galsworthy [U.K.]:
 - [ ] 1933: Ivan Alekseyevich Bunin [Russia]:
