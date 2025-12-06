@@ -29,6 +29,7 @@
 | The Book of Disappearance | Ibtisam Azem | 2014 | Palestine | 256 | literary, sci-fi, speculative, magical realism, contemporary | 4.12 | 2557 | [42921509](https://www.goodreads.com/book/show/42921509-the-book-of-disappearance) |
 | Inside Out: A Personal History of Pink Floyd | Nick Mason | 2004 | U.K. | 360 | nonfiction, history, memoir, biography, music | 4.12 | 5380 | [265734](https://www.goodreads.com/book/show/265734.Inside_Out) |
 | Blue Horses Rush In: Poems and Stories | Luci Tapahonso | 1997 | U.S., Diné | 128 | poetry, short stories, Native American, indigenous | 4.12 | 211 | [418715](https://www.goodreads.com/book/show/418715.Blue_Horses_Rush_In) |
+| The Many Worlds of Albie Bright | Christopher Edge | 2017 | U.K. | 191 | sci-fi, adventure, time travel, YA | 4.11 | 2444 | [26202647](https://www.goodreads.com/book/show/26202647-the-many-worlds-of-albie-bright) |
 | Khatyn | Ales Adamovich | 1974 | USSR, Belarus | 244 | classics, historical, war, author wrote screenplay for “Come and See”, WWII, Nazi occupation | 4.11 | 161 | [55278901](https://www.goodreads.com/book/show/55278901-khatyn) |
 | The Complete Fairy Tales of Charles Perrault | Charles Perrault | 1697 | France | 156 | short stories, classics, fantasy, [own] | 4.10 | 15081 | [577552](https://www.goodreads.com/book/show/577552.The_Complete_Fairy_Tales_of_Charles_Perrault) |
 | I’m OK, I’m Pig! | Kim Hyesoon | 2014 | South Korea | 160 | poetry | 4.07 | 54 | [22916618](https://www.goodreads.com/book/show/22916618-i-m-ok-i-m-pig) |
@@ -42,6 +43,7 @@
 | Mis(h)adra | Iasmin Omar Ata | 2017 | U.S. | 288 | graphic novel, disability, mental health, Arab-American | 4.04 | 1349 | [34466927](https://www.goodreads.com/book/show/34466927-mis-h-adra) |
 | Mean Spirit | Linda Hogan | 1990 | U.S. | 384 | historical, mystery, Native American, indigenous | 4.04 | 1725 | [530878](https://www.goodreads.com/book/show/530878.Mean_Spirit) |
 | The Steerswoman | Rosemary Kirstein | 1989 | U.S. | 279 | fantasy, sci-fi, mystery, speculative, the-steerswoman-1 | 4.03 | 3803 | [793297](https://www.goodreads.com/book/show/793297.The_Steerswoman) |
+| The Borrowers | Mary Norton | 1952 | U.K. | 180 | classics, fantasy, YA, adventure, the-borrowers-1 | 4.03 | 100879 | [348573](https://www.goodreads.com/book/show/348573.The_Borrowers) |
 | Factories in the Field: The Story of Migratory Farm Labor in California | Carey McWilliams | 1969 | U.S. | 366 | nonfiction, history, economics, food, labor | 4.03 | 72 | [614698](https://www.goodreads.com/book/show/614698.Factories_in_the_Field) |
 | Delicious Hunger | Hai Fan | 2024 | Singapore | 272 | short stories, author was solider in Malayan Communist Party, unread country | 4.03 | 58 | [210676888](https://www.goodreads.com/book/show/210676888-delicious-hunger) |
 | Violent Borders: Refugees and the Right to Move | Reece Jones | 2016 | U.S. | 224 | nonfiction, history, politics, economics, sociology, social justice | 4.02 | 867 | [28686813](https://www.goodreads.com/book/show/28686813-violent-borders) |
@@ -69,6 +71,7 @@
 | The Last Day | Owain Owain | 1976 | Wales | 136 | sci-fi, dystopian, translated from Welsh | 3.91 | 81 | [204478558](https://www.goodreads.com/book/show/204478558-the-last-day) |
 | Slave Old Man | Patrick Chamoiseau | 1997 | Martinique | 154 | literary, historical, race, unread country | 3.91 | 1104 | [37761057](https://www.goodreads.com/book/show/37761057-slave-old-man) |
 | Optional Practical Training | Shubha Sunder | 2025 | U.S. | 256 | literary, contemporary, author 2025 Whiting Award winner, [Audible](https://www.audible.com/pd/Optional-Practical-Training-Audiobook/B0G1ZTRGBH), [Audible](https://www.audible.com/pd/Optional-Practical-Training-Audiobook/B0G1ZTRGBH) | 3.91 | 126 | [211934937](https://www.goodreads.com/book/show/211934937-optional-practical-training) |
+| Seven Recipes for Revolution | Ryan Rose | 2025 | U.S. | 480 | fantasy, sci-fi, what-we-eat-1, Willow-rec, Ayinde-rec | 3.90 | 384 | [217953677](https://www.goodreads.com/book/show/217953677-seven-recipes-for-revolution) |
 | Rupetta | Nike Sulway | 2013 | Australia | 352 | sci-fi, fantasy, speculative, LGBT, [own] | 3.89 | 223 | [17252752](https://www.goodreads.com/book/show/17252752-rupetta) |
 | New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 2016 | Barbados | 147 | short stories, sci-fi, fantasy, speculative | 3.89 | 141 | [29483900](https://www.goodreads.com/book/show/29483900-new-worlds-old-ways) |
 | Warda | Sonallah Ibrahim | 2000 | Egypt | 464 | literary, historical, politics, 1950s Cairo | 3.86 | 1051 | [401955](https://www.goodreads.com/book/show/401955.Warda) |
