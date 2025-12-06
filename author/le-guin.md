@@ -23,6 +23,8 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Dragonfly” (Novella, 1998)
 - [ ] “Darkrose and Diamond” (Short story, October–November 1999)
 - [ ] The Other Wind (2001) [World Fantasy]
+- [x] “The Finder” (Novella, 2001)
+- [ ] “On the High Marsh” (Novella, 2001)
 - [ ] “The Daughter of Odren” (Short story, Sept 2014)
 - [ ] “Firelight” (Short story, Summer 2018)
 
@@ -167,6 +169,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] Tom Mouse (Children’s book, 2002)
 - [ ] Changing Planes (Collection, 2002) [Locus]
 - [ ] The Birthday of the World and Other Stories (Collection, 2002)
+- [ ] “Paradises Lost” (Novella, 2002)
 - [ ] “The Wild Girls” (Short story, March 2002) [Locus]
 - [ ] “Social Dreaming of the Frin” (Short story, Nov 2002)
 - [ ] “The Seasons of the Ansarac” (Short story, Feb 2003)
