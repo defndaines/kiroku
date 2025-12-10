@@ -6,9 +6,9 @@ Announced in October.
 
 https://www.kirkusreviews.com/prize/
 
-Count: 7
+Count: 8
 
-## Fiction (4)
+## Fiction (5)
 
 - [ ] 2014: Lily King _Euphoria_
 - [ ] 2015: Hanya Yanagihara _A Little Life_
@@ -21,7 +21,7 @@ Count: 7
 - [ ] 2022: Hernan Diaz _Trust_
 - [x] 2023: James McBride _The Heaven & Earth Grocery Store_
 - [x] 2024: Percival Everett _James_
-- [ ] 2025: Lucas Schaefer _The Slip_
+- [x] 2025: Lucas Schaefer _The Slip_
 
 ## Nonfiction (0)
 

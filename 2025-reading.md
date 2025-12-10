@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Slip | Lucas Schaefer | 2025 | U.S. | 5.0 | audio | 496 | literary, historical, mystery, LGBT, coming of age, queer, sports, Kirkus Prize |
 | It Can’t Happen Here | Sinclair Lewis | 1935 | U.S. | 2.0 | audio | 400 | classics, politics, dystopian, Nobel Prize |
 | Buckeye | Patrick Ryan | 2025 | U.S. | 3.5 | audio | 464 | literary, historical, war |
 | Capitalists Must Starve | Park Seolyeon | 2018 | South Korea | 4.5 | print | 199 | literary, historical, feminism, labor, Hankyoreh Literature Prize |
