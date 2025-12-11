@@ -24,7 +24,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Darkrose and Diamond” (Short story, October–November 1999)
 - [ ] The Other Wind (2001) [World Fantasy]
 - [x] “The Finder” (Novella, 2001)
-- [ ] “On the High Marsh” (Novella, 2001)
+- [x] “On the High Marsh” (Novella, 2001)
 - [ ] “The Daughter of Odren” (Short story, Sept 2014)
 - [ ] “Firelight” (Short story, Summer 2018)
 
