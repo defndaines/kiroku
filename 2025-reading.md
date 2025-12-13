@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Automatic Noodle | Annalee Newitz | 2025 | U.S. | 4.0 | audio | 163 | novella, sci-fi, cozy, dystopian |
 | Flesh | David Szalay | 2025 | Canada | 3.0 | audio | 368 | literary, contemporary, Booker Prize |
 | The Slip | Lucas Schaefer | 2025 | U.S. | 5.0 | audio | 496 | literary, historical, mystery, LGBT, coming of age, queer, sports, Kirkus Prize |
 | It Can’t Happen Here | Sinclair Lewis | 1935 | U.S. | 2.0 | audio | 400 | classics, politics, dystopian, Nobel Prize |

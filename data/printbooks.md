@@ -2,7 +2,7 @@
 | --- | --- | :---: | --- | ---: | --- | :---: | ---: | --- |
 | Ka’m-t’em: A Journey Toward Healing | Kishan Lara-Cooper, Walter J. Lara Sr. | 2019 | U.S., Yurok | 356 | nonfiction, essays, religion, sociology | 4.67 | 18 | [46120799](https://www.goodreads.com/book/show/46120799-ka-m-t-em) |
 | Reading Blue Devils: A Novel | Jon Bennett | 2018 | U.S. | 296 | contemporary, high school, Ohio, [not owned] | 4.63 | 8 | [36501912](https://www.goodreads.com/book/show/36501912-reading-blue-devils) |
-| Under the Thumb: Stories of Police Oppression | S.A. Cosby | 2021 | U.S. | 239 | nonfiction, essays, race | 4.58 | 26 | [59691919](https://www.goodreads.com/book/show/59691919-under-the-thumb) |
+| Under the Thumb: Stories of Police Oppression | S.A. Cosby (editor) | 2021 | U.S., Canada, Nigeria | 239 | anthology, short stories, race | 4.58 | 26 | [59691919](https://www.goodreads.com/book/show/59691919-under-the-thumb) |
 | Teamster Rebellion | Farrell Dobbs | 1972 | U.S. | 258 | nonfiction, history, politics, labor, teamsters-1, reread | 4.51 | 247 | [187429](https://www.goodreads.com/book/show/187429.Teamster_Rebellion) |
 | Rank and File: Personal Histories by Working-Class Organizers | Alice Lynd, Staughton Lynd | 1973 | U.S. | 442 | nonfiction, history, politics, labor | 4.51 | 51 | [11197446](https://www.goodreads.com/book/show/11197446-rank-and-file) |
 | The Man Who Loved Dogs | Leonardo Padura | 2009 | Cuba | 592 | historical, politics | 4.47 | 12215 | [16059356](https://www.goodreads.com/book/show/16059356-the-man-who-loved-dogs) |
