@@ -9,9 +9,9 @@ five-person panel consisting of authors, publishers and journalists, as well
 as politicians, actors, artists and musicians, is appointed by the Booker
 Prize Foundation each year to choose the winning book.
 
-Count: 12
+Count: 13
 
-## Booker Prize (8)
+## Booker Prize (9)
 
 - [ ] 1969: P. H. Newby _Something to Answer For_
 - [ ] 1970: Bernice Rubens _The Elected Member_
@@ -73,7 +73,7 @@ Count: 12
 - [ ] 2022: Shehan Karunatilaka _The Seven Moons of Maali Almeida_
 - [x] 2023: Paul Lynch _Prophet Song_
 - [x] 2024: Samantha Harvey _Orbital_
-- [ ] 2025: David Szalay _Flesh_
+- [x] 2025: David Szalay _Flesh_
 
 ## International Booker Prize (4)
 
