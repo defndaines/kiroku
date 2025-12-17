@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Under the Thumb: Stories of Police Oppression | S.A. Cosby (editor) | 2021 | U.S., Canada, Nigeria | 5.0 | print | 239 | anthology, short stories, race |
 | Automatic Noodle | Annalee Newitz | 2025 | U.S. | 4.0 | audio | 163 | novella, sci-fi, cozy, dystopian |
 | Flesh | David Szalay | 2025 | Canada, U.K., Hungary | 3.0 | audio | 368 | literary, contemporary, Booker Prize |
 | The Slip | Lucas Schaefer | 2025 | U.S. | 5.0 | audio | 496 | literary, historical, mystery, LGBT, coming of age, queer, sports, Kirkus Prize |
