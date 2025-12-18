@@ -20,7 +20,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] The Tombs of Atuan (1971)
 - [ ] The Farthest Shore (1972)
 - [ ] Tehanu (1990) [Nebula, Locus]
-- [ ] “Dragonfly” (Novella, 1998)
+- [x] “Dragonfly” (Novella, 1998)
 - [ ] “Darkrose and Diamond” (Short story, October–November 1999)
 - [ ] The Other Wind (2001) [World Fantasy]
 - [x] “The Finder” (Novella, 2001)
