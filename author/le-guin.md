@@ -169,7 +169,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] Tom Mouse (Children’s book, 2002)
 - [ ] Changing Planes (Collection, 2002) [Locus]
 - [ ] The Birthday of the World and Other Stories (Collection, 2002)
-- [ ] “Paradises Lost” (Novella, 2002)
+- [x] “Paradises Lost” (Novella, 2002)
 - [ ] “The Wild Girls” (Short story, March 2002) [Locus]
 - [ ] “Social Dreaming of the Frin” (Short story, Nov 2002)
 - [ ] “The Seasons of the Ansarac” (Short story, Feb 2003)
