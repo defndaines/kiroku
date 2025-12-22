@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Scarlet Morning | N.D. Stevenson | 2025 | U.S. | 2.5 | print | 148 | DNF, fantasy, LGBT, YA, pirates, queer |
 | The Found and the Lost: The Collected Novellas of Ursula K. Le Guin | Ursula K. Le Guin | 2016 | U.S. | 4.5 | print | 801 | novella, fantasy, sci-fi |
 | Under the Thumb: Stories of Police Oppression | S.A. Cosby (editor) | 2021 | U.S., Canada, Nigeria | 5.0 | print | 239 | anthology, short stories, race |
 | Automatic Noodle | Annalee Newitz | 2025 | U.S. | 4.0 | audio | 163 | novella, sci-fi, cozy, dystopian |
