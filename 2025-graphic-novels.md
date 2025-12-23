@@ -8,8 +8,9 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
-| Wonder Woman Volume 1: Outlaw | Tom King | 2024 | U.S. | 5.0 | print | 164 | superhero |
-| The Rocketfellers Volume 1: First Family of the Future | Peter J. Tomasi | 2024 | U.S. | 4.0 | print | 176 | sci-fi, time travel |
+| Absolute Batman, Volume 1: The Zoo | Scott Snyder | 2025 | U.S. | 4.0 | print | 176 | superhero |
+| Wonder Woman, Volume 1: Outlaw | Tom King | 2024 | U.S. | 5.0 | print | 164 | superhero |
+| The Rocketfellers, Volume 1: First Family of the Future | Peter J. Tomasi | 2024 | U.S. | 4.0 | print | 176 | sci-fi, time travel |
 | The Savage Sword of Conan #11 | Liam Sharp, Ron Marz | 2025 | U.S. | 3.5 | print | 69 | fantasy, adventure, sword and sorcery |
 | The Savage Sword of Conan Reforged | Robert E. Howard | 2025 | U.S. | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time, Volume 1 | Mato Kousaka | 2022 | Japan | 4.0 | ebook | 198 | manga, fantasy, humor |
@@ -33,8 +34,8 @@ on top.
 | The Buildings Are Barking: Diane Noomin in Memoriam | Bill Griffith | 2023 | U.S. | 3.5 | ebook | 24 | nonfiction |
 | Family Force V: Book One | Matt Braly | 2025 | U.S. | 3.5 | ebook | 232 | YA, sci-fi, adventure, superhero |
 | Shepherdess Warriors, Volume 1 | Jonathan Garnier | 2018 | France | 3.5 | ebook | 141 | fantasy |
-| Resident Alien Volume 8: The Book of Life | Peter Hogan | 2025 | U.K., U.S. | 4.0 | ebook | 86 | sci-fi, mystery, crime |
-| Resident Alien Volume 7: The Book of Love | Peter Hogan | 2023 | U.K., U.S. | 4.0 | ebook | 94 | sci-fi, mystery, crime |
+| Resident Alien, Volume 8: The Book of Life | Peter Hogan | 2025 | U.K., U.S. | 4.0 | ebook | 86 | sci-fi, mystery, crime |
+| Resident Alien, Volume 7: The Book of Love | Peter Hogan | 2023 | U.K., U.S. | 4.0 | ebook | 94 | sci-fi, mystery, crime |
 | Resident Alien, Omnibus: Volume 2 | Peter Hogan | 2023 | U.K., U.S. | 4.0 | ebook | 338 | sci-fi, mystery, crime |
 | Resident Alien, Omnibus: Volume 1 | Peter Hogan | 2020 | U.K., U.S. | 4.0 | ebook | 286 | sci-fi, mystery, crime |
 | Down to the Bone: A Leukemia Story | Catherine Pioli | 2018 | France | 4.5 | ebook | 146 | nonfiction, memoir |
@@ -80,9 +81,9 @@ on top.
 | よつばと! 16 | あずまきよひこ | 2025 | Japan | 4.5 | print | 256 | manga, humor |
 | The Summer Hikaru Died, Volume 5 | Mokumokuren | 2024 | Japan | 4.5 | ebook | 196 | manga, mystery, horror, LGBT |
 | Gunnerkrigg Court, Volume 1: Orientation & Research | Thomas Siddell | 2010 | U.K. | 4.5 | ebook | 558 | fantasy, sci-fi, YA |
-| Birdking Volume 3 | Daniel Freedman | 2024 | U.S. | 3.5 | ebook | 108 | fantasy, YA |
+| Birdking, Volume 3 | Daniel Freedman | 2024 | U.S. | 3.5 | ebook | 108 | fantasy, YA |
 | The Savage Sword of Conan #7 | Roy Thomas | 2025 | U.S. | 4.5 | print | 69 | fantasy |
-| The Last Halloween Volume 1: Children | Abby Howard | 2020 | U.S. | 3.5 | ebook | 412 | horror, fantasy, YA, humor |
+| The Last Halloween, Volume 1: Children | Abby Howard | 2020 | U.S. | 3.5 | ebook | 412 | horror, fantasy, YA, humor |
 | FTL, Y’all!: Tales From the Age of the $200 Warp Drive | C. Spike Trotman, Amanda Lafrenais (editors) | 2018 | Australia, Canada, Chile, Japan, U.S. | 3.5 | ebook | 296 | short stories, sci-fi, LGBT |
 | Mage and the Endless Unknown | S.J. Miller | 2023 | U.S. | 3.0 | ebook | 150 | horror, fantasy, adventure |
 | The Alternates, Vol. 1 | Patton Oswalt, Jordan Blum, Tim Seeley | 2024 | U.S. | 4.0 | ebook | 112 | humor, superhero |
