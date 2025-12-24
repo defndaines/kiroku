@@ -17,6 +17,7 @@
 - [ ] Charcoal Joe (2016)
 - [ ] Blood Grove (2021)
 - [ ] Farewell, Amethystine (2024)
+- [ ] Gray Dawn (2025)
 
 ## Fearless Jones Mysteries
 - [x] Fearless Jones (2001)

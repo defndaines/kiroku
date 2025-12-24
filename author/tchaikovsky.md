@@ -47,8 +47,8 @@
 - [ ] City of Last Chances (2022)
 - [ ] House of Open Wounds (2023)
 - [ ] Days of Shattered Faith (2024)
-- [ ] Lives of Bitter Rain (?)
-- [ ] Pretenders to the Throne of God (?)
+- [ ] Lives of Bitter Rain (2025)
+- [ ] Pretenders to the Throne of God (2026)
 
 ### Final Architects
 
@@ -65,6 +65,7 @@
 - [x] Alien Clay (2024)
 - [x] Service Model (2024)
 - [x] Shroud (2025)
+- [ ] Green City Wars (2026)
 
 ### After the War
 

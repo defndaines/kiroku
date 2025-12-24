@@ -116,6 +116,7 @@
 | Mess-Mend: Yankees in Petrograd | Marietta Shaginyan | 1924 | Russia | 268 | sci-fi | 3.52 | 62 | [579476](https://www.goodreads.com/book/show/579476.Mess_Mend) |
 | Metropole | Ferenc Karinthy | 1970 | Hungary | 279 | classics, sci-fi, dystopian | 3.51 | 3618 | [3349113](https://www.goodreads.com/book/show/3349113-metropole) |
 | Soda Science: Making the World Safe for Coca-Cola | Susan Greenhalgh | 2024 | U.S. | 364 | nonfiction, food, science | 3.50 | 4 | [209050265](https://www.goodreads.com/book/show/209050265-soda-science) |
+| The Road to Woop Woop, and Other Stories | Eugen Bacon | 2020 | Tanzania, Australia | 192 | short stories, fantasy, horror, sci-fi, speculative | 3.46 | 69 | [53407967](https://www.goodreads.com/book/show/53407967-the-road-to-woop-woop-and-other-stories) |
 | Blood and Guts in High School | Kathy Acker | 1984 | U.S. | 165 | classics, feminism, post-punk | 3.46 | 7056 | [321950](https://www.goodreads.com/book/show/321950.Blood_and_Guts_in_High_School) |
 | Black Moses | Alain Mabanckou | 2015 | Congo | 208 | historical, unread country | 3.43 | 2242 | [35419150](https://www.goodreads.com/book/show/35419150-black-moses) |
 | A Palace in the Old Village | Tahar Ben Jelloun | 2009 | Morocco | 192 | literary, contemporary | 3.41 | 1060 | [8981613](https://www.goodreads.com/book/show/8981613-a-palace-in-the-old-village) |

@@ -14,10 +14,14 @@
 - [x] Tiger Honor (2022)
 - [x] Fox Snare (2023)
 
+### Moonstorm
+
+- [ ] Moonstorm (2024)
+- [ ] Starstrike (2025)
+
 ### Standalone novels
 
 - [ ] Phoenix Extravagant (2020)
-- [ ] Moonstorm (2024)
 
 ## Collections
 
@@ -39,6 +43,7 @@
 - [ ] “The Starship and the Temple Cat” (2018)
 - [ ] “Obscura” (2018)
 - [ ] “Welcome to Triumph Band” (2017)
+- [ ] “Extracurricular Activities” (2017)
 - [ ] “Shadow’s Weave” (2016)
 - [ ] “Falcon-and-Sparrows” (2016)
 - [ ] “Foxfire, Foxfire” (2016)
