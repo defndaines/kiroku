@@ -8,6 +8,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Wonder Woman, Volume 3: Fury | Tom King | 2025 | U.S. | 4.5 | print | 176 | superhero |
 | Wonder Woman, Volume 2: Sacrifice | Tom King | 2024 | U.S. | 3.5 | print | 192 | superhero |
 | Absolute Batman, Volume 1: The Zoo | Scott Snyder | 2025 | U.S. | 4.0 | print | 176 | superhero |
 | Wonder Woman, Volume 1: Outlaw | Tom King | 2024 | U.S. | 5.0 | print | 164 | superhero |
