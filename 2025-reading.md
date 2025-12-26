@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Every Day I Read: 53 Ways to Get Closer to Books | Hwang Bo-Reum | 2021 | South Korea | 4.0 | audio | 240 | nonfiction, essays, memoir |
 | Django in Action | Christopher Trudeau | 2024 | Canada | 4.5 | ebook | 400 | nonfiction, programming |
 | Scarlet Morning | N.D. Stevenson | 2025 | U.S. | 2.5 | print | 148 | DNF, fantasy, LGBT, YA, pirates, queer |
 | The Found and the Lost: The Collected Novellas of Ursula K. Le Guin | Ursula K. Le Guin | 2016 | U.S. | 4.5 | print | 801 | novella, fantasy, sci-fi |

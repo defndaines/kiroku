@@ -308,7 +308,6 @@
 | The Ragpicker | Joel Dane | 2024 | U.S. | 292 | 08:15 | sci-fi, fantasy, dystopian, post-apocalyptic | 4.03 | 61 | [199598619](https://www.goodreads.com/book/show/199598619-the-ragpicker) |
 | The Book of Doors | Gareth Brown | 2024 | U.K. | 408 | 13:17 | fantasy, time travel, magical realism | 4.03 | 94258 | [156480764](https://www.goodreads.com/book/show/156480764-the-book-of-doors) |
 | Metro 2033 | Dmitry Glukhovsky | 2002 | Russia | 458 | 20:01 | sci-fi, fantasy, horror, dystopian, post-apocalyptic, metro-1, [Audible](https://www.audible.com/pd/Metro-2033-Audiobook/B00GLZPZHQ) | 4.03 | 74786 | [17274667](https://www.goodreads.com/book/show/17274667-metro-2033) |
-| Every Day I Read: 53 Ways to Get Closer to Books | Hwang Bo-Reum | 2021 | South Korea | 240 | 03:50 | nonfiction, essays, memoir | 4.03 | 769 | [223319316](https://www.goodreads.com/book/show/223319316-every-day-i-read) |
 | Doomsday Book | Connie Willis | 1992 | U.S. | 578 | 26:21 | sci-fi, historical, fantasy, time travel, oxford-time-travel-1 | 4.03 | 64502 | [24983](https://www.goodreads.com/book/show/24983.Doomsday_Book) |
 | A Scanner Darkly | Philip K. Dick | 1977 | U.S. | 324 | 09:13 | classics, sci-fi, dystopian, cyberpunk, [own] | 4.03 | 109838 | [14817](https://www.goodreads.com/book/show/14817.A_Scanner_Darkly) |
 | A People’s History of the World | Chris Harman | 1999 | U.K. | 500 | 29:45 | nonfiction, history, politics, sociology | 4.03 | 2615 | [185099](https://www.goodreads.com/book/show/185099.A_People_s_History_of_the_World) |
