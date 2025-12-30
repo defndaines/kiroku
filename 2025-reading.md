@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Magical Girl Retires | Park Seolyeon | 2022 | South Korea | 4.0 | audio | 160 | novella, magical realism, LGBT, urban fantasy, queer |
 | Every Day I Read: 53 Ways to Get Closer to Books | Hwang Bo-Reum | 2021 | South Korea | 4.0 | audio | 240 | nonfiction, essays, memoir |
 | Django in Action | Christopher Trudeau | 2024 | Canada | 4.5 | ebook | 400 | nonfiction, programming |
 | Scarlet Morning | N.D. Stevenson | 2025 | U.S. | 2.5 | print | 148 | DNF, fantasy, LGBT, YA, pirates, queer |

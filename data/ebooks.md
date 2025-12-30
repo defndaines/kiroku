@@ -74,6 +74,7 @@
 | Seven Recipes for Revolution | Ryan Rose | 2025 | U.S. | 480 | fantasy, sci-fi, what-we-eat-1, Willow-rec, Ayinde-rec | 3.90 | 396 | [217953677](https://www.goodreads.com/book/show/217953677-seven-recipes-for-revolution) |
 | Rupetta | Nike Sulway | 2013 | Australia | 352 | sci-fi, fantasy, speculative, LGBT, [own] | 3.89 | 226 | [17252752](https://www.goodreads.com/book/show/17252752-rupetta) |
 | New Worlds, Old Ways: Speculative Tales from the Caribbean | Karen Lord | 2016 | Barbados | 147 | short stories, sci-fi, fantasy, speculative | 3.89 | 141 | [29483900](https://www.goodreads.com/book/show/29483900-new-worlds-old-ways) |
+| The Brooklyn Follies | Paul Auster | 2005 | U.S. | 306 | literary | 3.88 | 32464 | [446](https://www.goodreads.com/book/show/446.The_Brooklyn_Follies) |
 | The Last Day | Owain Owain | 1976 | Wales | 136 | sci-fi, dystopian, translated from Welsh | 3.87 | 83 | [204478558](https://www.goodreads.com/book/show/204478558-the-last-day) |
 | Warda | Sonallah Ibrahim | 2000 | Egypt | 464 | literary, historical, politics, 1950s Cairo | 3.86 | 1052 | [401955](https://www.goodreads.com/book/show/401955.Warda) |
 | How Kyoto Breaks Your Heart | Florentyna Leow | 2023 | Malaysia, Japan | 96 | nonfiction, essays, memoir, travel | 3.83 | 865 | [73347377](https://www.goodreads.com/book/show/73347377-how-kyoto-breaks-your-heart) |
@@ -111,10 +112,12 @@
 | A Carnival of Atrocities | Natalia García Freire | 2025 | Ecuador | 154 | literary, horror, fantasy, magical realism | 3.59 | 654 | [214488947](https://www.goodreads.com/book/show/214488947-a-carnival-of-atrocities) |
 | Your Republic Is Calling You | Young-ha Kim | 2006 | South Korea | 326 | thriller, mystery, espionage | 3.58 | 1830 | [8131789](https://www.goodreads.com/book/show/8131789-your-republic-is-calling-you) |
 | The Death of Comrade President | Alain Mabanckou | 2018 | Congo | 256 | historical, unread country | 3.56 | 584 | [53289667](https://www.goodreads.com/book/show/53289667-the-death-of-comrade-president) |
+| What Is to Be Done? | Nikolai Chernyshevsky | 1863 | Russia | 445 | classics, historical, politics | 3.55 | 3208 | [178196](https://www.goodreads.com/book/show/178196.What_Is_to_Be_Done_) |
 | Leiningen Versus the Ants | Carl Stephenson | 1938 | Austria | 16 | short stories, classics, adventure, [own] | 3.54 | 344 | [6413738](https://www.goodreads.com/book/show/6413738-leiningen-versus-the-ants) |
 | In the Café of Lost Youth | Patrick Modiano | 2007 | France | 153 | classics, literary, contemporary, Nobel Prize | 3.53 | 14712 | [31839659](https://www.goodreads.com/book/show/31839659-in-the-caf-of-lost-youth) |
 | Mess-Mend: Yankees in Petrograd | Marietta Shaginyan | 1924 | Russia | 268 | sci-fi | 3.52 | 62 | [579476](https://www.goodreads.com/book/show/579476.Mess_Mend) |
 | Metropole | Ferenc Karinthy | 1970 | Hungary | 279 | classics, sci-fi, dystopian | 3.51 | 3618 | [3349113](https://www.goodreads.com/book/show/3349113-metropole) |
+| We Who Are About To... | Joanna Russ | 1976 | U.S. | 144 | classics, sci-fi, speculative, feminism, Fogus-rec | 3.50 | 1737 | [651807](https://www.goodreads.com/book/show/651807.We_Who_Are_About_To_) |
 | Soda Science: Making the World Safe for Coca-Cola | Susan Greenhalgh | 2024 | U.S. | 364 | nonfiction, food, science | 3.50 | 4 | [209050265](https://www.goodreads.com/book/show/209050265-soda-science) |
 | The Road to Woop Woop, and Other Stories | Eugen Bacon | 2020 | Tanzania, Australia | 192 | short stories, fantasy, horror, sci-fi, speculative | 3.46 | 69 | [53407967](https://www.goodreads.com/book/show/53407967-the-road-to-woop-woop-and-other-stories) |
 | Blood and Guts in High School | Kathy Acker | 1984 | U.S. | 165 | classics, feminism, post-punk | 3.46 | 7056 | [321950](https://www.goodreads.com/book/show/321950.Blood_and_Guts_in_High_School) |
