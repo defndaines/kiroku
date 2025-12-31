@@ -1,24 +1,20 @@
-# 2025 Reading
+# 2026 Reading
 
 ## Total Book Count
 
-tail -n +8 2025-reading.md | wc -l
+tail -n +8 2026-reading.md | wc -l
 
-count_2025=$(tail -n +8 2025-reading.md | wc -l)
-
-tail -n +11 2025-graphic-novels.md | wc -l
-
-count_gn_2025=$(tail -n +11 2025-graphic-novels.md | wc -l)
+tail -n +8 2026-graphic-novels.md | wc -l
 
 ## Authors
 
-tail -n +8 2025-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
+tail -n +8 2026-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
 
-tail -n +8 2025-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n | grep -v " 1 "
+tail -n +8 2026-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n | grep -v " 1 "
 
 for author in author/*.md; do
   name=$(head -1 "${author}" | sed 's/# //')
-  count=$(grep -c "${name} |" 2025-reading.md)
+  count=$(grep -c "${name} |" 2026-reading.md)
   echo "${name}: ${count}"
 done
 
@@ -26,86 +22,94 @@ done
 
 ### Books older than 10 year
 
-# tail -n +8 2025-reading.md | cut -d \| -f 4 | sort | sed -n '1,/2015/p' | wc -l
+# tail -n +8 2026-reading.md | cut -d \| -f 4 | sort | sed -n '1,/2015/p' | wc -l
 
 ### Books from last year (roughly)
 
-grep -c '| 202[45]' 2025-reading.md
+grep -c '| 202[56]' 2026-reading.md
 
 ## Countries
 
-tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
+tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
 
-tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
+tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
 
 ### Show ten most populous countries from which I haven’t yet read a book
 grep '\[ ]' countries-read.md | head | sed 's/- \[ ] \([^:]*\).*/\1/'
 
 ### Filter out the major English-native countries.
 
-tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort -u
+tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort -u
 
-tail -n +8 2025-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort | uniq -c | sort -nr | head
+tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort | uniq -c | sort -nr | head
 
 ### Count of non-U.S/U.K./Canada/Australia work
 
-tail -n +8 2025-reading.md | grep -v Canada | grep -v Australia | grep -vc "U\.[SK]\."
+tail -n +8 2026-reading.md | grep -v Canada | grep -v Australia | grep -vc "U\.[SK]\."
 
 ## Genres
 
 ### Fiction count
 
-tail -n +8 2025-reading.md | grep -vc "nonfiction"
+tail -n +8 2026-reading.md | grep -vc "nonfiction"
 
-tail -n +11 2025-graphic-novels.md | grep -vc "nonfiction"
+tail -n +8 2026-graphic-novels.md | grep -vc "nonfiction"
 
 ### Nonfiction count
 
-tail -n +8 2025-reading.md | grep -c "nonfiction"
+tail -n +8 2026-reading.md | grep -c "nonfiction"
 
-tail -n +11 2025-graphic-novels.md | grep -c "nonfiction"
+tail -n +8 2026-graphic-novels.md | grep -c "nonfiction"
 
 ### Genre full list
 
-tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+tail -n +8 2026-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
-tail -n +11 2025-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
 
 ### Most common genres
 
-tail -n +8 2025-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | grep -v "short story" | grep -v "Hugo finalist" | sort -nr | head
+tail -n +8 2026-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | grep -v "short story" | grep -v "Hugo finalist" | grep -v nonfiction | sort -nr | head
+
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v nonfiction | sort -nr | head
 
 ## Formats
 
-tail -n +8 2025-reading.md | cut -d \| -f 7 | sort | uniq -c
+tail -n +8 2026-reading.md | cut -d \| -f 7 | sort | uniq -c
 
-tail -n +11 2025-graphic-novels.md | cut -d \| -f 7 | sort | uniq -c
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 7 | sort | uniq -c
 
 ## Ratings
 
-tail -n +8 2025-reading.md | cut -d \| -f 6 | sort -n | uniq -c
+tail -n +8 2026-reading.md | cut -d \| -f 6 | sort -n | uniq -c
 
-tail -n +8 2025-reading.md | cut -d \| -f 6 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-reading.md | cut -d \| -f 6 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 6 | sort -n | uniq -c
+
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 6 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
 ### 5.0 Books
 
-grep " 5.0 " 2025-reading.md | cut -d \| -f 2-3
+grep " 5.0 " 2026-reading.md | cut -d \| -f 2-3
+
+grep " 5.0 " 2026-graphic-novels.md | cut -d \| -f 2-3
 
 ## Page Count
 
-tail -n +8 2025-reading.md | cut -d \| -f 8 | sort -n
+tail -n +8 2026-reading.md | cut -d \| -f 8 | sort -n
 
-tail -n +8 2025-reading.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-reading.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
-tail -n +11 2025-graphic-novels.md | cut -d \| -f 8 | sort -n
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 8 | sort -n
 
-tail -n +11 2025-graphic-novels.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-graphic-novels.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
 ## Sort in context (e.g., rating [6] or pages [8])
 
-tail -n +8 2025-reading.md | sort -t\| -k 6 -n
+tail -n +8 2026-reading.md | sort -t\| -k 6 -n
 
-tail -n +8 2025-reading.md | sort -t\| -k 8 -n
+tail -n +8 2026-reading.md | sort -t\| -k 8 -n
 
 # Awards
 
@@ -113,7 +117,7 @@ tail -n +8 2025-reading.md | sort -t\| -k 8 -n
 
 grep -F -v -f <(grep -l `date +%Y` *.md) <(ls *{award,medal,prize}*.md)
 
-grep -F -v -f <(grep -l 2025 *.md) <(ls *{award,medal,prize}*.md)
+grep -F -v -f <(grep -l 2026 *.md) <(ls *{award,medal,prize}*.md)
 
 ## Hugo Novels Read
 
@@ -138,7 +142,7 @@ grep "^Count:" *{award,medal,prize}*.md
 ### Awards by Year
 for award in *{award,medal,prize}*.md; do
   head -1 "${award}"
-  grep 2025 "${award}"
+  grep 2026 "${award}"
 done
 
 ### Audit Count Values (skips Hugo and Nebula, which include films and scripts)
