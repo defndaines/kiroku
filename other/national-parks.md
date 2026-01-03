@@ -32,7 +32,7 @@ List of National Parks by whether I've visited them.
 - [ ] Great Smoky Mountains (North Carolina, Tennessee)
 - [ ] Guadalupe Mountains (Texas)
 - [ ] Haleakalā (Hawaii)
-- [ ] Hawaiʻi Volcanoes (Hawaii)
+- [x] Hawaiʻi Volcanoes (Hawaii)
 - [ ] Hot Springs (Arkansas)
 - [ ] Indiana Dunes (Indiana)
 - [ ] Isle Royale (Michigan)
