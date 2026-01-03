@@ -188,13 +188,13 @@ for award in *{award,medal,prize}*.md; do
   fi
 done
 
-## Yearly (since 2024) Analysis
+## Yearly (since 2025) Analysis
 
-git diff c10334f countries-read.md
+git diff 355bef7 countries-read.md
 
 for f in [a-z]*.md; do
   head -1 "$f"
-  git diff c10334f "$f" | grep "^[-+]Count:"
+  git diff 355bef7 "$f" | grep "^[-+]Count:"
 done
 
 ## TBR Documents

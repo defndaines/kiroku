@@ -399,7 +399,6 @@
 | No Longer Human | Osamu Dazai | 1948 | Japan | 176 | 04:14 | classics, literary, Jared-rec | 3.94 | 246923 | [194746](https://www.goodreads.com/book/show/194746.No_Longer_Human) |
 | Mixed Up | Gordon Korman | 2023 | Canada | 256 | 05:59 | fantasy, sci-fi, mystery, YA, [own] | 3.94 | 1588 | [61780002](https://www.goodreads.com/book/show/61780002-mixed-up) |
 | Jonny Appleseed | Joshua Whitehead | 2018 | Canada, Peguis | 224 | 05:42 | literary, LGBT, contemporary, queer, indigenous | 3.94 | 16679 | [37514017](https://www.goodreads.com/book/show/37514017-jonny-appleseed) |
-| Into the Drowning Deep | Mira Grant | 2017 | U.S. | 448 | 17:16 | horror, fantasy, sci-fi, thriller, LGBT, rolling-in-the-deep-1, ShadesofOrange-rec | 3.94 | 44992 | [34523174](https://www.goodreads.com/book/show/34523174-into-the-drowning-deep) |
 | Interior Chinatown | Charles Yu | 2020 | U.S. | 288 | 04:21 | literary, contemporary, humor, race, National Book Award, National Book Award | 3.94 | 72328 | [44436221](https://www.goodreads.com/book/show/44436221-interior-chinatown) |
 | Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 368 | 10:29 | nonfiction, history, memoir, politics | 3.94 | 403 | [222376548](https://www.goodreads.com/book/show/222376548-indignity) |
 | How to Blow Up a Pipeline | Andreas Malm | 2021 | Sweden | 208 | 04:19 | nonfiction, politics, climate change, philosophy | 3.94 | 8382 | [51686708](https://www.goodreads.com/book/show/51686708-how-to-blow-up-a-pipeline) |

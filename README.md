@@ -12,6 +12,8 @@ I keep my
 [Goodreads Profile](https://www.goodreads.com/user/show/6142552-michael-daines)
 up to date with what I’ve read and when, but I also track by year:
 
+* [2026](2026-reading.md)
+* [2026 Graphic Novels](2026-graphic-novels.md)
 * [2025](2025-reading.md)
 * [2025 Graphic Novels](2025-graphic-novels.md)
 * [2024](2024-reading.md)
