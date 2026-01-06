@@ -22,7 +22,7 @@ done
 
 ### Books older than 10 year
 
-# tail -n +8 2026-reading.md | cut -d \| -f 4 | sort | sed -n '1,/2015/p' | wc -l
+# tail -n +8 2026-reading.md | cut -d \| -f 4 | sort | sed -n '1,/2016/p' | wc -l
 
 ### Books from last year (roughly)
 
@@ -117,21 +117,11 @@ tail -n +8 2026-reading.md | sort -t\| -k 8 -n
 
 grep -F -v -f <(grep -l `date +%Y` *.md) <(ls *{award,medal,prize}*.md)
 
-grep -F -v -f <(grep -l 2026 *.md) <(ls *{award,medal,prize}*.md)
-
-## Hugo Novels Read
-
-sed -n '1,/## Novella/p' hugo-award.md | grep -c '\[x\]'
-
-### Books (i.e., skip movies and series watched)
+## Hugo Books (i.e., skip movies and series watched)
 
 sed -n '1,/## Dramatic/p' hugo-award.md | grep -c '\[x\]'
 
-## Nebula Novels Read
-
-sed -n '1,/## Novella/p' nebula-award.md | grep -c '\[x\]'
-
-### Books (i.e., skip movies and series watched)
+## Nebula Books (i.e., skip movies and series watched)
 
 sed -n '1,/## Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
 
@@ -142,7 +132,7 @@ grep "^Count:" *{award,medal,prize}*.md
 ### Awards by Year
 for award in *{award,medal,prize}*.md; do
   head -1 "${award}"
-  grep 2026 "${award}"
+  grep 2025 "${award}"
 done
 
 ### Audit Count Values (skips Hugo and Nebula, which include films and scripts)

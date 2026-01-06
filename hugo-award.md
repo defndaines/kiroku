@@ -395,7 +395,6 @@ Count: 79
 - [ ] 2023: Rob Wilkins _Terry Pratchett: A Life with Footnotes_
 - [ ] 2024: Kelly Weinersmith, Zach Weinersmith _A City on Mars_
 - [ ] 2025: Jordan S. Carroll, _Speculative Whiteness: Science Fiction and the Alt-Right_
-
 <!-- Related Work -->
 
 ## Lodestar Award for Best Young Adult Book (3)

@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 98
+Count: 99
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -72,7 +72,7 @@ Count: 98
 - [x] Malaysia: [_The Weight of Our Sky_](https://www.goodreads.com/book/show/35614314-the-weight-of-our-sky) Hanna Alkaf; [_If at First You Don’t Succeed, Try, Try Again_](https://www.goodreads.com/book/show/43064429-if-at-first-you-don-t-succeed-try-try-again) Zen Cho; undergrad anthropology class
 - [ ] Angola:
 - [ ] Mozambique: Mia Couto ?
-- [ ] Saudi Arabia:
+- [x] Saudi Arabia: [_Between Two Rivers: Ancient Mesopotamia and the Birth of History_](https://www.goodreads.com/book/show/218569867-between-two-rivers) Moudhy Al-Rashid
 - [ ] Yemen:
 - [x] Ghana: [_Homegoing_](https://www.goodreads.com/book/show/27071490-homegoing) Yaa Gyasi
 - [ ] Côte d’Ivoire:
