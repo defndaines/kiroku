@@ -93,7 +93,6 @@
 | The Oathbreaker’s Shadow | Amy McCulloch | 2013 | U.K. | 416 | fantasy, adventure, YA, romance, the-knots-sequence-1 | 3.63 | 1410 | [13643064](https://www.goodreads.com/book/show/13643064-the-oathbreaker-s-shadow) |
 | Daughter of Xanadu | Dori Jones Yang | 2010 | U.S. | 352 | historical, fantasy, adventure, YA, romance, daughter-of-xanadu-1 | 3.59 | 645 | [7795696](https://www.goodreads.com/book/show/7795696-daughter-of-xanadu) |
 | To Catch a Thief | Matt Forbeck | 2018 | U.S. | 122 | fantasy, YA, choose your own adventure, dungeons-&-dragons-endless-quest | 3.58 | 196 | [38398948](https://www.goodreads.com/book/show/38398948-to-catch-a-thief) |
-| Red Star: The First Bolshevik Utopia | Alexandr Bogdanov | 1908 | Russia | 272 | classics, sci-fi, politics | 3.58 | 1344 | [400399](https://www.goodreads.com/book/show/400399.Red_Star) |
 | Into the Jungle | Matt Forbeck | 2018 | U.S. | 128 | fantasy, adventure, YA, choose your own adventure, dungeons-&-dragons-endless-quest | 3.58 | 182 | [38398952](https://www.goodreads.com/book/show/38398952-into-the-jungle) |
 | The Best of Michael Moorcock | Michael Moorcock | 2009 | U.K. | 403 | short stories, fantasy, sci-fi | 3.57 | 158 | [6234214](https://www.goodreads.com/book/show/6234214-the-best-of-michael-moorcock) |
 | Flood | S. Alexander Reed, Elizabeth Sandifer | 2013 | U.S. | 152 | nonfiction, essays, music, 33⅓-main-series-88 | 3.53 | 295 | [17188264](https://www.goodreads.com/book/show/17188264-flood) |
