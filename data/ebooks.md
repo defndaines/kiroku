@@ -82,6 +82,7 @@
 | How Kyoto Breaks Your Heart | Florentyna Leow | 2023 | Malaysia, Japan | 96 | nonfiction, essays, memoir, travel | 3.82 | 879 | [73347377](https://www.goodreads.com/book/show/73347377-how-kyoto-breaks-your-heart) |
 | Hills Like White Elephants | Ernest Hemingway | 1927 | U.S. | 6 | short stories, classics, Nobel Prize | 3.82 | 19317 | [56814505](https://www.goodreads.com/book/show/56814505-hills-like-white-elephants) |
 | War Trash | Ha Jin | 2004 | China, U.S. | 368 | literary, historical, war, Chinese POWs Korean War | 3.81 | 4223 | [14729](https://www.goodreads.com/book/show/14729.War_Trash) |
+| The Glamour | Christopher Priest | 1984 | U.K. | 235 | literary, fantasy, sci-fi, mystery, horror, speculative, contemporary, Kurd-Laßwitz-Preis, SciFiScavenger-rec | 3.81 | 1377 | [106924](https://www.goodreads.com/book/show/106924.The_Glamour) |
 | Killing Stella | Marlen Haushofer | 2025 | Austria | 80 | novella, classics, literary, horror, short story, MadeUBook-rec | 3.81 | 2035 | [219299650](https://www.goodreads.com/book/show/219299650-killing-stella) |
 | The Thorn Puller | Hiromi Itō | 2007 | Japan | 300 | poetry, literary, contemporary | 3.80 | 352 | [58906519](https://www.goodreads.com/book/show/58906519-the-thorn-puller) |
 | Struts & Frets | Jon Skovron | 2009 | U.S. | 304 | contemporary, romance, YA, music | 3.80 | 844 | [75136159](https://www.goodreads.com/book/show/75136159-struts-frets) |

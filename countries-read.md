@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 99
+Count: 101
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -62,7 +62,7 @@ Count: 99
 - [x] Iraq: [_Yasmeen_](https://www.goodreads.com/book/show/56348200-yasmeen) Saif A. Ahmed
 - [ ] Uganda:
 - [x] Sudan: [_Season of Migration to the North_](https://www.goodreads.com/book/show/6145869-season-of-migration-to-the-north) Tayeb Salih
-- [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem
+- [x] Ukraine: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [“Other Wars Elsewhere”](https://www.goodreads.com/book/show/223524087-we-will-rise-again) R.B. Lemberg
 - [x] Canada\*: [_Five Little Indians_](https://www.goodreads.com/book/show/52214103-five-little-indians) Michelle Good
 - [x] Poland: [_Solaris_](https://www.goodreads.com/book/show/95558.Solaris) Stanisław Lem; [_Maus I: A Survivor’s Tale_](https://www.goodreads.com/book/show/15196.Maus_I) Art Spiegelman; [_Treblinka_](https://www.goodreads.com/book/show/428078.Treblinka) Jean-François Steiner; [_Drive Your Plow Over the Bones of the Dead_](https://www.goodreads.com/book/show/51648276-drive-your-plow-over-the-bones-of-the-dead) Olga Tokarczuk
 - [ ] Morocco:
@@ -168,7 +168,7 @@ Count: 99
 - [ ] Uruguay: Fernanda Trías ?
 - [ ] Mongolia:
 - [ ] Bosnia and Herzegovina:
-- [ ] Puerto Rico:
+- [x] Puerto Rico: [“Chupacabras”](https://www.goodreads.com/book/show/223524087-we-will-rise-again) Vida James
 - [x] Wales: [_The Mabinogion_](https://www.goodreads.com/book/show/455219.The_Mabinogion); [_Fantastic Mr. Fox_](https://www.goodreads.com/book/show/6693.Fantastic_Mr_Fox) Roald Dahl; [_Howl’s Moving Castle_](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) Diana Wynne Jones
 - [ ] Armenia:
 - [ ] Lithuania:
@@ -224,7 +224,7 @@ Count: 99
 - [x] Guam: [_Juanit_](https://www.goodreads.com/book/show/195604036-juanit) Chris Perez Howard
 - [ ] Artsakh:
 - [ ] Kiribati:
-- [ ] Grenada:
+- [x] Grenada: [“The Mighty Slinger”](https://www.goodreads.com/book/show/223524087-we-will-rise-again) Tobias S. Buckell and Karen Lord; [“Shoggoths in Traffic”](https://www.goodreads.com/book/show/199132606-shoggoths-in-traffic) Tobias S. Buckell
 - [ ] Saint Vincent and the Grenadines:
 - [ ] Micronesia:
 - [x] Antigua and Barbuda: [_A Small Place_](https://www.goodreads.com/book/show/69711.A_Small_Place) Jamaica Kincaid
