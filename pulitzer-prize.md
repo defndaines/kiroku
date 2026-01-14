@@ -42,7 +42,7 @@ Count: 27
 - [x] 1947: Robert Penn Warren, _All the King’s Men_
 - [ ] 1948: James A. Michener, _Tales of the South Pacific_
 - [ ] 1949: James Gould Cozzens, _Guard of Honor_
-- [ ] 1950: A. B. Guthrie, _The Way West_
+- [ ] 1950: A. B. Guthrie, Jr., _The Way West_
 - [ ] 1951: Conrad Richter, _The Town_
 - [ ] 1952: Herman Wouk, _The Caine Mutiny_
 - [x] 1953: Ernest Hemingway, _The Old Man and the Sea_
@@ -77,7 +77,7 @@ Count: 27
 - [x] 1988: Toni Morrison, _Beloved_
 - [ ] 1989: Anne Tyler, _Breathing Lessons_
 - [ ] 1990: Oscar Hijuelos, _The Mambo Kings Play Songs of Love_
-- [ ] 1991: John Updike, _Rabbit At Rest_
+- [ ] 1991: John Updike, _Rabbit at Rest_
 - [ ] 1992: Jane Smiley, _A Thousand Acres_
 - [ ] 1993: Robert Olen Butler, _A Good Scent from a Strange Mountain_
 - [x] 1994: E. Annie Proulx, _The Shipping News_
@@ -120,29 +120,29 @@ Count: 27
 - [ ] 1981: Carl E. Schorske, _Fin-de-Siècle Vienna: Politics and Culture_
 - [ ] 1982: Tracy Kidder, _The Soul of a New Machine_
 - [ ] 1983: Susan Sheehan, _Is There No Place on Earth for Me?_
-- [ ] 1984: Paul Starr, _The Social Transformation of American Medicine_
+- [ ] 1984: Paul Starr, _The Social Transformation of American Medicine: The Rise of a Sovereign Profession and the Making of a Vast Industry_
 - [ ] 1985: Studs Terkel, _The Good War: An Oral History of World War Two_
 - [ ] 1986: J. Anthony Lukas, _Common Ground: A Turbulent Decade in the Lives of Three American Families_
 - [ ] 1986: Joseph Lelyveld, _Move Your Shadow: South Africa, Black and White_
 - [ ] 1987: David K. Shipler, _Arab and Jew: Wounded Spirits in a Promised Land_
 - [ ] 1988: Richard Rhodes, _The Making of the Atomic Bomb_
 - [x] 1989: Neil Sheehan, _A Bright Shining Lie: John Paul Vann and America in Vietnam_
-- [ ] 1990: Dale Maharidge and Michael Williamson, _And Their Children After Them_
+- [ ] 1990: Dale Maharidge and Michael Williamson, _And Their Children After Them: The Legacy of Let Us Now Praise Famous Men: James Agee, Walker Evans, and the Rise and Fall of Cotton in the South_
 - [ ] 1991: Bert Hölldobler and Edward O. Wilson, _The Ants_
 - [ ] 1992: Daniel Yergin, _The Prize: The Epic Quest for Oil, Money, and Power_
 - [ ] 1993: Garry Wills, _Lincoln at Gettysburg: The Words That Remade America_
 - [ ] 1994: David Remnick, _Lenin’s Tomb: The Last Days of the Soviet Empire_
-- [ ] 1995: Jonathan Weiner, _The Beak Of The Finch: A Story Of Evolution In Our Time_
+- [ ] 1995: Jonathan Weiner, _The Beak of the Finch: A Story of Evolution in Our Time_
 - [ ] 1996: Tina Rosenberg, _The Haunted Land: Facing Europe’s Ghosts After Communism_
 - [ ] 1997: Richard Kluger, _Ashes to Ashes: America’s Hundred-Year Cigarette War, the Public Health, and the Unabashed Triumph of Philip Morris_
 - [x] 1998: Jared Diamond, _Guns, Germs, and Steel: The Fates of Human Societies_
 - [ ] 1999: John McPhee, _Annals of the Former World_
 - [x] 2000: John W. Dower, _Embracing Defeat: Japan in the Wake of World War II_
 - [ ] 2001: Herbert P. Bix, _Hirohito and the Making of Modern Japan_
-- [ ] 2002: Diane McWhorter, _Carry Me Home: Birmingham, Alabama, the Climactic Battle of the Civil Rights Revolution_
-- [ ] 2003: Samantha Power, _“A Problem From Hell”: America and the Age of Genocide_
+- [ ] 2002: Diane McWhorter, _Carry Me Home: Birmingham, Alabama: The Climactic Battle of the Civil Rights Revolution_
+- [ ] 2003: Samantha Power, _“A Problem from Hell”: America and the Age of Genocide_
 - [ ] 2004: Anne Applebaum, _Gulag: A History_
-- [ ] 2005: Steve Coll, _Ghost Wars_
+- [ ] 2005: Steve Coll, _Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden from the Soviet Invasion to September 10, 2001_
 - [ ] 2006: Caroline Elkins, _Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya_
 - [ ] 2007: Lawrence Wright, _The Looming Tower: Al-Qaeda and the Road to 9/11_
 - [ ] 2008: Saul Friedländer, _The Years of Extermination: Nazi Germany and the Jews, 1939–1945_
@@ -179,7 +179,7 @@ Count: 27
 - [ ] 1989: Taylor Branch, _Parting the Waters: America in the King Years, 1954-1963_
 - [ ] 1989: James M. McPherson, _Battle Cry of Freedom: The Civil War Era_
 - [ ] 1990: Stanley Karnow, _In Our Image: America’s Empire in the Philippines_
-- [ ] 1991: Laurel Thatcher Ulrich, _A Midwife’s Tale_
+- [ ] 1991: Laurel Thatcher Ulrich, _A Midwife’s Tale: The Life of Martha Ballard, Based on Her Diary, 1785-1812_
 - [ ] 1992: Mark E. Neely, Jr., _The Fate of Liberty: Abraham Lincoln and Civil Liberties_
 - [ ] 1993: Gordon S. Wood, _The Radicalism of the American Revolution_
 - [ ] 1995: Doris Kearns Goodwin, _No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II_
@@ -187,7 +187,7 @@ Count: 27
 - [ ] 1997: Jack N. Rakove, _Original Meanings: Politics and Ideas in the Making of the Constitution_
 - [ ] 1998: Edward J. Larson, _Summer for the Gods: The Scopes Trial and America’s Continuing Debate Over Science and Religion_
 - [ ] 1999: Edwin G. Burrows and Mike Wallace, _Gotham: A History of New York City to 1898_
-- [ ] 2000: David M. Kennedy, _Freedom From Fear: The American People in Depression and War_
+- [ ] 2000: David M. Kennedy, _Freedom from Fear: The American People in Depression and War_
 - [ ] 2001: Joseph J. Ellis, _Founding Brothers: The Revolutionary Generation_
 - [ ] 2002: Louis Menand, _The Metaphysical Club: A Story of Ideas in America_
 - [ ] 2003: Rick Atkinson, _An Army at Dawn: The War in North Africa, 1942–1943_

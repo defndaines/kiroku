@@ -5,4 +5,5 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Hakim’s Odyssey: Book 2: From Turkey to Greece | Fabien Toulmé | 2018 | France | 4.5 | ebook | 259 | nonfiction, biography, slice of life |
 | Hakim’s Odyssey: Book 1: From Syria to Turkey | Fabien Toulmé | 2018 | France, Syria | 4.5 | ebook | 262 | nonfiction, biography, slice of life |
