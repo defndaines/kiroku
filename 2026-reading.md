@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 2022 | Poland | 4.0 | audio | 305 | literary, historical, horror, feminism, Nobel Prize, Europese Literatuurprijs, Jerzy Żuławski Literary Award |
 | The Destructors | Graham Greene | 1955 | U.K. | 4.0 | print | 40 | short story, classics, historical |
 | On the Calculation of Volume I | Solvej Balle | 2020 | Denmark | 4.5 | ebook | 176 | literary, sci-fi, magical realism, time travel, Nordic Council Literature Prize |
 | We Will Rise Again: Speculative Stories and Essays on Protest, Resistance, and Hope | Karen Lord (editor), Annalee Newitz (editor), Malka Ann Older (editor) | 2025 | Barbados, Canada, Dominican Republic, Grenada, Guatemala, India, Malaysia, Palestine, Puerto Rico, U.K., U.S., Ukraine | 4.5 | audio | 384 | nonfiction, short stories, essays, speculative, politics, LGBT, social justice |
