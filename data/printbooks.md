@@ -78,7 +78,6 @@
 | The Argonautika | Apollonius of Rhodes | 221 BCE | Rhodes | 474 | poetry, classics, literary, fantasy, mythology | 3.83 | 11376 | [2662486](https://www.goodreads.com/book/show/2662486-the-argonautika) |
 | Old Frame Chen Family Taijiquan | Mark Chen | 2004 | China | 256 | nonfiction, martial arts | 3.83 | 24 | [426061](https://www.goodreads.com/book/show/426061.Old_Frame_Chen_Family_Taijiquan) |
 | The Many and the Few: A Chronicle of the Dynamic Auto Workers | Henry Kraus | 1985 | U.S. | 328 | nonfiction, history, labor | 3.82 | 11 | [3144693](https://www.goodreads.com/book/show/3144693-the-many-and-the-few) |
-| Geeks, Girls and Secret Identities | Mike Jung | 2012 | U.S. | 307 | sci-fi, fantasy, humor, YA, superheroes | 3.81 | 508 | [12606292](https://www.goodreads.com/book/show/12606292-geeks-girls-and-secret-identities) |
 | Dreamweaver’s Dilemma | Lois McMaster Bujold | 1996 | U.S. | 252 | short stories, sci-fi, fantasy, Hugo Award, vorkosigan-saga-9.1, [not owned] | 3.80 | 1616 | [990089](https://www.goodreads.com/book/show/990089.Dreamweaver_s_Dilemma) |
 | Paradise of the Blind | Dương Thu Hương | 1988 | Vietnam | 270 | classics, historical | 3.79 | 3031 | [53629](https://www.goodreads.com/book/show/53629.Paradise_of_the_Blind) |
 | Out of This Furnace | Thomas Bell | 1941 | U.S. | 424 | historical, labor | 3.79 | 1863 | [133404](https://www.goodreads.com/book/show/133404.Out_of_This_Furnace) |

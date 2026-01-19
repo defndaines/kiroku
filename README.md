@@ -2,29 +2,35 @@
 
 Repository for Historical Documents.
 
-This is a central place for me to store documents that are mostly useful for
-personal reasons, if useful at all. Mostly about books I’ve read or plan to
-read. All the non-literary stuff has been pushed into [other](other).
+This is a central place for me to store documents that are useful for personal
+reasons, if useful at all. Mostly about books I’ve read or plan to read. All
+the non-literary stuff has been pushed into [other](other).
 
 ## Books
 
 I keep my
 [Goodreads Profile](https://www.goodreads.com/user/show/6142552-michael-daines)
-up to date with what I’ve read and when, but I also track by year:
+up to date with books and graphic novels I’ve read and when. I also track
+books and nonfiction graphic novels at
+[StoryGraph](https://app.thestorygraph.com/stats/daines), where I try to
+accurately track format. I track individual comics and some graphic novels at
+[League of Comic Geeks](https://leagueofcomicgeeks.com/profile/daines/collection).
+
+And, I track it all myself here:
 
 * [2026](2026-reading.md)
 * [2026 Graphic Novels](2026-graphic-novels.md)
-* [2025](2025-reading.md)
-* [2025 Graphic Novels](2025-graphic-novels.md)
+
+Older reading records (started in 2023):
+
+* [2025](2025-reading.md) and [2025 Graphic Novels](2025-graphic-novels.md)
 * [2024](2024-reading.md)
 * [2023](2023-reading.md)
 
-I’ve also been tracking with
-[StoryGraph](https://app.thestorygraph.com/stats/daines) since 2024, though
-some of the statistics there (format, language) aren’t tracked correctly.
+### Awards
 
-I use awards to guide some of my reading choices. To that end, I keep track of
-which award-winning books I’ve read in the following files.
+I use literary awards to guide some of my reading choices. To that end, I keep
+track of which award-winning books I’ve read in the following files.
 
 * [Booker Prize](booker-prize.md)
 * [British Fantasy Award](british-fantasy-award.md)
@@ -53,9 +59,13 @@ Not awards, but lists I’d like to read more of.
 * [The Atlantic’s Great American Novels](great-american-novels.md)
 * [NYT’s Best Books of 21st Century](nyt-100-best-21st-century.md)
 
+### Around the World
+
 I try to read books from different countries, and that’s tracked in
 [Countries Read](countries-read.md). I also have a profile at
 [Read Around the World Challenge](https://readaroundtheworldchallenge.com/profile/daines).
+
+### Authors
 
 Tracking favorite authors I’d like to read more of.
 
@@ -76,3 +86,24 @@ Tracking favorite authors I’d like to read more of.
 * [Nghi Vo](author/vo.md)
 * [Martha Wells](author/wells.md)
 * [Richard Wright](author/wright.md)
+
+### TBR
+
+I have an overly long (> 900) “To Be Read” pile that I’ve broken down by
+format and sorted by ratings. I also have
+[scripts](https://github.com/defndaines/dal/tree/main/gr) for maintaining
+these lists and searching for new entries.
+
+* [Audiobooks](data/audiobooks.md) if the books are available on audio, either
+  through the library (Libby and Hoopla) or Audible.
+* [eBooks](data/ebooks.md) if the books are available electronically through
+  the library.
+* [In Print](data/printbooks.md) if the books aren’t available in any other
+  format. This list mostly tracks books I already own, though a few (marked
+  with `[not owned]`) I will buy or request from the library when I’m ready to
+  read them.
+
+I have a wishlist at
+[Bookshop.org](https://bookshop.org/wishlists/e95d485f4528665e47e9a95cf22e759f741ae69d).
+I track more obscure and hard-to-find books on
+[Amazon](https://www.amazon.com/hz/wishlist/ls/2B071NDZWAZPX).
