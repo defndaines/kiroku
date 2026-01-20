@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Sorting Out the Postal Strike | Joe Jacobs | 1971 | U.K. | 5.0 | ebook | 10 | nonfiction, labor |
 | The Hounding | Xenobe Purvis | 2025 | Japan, U.K. | 5.0 | audio | 240 | literary, historical, horror, fantasy, mystery, gothic |
 | The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 2022 | Poland | 4.0 | audio | 305 | literary, historical, horror, feminism, Nobel Prize, Europese Literatuurprijs, Jerzy Żuławski Literary Award |
 | The Destructors | Graham Greene | 1955 | U.K. | 4.0 | print | 40 | short story, classics, historical |
