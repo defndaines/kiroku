@@ -1,9 +1,9 @@
 # Kazuo Ishiguro
 
 ## Novels
-- [ ] A Pale View of Hills (1982)
-- [ ] An Artist of the Floating World (1986)
-- [x] The Remains of the Day (1989)
+- [ ] A Pale View of Hills (1982) [Winifred Holtby Memorial Prize]
+- [ ] An Artist of the Floating World (1986) [Whitbread Award]
+- [x] The Remains of the Day (1989) [Booker Prize]
 - [ ] The Unconsoled (1995)
 - [ ] When We Were Orphans (2000)
 - [x] Never Let Me Go (2005)

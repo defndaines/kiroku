@@ -7,13 +7,13 @@ I’d like to read more of Kingsolver’s work.
 - [x] The Bean Trees (1988)
 - [ ] Homeland and Other Stories (1989)
 - [ ] Animal Dreams (1990)
-- [ ] Pigs in Heaven (1993)
+- [ ] Pigs in Heaven (1993) [Los Angeles Times Book Prize]
 - [x] The Poisonwood Bible (1998)
 - [x] Prodigal Summer (2000)
-- [x] The Lacuna (2009) [Womens]
-- [ ] Flight Behavior (2012)
-- [x] Unsheltered (2018)
-- [ ] Demon Copperhead (2022) [Pulitzer, Womens]
+- [x] The Lacuna (2009) [Orange Prize]
+- [ ] Flight Behavior (2012) [Weatherford Award]
+- [x] Unsheltered (2018) [Nautilus Book Award]
+- [ ] Demon Copperhead (2022) [Pulitzer Prize, James Tait Black Memorial Prize, Women’s Prize for Fiction]
 
 ## Essays
 

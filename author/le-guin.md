@@ -3,9 +3,9 @@
 I have a minor goal of reading all of Ursula K. Le Guin’s work.
 
 ## Annals of the Western Shore:
-- [ ] Gifts (2004)
+- [ ] Gifts (2004) [PEN Center USA Literary Award]
 - [ ] Voices (2006)
-- [ ] Powers (2007) [Nebula]
+- [ ] Powers (2007) [Nebula Award]
 
 ## Catwings (Children’s books):
 - [ ] Catwings (1988)
@@ -16,13 +16,13 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 ## Earthsea:
 - [ ] “The Word of Unbinding” (Short story, Jan 1964)
 - [ ] “The Rule of Names” (Short story, April 1964)
-- [x] A Wizard of Earthsea (1968)
+- [x] A Wizard of Earthsea (1968) [Margaret A. Edwards Award]
 - [ ] The Tombs of Atuan (1971)
-- [ ] The Farthest Shore (1972)
-- [ ] Tehanu (1990) [Nebula, Locus]
+- [ ] The Farthest Shore (1972) [National Book Award, Margaret A. Edwards Award]
+- [ ] Tehanu (1990) [Nebula Award, Locus Award, Margaret A. Edwards Award]
 - [x] “Dragonfly” (Novella, 1998)
 - [ ] “Darkrose and Diamond” (Short story, October–November 1999)
-- [ ] The Other Wind (2001) [World Fantasy]
+- [ ] The Other Wind (2001) [World Fantasy Award]
 - [x] “The Finder” (Novella, 2001)
 - [x] “On the High Marsh” (Novella, 2001)
 - [ ] “The Daughter of Odren” (Short story, Sept 2014)
@@ -34,11 +34,11 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [x] Planet of Exile (1966)
 - [x] City of Illusions (1967)
 - [ ] “Winter’s King” (Short story, 1969)
-- [x] The Left Hand of Darkness (1969) [Hugo, Nebula]
+- [x] The Left Hand of Darkness (1969) [Hugo Award, Nebula Award, James Tiptree Jr. Award, Margaret A. Edwards Award]
 - [x] “Vaster than Empires and More Slow” (Novella, 1971)
-- [x] “The Word for World Is Forest” (Novella, 1972)
-- [x] The Dispossessed (1974) [Hugo, Nebula, Locus]
-- [ ] “The Day Before the Revolution” (Short story, Aug 1974) [Nebula, Locus]
+- [x] “The Word for World Is Forest” (Novella, 1972) [Hugo Award]
+- [x] The Dispossessed (1974) [Hugo Award, Nebula Award, Prometheus Hall of Fame Award, Locus Award, Jupiter Award]
+- [ ] “The Day Before the Revolution” (Short story, Aug 1974) [Nebula Award, Locus Award]
 - [ ] “The Shobies’ Story” (Short story, 1990)
 - [ ] “Dancing to Ganam” (Short story, Sept 1993)
 - [x] “The Matter of Seggri” (Novella, Spring 1994)
@@ -51,13 +51,13 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Coming of Age in Karhide” (Short story, 1995)
 - [x] “Old Music and the Slave Women” (Novella, Aug 1996)
 - [ ] “Mountain Ways” (Short story, Aug 1996)
-- [ ] The Telling (2000) [Locus]
+- [ ] The Telling (2000) [Locus Award, Endeavour Award]
 
 ## Kesh/Always Coming Home:
 - [ ] “The Visionary” (Short story, Winter 1984)
 - [ ] “The Trouble with the Cotton People” (Short story, Winter 1984)
 - [ ] “Time in the Valley” (Short story, Winter 1985)
-- [ ] Always Coming Home (1985)
+- [ ] Always Coming Home (1985) [Janet Heidinger Kafka Prize]
 
 ## Orsinia:
 - [ ] “Folksong from the Montayna Province” (Poem, 1959)
@@ -78,8 +78,8 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “A Trip to the Head” (Short story, 1970)
 - [ ] “Things” (Short story, 1970)
 - [ ] “The Good Trip” (Short story, Aug 1970)
-- [x] The Lathe of Heaven (1971) [Locus]
-- [x] “The Ones Who Walk Away from Omelas” (Short story, 1973) [Hugo]
+- [x] The Lathe of Heaven (1971) [Locus Award]
+- [x] “The Ones Who Walk Away from Omelas” (Short story, 1973) [Hugo Award]
 - [ ] “Direction of the Road” (Short story, 1973)
 - [ ] “The Field of Vision” (Short story, Oct 1973)
 - [ ] “The Stars Below” (Short story, 1974)
@@ -112,7 +112,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “Small Change” (Short story, 1981)
 - [ ] Hard Words and Other Poems (Poetry collection, 1981)
 - [ ] “The Wife’s Story” (Short story, 1982)
-- [ ] The Compass Rose (Collection, 1982) [Locus]
+- [ ] The Compass Rose (Collection, 1982) [Locus Award]
 - [ ] The Adventure of Cobbler’s Rune (Children’s book, 1982)
 - [ ] “Sur” (Short story, Feb 1982) [Locus]
 - [ ] “The Spoons in the Basement” (Short story, Aug 1982)
@@ -138,7 +138,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “The Kerastion” (Short story, 1990)
 - [ ] “Sleepwalkers” (Short story, 1991)
 - [ ] A Winter Solstice Ritual (Chapbook, 1991)
-- [ ] Searoad (Collection, 1991)
+- [ ] Searoad (Collection, 1991) [Oregon Book Award]
 - [x] “Hernes” (Novella from Searoad, included in The Found and the Lost)
 - [ ] “Newton’s Sleep” (Short story, 1991)
 - [ ] A Ride on the Red Mare’s Back (Children’s book, 1992)
@@ -167,21 +167,21 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “The Flyers of Gy” (Short story, Nov 2000)
 - [ ] “The Building” (Short story, 2001)
 - [ ] Tom Mouse (Children’s book, 2002)
-- [ ] Changing Planes (Collection, 2002) [Locus]
+- [ ] Changing Planes (Collection, 2002) [Locus Award]
 - [ ] The Birthday of the World and Other Stories (Collection, 2002)
 - [x] “Paradises Lost” (Novella, 2002)
-- [ ] “The Wild Girls” (Short story, March 2002) [Locus]
+- [ ] “The Wild Girls” (Short story, March 2002) [Locus Award]
 - [ ] “Social Dreaming of the Frin” (Short story, Nov 2002)
 - [ ] “The Seasons of the Ansarac” (Short story, Feb 2003)
 - [ ] The Wave in the Mind (Nonfiction, 2005) [Locus]
 - [ ] Incredible Good Fortune (Poetry collection, 2006)
 - [ ] Four Different Poems (Poetry collection, 2007)
-- [ ] Lavinia (2008) [Locus]
+- [ ] Lavinia (2008) [Locus Award]
 - [ ] Cat Dreams (Children’s book, 2009)
 - [ ] “LADeDeDa” (Short story, March 2009)
 - [ ] Out Here: Poems and Images from Steens Mountain Country (Poetry collection, 2010)
 - [ ] The Wild Girls (Collection, 2011)
-- [ ] The Unreal and the Real: The Selected Stories of Ursula Le Guin (Collection, 2012)
+- [ ] The Unreal and the Real: The Selected Stories of Ursula Le Guin (Collection, 2012) [Oregon Book Award]
 - [ ] Finding My Elegy: New and Selected Poems (Poetry collection, 2012)
 - [ ] “Elementals” (Short story, 2013)
 - [ ] “The Jar of Water” (Short story, Winter 2014)
