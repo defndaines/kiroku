@@ -87,6 +87,7 @@
 | Mission Child | Maureen F. McHugh | 1998 | U.S. | 385 | sci-fi, speculative, LGBT, queer | 3.75 | 520 | [1744634](https://www.goodreads.com/book/show/1744634.Mission_Child) |
 | The Red Years: Theory, Politics, and Aesthetics in the Japanese ’68 | Gavin Walker | 2020 | Japan | 176 | nonfiction, history, politics | 3.74 | 47 | [42179279](https://www.goodreads.com/book/show/42179279-the-red-years) |
 | Puerto Rico under Colonial Rule: Political Persecution and the Quest for Human Rights | Ramon Bosque-Perez | 2005 | Puerto Rico | 270 | nonfiction, history, [not owned] | 3.72 | 32 | [1124026](https://www.goodreads.com/book/show/1124026.Puerto_Rico_under_Colonial_Rule) |
+| Doggerland | Ben Smith | 2019 | U.K. | 248 | sci-fi, dystopian, contemporary, speculative, climate change, post-apocalyptic, Bookpilled-rec, [not owned] | 3.70 | 1499 | [42363317](https://www.goodreads.com/book/show/42363317-doggerland) |
 | The Seattle General Strike | Robert L. Friedheim | 1964 | U.S. | 296 | nonfiction, history, politics | 3.69 | 16 | [39871894](https://www.goodreads.com/book/show/39871894-the-seattle-general-strike) |
 | The Best of Judith Merril | Judith Merril | 1976 | U.S. | 254 | short stories, sci-fi, [not owned] | 3.69 | 32 | [587609](https://www.goodreads.com/book/show/587609.The_Best_of_Judith_Merril) |
 | Bond of Iron: Master and Slave at Buffalo Forge | Charles B. Dew | 1994 | U.S. | 448 | nonfiction, history, labor | 3.68 | 40 | [3994083](https://www.goodreads.com/book/show/3994083-bond-of-iron) |

@@ -624,7 +624,7 @@
 | Phoenix Extravagant | Yoon Ha Lee | 2020 | U.S. | 346 | 10:07 | sci-fi, fantasy, LGBT, queer | 3.65 | 3332 | [52758604](https://www.goodreads.com/book/show/52758604-phoenix-extravagant) |
 | I Deliver Parcels in Beijing | Hu Anyan | 2023 | China | 336 | 08:06 | nonfiction, memoir, contemporary, Willow-rec, [Audible](https://www.audible.com/pd/I-Deliver-Parcels-in-Beijing-Audiobook/B0FHBWM1HR) | 3.65 | 1205 | [222685805](https://www.goodreads.com/book/show/222685805-i-deliver-parcels-in-beijing) |
 | Chlorine | Jade Song | 2023 | U.S. | 256 | 08:09 | fantasy, horror, LGBT, contemporary, queer, lesbian, Alex Award | 3.65 | 22787 | [61387386](https://www.goodreads.com/book/show/61387386-chlorine) |
-| Ice | Anna Kavan | 1967 | U.K., France | 158 | 05:20 | classics, sci-fi, fantasy, dystopian, post-apocalyptic | 3.64 | 12090 | [636223](https://www.goodreads.com/book/show/636223.Ice) |
+| Ice | Anna Kavan | 1967 | U.K., France | 158 | 05:20 | classics, sci-fi, fantasy, dystopian, post-apocalyptic, SciFiScavenger-rec | 3.64 | 12090 | [636223](https://www.goodreads.com/book/show/636223.Ice) |
 | Delicate Condition | Danielle Valentine | 2023 | U.S. | 432 | 11:33 | thriller, mystery, horror, feminist Rosemary’s Baby | 3.64 | 19554 | [62976325](https://www.goodreads.com/book/show/62976325-delicate-condition) |
 | The Luminous Dead | Caitlin Starling | 2019 | U.S. | 432 | 14:10 | sci-fi, thriller, horror, LGBT, queer, the-luminous-dead-1 | 3.63 | 20420 | [36117102](https://www.goodreads.com/book/show/36117102-the-luminous-dead) |
 | Home to Harlem | Claude McKay | 1928 | Jamaica | 340 | 06:09 | classics, historical, Black, race, [own] | 3.63 | 1699 | [999816](https://www.goodreads.com/book/show/999816.Home_to_Harlem) |
