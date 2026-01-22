@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| My Soul Is Rested: The Story of the Civil Rights Movement in the Deep South | Howell Raines | 1977 | U.S. | 5.0 | audio | 496 | nonfiction, history, oral history, memoir, Black, politics, race, Alabama Author Award |
 | Missing Helen | Tia Tashiro | 2025 | U.S. | 4.5 | ebook | 23 | short story, sci-fi |
 | Letter from a Birmingham Jail | Martin Luther King Jr. | 1963 | U.S. | 4.5 | ebook | 24 | nonfiction, history, politics, Black, race, social justice |
 | Sorting Out the Postal Strike | Joe Jacobs | 1971 | U.K. | 5.0 | ebook | 10 | nonfiction, labor |
