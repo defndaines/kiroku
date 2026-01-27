@@ -96,12 +96,10 @@ these lists and searching for new entries.
 
 * [Audiobooks](data/audiobooks.md) if the books are available on audio, either
   through the library (Libby and Hoopla) or Audible.
-* [eBooks](data/ebooks.md) if the books are available electronically through
-  the library.
-* [In Print](data/printbooks.md) if the books aren’t available in any other
-  format. This list mostly tracks books I already own, though a few (marked
-  with `[not owned]`) I will buy or request from the library when I’m ready to
-  read them.
+* [“Eye” Books](data/eyebooks.md) if the books are available in print or
+  electronically through the library, or if the books aren’t available in any
+  other format. If I own a copy, it is marked with `[own]`. Otherwise, I will
+  buy or request from the library when I’m ready to read them.
 
 I have a wishlist at
 [Bookshop.org](https://bookshop.org/wishlists/e95d485f4528665e47e9a95cf22e759f741ae69d).

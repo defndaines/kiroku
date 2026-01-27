@@ -195,54 +195,40 @@ cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{
 
 cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v reread | grep -v novella | grep -v "\[own]" | grep -v Audible | sort -n | tail
 
-cut -d \| -f 7 data/ebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cut -d \| -f 7 data/eyebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 7 data/ebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v "\[own]" | sort -n | tail
+cut -d \| -f 7 data/eyebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v "\[own]" | grep -v ebook | sort -n | tail
 
-cut -d \| -f 7 data/printbooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
 
-cut -d \| -f 7 data/printbooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | grep -v "not owned" | sort | uniq -c | sort -n | tail
-
-cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/ebooks.md) <(cut -d \| -f 7 data/printbooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
-
-cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/ebooks.md) <(cut -d \| -f 7 data/printbooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c |  grep -v "\[own]" | sort -n | tail
+cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c |  grep -v "\[own]" | grep -v ebook | sort -n | tail
 
 ### 10 short books
 
-sort -t \| -k 6 -n data/ebooks.md | grep -v "| title |" | grep -v "| --- |" | head | cut -d \| -f 2-6,8
-
-sort -t \| -k 6 -n data/printbooks.md | grep -v "| title |" | grep -v "| --- |" | head | cut -d \| -f 2-6,8
+sort -t \| -k 6 -n data/eyebooks.md | grep -v "| title |" | grep -v "| --- |" | head | cut -d \| -f 2-6,8
 
 sort -t \| -k 7 -n data/audiobooks.md | grep -v "| title |" | grep -v "| --- |" | head | cut -d \| -f 2-7,9
 
 ### 10 long books
 
-sort -t \| -k 6 -nr data/ebooks.md | head -10 | cut -d \| -f 2-6,8
-
-sort -t \| -k 6 -nr data/printbooks.md | head -10 | cut -d \| -f 2-6,8
+sort -t \| -k 6 -nr data/eyebooks.md | head -10 | cut -d \| -f 2-6,8
 
 sort -t \| -k 7 -nr data/audiobooks.md | head -10 | cut -d \| -f 2-7,9
 
 ### 10 obscure books
 
-sort -t \| -k 9 -n data/ebooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8-9
-
-sort -t \| -k 9 -n data/printbooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8-9
+sort -t \| -k 9 -n data/eyebooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8-9
 
 sort -t \| -k 10 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-7,9-10
 
 ### 10 popular books
 
-sort -t \| -k 9 -nr data/ebooks.md | head | cut -d \| -f 2-6,8
-
-sort -t \| -k 9 -nr data/printbooks.md | head | cut -d \| -f 2-6,8
+sort -t \| -k 9 -nr data/eyebooks.md | head | cut -d \| -f 2-6,8
 
 sort -t \| -k 10 -nr data/audiobooks.md | head | cut -d \| -f 2-7,9
 
 ### re-sort
 
-(head -n 2 data/ebooks.md && tail -n +3 data/ebooks.md | sort -t \| -k 8 -rn) > data/tmp.md && mv data/tmp.md data/ebooks.md
-
 (head -n 2 data/audiobooks.md && tail -n +3 data/audiobooks.md | sort -t \| -k 9 -rn) > data/tmp.md && mv data/tmp.md data/audiobooks.md
 
-(head -n 2 data/printbooks.md && tail -n +3 data/printbooks.md | sort -t \| -k 8 -rn) > data/tmp.md && mv data/tmp.md data/printbooks.md
+(head -n 2 data/eyebooks.md && tail -n +3 data/eyebooks.md | sort -t \| -k 8 -rn) > data/tmp.md && mv data/tmp.md data/eyebooks.md
