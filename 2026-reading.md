@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| When We Walk By: Forgotten Humanity, Broken Systems, and the Role We Can Each Play in Ending Homelessness in America | Kevin F. Adler, Donald W. Burnes | 2023 | U.S. | 3.5 | audio | 328 | nonfiction, history, politics, social justice, sociology |
 | The Pedestrian | Ray Bradbury | 1951 | U.S. | 4.5 | ebook | 4 | short story, sci-fi, speculative, dystopian |
 | Life After Cars: Freeing Ourselves from the Tyranny of the Automobile | Sarah Goodyear, Doug Gordon, Aaron Naparstek | 2025 | U.S. | 4.5 | audio | 300 | nonfiction, politics, urban planning |
 | Who Gets to Be Indian?: Ethnic Fraud, Disenrollment, and Other Difficult Conversations about Native American Identity | Dina Gilio-Whitaker | 2025 | U.S. | 4.5 | audio | 280 | nonfiction, politics, Native American, indigenous |
