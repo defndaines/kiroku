@@ -28,6 +28,7 @@ Count: 6
 - [x] 2023: Julie Otsuka _The Swimmers_
 - [x] 2024: Amanda Peters _The Berry Pickers_
 - [x] 2025: Percival Everett _James_
+- [ ] 2026: Megha Majumdar _A Guardian and a Thief_
 
 ## Nonfiction (2)
 
@@ -44,3 +45,4 @@ Count: 6
 - [ ] 2023: Ed Yong _An Immense World: How Animal Senses Reveal the Hidden Realms Around Us_
 - [ ] 2024: Roxanna Asgarian _We Were Once a Family: A Story of Love, Death, and Child Removal in America_
 - [ ] 2025: Kevin Fedarko _A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon_
+- [ ] 2026: Yiyun Li _Things in Nature Merely Grow_

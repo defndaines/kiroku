@@ -90,7 +90,7 @@
 | Beartown | Fredrik Backman | 2016 | Sweden | 432 | 13:12 | literary, contemporary, sports, beartown-1 | 4.29 | 599543 | [33413128](https://www.goodreads.com/book/show/33413128-beartown) |
 | A People’s Guide to Capitalism: An Introduction to Marxist Economics | Hadas Thier | 2018 | U.S. | 300 | 10:18 | nonfiction, history, economics, politics, sociology, social justice, [own] | 4.29 | 1281 | [52365259](https://www.goodreads.com/book/show/52365259-a-people-s-guide-to-capitalism) |
 | The Wall | John Hersey | 1938 | Poland | 640 | 29:14 | classics, mystery, historical, romance, crime, gothic, Warsaw ghetto, Holocaust, WWII | 4.28 | 2016 | [27326](https://www.goodreads.com/book/show/27326.The_Wall) |
-| The Player of Games | Iain M. Banks | 1988 | Scotland | 293 | 11:25 | sci-fi, fantasy, space opera, culture-2 | 4.28 | 80795 | [18630](https://www.goodreads.com/book/show/18630.The_Player_of_Games) |
+| The Player of Games | Iain M. Banks | 1988 | Scotland | 293 | 11:25 | sci-fi, fantasy, space opera, culture-2, Jared-rec | 4.28 | 80795 | [18630](https://www.goodreads.com/book/show/18630.The_Player_of_Games) |
 | Propaganda: The Formation of Men’s Attitudes | Jacques Ellul | 1962 | France | 352 | 15:35 | nonfiction, history, politics, philosophy, sociology, psychology | 4.28 | 1384 | [274826](https://www.goodreads.com/book/show/274826.Propaganda) |
 | Prairie Lotus | Linda Sue Park | 2020 | U.S. | 260 | 05:18 | historical, YA, [own] | 4.28 | 9100 | [44230407](https://www.goodreads.com/book/show/44230407-prairie-lotus) |
 | The Street | Ann Petry | 1946 | U.S. | 435 | 12:48 | classics, literary, historical, Black, race, 1940s Harlem | 4.27 | 13453 | [186926](https://www.goodreads.com/book/show/186926.The_Street) |
@@ -147,7 +147,7 @@
 | The Shadow of the Gods | John Gwynne | 2021 | U.K. | 480 | 18:15 | fantasy, mythology, bloodsworn-saga-1 | 4.19 | 93332 | [52694527](https://www.goodreads.com/book/show/52694527-the-shadow-of-the-gods) |
 | The Scar | China Miéville | 2002 | U.K. | 578 | 26:59 | sci-fi, fantasy, steampunk, new-crobuzon-2 | 4.19 | 34790 | [68497](https://www.goodreads.com/book/show/68497.The_Scar) |
 | The Lost War | Justin Lee Anderson | 2019 | U.K. | 529 | 20:04 | fantasy, eidyn-1, Ayinde-rec, [Audible](https://www.audible.com/pd/The-Lost-War-Audiobook/1774242923) | 4.19 | 3198 | [69709682](https://www.goodreads.com/book/show/69709682-the-lost-war) |
-| The Eye of the World | Robert Jordan | 1990 | U.S. | 800 | 29:51 | fantasy, adventure, the-wheel-of-time-1 | 4.19 | 593884 | [228665](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World) |
+| The Eye of the World | Robert Jordan | 1990 | U.S. | 800 | 29:51 | fantasy, adventure, the-wheel-of-time-1, Jared-rec | 4.19 | 593884 | [228665](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World) |
 | The Blacktongue Thief | Christopher Buehlman | 2021 | U.S. | 416 | 12:45 | fantasy, horror, adventure, blacktongue-1, Willow-rec | 4.19 | 44238 | [55077697](https://www.goodreads.com/book/show/55077697-the-blacktongue-thief) |
 | Sheine Lende | Darcie Little Badger | 2024 | U.S. | 391 | 13:47 | fantasy, mystery, YA, magical realism, indigenous, elatsoe-0 | 4.19 | 1476 | [190854829](https://www.goodreads.com/book/show/190854829-sheine-lende) |
 | Revolutionary Spring: Europe Aflame and the Fight for a New World, 1848-1849 | Christopher Clark | 2023 | Australia | 1152 | 33:27 | nonfiction, history, politics, war, 19th century | 4.19 | 1140 | [62192405](https://www.goodreads.com/book/show/62192405-revolutionary-spring) |
@@ -167,7 +167,7 @@
 | Guns of the Dawn | Adrian Tchaikovsky | 2015 | U.K. | 658 | 21:08 | sci-fi, fantasy, historical, war, steampunk | 4.17 | 5225 | [23524779](https://www.goodreads.com/book/show/23524779-guns-of-the-dawn) |
 | Erasure | Percival Everett | 2001 | U.S. | 280 | 08:17 | literary, humor, Black, contemporary, race | 4.17 | 32035 | [355862](https://www.goodreads.com/book/show/355862.Erasure) |
 | Comfortably Numb: The Inside Story of Pink Floyd | Mark Blake | 2007 | U.K. | 401 | 17:04 | nonfiction, biography, history, music | 4.17 | 3170 | [1962086](https://www.goodreads.com/book/show/1962086.Comfortably_Numb) |
-| Anathem | Neal Stephenson | 2008 | U.S. | 937 | 32:27 | sci-fi, fantasy, speculative, philosophy, Locus Award, anathem-1 | 4.17 | 75634 | [2845024](https://www.goodreads.com/book/show/2845024-anathem) |
+| Anathem | Neal Stephenson | 2008 | U.S. | 937 | 32:27 | sci-fi, fantasy, speculative, philosophy, Locus Award, anathem-1, Jared-rec | 4.17 | 75634 | [2845024](https://www.goodreads.com/book/show/2845024-anathem) |
 | The Years | Annie Ernaux | 2008 | France | 240 | 08:12 | nonfiction, literary, memoir, history, Nobel Prize, Kate-Lee-경민-rec | 4.16 | 46096 | [145625252](https://www.goodreads.com/book/show/145625252-the-years) |
 | The Office of Historical Corrections | Danielle Evans | 2020 | U.S. | 269 | 07:13 | short stories, literary, contemporary, race, Kate-Lee-경민-rec | 4.16 | 36586 | [51777605](https://www.goodreads.com/book/show/51777605-the-office-of-historical-corrections) |
 | The Last Unicorn | Peter S. Beagle | 1968 | U.S. | 294 | 08:09 | classics, fantasy, YA, adventure, the-last-unicorn-1 | 4.16 | 122720 | [29127](https://www.goodreads.com/book/show/29127.The_Last_Unicorn) |
@@ -260,7 +260,7 @@
 | A Gathering of Old Men | Ernest J. Gaines | 1983 | U.S. | 214 | 07:38 | classics, historical, Black, southern | 4.09 | 6964 | [542953](https://www.goodreads.com/book/show/542953.A_Gathering_of_Old_Men) |
 | 10 Minutes 38 Seconds in This Strange World | Elif Shafak | 2019 | Türkiye, U.K., France | 312 | 09:11 | literary, historical, contemporary, Emily-Fox-rec, Emmie-rec | 4.09 | 84037 | [43706466](https://www.goodreads.com/book/show/43706466-10-minutes-38-seconds-in-this-strange-world) |
 | Your House Will Pay | Steph Cha | 2019 | U.S. | 304 | 09:50 | literary, historical, mystery, crime, race, Korean-Black relations | 4.08 | 10423 | [43615778](https://www.goodreads.com/book/show/43615778-your-house-will-pay) |
-| Tigana | Guy Gavriel Kay | 1990 | Canada | 676 | 24:50 | historical, fantasy | 4.08 | 52022 | [104089](https://www.goodreads.com/book/show/104089.Tigana) |
+| Tigana | Guy Gavriel Kay | 1990 | Canada | 676 | 24:50 | historical, fantasy, Jared-rec | 4.08 | 52022 | [104089](https://www.goodreads.com/book/show/104089.Tigana) |
 | The Girl Who Fell Beneath the Sea | Axie Oh | 2022 | U.S. | 325 | 08:50 | fantasy, romance, retelling, YA, mythology, [own] | 4.08 | 95566 | [56978100](https://www.goodreads.com/book/show/56978100-the-girl-who-fell-beneath-the-sea) |
 | The Children of Gods and Fighting Men | Shauna Lawless | 2022 | Ireland | 416 | 14:03 | historical, fantasy, mythology, 981 Dublin, gael-song-1, Elliot-Brooks-rec | 4.08 | 6120 | [60387416](https://www.goodreads.com/book/show/60387416-the-children-of-gods-and-fighting-men) |
 | Four Treasures of the Sky | Jenny Tinghui Zhang | 2022 | China, U.S. | 326 | 12:19 | literary, historical | 4.08 | 20107 | [55987334](https://www.goodreads.com/book/show/55987334-four-treasures-of-the-sky) |
@@ -493,6 +493,7 @@
 | Bright Shiny Morning | James Frey | 2008 | U.S. | 501 | 13:39 | literary, contemporary, L.A., Tobias-McGowan-rec | 3.85 | 15205 | [2179832](https://www.goodreads.com/book/show/2179832.Bright_Shiny_Morning) |
 | Bird Milk & Mosquito Bones: A Memoir | Priyanka Mattoo | 2024 | Kasmir, India, U.S. | 304 | 09:02 | nonfiction, essays, memoir | 3.85 | 848 | [200721265](https://www.goodreads.com/book/show/200721265-bird-milk-mosquito-bones) |
 | A Woman of Pleasure | Kiyoko Murata | 2013 | Japan | 320 | 07:33 | historical, feminism, Willow-rec | 3.85 | 2934 | [185767238](https://www.goodreads.com/book/show/185767238-a-woman-of-pleasure) |
+| The Son of Man | Jean-Baptiste Del Amo | 2021 | France | 240 | 08:06 | literary, contemporary, dark, [Audible](https://www.audible.com/pd/The-Son-of-Man-Audiobook/B0D7N2QQLH), Dua-rec | 3.84 | 1101 | [197239437](https://www.goodreads.com/book/show/197239437-the-son-of-man) |
 | The Lions’ Den | Iris Mwanza | 2024 | Zambia | 272 | 07:00 | mystery, historical, LGBT, Eric-Karl-Anderson-rec, unread country | 3.84 | 522 | [150444485](https://www.goodreads.com/book/show/150444485-the-lions-den) |
 | The Helm of Midnight | Marina J. Lostetter | 2021 | U.S. | 464 | 22:15 | thriller, mystery, fantasy, horror, the-five-penalties-1 | 3.84 | 3075 | [53205864](https://www.goodreads.com/book/show/53205864-the-helm-of-midnight) |
 | The Hacienda | Isabel Cañas | 2022 | Mexico | 352 | 11:08 | horror, historical, mystery, thriller, fantasy, paranormal, gothic | 3.84 | 58460 | [57840571](https://www.goodreads.com/book/show/57840571-the-hacienda) |
