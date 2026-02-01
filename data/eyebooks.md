@@ -106,6 +106,7 @@
 | I Rode a Horse of Milk White Jade | Diane Lee Wilson | 1998 | U.S. | 272 | historical, adventure, YA, [own] | 4.02 | 1594 | [7850119](https://www.goodreads.com/book/show/7850119-i-rode-a-horse-of-milk-white-jade) |
 | Dream of Ding Village | Yan Lianke | 2005 | China | 352 | historical, ebook | 4.02 | 2925 | [9248289](https://www.goodreads.com/book/show/9248289-dream-of-ding-village) |
 | Binti: The Complete Trilogy | Nnedi Okorafor | 2015 | U.S. | 368 | novella, short stories, fantasy, sci-fi, YA, Hugo Award, partial reread, [own] | 4.02 | 7052 | [48637511](https://www.goodreads.com/book/show/48637511-binti) |
+| The Violent Land | Jorge Amado | 1943 | Brazil | 276 | classics, historical, magical realism, romance, ebook | 4.01 | 1459 | [214840](https://www.goodreads.com/book/show/214840.The_Violent_Land) |
 | The Old Garden | Hwang Sok-yong | 2000 | South Korea | 480 | historical, ebook | 4.01 | 329 | [2525119](https://www.goodreads.com/book/show/2525119.The_Old_Garden) |
 | The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone | Sophocles | 451 BCE | Attica, Athens | 259 | play, poetry, classics, mythology, [own] | 4.00 | 70845 | [1540](https://www.goodreads.com/book/show/1540.The_Oedipus_Cycle) |
 | James P. Cannon and the Emergence of Trotskyism in the United States, 1928-38 | Bryan D. Palmer | 2021 | U.S. | 1208 | nonfiction, history, biography, politics, labor, [own] | 4.00 | 6 | [61991086](https://www.goodreads.com/book/show/61991086-james-p-cannon-and-the-emergence-of-trotskyism-in-the-united-states-19) |
