@@ -136,23 +136,23 @@ for award in *{award,medal,prize}*.md; do
 done
 
 ### Audit Count Values (skips Hugo and Nebula, which include films and scripts)
-for award in booker-prize.md british-fantasy-award.md andrew-carnegie-medal-for-excellence.md \
-  arthur-c-clarke-award.md dublin-literary-award.md golden-poppy-book-award.md \
-  great-american-novels.md ignyte-award.md kirkus-prize.md locus-award.md \
-  mythopoeic-award.md national-book-award.md nobel-prize-in-literature.md \
-  nommo-award.md ohioana-book-award.md pulitzer-prize.md \
-  ursula-k-le-guin-prize.md walter-scott-prize.md womens-prize.md \
-  world-fantasy-award.md; do
+for award in akutagawa-prize.md andrew-carnegie-medal-for-excellence.md \
+  arthur-c-clarke-award.md booker-prize.md british-fantasy-award.md \
+  dublin-literary-award.md golden-poppy-book-award.md ignyte-award.md \
+  kirkus-prize.md locus-award.md mythopoeic-award.md national-book-award.md \
+  nobel-prize-in-literature.md nommo-award.md ohioana-book-award.md \
+  pulitzer-prize.md ursula-k-le-guin-prize.md walter-scott-prize.md \
+  womens-prize.md world-fantasy-award.md; do
   head -1 "${award}"
-  grep "^Count" "${award}"
-  grep '\[x\]' "${award}" | sort | uniq -c | wc -l
+  rg "^Count" "${award}"
+  rg '\[x\]' "${award}" | sort | uniq -c | wc -l
 done
 
 ### What Percentage of Award Books Have I Read?
 for award in *{award,medal,prize}*.md great-american-novels.md nyt-100-best-21st-century.md; do
   head -1 "${award}"
-  count=$(grep "^Count:" "${award}" | sed 's/Count: //')
-  total=$(grep -c "^- \[" "${award}")
+  count=$(rg "^Count:" "${award}" | sed 's/Count: //')
+  total=$(rg -c "^- \[" "${award}")
   pct=$((count * 100 / total))
   echo "  ${count} (${pct}%)"
 done

@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| To Ride a Rising Storm | Moniquill Blackgoose | 2026 | U.S. | 4.5 | audio | 464 | fantasy, historical, sci-fi, YA, LGBT, indigenous, queer |
 | Caliban and the Witch: Women, the Body and Primitive Accumulation | Silvia Federici | 2004 | Italy | 4.0 | print | 288 | nonfiction, history, politics, feminism, sociology |
 | Eberron: Forge of the Artificer | James Wyatt, Jeremy Crawford, Makenzie De Armas, Ron Lundeen, Ben Petrisor, Patrick Renie | 2025 | U.S. | 4.0 | print | 112 | reference, fantasy |
 | When We Walk By: Forgotten Humanity, Broken Systems, and the Role We Can Each Play in Ending Homelessness in America | Kevin F. Adler, Donald W. Burnes | 2023 | U.S. | 3.5 | audio | 328 | nonfiction, history, politics, social justice, sociology |
