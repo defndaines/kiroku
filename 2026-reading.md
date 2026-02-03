@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Seascraper | Benjamin Wood | 2025 | U.K. | 4.5 | audio | 176 | novella, literary, historical |
 | To Ride a Rising Storm | Moniquill Blackgoose | 2026 | U.S. | 4.5 | audio | 464 | fantasy, historical, sci-fi, YA, LGBT, indigenous, queer |
 | Caliban and the Witch: Women, the Body and Primitive Accumulation | Silvia Federici | 2004 | Italy | 4.0 | print | 288 | nonfiction, history, politics, feminism, sociology |
 | Eberron: Forge of the Artificer | James Wyatt, Jeremy Crawford, Makenzie De Armas, Ron Lundeen, Ben Petrisor, Patrick Renie | 2025 | U.S. | 4.0 | print | 112 | reference, fantasy |

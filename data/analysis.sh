@@ -2,19 +2,30 @@
 
 ## Total Book Count
 
-tail -n +8 2026-reading.md | wc -l
+tail -n +8 2026-reading.md| wc -l
 
-tail -n +8 2026-graphic-novels.md | wc -l
+tail -n +8 2026-graphic-novels.md| wc -l
+
+cat <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)| wc -l
 
 ## Authors
 
-tail -n +8 2026-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//'|
+  sed 's/ *$//'| sort| uniq -c| sort -n
 
-tail -n +8 2026-reading.md | cut -d \| -f 3 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n | grep -v " 1 "
+tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//'|
+  sed 's/ *$//'| sort| uniq -c| sort -n| grep -v " 1 "
+
+cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/, /\n/g'| sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| sort -n
+
+cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/, /\n/g'| sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| sort -n|
+  grep -v " 1 "
 
 for author in author/*.md; do
-  name=$(head -1 "${author}" | sed 's/# //')
-  count=$(grep -c "${name} |" 2026-reading.md)
+  name=$(head -1 "${author}"| sed 's/# //')
+  count=$(grep -c "${name}|" 2026-reading.md)
   echo "${name}: ${count}"
 done
 
@@ -22,7 +33,7 @@ done
 
 ### Books older than 10 year
 
-# tail -n +8 2026-reading.md | cut -d \| -f 4 | sort | sed -n '1,/2016/p' | wc -l
+tail -n +8 2026-reading.md| cut -d \| -f 4| sort| sed -n '1,/2016/p'| wc -l
 
 ### Books from last year (roughly)
 
@@ -30,86 +41,121 @@ grep -c '| 202[56]' 2026-reading.md
 
 ## Countries
 
-tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
+  sed 's/ *$//'| sort| uniq -c| sort -n
 
-tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | sort | uniq -c | sort -nr | head
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
+  sed 's/ *$//'| sort| uniq -c| grep -v " 1 "| sort -nr| head
+
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 5| sed 's/, /\n/g'|
+  sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| sort -n
+
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 5| sed 's/, /\n/g'|
+  sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| grep -v " 1 "| sort -nr|
+  head
+
+cut -d \| -f 5 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/, /\n/g'| sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c|
+  grep -v " 1 "| sort -nr| head
 
 ### Show ten most populous countries from which I haven’t yet read a book
-grep '\[ ]' countries-read.md | head | sed 's/- \[ ] \([^:]*\).*/\1/'
+grep '\[ ]' countries-read.md| head| sed 's/- \[ ] \([^:]*\).*/\1/'
 
 ### Filter out the major English-native countries.
 
-tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort -u
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
+  sed 's/ *$//'| grep -v "U\."| grep -v Canada| grep -v Australia| sort -u
 
-tail -n +8 2026-reading.md | cut -d \| -f 5 | sed 's/, /\n/g' | sed 's/^ *//' | sed 's/ *$//' | grep -v "U\." | grep -v Canada | grep -v Australia | sort | uniq -c | sort -nr | head
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
+  sed 's/ *$//'| grep -v "U\."| grep -v Canada| grep -v Australia| sort|
+  uniq -c| sort -nr| head
 
 ### Count of non-U.S/U.K./Canada/Australia work
 
-tail -n +8 2026-reading.md | grep -v Canada | grep -v Australia | grep -vc "U\.[SK]\."
+tail -n +8 2026-reading.md| grep -v Canada| grep -v Australia| grep -vc "U\.[SK]\."
 
 ## Genres
 
 ### Fiction count
 
-tail -n +8 2026-reading.md | grep -vc "nonfiction"
+tail -n +8 2026-reading.md| grep -vc "nonfiction"
 
-tail -n +8 2026-graphic-novels.md | grep -vc "nonfiction"
+tail -n +8 2026-graphic-novels.md| grep -vc "nonfiction"
 
 ### Nonfiction count
 
-tail -n +8 2026-reading.md | grep -c "nonfiction"
+tail -n +8 2026-reading.md| grep -c "nonfiction"
 
-tail -n +8 2026-graphic-novels.md | grep -c "nonfiction"
+tail -n +8 2026-graphic-novels.md| grep -c "nonfiction"
 
 ### Genre full list
 
-tail -n +8 2026-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+tail -n +8 2026-reading.md| cut -d \| -f 9| sed 's/,/\n/g'| awk '{$1=$1};1'|
+  sort| uniq -c
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 9| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| sort| uniq -c
+
+cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/,/\n/g'| awk '{$1=$1};1'| sort| uniq -c
 
 ### Most common genres
 
-tail -n +8 2026-reading.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v reread | grep -v novella | grep -v "short story" | grep -v "Hugo finalist" | grep -v nonfiction | sort -nr | head
+tail -n +8 2026-reading.md| cut -d \| -f 9| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| sort| uniq -c|
+  grep -v -e reread -e novella -e "short stor" -e "Hugo finalist" -e nonfiction|
+  sort -nr| head
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 9 | sed 's/,/\n/g' | awk '{$1=$1};1' | sort | uniq -c | grep -v nonfiction | sort -nr | head
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 9| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| sort| uniq -c| grep -v nonfiction| sort -nr| head
+
+cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/,/\n/g'| awk '{$1=$1};1'| sort| uniq -c|
+  grep -v -e reread -e novella -e "short stor" -e "Hugo finalist" -e nonfiction|
+  sort -nr| head
 
 ## Formats
 
-tail -n +8 2026-reading.md | cut -d \| -f 7 | sort | uniq -c
+tail -n +8 2026-reading.md| cut -d \| -f 7| sort| uniq -c
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 7 | sort | uniq -c
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 7| sort| uniq -c
 
 ## Ratings
 
-tail -n +8 2026-reading.md | cut -d \| -f 6 | sort -n | uniq -c
+tail -n +8 2026-reading.md| cut -d \| -f 6| sort -n| uniq -c
 
-tail -n +8 2026-reading.md | cut -d \| -f 6 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-reading.md| cut -d \| -f 6| awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 6 | sort -n | uniq -c
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 6| sort -n| uniq -c
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 6 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 6| awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+
+cut -d \| -f 6 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
 ### 5.0 Books
 
-grep " 5.0 " 2026-reading.md | cut -d \| -f 2-3
+grep " 5.0 " 2026-reading.md| cut -d \| -f 2-3
 
-grep " 5.0 " 2026-graphic-novels.md | cut -d \| -f 2-3
+grep " 5.0 " 2026-graphic-novels.md| cut -d \| -f 2-3
 
 ## Page Count
 
-tail -n +8 2026-reading.md | cut -d \| -f 8 | sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 8| sort -n
 
-tail -n +8 2026-reading.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-reading.md| cut -d \| -f 8|
+  awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 8 | sort -n
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 8| sort -n
 
-tail -n +8 2026-graphic-novels.md | cut -d \| -f 8 | awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 8|
+  awk '{s+=$1}END{print "average:",s/NR}' RS="\n"
 
 ## Sort in context (e.g., rating [6] or pages [8])
 
-tail -n +8 2026-reading.md | sort -t\| -k 6 -n
+tail -n +8 2026-reading.md| sort -t\| -k 6 -n
 
-tail -n +8 2026-reading.md | sort -t\| -k 8 -n
+tail -n +8 2026-reading.md| sort -t\| -k 8 -n
 
 # Awards
 
@@ -119,11 +165,11 @@ grep -F -v -f <(grep -l `date +%Y` *.md) <(ls *{award,medal,prize}*.md)
 
 ## Hugo Books (i.e., skip movies and series watched)
 
-sed -n '1,/## Dramatic/p' hugo-award.md | grep -c '\[x\]'
+sed -n '1,/## Dramatic/p' hugo-award.md| grep -c '\[x\]'
 
 ## Nebula Books (i.e., skip movies and series watched)
 
-sed -n '1,/## Ray Bradbury Award/p' nebula-award.md | grep -c '\[x\]'
+sed -n '1,/## Ray Bradbury Award/p' nebula-award.md| grep -c '\[x\]'
 
 ## Other awards (for loop audits)
 
@@ -145,23 +191,23 @@ for award in akutagawa-prize.md andrew-carnegie-medal-for-excellence.md \
   womens-prize.md world-fantasy-award.md; do
   head -1 "${award}"
   rg "^Count" "${award}"
-  rg '\[x\]' "${award}" | sort | uniq -c | wc -l
+  rg '\[x\]' "${award}"| sort| uniq -c| wc -l
 done
 
 ### What Percentage of Award Books Have I Read?
 for award in *{award,medal,prize}*.md great-american-novels.md nyt-100-best-21st-century.md; do
   head -1 "${award}"
-  count=$(rg "^Count:" "${award}" | sed 's/Count: //')
+  count=$(rg "^Count:" "${award}"| sed 's/Count: //')
   total=$(rg -c "^- \[" "${award}")
   pct=$((count * 100 / total))
-  echo "  ${count} (${pct}%)"
+  echo " ${count} (${pct}%)"
 done
 
 ### Analysis of individual awards when there are different categories.
 for award in *{award,medal,prize}*.md; do
   if grep -q "##" "${award}"; then
     head -1 "${award}"
-    lines=($(grep -n "^## " "${award}" | sed 's/:.*//'))
+    lines=($(grep -n "^## " "${award}"| sed 's/:.*//'))
     for i in $(seq ${#lines[@]}); do
       if [[ $i -eq "${#lines[@]}" ]]; then
         until="\$"
@@ -169,10 +215,10 @@ for award in *{award,medal,prize}*.md; do
         until=${lines[$((i + 1))]}
       fi
       sed -n "${lines[i]},${lines[i]}p" "${award}"
-      count=$(sed -n "${lines[i]},${until}p" "${award}" | grep -c '\[x\]')
-      total=$(sed -n "${lines[i]},${until}p" "${award}" | grep -c '^- \[')
+      count=$(sed -n "${lines[i]},${until}p" "${award}"| grep -c '\[x\]')
+      total=$(sed -n "${lines[i]},${until}p" "${award}"| grep -c '^- \[')
       pct=$((count * 100 / total))
-      echo "  ${count} (${pct}% of ${total})"
+      echo " ${count} (${pct}% of ${total})"
     done
     echo ""
   fi
@@ -184,51 +230,66 @@ git diff 355bef7 countries-read.md
 
 for f in [a-z]*.md; do
   head -1 "$f"
-  git diff 355bef7 "$f" | grep "^[-+]Count:"
+  git diff 355bef7 "$f"| grep "^[-+]Count:"
 done
 
 ## TBR Documents
 
 ### Tags
 
-cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cut -d \| -f 8 data/audiobooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| grep -v "\-\d\+$"| sort| uniq -c
 
-cut -d \| -f 8 data/audiobooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v reread | grep -v novella | grep -v "\[own]" | grep -v Audible | sort -n | tail
+cut -d \| -f 8 data/audiobooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| grep -v "\-\d\+$"| sort| uniq -c|
+  grep -v -e reread -e novella -e "\[own]" -e Audible| sort -n| tail
 
-cut -d \| -f 7 data/eyebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cut -d \| -f 7 data/eyebooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| grep -v "\-\d\+$"| sort| uniq -c
 
-cut -d \| -f 7 data/eyebooks.md | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c | grep -v "\[own]" | grep -v ebook | sort -n | tail
+cut -d \| -f 7 data/eyebooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
+  awk '{$1=$1};1'| grep -v "\-\d\+$"| sort| uniq -c| grep -v "\[own]"|
+  grep -v ebook| sort -n| tail
 
-cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c
+cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md)|
+  sed 's/([^)]*)//g'| sed 's/,/\n/g'| awk '{$1=$1};1'| grep -v "\-\d\+$"| sort|
+  uniq -c
 
-cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md) | sed 's/([^)]*)//g' | sed 's/,/\n/g' | awk '{$1=$1};1' | grep -v "\-\d\+$" | sort | uniq -c |  grep -v "\[own]" | grep -v ebook | sort -n | tail
+cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md)|
+  sed 's/([^)]*)//g'| sed 's/,/\n/g'| awk '{$1=$1};1'| grep -v "\-\d\+$"| sort|
+  uniq -c| grep -v -e reread -e novella -e "\[own]" -e ebook -e Audible|
+  sort -n| tail
 
 ### 10 short books
 
-sort -t \| -k 6 -n data/eyebooks.md | grep -v "| title |" | grep -v "| --- |" | head | cut -d \| -f 2-6,8
+sort -t \| -k 6 -n data/eyebooks.md| grep -v -e "| title" -e "| ---"|
+  head| cut -d \| -f 2-6,8
 
-sort -t \| -k 7 -n data/audiobooks.md | grep -v "| title |" | grep -v "| --- |" | head | cut -d \| -f 2-7,9
+sort -t \| -k 7 -n data/audiobooks.md| grep -v -e "| title" -e "| ---"|
+  head| cut -d \| -f 2-7,9
 
 ### 10 long books
 
-sort -t \| -k 6 -nr data/eyebooks.md | head -10 | cut -d \| -f 2-6,8
+sort -t \| -k 6 -nr data/eyebooks.md| head -10| cut -d \| -f 2-6,8
 
-sort -t \| -k 7 -nr data/audiobooks.md | head -10 | cut -d \| -f 2-7,9
+sort -t \| -k 7 -nr data/audiobooks.md| head -10| cut -d \| -f 2-7,9
 
 ### 10 obscure books
 
-sort -t \| -k 9 -n data/eyebooks.md | head -12 | tail -10 | cut -d \| -f 2-6,8-9
+sort -t \| -k 9 -n data/eyebooks.md| head -12| tail -10| cut -d \| -f 2-6,8-9
 
-sort -t \| -k 10 -n data/audiobooks.md | head -12 | tail -10 | cut -d \| -f 2-7,9-10
+sort -t \| -k 10 -n data/audiobooks.md| head -12| tail -10| cut -d \| -f 2-7,9-10
 
 ### 10 popular books
 
-sort -t \| -k 9 -nr data/eyebooks.md | head | cut -d \| -f 2-6,8
+sort -t \| -k 9 -nr data/eyebooks.md| head| cut -d \| -f 2-6,8
 
-sort -t \| -k 10 -nr data/audiobooks.md | head | cut -d \| -f 2-7,9
+sort -t \| -k 10 -nr data/audiobooks.md| head| cut -d \| -f 2-7,9
 
 ### re-sort
 
-(head -n 2 data/audiobooks.md && tail -n +3 data/audiobooks.md | sort -t \| -k 9 -rn) > data/tmp.md && mv data/tmp.md data/audiobooks.md
+(head -n 2 data/audiobooks.md && tail -n +3 data/audiobooks.md| sort -t \| -k 9 -rn) > data/tmp.md &&
+  mv data/tmp.md data/audiobooks.md
 
-(head -n 2 data/eyebooks.md && tail -n +3 data/eyebooks.md | sort -t \| -k 8 -rn) > data/tmp.md && mv data/tmp.md data/eyebooks.md
+(head -n 2 data/eyebooks.md && tail -n +3 data/eyebooks.md| sort -t \| -k 8 -rn) > data/tmp.md &&
+  mv data/tmp.md data/eyebooks.md
