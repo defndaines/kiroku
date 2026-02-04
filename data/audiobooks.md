@@ -621,7 +621,7 @@
 | The Shadow King | Maaza Mengiste | 2019 | Ethiopia | 448 | 16:10 | literary, historical, war, 1935 Ethiopia | 3.65 | 14991 | [43726511](https://www.goodreads.com/book/show/43726511-the-shadow-king) |
 | The Appeal | John Grisham | 2008 | U.S. | 358 | 12:34 | mystery, thriller, crime | 3.65 | 62755 | [1248179](https://www.goodreads.com/book/show/1248179.The_Appeal) |
 | Phoenix Extravagant | Yoon Ha Lee | 2020 | U.S. | 346 | 10:07 | sci-fi, fantasy, LGBT, queer | 3.65 | 3336 | [52758604](https://www.goodreads.com/book/show/52758604-phoenix-extravagant) |
-| Chlorine | Jade Song | 2023 | U.S. | 256 | 08:09 | fantasy, horror, LGBT, contemporary, queer, lesbian, Alex Award | 3.65 | 23268 | [61387386](https://www.goodreads.com/book/show/61387386-chlorine) |
+| Chlorine | Jade Song | 2023 | U.S. | 256 | 08:09 | fantasy, horror, LGBT, contemporary, queer, lesbian, Alex Award, swimming, thedeadmansdentist-rec | 3.65 | 23268 | [61387386](https://www.goodreads.com/book/show/61387386-chlorine) |
 | Ice | Anna Kavan | 1967 | U.K., France | 158 | 05:20 | classics, sci-fi, fantasy, dystopian, post-apocalyptic, SciFiScavenger-rec | 3.64 | 12285 | [636223](https://www.goodreads.com/book/show/636223.Ice) |
 | Delicate Condition | Danielle Valentine | 2023 | U.S. | 432 | 11:33 | thriller, mystery, horror, feminist Rosemary’s Baby | 3.64 | 19695 | [62976325](https://www.goodreads.com/book/show/62976325-delicate-condition) |
 | The Luminous Dead | Caitlin Starling | 2019 | U.S. | 432 | 14:10 | sci-fi, thriller, horror, LGBT, queer, the-luminous-dead-1 | 3.63 | 20637 | [36117102](https://www.goodreads.com/book/show/36117102-the-luminous-dead) |
