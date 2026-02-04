@@ -10,7 +10,7 @@ November.
 
 https://worldfantasy.org/
 
-Count: 6
+Count: 7
 
 ## Novel (6)
 
@@ -120,7 +120,7 @@ Count: 6
 - [ ] 2025: R.B. Lemberg _Yoke of Stars_
 <!-- Novella -->
 
-## Short Fiction (0)
+## Short Fiction (1)
 
 - [ ] 1975: Robert Aickman “Pages From a Young Girl’s Journal”
 - [ ] 1976: Fritz Leiber “Belsen Express”
@@ -150,7 +150,7 @@ Count: 6
 - [ ] 2000: Ian R. MacLeod “The Chop Girl”
 - [ ] 2001: Andy Duncan “The Pottawatomie Giant”
 - [ ] 2002: Albert E. Cowdrey “Queen for a Day”
-- [ ] 2003: Jeffrey Ford “Creation”
+- [x] 2003: Jeffrey Ford “Creation”
 - [ ] 2004: Bruce Holland Rogers “Don Ysidro”
 - [ ] 2005: Margo Lanagan “Singing My Sister Down”
 - [ ] 2006: George Saunders “CommComm”
