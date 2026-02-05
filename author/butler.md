@@ -10,7 +10,7 @@ I have a minor goal of reading all of Octavia Butler’s work.
 - [ ] Patternmaster (1976)
 
 ## Xenogenesis, or Lilith’s Brood series:
-- [ ] Dawn (1987)
+- [x] Dawn (1987)
 - [ ] Adulthood Rites (1988)
 - [ ] Imago (1989)
 

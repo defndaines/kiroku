@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Dawn | Octavia E. Butler | 1987 | U.S. | 4.5 | audio | 320 | sci-fi, fantasy, horror, dystopian, post-apocalyptic, feminism |
 | Creation | Jeffrey Ford | 2003 | U.S. | 4.5 | ebook | 16 | short story, fantasy, coming of age |
 | The Girl That My Mother Is Leaving Me For | Cameron Reed | 2025 | U.S. | 4.5 | ebook | 35 | short story, sci-fi, LGBT, queer |
 | Seascraper | Benjamin Wood | 2025 | U.K. | 4.5 | audio | 176 | novella, literary, historical |

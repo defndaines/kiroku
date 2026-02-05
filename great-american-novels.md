@@ -6,7 +6,7 @@ Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fi
 I’m interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
-Count: 38
+Count: 39
 
 - [x] F. Scott Fitzgerald _The Great Gatsby_ (1925)
 - [ ] Theodore Dreiser _An American Tragedy_ (1925)
@@ -87,7 +87,7 @@ Count: 38
 - [ ] Peter Taylor _A Summons to Memphis_ (1986)
 - [x] Alan Moore and Dave Gibbons _Watchmen_ (1986)
 - [x] Toni Morrison _Beloved_ (1987)
-- [ ] Octavia E. Butler _Dawn_ (1987)
+- [x] Octavia E. Butler _Dawn_ (1987)
 - [ ] Katherine Dunn _Geek Love_ (1989)
 - [ ] Maxine Hong Kingston _Tripmaster Monkey_ (1989)
 - [ ] Jessica Hagedorn _Dogeaters_ (1990)
