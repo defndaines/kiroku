@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Virgile | Zidrou | 2025 | Belgium | 4.0 | ebook | 104 | literary, slice of life |
 | The Prophet: A Graphic Novel Adaptation | Kahlil Gibran, A. David Lewis | 2023 | Lebanon, U.S. | 4.0 | ebook | 107 | literary, poetry, mysticism, 1923 |
 | Coral and the Devil | Homs | 2025 | Spain, Czechoslovakia | 4.0 | ebook | 110 | historical, horror, supernatural |
 | Red and the Wolves | Cherry Zong | 2026 | Canada | 4.5 | ebook | 363 | fantasy, horror, mystery, YA, retelling, LGBT |
