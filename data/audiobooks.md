@@ -524,7 +524,6 @@
 | A Farewell to Arms | Ernest Hemingway | 1929 | U.S., Italy, Switzerland | 293 | 08:35 | classics, historical, romance, war, Nobel Prize | 3.82 | 354605 | [10799](https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms) |
 | To the Lighthouse | Virginia Woolf | 1927 | U.K. | 209 | 07:39 | classics, literary, feminism | 3.81 | 215453 | [59716](https://www.goodreads.com/book/show/59716.To_the_Lighthouse) |
 | The Unbroken | C.L. Clark | 2021 | U.K. | 464 | 18:20 | fantasy, LGBT, romance, magic-of-the-lost-1, Literature-Science-Alliance-rec | 3.81 | 13677 | [54467051](https://www.goodreads.com/book/show/54467051-the-unbroken) |
-| Simple Sabotage Field Manual | U.S. Office of Strategic Services | 1944 | U.S. | 38 | 01:06 | nonfiction, history, politics, management, WWII | 3.81 | 900 | [18892268](https://www.goodreads.com/book/show/18892268-simple-sabotage-field-manual) |
 | Rednecks | Taylor Brown | 2024 | U.S. | 310 | 11:25 | historical, southern, Battle of Blair Mountain | 3.81 | 2987 | [195790759](https://www.goodreads.com/book/show/195790759-rednecks) |
 | In the Company of Men | Véronique Tadjo | 2017 | Côte d’Ivoire, France | 160 | 03:11 | literary, historical, Ebola | 3.81 | 910 | [55292538](https://www.goodreads.com/book/show/55292538-in-the-company-of-men) |
 | How High We Go in the Dark | Sequoia Nagamatsu | 2022 | U.S. | 293 | 09:21 | short stories, sci-fi, fantasy, speculative, dystopian | 3.81 | 70935 | [57850265](https://www.goodreads.com/book/show/57850265-how-high-we-go-in-the-dark) |
