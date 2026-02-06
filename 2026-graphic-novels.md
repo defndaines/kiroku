@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| My Words, A Long Way Off | Anaële Hermans | 2025 | Belgium | 5.0 | ebook | 112 | literary, slice of life |
 | Virgile | Zidrou | 2025 | Belgium | 4.0 | ebook | 104 | literary, slice of life |
 | The Prophet: A Graphic Novel Adaptation | Kahlil Gibran, A. David Lewis | 2023 | Lebanon, U.S. | 4.0 | ebook | 107 | literary, poetry, mysticism, 1923 |
 | Coral and the Devil | Homs | 2025 | Spain, Czechoslovakia | 4.0 | ebook | 110 | historical, horror, supernatural |
