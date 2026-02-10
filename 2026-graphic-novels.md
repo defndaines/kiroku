@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Magnificent Adventure: The Perils of Giuseppe Bergman, Book 1 | Milo Manara | 1979 | Italy | 2.5 | ebook | 110 | thriller, adventure |
 | My Words, A Long Way Off | Anaële Hermans | 2025 | Belgium | 5.0 | ebook | 112 | literary, slice of life |
 | Virgile | Zidrou | 2025 | Belgium | 3.5 | ebook | 104 | literary, slice of life |
 | The Prophet: A Graphic Novel Adaptation | Kahlil Gibran, A. David Lewis | 2023 | Lebanon, U.S. | 4.0 | ebook | 107 | literary, poetry, mysticism, 1923 |
