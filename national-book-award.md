@@ -10,9 +10,9 @@ I’m including the pre-1950 books only where I’ve read them.
 
 https://www.nationalbook.org/national-book-awards/
 
-Count: 21
+Count: 22
 
-## Fiction (9)
+## Fiction (10)
 
 - [x] 1938: Daphne Du Maurier _Rebecca_
 - [x] 1939: John Steinbeck _The Grapes of Wrath_
@@ -98,7 +98,7 @@ Count: 21
 - [ ] 2022: Tess Gunty _The Rabbit Hutch_
 - [ ] 2023: Justin Torres _Blackouts_
 - [x] 2024: Percival Everett _James_
-- [ ] 2025: Rabih Alameddine _The True True Story of Raja the Gullible (and His Mother)_
+- [x] 2025: Rabih Alameddine _The True True Story of Raja the Gullible (and His Mother)_
 <!-- Fiction -->
 
 ## Most Original Book (1)
