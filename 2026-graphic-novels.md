@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Alabaster: Wolves | Caitlín R. Kiernan | 2012 | Ireland | 3.0 | ebook | 134 | horror, fantasy, urban fantasy, werewolves, Bram Stoker Award |
 | Captive: Three Years at Belle-Île | Julien Hillion | 2025 | France | 4.0 | ebook | 127 | nonfiction, history, biography, slice of life |
 | The Magnificent Adventure: The Perils of Giuseppe Bergman, Book 1 | Milo Manara | 1979 | Italy | 2.5 | ebook | 110 | thriller, adventure |
 | My Words, A Long Way Off | Anaële Hermans | 2025 | Belgium | 5.0 | ebook | 112 | literary, slice of life |
