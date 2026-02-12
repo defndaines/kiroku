@@ -1,4 +1,4 @@
-# Octavia Butler
+# Octavia E. Butler
 
 I have a minor goal of reading all of Octavia Butler’s work.
 

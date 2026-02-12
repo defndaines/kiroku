@@ -25,7 +25,7 @@ cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md
 
 for author in author/*.md; do
   name=$(head -1 "${author}"| sed 's/# //')
-  count=$(grep -c "${name}|" 2026-reading.md)
+  count=$(grep -c "${name} |" 2026-reading.md)
   echo "${name}: ${count}"
 done
 
