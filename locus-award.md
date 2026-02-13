@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 39
+Count: 40
 
 ## Novel (4)
 
@@ -336,7 +336,7 @@ Count: 39
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (3)
+## Short Story (4)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -382,7 +382,7 @@ Count: 39
 - [ ] 2012: ~Neil Gaiman “The Case of Death and Honey”~
 - [ ] 2013: Aliette de Bodard “Immersion”
 - [ ] 2014: Caitlín R. Kiernan “The Road of Needles”
-- [ ] 2015: Amal El-Mohtar “The Truth About Owls”
+- [x] 2015: Amal El-Mohtar “The Truth About Owls”
 - [ ] 2016: Naomi Kritzer “Cat Pictures Please”
 - [ ] 2017: Amal El-Mohtar “Seasons of Glass and Iron”
 - [ ] 2018: Linda Nagata “The Martian Obelisk”

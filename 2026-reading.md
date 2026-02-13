@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Truth About Owls | Amal El-Mohtar | 2014 | Canada | 3.5 | ebook | 10 | short story, YA, Locus Award |
 | Adulthood Rites | Octavia E. Butler | 1988 | U.S. | 5.0 | audio | 277 | sci-fi, fantasy, speculative, dystopian, post-apocalyptic |
 | The True True Story of Raja the Gullible (and His Mother) | Rabih Alameddine | 2025 | Jordan | 4.5 | audio | 336 | literary, historical, LGBT, contemporary, queer, National Book Award |
 | The Son of Man | Jean-Baptiste Del Amo | 2021 | France | 4.5 | audio | 240 | literary, contemporary, dark |
