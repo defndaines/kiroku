@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Adulthood Rites | Octavia E. Butler | 1988 | U.S. | 5.0 | audio | 277 | sci-fi, fantasy, speculative, dystopian, post-apocalyptic |
 | The True True Story of Raja the Gullible (and His Mother) | Rabih Alameddine | 2025 | Jordan | 4.5 | audio | 336 | literary, historical, LGBT, contemporary, queer, National Book Award |
 | The Son of Man | Jean-Baptiste Del Amo | 2021 | France | 4.5 | audio | 240 | literary, contemporary, dark |
 | The Orchard Village Catalog | Parker Peevyhouse | 2025 | U.S. | 2.5 | audio | 8 | short story, sci-fi |

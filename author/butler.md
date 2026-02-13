@@ -11,7 +11,7 @@ I have a minor goal of reading all of Octavia Butler’s work.
 
 ## Xenogenesis, or Lilith’s Brood series:
 - [x] Dawn (1987)
-- [ ] Adulthood Rites (1988)
+- [x] Adulthood Rites (1988)
 - [ ] Imago (1989)
 
 ## Parable, or Earthseed series:
