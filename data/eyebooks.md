@@ -214,6 +214,7 @@
 | The Death of Comrade President | Alain Mabanckou | 2018 | Congo | 256 | historical, ebook, unread country | 3.57 | 602 | [53289667](https://www.goodreads.com/book/show/53289667-the-death-of-comrade-president) |
 | The Best of Michael Moorcock | Michael Moorcock | 2009 | U.K. | 403 | short stories, fantasy, sci-fi, [own] | 3.57 | 157 | [6234214](https://www.goodreads.com/book/show/6234214-the-best-of-michael-moorcock) |
 | What Is to Be Done? | Nikolai Chernyshevsky | 1863 | Russia | 445 | classics, historical, politics, ebook | 3.55 | 3239 | [178196](https://www.goodreads.com/book/show/178196.What_Is_to_Be_Done_) |
+| Utopia | Thomas More, George M. Logan (translator), Robert M. Adams (translator) | 1516 | England | 134 | classics, politics | 3.55 | 83571 | [716445](https://www.goodreads.com/book/show/716445.Utopia) |
 | Leiningen Versus the Ants | Carl Stephenson | 1938 | Austria | 16 | short stories, classics, adventure, ebook, [own] | 3.54 | 346 | [6413738](https://www.goodreads.com/book/show/6413738-leiningen-versus-the-ants) |
 | In the Café of Lost Youth | Patrick Modiano | 2007 | France | 153 | classics, literary, contemporary, ebook, Nobel Prize | 3.53 | 15004 | [31839659](https://www.goodreads.com/book/show/31839659-in-the-caf-of-lost-youth) |
 | Flood | S. Alexander Reed, Elizabeth Sandifer | 2013 | U.S. | 152 | nonfiction, essays, music, 33⅓-main-series-88, [own] | 3.53 | 296 | [17188264](https://www.goodreads.com/book/show/17188264-flood) |

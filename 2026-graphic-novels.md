@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Macanudo: Welcome to Elsewhere | Liniers | 2022 | Argentina | 4.5 | ebook | 171 | humor |
 | Love Bullet, Volume 1 | inee | 2024 | Japan | 4.5 | ebook | 196 | manga, fantasy, romance, LGBT, queer |
 | Alabaster: Wolves | Caitlín R. Kiernan | 2012 | Ireland | 3.0 | ebook | 134 | horror, fantasy, urban fantasy, werewolves, Bram Stoker Award |
 | Captive: Three Years at Belle-Île | Julien Hillion | 2025 | France | 4.0 | ebook | 127 | nonfiction, history, biography, slice of life |
