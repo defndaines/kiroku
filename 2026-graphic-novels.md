@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #12 | Chris Ryall, Fabian Nicieza, Patrick Zircher | 2026 | U.S., Argentina | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Macanudo: Optimism Is for the Brave | Liniers | 2023 | Argentina | 4.5 | ebook | 177 | humor |
 | Macanudo: Welcome to Elsewhere | Liniers | 2022 | Argentina | 4.5 | ebook | 171 | humor |
 | Love Bullet, Volume 1 | inee | 2024 | Japan | 4.5 | ebook | 196 | manga, fantasy, romance, LGBT, queer |
