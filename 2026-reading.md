@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Imago | Octavia E. Butler | 1989 | U.S. | 5.0 | audio | 220 | sci-fi, fantasy, speculative, dystopian, Black, post-apocalyptic |
 | The Truth About Owls | Amal El-Mohtar | 2014 | Canada | 3.5 | ebook | 10 | short story, YA, Locus Award |
 | Adulthood Rites | Octavia E. Butler | 1988 | U.S. | 5.0 | audio | 277 | sci-fi, fantasy, speculative, dystopian, post-apocalyptic |
 | The True True Story of Raja the Gullible (and His Mother) | Rabih Alameddine | 2025 | Jordan | 4.5 | audio | 336 | literary, historical, LGBT, contemporary, queer, National Book Award |
