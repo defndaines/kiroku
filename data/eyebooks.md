@@ -238,4 +238,4 @@
 | The Interrogation | J.M.G. Le Clézio | 1963 | France, Mauritius | 243 | classics, ebook, Nobel Prize | 3.26 | 1137 | [6364727](https://www.goodreads.com/book/show/6364727-the-interrogation) |
 | On a Woman’s Madness | Astrid H. Roemer | 1982 | Suriname | 265 | classics, literary, LGBT, queer, race, ebook, unread country | 3.23 | 740 | [61244744](https://www.goodreads.com/book/show/61244744-on-a-woman-s-madness) |
 | The Night Will Have Its Say | Ibrahim al-Koni | 2022 | Libya | 248 | historical, ebook, [hoopla](https://www.hoopladigital.com/title/15264039), unread country | 3.18 | 51 | [58932087](https://www.goodreads.com/book/show/58932087-the-night-will-have-its-say) |
-| Cannibals | Shin’ya Tanaka | 2011 | Japan | 70 | novella, literary, horror, ebook | 2.91 | 302 | [202935525](https://www.goodreads.com/book/show/202935525-cannibals) |
+| Cannibals | Shin’ya Tanaka | 2011 | Japan | 70 | novella, literary, horror, ebook, Willow-rec | 2.91 | 302 | [202935525](https://www.goodreads.com/book/show/202935525-cannibals) |
