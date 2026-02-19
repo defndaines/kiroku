@@ -159,6 +159,7 @@
 | The Blacktongue Thief | Christopher Buehlman | 2021 | U.S. | 416 | 12:45 | fantasy, horror, adventure, blacktongue-1, Willow-rec | 4.19 | 44943 | [55077697](https://www.goodreads.com/book/show/55077697-the-blacktongue-thief) |
 | Paladin of Souls | Lois McMaster Bujold | 2003 | U.S. | 470 | 16:18 | fantasy, romance, Hugo Award, Locus Award, Nebula Award, world-of-the-five-gods-2, Literature-Science-Alliance-rec | 4.19 | 27250 | [61904](https://www.goodreads.com/book/show/61904.Paladin_of_Souls) |
 | Mind of My Mind | Octavia E. Butler | 1977 | U.S. | 226 | 08:23 | sci-fi, fantasy, speculative, patternist-2 | 4.19 | 15833 | [116254](https://www.goodreads.com/book/show/116254.Mind_of_My_Mind) |
+| Mind of My Mind | Octavia E. Butler | 1977 | U.S. | 226 | 08:23 | sci-fi, fantasy, speculative, Black, feminism, patternist-2 | 4.19 | 15851 | [116254](https://www.goodreads.com/book/show/116254.Mind_of_My_Mind) |
 | Chevengur | Andrei Platonov | 1928 | Russia | 333 | 19:34 | classics, literary, dystopian, [hoopla](https://www.hoopladigital.com/audiobook/chevengur-andrey-platonov/17701292) | 4.19 | 1747 | [800586](https://www.goodreads.com/book/show/800586.Chevengur) |
 | Assassin’s Apprentice | Robin Hobb | 1995 | U.S. | 435 | 17:19 | fantasy, the-farseer-trilogy-1 | 4.19 | 404919 | [77197](https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice) |
 | A River Runs Through It and Other Stories | Norman Maclean | 1976 | U.S. | 217 | 08:02 | short stories, classics, historical, nature, [own] | 4.19 | 30633 | [30043](https://www.goodreads.com/book/show/30043.A_River_Runs_Through_It_and_Other_Stories) |
@@ -697,3 +698,4 @@
 | I’m a Fan | Sheena Patel | 2022 | U.K. | 207 | 04:31 | literary, contemporary, romance, feminism, Katerina-Reem-rec | 3.23 | 32709 | [60151826](https://www.goodreads.com/book/show/60151826-i-m-a-fan) |
 | Everfair | Nisi Shawl | 2016 | U.S. | 381 | 12:44 | sci-fi, fantasy, historical, steampunk, alternate history, everfair-1, Jemisin-rec | 3.19 | 2966 | [26114130](https://www.goodreads.com/book/show/26114130-everfair) |
 | City of Ash and Red | Hye-Young Pyun | 2010 | South Korea | 256 | 05:46 | sci-fi, thriller, horror, dystopian | 3.13 | 1394 | [39331853](https://www.goodreads.com/book/show/39331853-city-of-ash-and-red) |
+

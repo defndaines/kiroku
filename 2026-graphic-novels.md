@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Scarecrow | Philippe Pelaez | 2025 | France | 4.0 | ebook | 167 | horror, mystery, fantasy |
 | The Savage Sword of Conan #12 | Chris Ryall, Fabian Nicieza, Patrick Zircher | 2026 | U.S., Argentina | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Macanudo: Optimism Is for the Brave | Liniers | 2023 | Argentina | 4.5 | ebook | 177 | humor |
 | Macanudo: Welcome to Elsewhere | Liniers | 2022 | Argentina | 4.5 | ebook | 171 | humor |
