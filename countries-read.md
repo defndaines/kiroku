@@ -229,7 +229,7 @@ Count: 102
 - [ ] Micronesia:
 - [x] Antigua and Barbuda: [_A Small Place_](https://www.goodreads.com/book/show/69711.A_Small_Place) Jamaica Kincaid
 - [ ] Seychelles:
-- [ ] Tonga:
+- [ ] Tonga: Epeli Hauʻofa ?
 - [ ] Andorra:
 - [ ] Dominica:
 - [ ] South Ossetia:
