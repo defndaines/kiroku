@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Kampung Boy | Lat | 1979 | Malaysia | 4.0 | print | 142 | historical, memoir, coming of age |
 | Queen Kodiak | Christopher Greenslate | 2026 | U.S. | 4.0 | print | 168 | fantasy, contemporary |
 | Return to Eden | Paco Roca | 2020 | Spain | 4.5 | ebook | 176 | nonfiction, history, biography |
 | Scarecrow | Philippe Pelaez | 2025 | France | 4.0 | ebook | 167 | horror, mystery, fantasy |
