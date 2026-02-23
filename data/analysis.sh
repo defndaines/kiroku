@@ -31,9 +31,9 @@ done
 
 ## Publication Year
 
-### Books older than 10 year
+### Books older than ~10 year
 
-tail -n +8 2026-reading.md| cut -d \| -f 4| sort| sed -n '1,/2016/p'| wc -l
+tail -n +8 2026-reading.md| cut -d \| -f 4| sort| sed -n '1,/^ 2014/p'| wc -l
 
 ### Books from last year (roughly)
 

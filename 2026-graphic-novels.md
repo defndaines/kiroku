@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Pocket Full of Rain and Other Stories | Jason | 1996 | Norway | 3.0 | ebook | 214 | humor |
 | Kampung Boy | Lat | 1979 | Malaysia | 4.0 | print | 142 | historical, memoir, coming of age |
 | Queen Kodiak | Christopher Greenslate | 2026 | U.S. | 4.0 | print | 168 | fantasy, contemporary |
 | Return to Eden | Paco Roca | 2020 | Spain | 4.5 | ebook | 176 | nonfiction, history, biography |
