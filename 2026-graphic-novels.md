@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Buff Soul | Moa Romanova | 2021 | Sweden | 3.5 | ebook | 231 | nonfiction, memoir, music, mental health, drugs |
 | And to Think We Started as a Book Club... | Tom Toro | 2025 | U.S. | 4.0 | ebook | 201 | humor |
 | Pocket Full of Rain and Other Stories | Jason | 1996 | Norway | 3.0 | ebook | 214 | humor |
 | Kampung Boy | Lat | 1979 | Malaysia | 4.0 | print | 142 | historical, memoir, coming of age |
