@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Sympathy for the Devil | Kent Anderson | 1987 | U.S. | 4.5 | audio | 399 | historical, mystery, thriller, war, noir |
 | The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces | Seth Harp | 2025 | U.S. | 4.5 | audio | 357 | nonfiction, history, crime, politics, war |
 | Never Eaten Vegetables | H.H. Pak | 2025 | U.S. | 4.0 | ebook | 33 | novelette, sci-fi |
 | A Forbidden Alchemy | Stacey McEwan | 2025 | Australia | 3.5 | audio | 480 | fantasy, romantasy, enemies to lovers, slow burn |
