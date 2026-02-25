@@ -38,7 +38,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [x] “Vaster than Empires and More Slow” (Novella, 1971)
 - [x] “The Word for World Is Forest” (Novella, 1972) [Hugo Award]
 - [x] The Dispossessed (1974) [Hugo Award, Nebula Award, Prometheus Hall of Fame Award, Locus Award, Jupiter Award]
-- [ ] “The Day Before the Revolution” (Short story, Aug 1974) [Nebula Award, Locus Award]
+- [x] “The Day Before the Revolution” (Short story, Aug 1974) [Nebula Award, Locus Award]
 - [ ] “The Shobies’ Story” (Short story, 1990)
 - [ ] “Dancing to Ganam” (Short story, Sept 1993)
 - [x] “The Matter of Seggri” (Novella, Spring 1994)

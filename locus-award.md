@@ -336,13 +336,13 @@ Count: 40
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (4)
+## Short Story (5)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
 - [ ] 1973: ~Harlan Ellison “Basilisk”~
 - [ ] 1974: ~Harlan Ellison “The Deathbird”~
-- [ ] 1975: Ursula K. Le Guin “The Day Before the Revolution”
+- [x] 1975: Ursula K. Le Guin “The Day Before the Revolution”
 - [ ] 1976: ~Harlan Ellison “Croatoan”~
 - [ ] 1977: Joe Haldeman “Tricentennial”
 - [ ] 1978: ~Harlan Ellison “Jeffty Is Five”~

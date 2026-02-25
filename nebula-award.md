@@ -209,7 +209,7 @@ Count: 38
 - [x] 2024: A. W. Prihandita “Negative Scholarship on the Fifth State of Being”
 <!-- Novelette -->
 
-## Short Story (5)
+## Short Story (6)
 
 - [x] 1965: Harlan Ellison “‘Repent, Harlequin!’ Said the Ticktockman”
 - [ ] 1966: Richard McKenna “The Secret Place”
@@ -219,7 +219,7 @@ Count: 38
 - [ ] 1971: Robert Silverberg “Good News from the Vatican”
 - [ ] 1972: Joanna Russ “When It Changed”
 - [ ] 1973: James Tiptree, Jr. “Love Is the Plan the Plan Is Death”
-- [ ] 1974: Ursula K. Le Guin “The Day Before the Revolution”
+- [x] 1974: Ursula K. Le Guin “The Day Before the Revolution”
 - [ ] 1975: Fritz Leiber “Catch That Zeppelin!”
 - [ ] 1976: Charles L. Grant “A Crowd of Shadows”
 - [ ] 1977: ~Harlan Ellison “Jeffty Is Five”~
