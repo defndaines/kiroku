@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Sur | Ursula K. Le Guin | 1982 | U.S., Antarctica | 5.0 | print | 17 | short story, adventure, feminism |
 | The Day Before the Revolution | Ursula K. Le Guin | 1974 | U.S. | 4.0 | print | 20 | short story, classics, sci-fi, fantasy, speculative, politics, utopia, Nebula Award, Locus Award |
 | Sympathy for the Devil | Kent Anderson | 1987 | U.S. | 4.5 | audio | 399 | historical, mystery, thriller, war, noir |
 | The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces | Seth Harp | 2025 | U.S. | 4.5 | audio | 357 | nonfiction, history, crime, politics, war |

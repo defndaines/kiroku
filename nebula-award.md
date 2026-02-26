@@ -13,7 +13,7 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 38
+Count: 39
 
 ## Novel (18)
 

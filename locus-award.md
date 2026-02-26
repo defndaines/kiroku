@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 40
+Count: 42
 
 ## Novel (4)
 
@@ -336,7 +336,7 @@ Count: 40
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (5)
+## Short Story (6)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -350,7 +350,7 @@ Count: 40
 - [ ] 1980: George R. R. Martin “The Way of Cross and Dragon”
 - [ ] 1981: Clifford D. Simak “Grotto of the Dancing Deer”
 - [ ] 1982: John Varley “The Pusher”
-- [ ] 1983: Ursula K. Le Guin “Sur”
+- [x] 1983: Ursula K. Le Guin “Sur”
 - [ ] 1984: James Tiptree, Jr. “Beyond the Dead Reef”
 - [ ] 1985: Lucius Shepard “Salvador”
 - [ ] 1986: ~Harlan Ellison “With Virgil Oddum at the East Pole”~

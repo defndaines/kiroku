@@ -114,7 +114,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] “The Wife’s Story” (Short story, 1982)
 - [ ] The Compass Rose (Collection, 1982) [Locus Award]
 - [ ] The Adventure of Cobbler’s Rune (Children’s book, 1982)
-- [ ] “Sur” (Short story, Feb 1982) [Locus]
+- [x] “Sur” (Short story, Feb 1982) [Locus]
 - [ ] “The Spoons in the Basement” (Short story, Aug 1982)
 - [ ] “The Professor’s Houses” (Short story, Nov 1982)
 - [ ] “May’s Lion” (Short story, 1983)
