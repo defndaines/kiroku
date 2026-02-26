@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Scenes from Awajima, Volume 1 | Takako Shimura | 2015 | Japan | 3.5 | ebook | 156 | manga, romance, slice of life, school life |
 | Mothballs | Sole Otero | 2020 | Argentina | 4.5 | ebook | 334 | historical |
 | Buff Soul | Moa Romanova | 2021 | Sweden | 3.5 | ebook | 231 | nonfiction, memoir, music, mental health, drugs |
 | And to Think We Started as a Book Club... | Tom Toro | 2025 | U.S. | 4.0 | ebook | 201 | humor |
