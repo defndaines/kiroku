@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Tender | Beth Hetland | 2024 | U.S. | 3.0 | ebook | 157 | horror, thriller, mental health |
 | Nocturnos | Laura Pérez | 2019 | Spain | 3.0 | ebook | 189 | fantasy, mystery, magical realism |
 | Scenes from Awajima, Volume 1 | Takako Shimura | 2015 | Japan | 3.5 | ebook | 156 | manga, romance, slice of life, school life |
 | Mothballs | Sole Otero | 2020 | Argentina | 4.5 | ebook | 334 | historical |
