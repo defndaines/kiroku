@@ -336,7 +336,7 @@ Count: 42
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (6)
+## Short Story (7)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -354,7 +354,7 @@ Count: 42
 - [ ] 1984: James Tiptree, Jr. “Beyond the Dead Reef”
 - [ ] 1985: Lucius Shepard “Salvador”
 - [ ] 1986: ~Harlan Ellison “With Virgil Oddum at the East Pole”~
-- [ ] 1987: Isaac Asimov “Robot Dreams”
+- [x] 1987: Isaac Asimov “Robot Dreams”
 - [ ] 1988: Pat Cadigan “Angel”
 - [ ] 1989: ~Harlan Ellison “Eidolons”~
 - [ ] 1990: Orson Scott Card “Lost Boys”
