@@ -25,6 +25,7 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] The Other Wind (2001) [World Fantasy Award]
 - [x] “The Finder” (Novella, 2001)
 - [x] “On the High Marsh” (Novella, 2001)
+- [x] “The Bones of the Earth” (Short story, 2001) [Locus Award]
 - [ ] “The Daughter of Odren” (Short story, Sept 2014)
 - [ ] “Firelight” (Short story, Summer 2018)
 

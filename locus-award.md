@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 42
+Count: 44
 
 ## Novel (4)
 
@@ -336,7 +336,7 @@ Count: 42
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (7)
+## Short Story (8)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -369,7 +369,7 @@ Count: 42
 - [ ] 1999: Bruce Sterling “Maneki Neko”
 - [ ] 2000: Terry Bisson “macs”
 - [ ] 2001: Larry Niven “The Missing Mass”
-- [ ] 2002: Ursula K. Le Guin “The Bones of the Earth”
+- [x] 2002: Ursula K. Le Guin “The Bones of the Earth”
 - [ ] 2003: ~Neil Gaiman “October in the Chair”~
 - [ ] 2004: ~Neil Gaiman “Closing Time”~
 - [ ] 2005: ~Neil Gaiman “Forbidden Brides of the Faceless Slaves in the Nameless House of the Night of Dread Desire”~
