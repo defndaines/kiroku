@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Red City | Marie Lu | 2025 | China, U.S. | 4.0 | audio | 420 | urban fantasy, romance |
 | Robot Dreams | Isaac Asimov | 1987 | Russian SFSR, U.S. | 4.5 | print | 5 | short story, sci-fi |
 | Sur | Ursula K. Le Guin | 1982 | U.S., Antarctica | 5.0 | print | 17 | short story, adventure, feminism |
 | The Day Before the Revolution | Ursula K. Le Guin | 1974 | U.S. | 4.0 | print | 20 | short story, classics, sci-fi, fantasy, speculative, politics, utopia, Nebula Award, Locus Award |
