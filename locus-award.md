@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 44
+Count: 45
 
 ## Novel (4)
 
@@ -336,7 +336,7 @@ Count: 44
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (8)
+## Short Story (9)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -375,7 +375,7 @@ Count: 44
 - [ ] 2005: ~Neil Gaiman “Forbidden Brides of the Faceless Slaves in the Nameless House of the Night of Dread Desire”~
 - [ ] 2006: ~Neil Gaiman “Sunbird”~
 - [ ] 2007: ~Neil Gaiman “How to Talk to Girls at Parties”~
-- [ ] 2008: Michael Swanwick “A Small Room in Koboldtown”
+- [x] 2008: Michael Swanwick “A Small Room in Koboldtown”
 - [ ] 2009: Ted Chiang “Exhalation”
 - [ ] 2010: ~Neil Gaiman “An Invocation of Incuriosity”~
 - [ ] 2011: ~Neil Gaiman “The Thing About Cassandra”~
