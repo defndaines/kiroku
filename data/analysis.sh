@@ -165,11 +165,11 @@ grep -F -v -f <(grep -l `date +%Y` *.md) <(ls *{award,medal,prize}*.md)
 
 ## Hugo Books (i.e., skip movies and series watched)
 
-sed -n '1,/## Dramatic/p' hugo-award.md| grep -c '\[x\]'
+grep "^Count" hugo-award.md && sed -n '1,/## Dramatic/p' hugo-award.md| grep -c '\[x\]'
 
 ## Nebula Books (i.e., skip movies and series watched)
 
-sed -n '1,/## Ray Bradbury Award/p' nebula-award.md| grep -c '\[x\]'
+grep "^Count" nebula-award.md && sed -n '1,/## Ray Bradbury Award/p' nebula-award.md| grep -c '\[x\]'
 
 ## Other awards (for loop audits)
 

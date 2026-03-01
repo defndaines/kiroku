@@ -10,7 +10,7 @@ November.
 
 https://worldfantasy.org/
 
-Count: 7
+Count: 8
 
 ## Novel (6)
 
@@ -120,9 +120,9 @@ Count: 7
 - [ ] 2025: R.B. Lemberg _Yoke of Stars_
 <!-- Novella -->
 
-## Short Fiction (1)
+## Short Fiction (2)
 
-- [ ] 1975: Robert Aickman “Pages From a Young Girl’s Journal”
+- [x] 1975: Robert Aickman “Pages from a Young Girl’s Journal”
 - [ ] 1976: Fritz Leiber “Belsen Express”
 - [ ] 1977: Russell Kirk “There’s a Long Long Trail A-Winding”
 - [ ] 1978: Ramsey Campbell “The Chimney”
