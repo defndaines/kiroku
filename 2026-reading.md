@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Autobiography of Cotton | Cristina Rivera Garza | 2020 | Mexico | 4.5 | audio | 272 | literary, historical |
 | A Small Room in Koboldtown | Michael Swanwick | 2007 | U.S. | 4.5 | print | 23 | short story, fantasy, mystery, noir, Locus Award |
 | The Bones of the Earth | Ursula K. Le Guin | 2001 | U.S. | 4.5 | print | 13 | short story, fantasy, Locus Award |
 | Red City | Marie Lu | 2025 | China, U.S. | 4.0 | audio | 420 | urban fantasy, romance |
