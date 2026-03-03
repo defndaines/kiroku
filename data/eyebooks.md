@@ -188,7 +188,7 @@
 | He Died With His Eyes Open | Derek Raymond | 1984 | U.K. | 224 | thriller, mystery, crime, noir, ebook, factory-series-1 | 3.73 | 2604 | [209896](https://www.goodreads.com/book/show/209896.He_Died_With_His_Eyes_Open) |
 | Jimmie Higgins | Upton Sinclair | 1920 | U.S. | 280 | classics, politics, ebook, [own] | 3.72 | 46 | [5897237](https://www.goodreads.com/book/show/5897237-jimmie-higgins) |
 | Children of the New World | Assia Djebar | 1962 | Algeria | 233 | historical, feminism, ebook, unread country | 3.71 | 543 | [720926](https://www.goodreads.com/book/show/720926.Children_of_the_New_World) |
-| Doggerland | Ben Smith | 2019 | U.K. | 248 | sci-fi, dystopian, contemporary, speculative, climate change, post-apocalyptic, Bookpilled-rec | 3.70 | 1507 | [42363317](https://www.goodreads.com/book/show/42363317-doggerland) |
+| Doggerland | Ben Smith | 2019 | U.K. | 248 | sci-fi, dystopian, contemporary, speculative, climate change, post-apocalyptic, Bookpilled-rec, [own] | 3.70 | 1507 | [42363317](https://www.goodreads.com/book/show/42363317-doggerland) |
 | The Seattle General Strike | Robert L. Friedheim | 1964 | U.S. | 296 | nonfiction, history, politics, [own] | 3.69 | 16 | [39871894](https://www.goodreads.com/book/show/39871894-the-seattle-general-strike) |
 | The Best of Judith Merril | Judith Merril | 1976 | U.S. | 254 | short stories, sci-fi | 3.69 | 32 | [587609](https://www.goodreads.com/book/show/587609.The_Best_of_Judith_Merril) |
 | We Computers: A Ghazal Novel | Hamid Ismailov | 2025 | Kyrgyzstan, Uzbekistan | 296 | literary, technology, ebook | 3.68 | 137 | [220804608](https://www.goodreads.com/book/show/220804608-we-computers) |

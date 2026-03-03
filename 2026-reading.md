@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Wire Mother | Isabel J. Kim | 2025 | U.S. | 5.0 | ebook | 13 | short story, sci-fi, horror |
 | Things You Learn as a Werewolf (That Will Come in Handy Later) | Morgan Wilson | 2025 | U.K. | 5.0 | ebook | 4 | short story, fantasy, supernatural, werewolves |
 | Pages from a Young Girl’s Journal | Robert Aickman | 1975 | U.K., Italy | 3.5 | print | 27 | fantasy, supernatural, World Fantasy Award |
 | Autobiography of Cotton | Cristina Rivera Garza | 2020 | Mexico | 4.5 | audio | 272 | literary, historical |
