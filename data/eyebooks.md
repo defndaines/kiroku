@@ -67,6 +67,7 @@
 | Lore Isle | Jiin Kim | 2023 | Canada | 304 | fantasy, YA, [own] | 4.16 | 25 | [67956322](https://www.goodreads.com/book/show/67956322-lore-isle) |
 | Dark Matter: A Century of Speculative Fiction from the African Diaspora | Sheree Renée Thomas, W.E.B. Du Bois, Kalamu ya Salaam | 2000 | U.S. | 427 | short stories, sci-fi, fantasy, speculative, Black, race, [own] | 4.16 | 1453 | [510342](https://www.goodreads.com/book/show/510342.Dark_Matter) |
 | Accidental Death of an Anarchist | Dario Fo | 1970 | Italy | 176 | play, classics | 4.16 | 6301 | [72957](https://www.goodreads.com/book/show/72957.Accidental_Death_of_an_Anarchist) |
+| Walking With The Comrades | Arundhati Roy | 2010 | India | 130 | nonfiction, essays, history, memoir, politics, journalism, ebook | 4.15 | 2140 | [11420104](https://www.goodreads.com/book/show/11420104-walking-with-the-comrades) |
 | Emplumada | Lorna Dee Cervantes | 1981 | U.S. | 80 | nonfiction, poetry, indigenous, [own] | 4.15 | 309 | [531514](https://www.goodreads.com/book/show/531514.Emplumada) |
 | The Exploits of Engelbrecht: Abstracted from the Chronicles of the Surrealist Sportsman’s Club | Maurice Richardson | 1950 | U.K. | 208 | short stories, fantasy | 4.14 | 86 | [1681402](https://www.goodreads.com/book/show/1681402.The_Exploits_of_Engelbrecht) |
 | Structures: Or Why Things Don’t Fall Down | J.E. Gordon | 1978 | U.K. | 395 | nonfiction, architecture, technology, physics, science, ebook | 4.13 | 3713 | [245344](https://www.goodreads.com/book/show/245344.Structures) |
