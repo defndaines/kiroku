@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| YON 1 | Camille Broutin | 2025 | U.S., France | 3.5 | ebook | 191 | fantasy, horror, dystopian, manga, YA | 4.24 | 224 | [221835715](https://www.goodreads.com/book/show/221835715-yon---tome-1) |
 | The Past Is a Grotesque Animal | Tommi Parrish | 2025 | Australia | 3.5 | ebook | 206 | short stories, memoir, slice of life, LGBT |
 | After the Storm | Jean Cremers | 2025 | Belgium | 3.5 | ebook | 186 | literary, slice of life, abuse |
 | Tender | Beth Hetland | 2024 | U.S. | 3.0 | ebook | 157 | horror, thriller, mental health |
