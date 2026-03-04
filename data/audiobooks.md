@@ -454,6 +454,7 @@
 | The Brief Wondrous Life of Oscar Wao | Junot Díaz | 2007 | Dominican Republic, U.S. | 335 | 16:00 | literary, historical, magical realism, contemporary, humor, Pulitzer Prize, National Book Critics Circle Award | 3.89 | 279493 | [297673](https://www.goodreads.com/book/show/297673.The_Brief_Wondrous_Life_of_Oscar_Wao) |
 | Stone Mattress: Nine Tales | Margaret Atwood | 2014 | Canada | 273 | 10:02 | short stories, literary, fantasy, [own] | 3.89 | 26805 | [22642472](https://www.goodreads.com/book/show/22642472-stone-mattress) |
 | Lord Valentine’s Castle | Robert Silverberg | 1980 | U.S. | 506 | 19:32 | classics, fantasy, sci-fi, speculative, [own] | 3.89 | 10039 | [252838](https://www.goodreads.com/book/show/252838.Lord_Valentine_s_Castle) |
+| Everything Is Fine Here | Iryn Tushabe | 2025 | Uganda | 328 | 08:20 | literary, LGBT, contemporary, queer, uganda, unread country, [hoopla](https://www.hoopladigital.com/title/18434268) | 3.89 | 306 | [210367345](https://www.goodreads.com/book/show/210367345-everything-is-fine-here) |
 | A Rage in Harlem | Chester Himes | 1957 | U.S. | 151 | 05:26 | classics, mystery, noir, crime, Black, harlem-cycle-1, [Audible](https://www.audible.com/pd/A-Rage-in-Harlem-Audiobook/B007BR5KB4) | 3.89 | 7691 | [565816](https://www.goodreads.com/book/show/565816.A_Rage_in_Harlem) |
 | A Grain of Wheat | Ngũgĩ wa Thiong’o | 1967 | Kenya | 247 | 10:54 | classics, historical | 3.89 | 6918 | [836746](https://www.goodreads.com/book/show/836746.A_Grain_of_Wheat) |
 | A Brief History of Seven Killings | Marlon James | 2014 | Jamaica | 688 | 26:00 | literary, historical, mystery, crime, Booker Prize | 3.89 | 38265 | [20893314](https://www.goodreads.com/book/show/20893314-a-brief-history-of-seven-killings) |
@@ -549,6 +550,7 @@
 | Stone Blind | Natalie Haynes | 2022 | U.K. | 373 | 08:40 | historical, fantasy, mythology, retelling, Willow-rec | 3.78 | 78549 | [61102615](https://www.goodreads.com/book/show/61102615-stone-blind) |
 | Shutter | Ramona Emerson | 2022 | U.S., Diné Bikéyah | 296 | 08:53 | mystery, horror, thriller, paranormal, crime, Native American, indigenous, rita-todacheene-1, coworker-rec | 3.78 | 18031 | [59419625](https://www.goodreads.com/book/show/59419625-shutter) |
 | Roseanna | Maj Sjöwall, Per Wahlöö | 1965 | Sweden | 224 | 06:36 | mystery, thriller, crime, detective, martin-beck-1 | 3.78 | 18980 | [595538](https://www.goodreads.com/book/show/595538.Roseanna) |
+| Promises | Goretti Kyomuhendo | 2025 | Uganda | 296 | 10:52 | literary, unread country, [hoopla](https://www.hoopladigital.com/title/18255995) | 3.78 | 27 | [216807139](https://www.goodreads.com/book/show/216807139-promises) |
 | Long Division | Kiese Laymon | 2013 | U.S. | 276 | 07:42 | sci-fi, fantasy, magical realism, time travel, YA | 3.78 | 8573 | [16129174](https://www.goodreads.com/book/show/16129174-long-division) |
 | History of Violence | Édouard Louis | 2016 | France | 208 | 05:01 | nonfiction, memoir, LGBT, contemporary, queer | 3.78 | 12003 | [36347955](https://www.goodreads.com/book/show/36347955-history-of-violence) |
 | Heaven | Mieko Kawakami | 2009 | Japan | 192 | 06:22 | literary, contemporary, coming of age | 3.78 | 90269 | [53223710](https://www.goodreads.com/book/show/53223710-heaven) |
@@ -597,6 +599,7 @@
 | Strike the Zither | Joan He | 2022 | U.S. | 368 | 10:33 | historical, fantasy, YA, retelling, 414 China, kingdom-of-three-1 | 3.70 | 5513 | [59440716](https://www.goodreads.com/book/show/59440716-strike-the-zither) |
 | Riot Baby | Tochi Onyebuchi | 2020 | U.S. | 167 | 03:46 | novella, sci-fi, fantasy, dystopian, Ignyte Award, Alex Award | 3.70 | 12093 | [43719523](https://www.goodreads.com/book/show/43719523-riot-baby) |
 | Paper Towns | John Green | 2008 | U.S. | 305 | 08:01 | mystery, YA, contemporary, romance, coming of age | 3.70 | 1497129 | [6442769](https://www.goodreads.com/book/show/6442769-paper-towns) |
+| Otherworldly | Dwain Worrell | 2026 | Barbados | 290 | 10:48 | sci-fi, horror | 3.70 | 731 | [230794514](https://www.goodreads.com/book/show/230794514-otherworldly) |
 | Ink and Ashes | Valynne E. Maetani | 2015 | U.S. | 386 | 12:53 | mystery, thriller, YA, contemporary, romance, [own] | 3.70 | 1691 | [23009011](https://www.goodreads.com/book/show/23009011-ink-and-ashes) |
 | I’m Waiting for You and Other Stories | Kim Bo-young | 2021 | South Korea | 321 | 10:00 | short stories, sci-fi, fantasy, speculative, romance, Kalin-rec | 3.70 | 2285 | [54427135](https://www.goodreads.com/book/show/54427135-i-m-waiting-for-you-and-other-stories) |
 | Concerning My Daughter | Hye-Jin Kim | 2017 | South Korea | 176 | 04:18 | literary, LGBT, contemporary, queer | 3.70 | 12223 | [59703696](https://www.goodreads.com/book/show/59703696-concerning-my-daughter) |

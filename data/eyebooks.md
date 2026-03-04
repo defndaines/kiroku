@@ -1,5 +1,6 @@
 | title | author | year | country | pages | tags | rating | # ratings | goodreads |
 | --- | --- | :---: | --- | ---: | --- | :---: | ---: | --- |
+| Layaway Child: Stories | Chanel Sutherland | 2026 | Saint Vincent and the Grenadines, Canada | 296 | short stories, unread country | 5.00 | 1 | [238612300](https://www.goodreads.com/book/show/238612300-layaway-child) |
 | Ka’m-t’em: A Journey Toward Healing | Kishan Lara-Cooper, Walter J. Lara Sr. | 2019 | U.S., Yurok | 356 | nonfiction, essays, religion, sociology, [own] | 4.68 | 19 | [46120799](https://www.goodreads.com/book/show/46120799-ka-m-t-em) |
 | Reading Blue Devils: A Novel | Jon Bennett | 2018 | U.S. | 296 | contemporary, high school, Ohio | 4.63 | 8 | [36501912](https://www.goodreads.com/book/show/36501912-reading-blue-devils) |
 | This Bell Still Rings: My Life of Defiance and Song | Barbara Dane | 2022 | U.S. | 488 | nonfiction, memoir, music, ebook | 4.60 | 5 | [60199572](https://www.goodreads.com/book/show/60199572-this-bell-still-rings) |
@@ -111,6 +112,7 @@
 | Binti: The Complete Trilogy | Nnedi Okorafor | 2015 | U.S. | 368 | novella, short stories, fantasy, sci-fi, YA, Hugo Award, partial reread, [own] | 4.02 | 7100 | [48637511](https://www.goodreads.com/book/show/48637511-binti) |
 | The Violent Land | Jorge Amado | 1943 | Brazil | 276 | classics, historical, magical realism, romance, ebook | 4.01 | 1465 | [214840](https://www.goodreads.com/book/show/214840.The_Violent_Land) |
 | The Old Garden | Hwang Sok-yong | 2000 | South Korea | 480 | historical, ebook | 4.01 | 335 | [2525119](https://www.goodreads.com/book/show/2525119.The_Old_Garden) |
+| The Luminous Fairies and Mothra | Shin'ichirō Nakamura, Takehiko Fukunaga, Yoshie Hotta | 1961 | Japan | 120 | novella, classics, fantasy, sci-fi, paranormal | 4.01 | 175 | [233158515](https://www.goodreads.com/book/show/233158515-the-luminous-fairies-and-mothra) |
 | The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone | Sophocles | 451 BCE | Attica, Athens | 259 | play, poetry, classics, mythology, [own] | 4.00 | 71070 | [1540](https://www.goodreads.com/book/show/1540.The_Oedipus_Cycle) |
 | The Best of Roger Zelazny | Roger Zelazny | 2023 | U.S. | 483 | short stories, sci-fi, fantasy, [own] | 4.00 | 82 | [62125571](https://www.goodreads.com/book/show/62125571-the-best-of-roger-zelazny) |
 | James P. Cannon and the Emergence of Trotskyism in the United States, 1928-38 | Bryan D. Palmer | 2021 | U.S. | 1208 | nonfiction, history, biography, politics, labor, [own] | 4.00 | 6 | [61991086](https://www.goodreads.com/book/show/61991086-james-p-cannon-and-the-emergence-of-trotskyism-in-the-united-states-19) |

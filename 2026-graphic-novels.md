@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Past Is a Grotesque Animal | Tommi Parrish | 2025 | Australia | 3.5 | ebook | 206 | short stories, memoir, slice of life, LGBT |
 | After the Storm | Jean Cremers | 2025 | Belgium | 3.5 | ebook | 186 | literary, slice of life, abuse |
 | Tender | Beth Hetland | 2024 | U.S. | 3.0 | ebook | 157 | horror, thriller, mental health |
 | Nocturnos | Laura Pérez | 2019 | Spain | 3.0 | ebook | 189 | fantasy, mystery, magical realism |
