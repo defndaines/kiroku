@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Abolish Rent: How Tenants Can End the Housing Crisis | Tracy Rosenthal, Leonardo Vilchis | 2024 | U.S. | 5.0 | print | 148 | nonfiction, history, politics, economics, social justice | 4.42 | 513 | [205900042](https://www.goodreads.com/book/show/205900042-abolish-rent) |
 | Wire Mother | Isabel J. Kim | 2025 | U.S. | 5.0 | ebook | 13 | short story, sci-fi, horror |
 | Things You Learn as a Werewolf (That Will Come in Handy Later) | Morgan Wilson | 2025 | U.K. | 5.0 | ebook | 4 | short story, fantasy, supernatural, werewolves |
 | Pages from a Young Girl’s Journal | Robert Aickman | 1975 | U.K., Italy | 3.5 | print | 27 | fantasy, supernatural, World Fantasy Award |
