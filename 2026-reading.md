@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| We Survived the Night | Julian Brave NoiseCat | 2025 | Secwépemc, U.S., Canada | 4.5 | audio | 432 | nonfiction, memoir, history, Native American, indigenous, race |
 | Abolish Rent: How Tenants Can End the Housing Crisis | Tracy Rosenthal, Leonardo Vilchis | 2024 | U.S. | 5.0 | print | 148 | nonfiction, history, politics, economics, social justice | 4.42 | 513 | [205900042](https://www.goodreads.com/book/show/205900042-abolish-rent) |
 | Wire Mother | Isabel J. Kim | 2025 | U.S. | 5.0 | ebook | 13 | short story, sci-fi, horror |
 | Things You Learn as a Werewolf (That Will Come in Handy Later) | Morgan Wilson | 2025 | U.K. | 5.0 | ebook | 4 | short story, fantasy, supernatural, werewolves |
