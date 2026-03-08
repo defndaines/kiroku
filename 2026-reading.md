@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Apologists | Tade Thompson | 2025 | U.K. | 4.0 | audio | 47 | novella, sci-fi |
 | Magical Girl Antifa War Machine | Esther Alter | 2025 | U.S. | 4.0 | audio | 9 | short story, sci-fi, magical realism, LGBT, urban fantasy, queer |
 | Kaiju Agonistes | Scott Lynch | 2025 | U.S. | 4.0 | ebook | 30 | novelette, sci-fi, historical, kaijū, humor |
 | The Works of Vermin | Hiron Ennes | 2025 | U.S. | 2.5 | audio | 68 | DNF, fantasy, horror, thriller, sci-fi, LGBT, queer |
