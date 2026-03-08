@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Frieren: Beyond Journey’s End, Volume 1 | Kanehito Yamada | 2020 | Japan | 5.0 | print | 188 | manga, fantasy, adventure |
 | Dungeons & Dragons: Dungeon Club: Final Face-off | Lee Knox Ostertag | 2025 | U.S. | 5.0 | ebook | 208 | fantasy, LGBT, YA, queer |
 | A Witch’s Life in Mongol, Volume 2 | Tomato Soup | 2023 | Japan | 3.5 | ebook | 173 | manga, historical |
 | YON 1 | Camille Broutin | 2025 | U.S., France | 3.5 | ebook | 191 | fantasy, horror, dystopian, manga, YA | 4.24 | 224 | [221835715](https://www.goodreads.com/book/show/221835715-yon---tome-1) |
