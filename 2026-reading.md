@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Autogas Ferryman | Champ Wongsatayanont | 2025 | Thailand | 4.5 | ebook | 23 | short story, fantasy, supernatural |
 | The Apologists | Tade Thompson | 2025 | U.K. | 4.0 | audio | 47 | novella, sci-fi |
 | Magical Girl Antifa War Machine | Esther Alter | 2025 | U.S. | 4.0 | audio | 9 | short story, sci-fi, magical realism, LGBT, urban fantasy, queer |
 | Kaiju Agonistes | Scott Lynch | 2025 | U.S. | 4.0 | ebook | 30 | novelette, sci-fi, historical, kaijū, humor |
@@ -13,7 +14,7 @@ fiction otherwise). The most recently finished book is on top.
 | Abolish Rent: How Tenants Can End the Housing Crisis | Tracy Rosenthal, Leonardo Vilchis | 2024 | U.S. | 5.0 | print | 148 | nonfiction, history, politics, economics, social justice | 4.42 | 513 | [205900042](https://www.goodreads.com/book/show/205900042-abolish-rent) |
 | Wire Mother | Isabel J. Kim | 2025 | U.S. | 5.0 | ebook | 13 | short story, sci-fi, horror |
 | Things You Learn as a Werewolf (That Will Come in Handy Later) | Morgan Wilson | 2025 | U.K. | 5.0 | ebook | 4 | short story, fantasy, supernatural, werewolves |
-| Pages from a Young Girl’s Journal | Robert Aickman | 1975 | U.K., Italy | 3.5 | print | 27 | fantasy, supernatural, World Fantasy Award |
+| Pages from a Young Girl’s Journal | Robert Aickman | 1975 | U.K., Italy | 3.5 | print | 27 | short story, fantasy, supernatural, World Fantasy Award |
 | Autobiography of Cotton | Cristina Rivera Garza | 2020 | Mexico | 4.5 | audio | 272 | literary, historical |
 | A Small Room in Koboldtown | Michael Swanwick | 2007 | U.S. | 4.5 | print | 23 | short story, fantasy, mystery, noir, Locus Award |
 | The Bones of the Earth | Ursula K. Le Guin | 2001 | U.S. | 4.5 | print | 13 | short story, fantasy, Locus Award |
