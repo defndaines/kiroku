@@ -113,7 +113,7 @@ Count: 39
 - [ ] Joy Williams _The Quick and the Dead_ (2000)
 - [ ] Percival Everett _Erasure_ (2001)
 - [ ] Rabih Alameddine _I, the Divine_ (2001)
-- [ ] Jonathan Franzen _The Corrections_ (2001)
+- [ ] ~Jonathan Franzen _The Corrections_ (2001)~
 - [ ] Sandra Cisneros _Caramelo_ (2002)
 - [ ] Debra Magpie Earling _Perma Red_ (2002)
 - [ ] Gary Shteyngart _The Russian Debutante’s Handbook_ (2002)

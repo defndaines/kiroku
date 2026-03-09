@@ -103,7 +103,7 @@ Count: 21
 - [ ] 8: _Austerlitz_ W.G. Sebald; translated by Anthea Bell, 2001
 - [x] 7: _The Underground Railroad_ Colson Whitehead, 2016
 - [ ] 6: _2666_ Roberto Bolaño; translated by Natasha Wimmer, 2004
-- [ ] 5: _The Corrections_ Jonathan Franzen, 2001
+- [ ] 5: ~_The Corrections_ Jonathan Franzen, 2001~
 - [ ] 4: _The Known World_ Edward P. Jones, 2003
 - [x] 3: _Wolf Hall_ Hilary Mantel, 2009
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010

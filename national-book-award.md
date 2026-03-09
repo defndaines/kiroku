@@ -74,7 +74,7 @@ Count: 22
 - [ ] 1998: Alice McDermott _Charming Billy_
 - [ ] 1999: Ha Jin _Waiting_
 - [ ] 2000: Susan Sontag _In America_
-- [ ] 2001: Jonathan Franzen _The Corrections_
+- [ ] 2001: ~Jonathan Franzen _The Corrections_~
 - [ ] 2002: Julia Glass _Three Junes_
 - [ ] 2003: Shirley Hazzard _The Great Fire_
 - [ ] 2004: Lily Tuck _The News from Paraguay_
