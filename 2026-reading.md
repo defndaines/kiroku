@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| How to Blow Up a Pipeline | Andreas Malm | 2021 | Sweden | 4.5 | audio | 208 | nonfiction, politics, climate change, philosophy |
 | Autogas Ferryman | Champ Wongsatayanont | 2025 | Thailand | 4.5 | ebook | 23 | short story, fantasy, supernatural |
 | The Apologists | Tade Thompson | 2025 | U.K. | 4.0 | audio | 47 | novella, sci-fi |
 | Magical Girl Antifa War Machine | Esther Alter | 2025 | U.S. | 4.0 | audio | 9 | short story, sci-fi, magical realism, LGBT, urban fantasy, queer |
