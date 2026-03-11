@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 46
+Count: 47
 
 ## Novel (4)
 
@@ -336,7 +336,7 @@ Count: 46
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (10)
+## Short Story (11)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -359,7 +359,7 @@ Count: 46
 - [ ] 1989: ~Harlan Ellison “Eidolons”~
 - [ ] 1990: Orson Scott Card “Lost Boys”
 - [ ] 1991: Terry Bisson “Bears Discover Fire”
-- [ ] 1992: John Kessel “Buffalo”
+- [x] 1992: John Kessel “Buffalo”
 - [ ] 1993: Connie Willis “Even the Queen”
 - [ ] 1994: Connie Willis “Close Encounter”
 - [ ] 1995: Joe Haldeman “None So Blind”
