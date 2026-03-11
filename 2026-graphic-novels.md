@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Frieren: Beyond Journey’s End, Volume 4 | Kanehito Yamada | 2021 | Japan | 5.0 | print | 188 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 3 | Kanehito Yamada | 2020 | Japan | 5.0 | print | 196 | manga, fantasy, adventure |
 | The Genie of Beirut: 1. At God’s Mercy | Sélim Nassib | 2025 | Lebanon | 3.5 | ebook | 127 | historical |
 | Frieren: Beyond Journey’s End, Volume 2 | Kanehito Yamada | 2020 | Japan | 5.0 | print | 200 | manga, fantasy, adventure |
