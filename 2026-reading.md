@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Bears Discover Fire | Terry Bisson | 1990 | U.S. | 4.5 | ebook | 15 | short story, fantasy, humor, Hugo Award, Locus Award, Nebula Award |
 | Buffalo | John Kessel | 1991 | U.S. | 2.5 | ebook | 23 | short story, sci-fi, historical, Locus Award |
 | The Secret Lives of the Nine Negro Teeth of George Washington | P. Djèlí Clark | 2018 | U.S. | 4.0 | ebook | 13 | short story, fantasy, historical, magical realism, paranormal, race, alternate history, Nebula Award, Locus Award |
 | The Shape of Stones | Hildur Knútsdóttir | 2025 | Iceland | 4.5 | ebook | 10 | short story, horror, fantasy, contemporary |

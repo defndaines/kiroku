@@ -11,7 +11,7 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 79
+Count: 80
 
 ## Novel (27)
 
@@ -241,7 +241,7 @@ Count: 79
 - [x] 2025: Naomi Kritzer “The Four Sisters Overlooking the Sea”
 <!-- Novelette -->
 
-## Short Story (12)
+## Short Story (13)
 
 - [ ] 1939: Arthur C. Clarke “How We Went to Mars”
 - [ ] 1941: Isaac Asimov “Robbie”
@@ -287,7 +287,7 @@ Count: 79
 - [ ] 1988: Lawrence Watt-Evans “Why I Left Harry’s All-Night Hamburgers”
 - [ ] 1989: Mike Resnick “Kirinyaga”
 - [ ] 1990: Suzy McKee Charnas “Boobs”
-- [ ] 1991: Terry Bisson “Bears Discover Fire”
+- [x] 1991: Terry Bisson “Bears Discover Fire”
 - [ ] 1992: Geoffrey A. Landis “A Walk in the Sun”
 - [ ] 1993: Connie Willis “Even the Queen”
 - [ ] 1994: Connie Willis “Death on the Nile”

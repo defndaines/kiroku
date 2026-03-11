@@ -13,7 +13,7 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 40
+Count: 41
 
 ## Novel (18)
 
@@ -209,7 +209,7 @@ Count: 40
 - [x] 2024: A. W. Prihandita “Negative Scholarship on the Fifth State of Being”
 <!-- Novelette -->
 
-## Short Story (7)
+## Short Story (8)
 
 - [x] 1965: Harlan Ellison “‘Repent, Harlequin!’ Said the Ticktockman”
 - [ ] 1966: Richard McKenna “The Secret Place”
@@ -235,7 +235,7 @@ Count: 40
 - [ ] 1987: Kate Wilhelm “Forever Yours, Anna”
 - [ ] 1988: James K. Morrow “Bible Stories for Adults, No. 17: The Deluge”
 - [ ] 1989: Geoffrey A. Landis “Ripples in the Dirac Sea”
-- [ ] 1990: Terry Bisson “Bears Discover Fire”
+- [x] 1990: Terry Bisson “Bears Discover Fire”
 - [ ] 1991: Alan Brennert “Ma Qui”
 - [ ] 1992: Connie Willis “Even the Queen”
 - [ ] 1993: Joe Haldeman “Graves”
