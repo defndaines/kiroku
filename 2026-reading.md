@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Secret Lives of the Nine Negro Teeth of George Washington | P. Djèlí Clark | 2018 | U.S. | 4.0 | ebook | 13 | short story, fantasy, historical, magical realism, paranormal, race, alternate history, Nebula Award, Locus Award |
 | The Shape of Stones | Hildur Knútsdóttir | 2025 | Iceland | 4.5 | ebook | 10 | short story, horror, fantasy, contemporary |
 | How to Blow Up a Pipeline | Andreas Malm | 2021 | Sweden | 4.5 | audio | 208 | nonfiction, politics, climate change, philosophy |
 | Autogas Ferryman | Champ Wongsatayanont | 2025 | Thailand | 4.5 | ebook | 23 | short story, fantasy, supernatural |

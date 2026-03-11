@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 45
+Count: 46
 
 ## Novel (4)
 
@@ -336,7 +336,7 @@ Count: 45
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
 <!-- Novelette -->
 
-## Short Story (9)
+## Short Story (10)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -386,7 +386,7 @@ Count: 45
 - [ ] 2016: Naomi Kritzer “Cat Pictures Please”
 - [ ] 2017: Amal El-Mohtar “Seasons of Glass and Iron”
 - [ ] 2018: Linda Nagata “The Martian Obelisk”
-- [ ] 2019: P. Djèlí Clark “The Secret Lives of the Nine Negro Teeth of George Washington”
+- [x] 2019: P. Djèlí Clark “The Secret Lives of the Nine Negro Teeth of George Washington”
 - [ ] 2020: Charlie Jane Anders “The Bookstore at the End of America”
 - [ ] 2021: Naomi Kritzer “Little Free Library”
 - [x] 2022: Sarah Pinsker “Where Oaken Hearts Do Gather”

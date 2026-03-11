@@ -13,7 +13,7 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 39
+Count: 40
 
 ## Novel (18)
 
@@ -209,7 +209,7 @@ Count: 39
 - [x] 2024: A. W. Prihandita “Negative Scholarship on the Fifth State of Being”
 <!-- Novelette -->
 
-## Short Story (6)
+## Short Story (7)
 
 - [x] 1965: Harlan Ellison “‘Repent, Harlequin!’ Said the Ticktockman”
 - [ ] 1966: Richard McKenna “The Secret Place”
@@ -264,7 +264,7 @@ Count: 39
 - [ ] 2015: Alyssa Wong “Hungry Daughters of Starving Mothers”
 - [ ] 2016: Amal El-Mohtar “Seasons of Glass and Iron”
 - [x] 2017: Rebecca Roanhorse “Welcome to Your Authentic Indian Experience™”
-- [ ] 2018: Phenderson Djèlí Clark “The Secret Lives of the Nine Negro Teeth of George Washington”
+- [x] 2018: Phenderson Djèlí Clark “The Secret Lives of the Nine Negro Teeth of George Washington”
 - [ ] 2019: A. T. Greenblatt “Give the Family My Love”
 - [ ] 2020: John Wiswell “Open House on Haunted Hill”
 - [x] 2021: Sarah Pinsker “Where Oaken Hearts Do Gather”
