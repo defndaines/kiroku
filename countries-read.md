@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 102
+Count: 103
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -158,7 +158,7 @@ Count: 102
 - [ ] Costa Rica:
 - [x] New Zealand: [_The Bone People_](https://www.goodreads.com/book/show/460635.The_Bone_People) Keri Hulme
 - [x] Oman: [_Celestial Bodies_](https://www.goodreads.com/book/show/49382648-celestial-bodies) Jokha al-Harthi
-- [ ] Kuwait: _The Book Censor’s Library_ ?
+- [x] Kuwait: [_Lebanon Is Burning and Other Dispatches_](https://www.goodreads.com/book/show/209317897-lebanon-is-burning-and-other-dispatches) Yazan Al-Saadi
 - [ ] Liberia:
 - [ ] Mauritania:
 - [x] Panama: [_The Great Divide_](https://www.goodreads.com/book/show/181110028-the-great-divide) Cristina Henríquez
