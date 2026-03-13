@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Frieren: Beyond Journey’s End, Volume 5 | Kanehito Yamada | 2021 | Japan | 5.0 | print | 194 | manga, fantasy, adventure |
 | Akira, Volume 1 | Katsuhiro Otomo | 1984 | Japan | 4.0 | print | 361 | manga, sci-fi, dystopian, cyberpunk |
 | Frieren: Beyond Journey’s End, Volume 4 | Kanehito Yamada | 2021 | Japan | 5.0 | print | 188 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 3 | Kanehito Yamada | 2020 | Japan | 5.0 | print | 196 | manga, fantasy, adventure |

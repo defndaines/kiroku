@@ -518,6 +518,7 @@
 | Antarctica | Claire Keegan | 1999 | Ireland | 224 | 05:24 | short stories, literary, contemporary | 3.83 | 18298 | [492459](https://www.goodreads.com/book/show/492459.Antarctica) |
 | The Mechanics of Memory | Audrey Lee | 2024 | U.S. | 384 | 10:08 | sci-fi, thriller, mystery, Naomi-Hirahara-rec | 3.82 | 506 | [199597622](https://www.goodreads.com/book/show/199597622-the-mechanics-of-memory) |
 | The Map That Changed the World: William Smith and the Birth of Modern Geology | Simon Winchester | 2001 | U.K. | 329 | 10:00 | nonfiction, history, biography, science, [own] | 3.82 | 14158 | [25014](https://www.goodreads.com/book/show/25014.The_Map_That_Changed_the_World) |
+| The Dragon’s Path | Daniel Abraham | 2011 | U.S. | 555 | 17:17 | fantasy, the-dagger-and-the-coin-1, coworker-rec | 3.82 | 23209 | [8752885](https://www.goodreads.com/book/show/8752885-the-dragon-s-path) |
 | The Dog of the South | Charles Portis | 1979 | U.S. | 246 | 08:01 | humor, travel, southern | 3.82 | 7934 | [938212](https://www.goodreads.com/book/show/938212.The_Dog_of_the_South) |
 | Moon of the Crusted Snow | Waubgeshig Rice | 2018 | Canada, Wasauksing | 213 | 06:46 | sci-fi, horror, dystopian, post-apocalyptic, indigenous, moon-1 | 3.82 | 44912 | [39082248](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) |
 | Heart Berries | Terese Marie Mailhot | 2018 | Canada, Seabird Island | 143 | 03:46 | nonfiction, memoir, feminism, indigenous, mental health | 3.82 | 30265 | [35840657](https://www.goodreads.com/book/show/35840657-heart-berries) |
