@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Frieren: Beyond Journey’s End, Volume 7 | Kanehito Yamada | 2022 | Japan | 5.0 | print | 186 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 6 | Kanehito Yamada | 2021 | Japan | 5.0 | print | 192 | manga, fantasy, adventure |
 | Lebanon Is Burning and Other Dispatches | Yazan Al-Saadi | 2024 | Kuwait, Lebanon, Bahrain, Syria, Egypt, Palestine, Canada, Sudan, Yemen | 4.0 | ebook | 151 | nonfiction, history, war, politics |
 | Frieren: Beyond Journey’s End, Volume 5 | Kanehito Yamada | 2021 | Japan | 5.0 | print | 194 | manga, fantasy, adventure |
