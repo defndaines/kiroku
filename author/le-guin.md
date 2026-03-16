@@ -55,10 +55,10 @@ I have a minor goal of reading all of Ursula K. Le Guin’s work.
 - [ ] The Telling (2000) [Locus Award, Endeavour Award]
 
 ## Kesh/Always Coming Home:
-- [ ] “The Visionary” (Short story, Winter 1984)
-- [ ] “The Trouble with the Cotton People” (Short story, Winter 1984)
-- [ ] “Time in the Valley” (Short story, Winter 1985)
-- [ ] Always Coming Home (1985) [Janet Heidinger Kafka Prize]
+- [x] “The Visionary” (Short story, Winter 1984)
+- [x] “The Trouble with the Cotton People” (Short story, Winter 1984)
+- [x] “Time in the Valley” (Short story, Winter 1985)
+- [x] Always Coming Home (1985) [Janet Heidinger Kafka Prize]
 
 ## Orsinia:
 - [ ] “Folksong from the Montayna Province” (Poem, 1959)
