@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Frieren: Beyond Journey’s End, Volume 9 | Kanehito Yamada | 2022 | Japan | 5.0 | print | 188 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 8 | Kanehito Yamada | 2022 | Japan | 5.0 | print | 188 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 7 | Kanehito Yamada | 2022 | Japan | 5.0 | print | 186 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 6 | Kanehito Yamada | 2021 | Japan | 5.0 | print | 192 | manga, fantasy, adventure |
