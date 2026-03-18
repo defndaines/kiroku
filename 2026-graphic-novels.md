@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Supergirl: Woman of Tomorrow | Tom King | 2022 | U.S. | 4.5 | ebook | 224 | superhero, fantasy, sci-fi |
 | Frieren: Beyond Journey’s End, Volume 11 | Kanehito Yamada | 2023 | Japan | 5.0 | print | 192 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 10 | Kanehito Yamada | 2023 | Japan | 5.0 | print | 195 | manga, fantasy, adventure |
 | Frieren: Beyond Journey’s End, Volume 9 | Kanehito Yamada | 2022 | Japan | 5.0 | print | 188 | manga, fantasy, adventure |
