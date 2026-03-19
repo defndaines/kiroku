@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 3.5 | audio | 368 | nonfiction, history, historical, biography, memoir, politics |
 | Always Coming Home | Ursula K. Le Guin | 1985 | U.S. | 3.5 | audio | 640 | classics, sci-fi, poetry, speculative, solarpunk, post-apocalyptic, Janet Heidinger Kafka Prize |
 | Bears Discover Fire | Terry Bisson | 1990 | U.S. | 4.5 | ebook | 15 | short story, fantasy, humor, Hugo Award, Locus Award, Nebula Award |
 | Buffalo | John Kessel | 1991 | U.S. | 2.5 | ebook | 23 | short story, sci-fi, historical, Locus Award |

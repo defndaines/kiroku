@@ -488,7 +488,6 @@
 | Mumbo Jumbo | Ishmael Reed | 1972 | U.S. | 224 | 09:14 | classics, literary, historical, Black, satire, race, [Audible](https://www.audible.com/pd/Mumbo-Jumbo-Audiobook/B083Y5DDCG) | 3.86 | 5019 | [761156](https://www.goodreads.com/book/show/761156.Mumbo_Jumbo) |
 | Lavinia | Ursula K. Le Guin | 2008 | U.S. | 279 | 11:40 | historical, fantasy, mythology, retelling, (read after The Aeneid), Chakraborty-rec | 3.86 | 17748 | [2214574](https://www.goodreads.com/book/show/2214574.Lavinia) |
 | Internment | Samira Ahmed | 2019 | India, U.S. | 386 | 11:18 | sci-fi, YA, dystopian, contemporary | 3.86 | 20482 | [38167114](https://www.goodreads.com/book/show/38167114-internment) |
-| Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 368 | 10:29 | historical, memoir, politics | 3.86 | 1055 | [222376548](https://www.goodreads.com/book/show/222376548-indignity) |
 | Forest of Wonders | Linda Sue Park | 2016 | U.S. | 343 | 06:48 | fantasy, adventure, YA, wing-&-claw-1, [own] | 3.86 | 1309 | [25817038](https://www.goodreads.com/book/show/25817038-forest-of-wonders) |
 | Père Goriot | Honoré de Balzac | 1835 | France | 384 | 10:35 | classics, literary | 3.85 | 67625 | [59145](https://www.goodreads.com/book/show/59145.P_re_Goriot) |
 | Midnight Riot | Ben Aaronovitch | 2011 | U.K. | 310 | 09:57 | mystery, fantasy, crime, paranormal, urban fantasy, rivers-of-london-1 | 3.85 | 150468 | [8680417](https://www.goodreads.com/book/show/8680417-midnight-riot) |
