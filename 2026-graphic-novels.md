@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Macanudo: The Way of the Penguin | Liniers | 2024 | Argentina | 4.5 | ebook | 163 | humor |
 | Elise and the New Partisans | Jacques Tardi, Dominique Grange | 2021 | France | 4.5 | ebook | 174 | historical, politics, autobiography |
 | Frieren: Beyond Journey’s End, Volume 12 | Kanehito Yamada | 2023 | Japan | 5.0 | print | 192 | manga, fantasy, adventure |
 | Supergirl: Woman of Tomorrow | Tom King | 2022 | U.S. | 4.5 | ebook | 224 | superhero, fantasy, sci-fi |
