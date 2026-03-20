@@ -1,0 +1,21 @@
+28 December Weekly Reading Wrap-up
+
+-- Fiction --
+
+“The Found and the Lost” was my longest read of 2025, stretched out over eight months. The thirteen novellas are largely unrelated, so you can read one, then take a break. The novellas in the Hainish Cycle are chronological and touch on events on the same planet. There are three Earthsea tales that can be enjoyed without having first finished the series. My favorite story, “Paradises Lost”, was at the end. It’s a take on generation ships that is both novel and insightful, touching on aspects of that subgenre I hadn’t encountered before. The collection is highly recommended for all Le Guin fans.
+
+I requested “Scarlet Morning” from the library simply because it was a new book by N.D. Stevenson. I mistakenly thought it would be a graphic novel like “Nimona”. I read about a third of the novel before giving up. The characters and world are a nice mix of quirky, but I didn’t find myself pulled into the tale. I think it was taking too long to uncover some of the mysteries. Perhaps I‘m loosing my taste for YA as my kids get older.
+
+-- Nonfiction --
+
+“Django in Action” is a great overview of Django. I am new to the Python language, but after evaluating a number of options for building smaller interactive websites, this was the one I opted for. The explanations are concise, and after reading this I feel confident that I can move forward with a project I have. The author also does a great job of highlighting resources for further research on topics that aren’t of concern to everyone leaning Django. It did cover a couple topics I don’t need, but I also saw the value in those. As someone new to Python (but not programming), I didn’t find anything obscure or confusing.
+
+“Every Day I Read” is a quick meditation on reading. For me, it was preaching to the choir, but I enjoyed the points and reminders. Some of it is affirmation, knowing that I’m not alone in my approaches. Some of it highlights things I like to think about when deciding what to read next. Unsurprisingly, I came away with a few more books to add to the list, as well as some perspective when thinking about what my reading “goals” are for the next year.
+
+-- Graphic Novels and Manga --
+
+I’d heard that “Absolute Batman” was one of the better books in the “Absolute” series. (I’ve been following “Absolute Wonder Women” from the start.) In this rendition, Bruce’s father was a teacher, and he is murdered when Bruce is a child. Bruce is not the scion of a wealthy family, but is a physical and mental prodigy. He comes out as Batman when a group starts committing random acts of violence around town. The art style and pacing are engaging. I liked the twist on the characters, from Alfred to several of the nemeses of the traditional story lines. It does, however, read like many action manga, where the interesting character and story points get buried under the wave of action. I’m not sure if I’ll continue on when volume two is released.
+
+“Wonder Woman: Sacrifice” is exactly why I don’t follow mainstream superhero comics. After volume one set up an excellent story, we get immediately derailed here with a story about Wonder Woman and Superman shopping for a birthday present for Batman at an intergalactic shopping mall, with only a couple panels nodding toward the main plot. Parts of this are funny, but still unnecessary. Then we return to the main plot for three issues, though I didn’t find this twist as interesting for the plot. The collection then ends with another complete derailment, as DC forces a cross-over plot down our throats that is not even in the same universe as the main plot. If I hadn’t already bought volume three, I’m not sure I would have continued after this torture.
+
+“Wonder Woman: Fury” picks the main plot line back up, thankfully. We get a surprise event to start things off, then we get into Wonder Woman finally in a position to fight back against the King of the United States. This is pretty satisfying revenge, but we are also returning to the set-up story that began in issue one. There are still dangling threads I’m curious to see play out, so I will likely pick up volume four.

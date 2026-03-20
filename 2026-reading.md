@@ -42,7 +42,7 @@ fiction otherwise). The most recently finished book is on top.
 | Simple Sabotage Field Manual | U.S. Office of Strategic Services | 1944 | U.S. | 4.0 | audio | 38 | nonfiction, history, politics, management, WWII |
 | Dawn | Octavia E. Butler | 1987 | U.S. | 4.5 | audio | 320 | sci-fi, fantasy, horror, dystopian, post-apocalyptic, feminism |
 | Creation | Jeffrey Ford | 2003 | U.S. | 4.0 | ebook | 16 | short story, fantasy, coming of age, World Fantasy Award |
-| The Girl That My Mother Is Leaving Me For | Cameron Reed | 2025 | U.S. | 4.5 | ebook | 35 | short story, sci-fi, LGBT, queer |
+| The Girl That My Mother Is Leaving Me For | Cameron Reed | 2025 | U.S. | 4.5 | ebook | 35 | novelette, sci-fi, LGBT, queer |
 | Seascraper | Benjamin Wood | 2025 | U.K. | 4.5 | audio | 176 | novella, literary, historical |
 | To Ride a Rising Storm | Moniquill Blackgoose | 2026 | U.S. | 4.5 | audio | 464 | fantasy, historical, sci-fi, YA, LGBT, indigenous, queer |
 | Caliban and the Witch: Women, the Body and Primitive Accumulation | Silvia Federici | 2004 | Italy | 4.0 | print | 288 | nonfiction, history, politics, feminism, sociology |

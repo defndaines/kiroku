@@ -1,0 +1,15 @@
+12 July Weekly Reading Wrap-up
+
+-- Fiction --
+
+“A Song of Legends Lost” is the first (600-page) book in an epic fantasy trilogy. It just came out a few months ago, so I’ll be waiting a while for the next one. There are several point-of-view characters, and the story is quite nuanced with no clear “good” or “bad” guy. The world is African inspired, a mix of fantasy and sci-fi, with technology that suggests a distant apocalypse. The writing is compelling, and I cannot wait to find out what happens next.
+
+-- Nonfiction --
+
+I bought “Programming in Lua” because my son has aspirations of coding a Roblox game, which is all in Lua. I had to maintain some Lua code over fifteen years ago, but haven’t touched it since. It’s a comprehensive overview of the language, even if one version behind (5.3 vs. 5.4). And this helped kickstart my desire to play with programming outside of work hours. Maybe I’ll even get around to converting from vim to neovim at some point, since it uses Lua for configuration and scripting. ¯\_(ツ)_/¯
+
+-- Graphic Novels and Manga --
+
+The first three volumes of “Monstress” won Hugo awards, three years in a row. I suspect it makes the shortlist every year, since volume 9 is shortlisted this year. As I’ve said before, the art is beautiful. But, I don’t find the story compelling. I was thinking to skip to volume 9 since I have a copy, but I’m not going to bother. I don’t hate the work—I can understand why some people like it—but it is not for me.
+
+“LaGuardia” won the Hugo in 2020, and is a fun (!?) take on discrimination and “illegal” aliens. I think this is my fifth book by Nnedi Okorafor. It feels a little cheesy at times, and it is also disturbing how relevant it remains. But I guess that’ll be the case for the foreseeable future, since the U.S. empire plans to crash and burn in the fires of xenophobia. I liked how many of the alien species are plant-based. I might have to make an “Octavia Was Right” poster for protests.
