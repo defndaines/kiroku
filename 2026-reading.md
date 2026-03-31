@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Open Veins of Latin America: Five Centuries of the Pillage of a Continent | Eduardo Galeano | 1971 | Uruguay | 4.5 | audio | 317 | nonfiction, history, politics, economics |
 | On the Calculation of Volume II | Solvej Balle | 2020 | Denmark | 4.5 | ebook | 192 | literary, sci-fi, magical realism, time travel, Nordic Council Literature Prize |
 | Indignity: A Life Reimagined | Lea Ypi | 2025 | Albania | 3.5 | audio | 368 | nonfiction, history, historical, biography, memoir, politics |
 | Always Coming Home | Ursula K. Le Guin | 1985 | U.S. | 3.5 | audio | 640 | classics, sci-fi, poetry, speculative, solarpunk, post-apocalyptic, Janet Heidinger Kafka Prize |

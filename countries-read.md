@@ -25,7 +25,7 @@ My [profile](https://readaroundtheworldchallenge.com/profile/daines)
 
 The list is sorted, roughly, by population size.
 
-Count: 103
+Count: 104
 
 - [x] China\*: [_Te-Tao Ching_](https://www.goodreads.com/book/show/103802.Te_Tao_Ching) Lao Tzu
 - [x] India\*: [_Inglorious Empire_](https://www.goodreads.com/book/show/34185892-inglorious-empire) Shashi Tharoor; [_The White Tiger_](https://www.goodreads.com/book/show/1768603.The_White_Tiger) Aravind Adiga
@@ -165,7 +165,7 @@ Count: 103
 - [ ] Croatia: Dubravka Ugrešić ?
 - [ ] Eritrea:
 - [ ] Georgia: Nana Ekvtimishvili ?
-- [ ] Uruguay: Fernanda Trías ?
+- [x] Uruguay: [_Open Veins of Latin America: Five Centuries of the Pillage of a Continent_](https://www.goodreads.com/book/show/187149.Open_Veins_of_Latin_America) Eduardo Galeano
 - [ ] Mongolia:
 - [ ] Bosnia and Herzegovina:
 - [x] Puerto Rico: [“Chupacabras”](https://www.goodreads.com/book/show/223524087-we-will-rise-again) Vida James
