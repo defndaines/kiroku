@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #13 | Roy Thomas, Enrique Dueñas | 2026 | U.S., Mexico | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Frieren: Beyond Journey’s End, Volume 13 | Kanehito Yamada | 2024 | Japan | 5.0 | print | 190 | manga, fantasy, adventure |
 | Macanudo: The Way of the Penguin | Liniers | 2024 | Argentina | 4.5 | ebook | 163 | humor |
 | Elise and the New Partisans | Jacques Tardi, Dominique Grange | 2021 | France | 4.5 | ebook | 174 | historical, politics, autobiography |
