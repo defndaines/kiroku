@@ -294,6 +294,7 @@
 | The Ragpicker | Joel Dane | 2024 | U.S. | 292 | 08:15 | sci-fi, fantasy, dystopian, post-apocalyptic | 4.05 | 63 | [199598619](https://www.goodreads.com/book/show/199598619-the-ragpicker) |
 | The Housekeeper and the Professor | Yōko Ogawa | 2003 | Japan | 180 | 05:55 | literary, contemporary | 4.05 | 100222 | [3181564](https://www.goodreads.com/book/show/3181564-the-housekeeper-and-the-professor) |
 | Songs on Endless Repeat: Essays and Outtakes | Anthony Veasna So | 2023 | U.S., Cambodia | 240 | 06:58 | nonfiction, short stories, essays, memoir, LGBT, queer | 4.05 | 577 | [127823320](https://www.goodreads.com/book/show/127823320-songs-on-endless-repeat) |
+| Pedro Páramo | Juan Rulfo | 1955 | Mexico | 128 | 04:38 | classics, fantasy, magical realism | 4.05 | 103321 | [38787](https://www.goodreads.com/book/show/38787.Pedro-P-ramo) |
 | Field Notes from a Catastrophe: Man, Nature, and Climate Change | Elizabeth Kolbert | 2006 | U.S. | 240 | 04:56 | nonfiction, politics, environment, science, ecology, climate change, nature | 4.05 | 4856 | [80513](https://www.goodreads.com/book/show/80513.Field_Notes_from_a_Catastrophe) |
 | Esperanza Rising | Pam Muñoz Ryan | 2000 | U.S. | 304 | 04:43 | historical, YA, [own] | 4.05 | 115485 | [89763](https://www.goodreads.com/book/show/89763.Esperanza_Rising) |
 | What Strange Paradise | Omar El Akkad | 2021 | Egypt, Canada | 256 | 06:38 | literary, contemporary, African immigrants, Giller Prize | 4.04 | 17284 | [53773242](https://www.goodreads.com/book/show/53773242-what-strange-paradise) |
