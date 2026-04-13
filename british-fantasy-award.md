@@ -10,7 +10,7 @@ Awards announced in October or early November.
 
 https://britishfantasysociety.org/about-the-bfs/the-british-fantasy-awards/
 
-Count: 11
+Count: 13
 
 ## Novel (1)
 
@@ -55,7 +55,7 @@ Count: 11
 - [ ] 2010: _One_, Conrad Williams
 <!-- Novel -->
 
-## Fantasy Novel (Robert Holdstock Award) (2)
+## Fantasy Novel (Robert Holdstock Award) (3)
 
 - [ ] 2012: _Among Others_, Jo Walton
 - [ ] 2013: _Some Kind of Fairy Tale_, Graham Joyce
@@ -67,7 +67,7 @@ Count: 11
 - [ ] 2019: _The Bitter Twins_, Jen Williams
 - [ ] 2020: _The Bone Ships_, R. J. Barker
 - [ ] 2021: _The Once and Future Witches_, Alix E. Harrow
-- [ ] 2022: _She Who Became the Sun_, Shelley Parker-Chan
+- [x] 2022: _She Who Became the Sun_, Shelley Parker-Chan
 - [x] 2023: _The Spear Cuts Through Water_, Simon Jimenez
 - [ ] 2024: _Talonsister_, Jen Williams
 - [ ] 2025: _Masquerade_, O.O. Sangoyomi
@@ -218,13 +218,13 @@ Count: 11
 - [ ] 2025: _Queer as Folklore: The Hidden Queer History of Myths and Monsters_, Sacha Coward
 <!-- Non-Fiction -->
 
-## Newcomer (Sydney J. Bounds Award) (0)
+## Newcomer (Sydney J. Bounds Award) (1)
 
 - [ ] 2018: Jeannette Ng, for _Under the Pendulum Sun_
 - [ ] 2019: Tasha Suri, for _Empire of Sand_
 - [ ] 2020: Ta-Nehisi Coates, for _The Water Dancer_
 - [ ] 2021: Kathleen Jennings, for _Flyaway_
-- [ ] 2022: Shelley Parker-Chan, for _She Who Became the Sun_
+- [x] 2022: Shelley Parker-Chan, for _She Who Became the Sun_
 - [ ] 2023: Hiron Ennes, for _Leech_
 - [ ] 2024: Teika Marija Smits, for “Umbilical” & “Waterlore”
 - [ ] 2025: Frances White, for _Voyage of the Damned_
