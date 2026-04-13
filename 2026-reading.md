@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Four Hands | Paco Ignacio Taibo II | 1990 | Spain, Mexico | 4.0 | print | 384 | mystery, historical, thriller, noir, crime, politics |
 | Sisters in Yellow | Mieko Kawakami | 2023 | Japan | 4.5 | audio | 448 | literary, mystery, thriller, contemporary, Yomiuri Prize 読売文学賞 |
 | Slow Gods | Claire North | 2025 | U.K. | 4.5 | audio | 448 | sci-fi, space opera, LGBT, dystopian |
 | There Is No Antimemetics Division | qntm | 2020 | U.K. | 4.5 | audio | 220 | sci-fi, horror, fantasy, speculative |
