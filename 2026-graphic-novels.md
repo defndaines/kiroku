@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Frieren: Beyond Journey’s End, Volume 14 | Kanehito Yamada | 2025 | Japan | 5.0 | print | 192 | manga, fantasy, adventure |
 | The Savage Sword of Conan #13 | Roy Thomas, Enrique Dueñas | 2026 | U.S., Mexico | 4.5 | print | 64 | fantasy, adventure, sword and sorcery |
 | Frieren: Beyond Journey’s End, Volume 13 | Kanehito Yamada | 2024 | Japan | 5.0 | print | 190 | manga, fantasy, adventure |
 | Macanudo: The Way of the Penguin | Liniers | 2024 | Argentina | 4.5 | ebook | 163 | humor |
