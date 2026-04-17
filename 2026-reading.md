@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy | Julia Ioffe | 2025 | Soviet Union, Russia | 3.5 | audio | 512 | nonfiction, history, memoir, politics, feminism |
 | She Who Became the Sun | Shelley Parker-Chan | 2021 | Australia | 4.0 | audio | 416 | historical, fantasy, LGBT, queer, lesbian, British Fantasy Award |
 | Four Hands | Paco Ignacio Taibo II | 1990 | Spain, Mexico | 4.0 | print | 384 | mystery, historical, thriller, noir, crime, politics |
 | The BEAM Book: Understanding the Erlang Runtime System | Erik Stenman | 2025 | Sweden | 4.0 | ebook | 471 | nonfiction, programming |
