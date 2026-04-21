@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Shadows of the Sea | Cathy Malkasian | 2025 | U.S. | 4.0 | ebook | 161 | fantasy |
 | The Last Session, Volume 1: Roll for Initiative | Jasmine Walls | 2022 | U.S. | 5.0 | ebook | 136 | fantasy, LGBT, YA, contemporary, queer |
 | Overgeared, Volume 1 | Monohumbug, Park Saenal | 2023 | South Korea | 3.5 | ebook | 285 | fantasy, manhwa |
 | Akira, Volume 2 | Katsuhiro Otomo | 1984 | Japan | 4.5 | print | 301 | manga, sci-fi, dystopian, cyberpunk |
