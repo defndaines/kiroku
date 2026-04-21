@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Hexes of the Deadwood Forest | Agnieszka Szpila | 2021 | Poland | 4.0 | audio | 368 | literary, fantasy, contemporary, feminism |
 | Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy | Julia Ioffe | 2025 | Soviet Union, Russia | 3.5 | audio | 512 | nonfiction, history, memoir, politics, feminism |
 | She Who Became the Sun | Shelley Parker-Chan | 2021 | Australia | 4.0 | audio | 416 | historical, fantasy, LGBT, queer, lesbian, British Fantasy Award |
 | Four Hands | Paco Ignacio Taibo II | 1990 | Spain, Mexico | 4.0 | print | 384 | mystery, historical, thriller, noir, crime, politics |

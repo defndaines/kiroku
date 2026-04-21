@@ -93,6 +93,7 @@
 | The Listening Book: Discovering Your Own Music | William Allaudin Mathieu | 1991 | U.S. | 192 | nonfiction, music, psychology, philosophy, ebook | 4.05 | 291 | [659361](https://www.goodreads.com/book/show/659361.The_Listening_Book) |
 | Autobiography of Death | Kim Hyesoon | 2016 | South Korea | 110 | poetry, ebook | 4.05 | 778 | [38458431](https://www.goodreads.com/book/show/38458431-autobiography-of-death) |
 | An Introduction To Arab Poetics | Adonis | 1991 | Syria | 112 | nonfiction, poetry, history, ebook | 4.05 | 199 | [795390](https://www.goodreads.com/book/show/795390.An_Introduction_To_Arab_Poetics) |
+| She Who Remains | Rene Karabash | 2018 | Albania | 150 | literary, LGBT, contemporary, queer, feminism | 4.04 | 4494 | [235788705](https://www.goodreads.com/book/show/235788705-she-who-remains) |
 | Shadow & Claw | Gene Wolfe | 1994 | U.S. | 413 | classics, fantasy, sci-fi, speculative, Rammel-Broadcasting-rec, [own] | 4.04 | 23118 | [40992](https://www.goodreads.com/book/show/40992.Shadow_Claw) |
 | Mis(h)adra | Iasmin Omar Ata | 2017 | U.S. | 288 | graphic novel, disability, mental health, ebook, Arab-American | 4.04 | 1368 | [34466927](https://www.goodreads.com/book/show/34466927-mis-h-adra) |
 | Mean Spirit | Linda Hogan | 1990 | U.S. | 384 | historical, mystery, Native American, indigenous, ebook | 4.04 | 1759 | [530878](https://www.goodreads.com/book/show/530878.Mean_Spirit) |
