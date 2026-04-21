@@ -2,26 +2,25 @@
 
 ## Total Book Count
 
-tail -n +8 2026-reading.md| wc -l
+books=$(tail -n +8 2026-reading.md| wc -l| tee /dev/tty)
 
-tail -n +8 2026-graphic-novels.md| wc -l
+gn_total=$(tail -n +8 2026-graphic-novels.md| wc -l| tee /dev/tty)
 
-cat <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)| wc -l
+total=$(cat <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)| wc -l| tee /dev/tty)
 
 ## Authors
 
-tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//'|
-  sed 's/ *$//'| sort| uniq -c| sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
+  sort| uniq -c| sort -n
 
-tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//'|
-  sed 's/ *$//'| sort| uniq -c| sort -n| grep -v " 1 "
-
-cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
-  sed 's/, /\n/g'| sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
+  sort| uniq -c| sort -n| grep -v " 1 "
 
 cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
-  sed 's/, /\n/g'| sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| sort -n|
-  grep -v " 1 "
+  sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'| sort| uniq -c| sort -n
+
+cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'| sort| uniq -c| sort -n| grep -v " 1 "
 
 for author in author/*.md; do
   name=$(head -1 "${author}"| sed 's/# //')
@@ -33,41 +32,42 @@ done
 
 ### Books older than ~10 year
 
-tail -n +8 2026-reading.md| cut -d \| -f 4| sort| sed -n '1,/^ 2014/p'| wc -l
+old=$(tail -n +8 2026-reading.md| cut -d \| -f 4| awk '$1+0 <= 2016'| wc -l)
+echo "$old ($((old * 100 / books))%)"
 
 ### Books from last year (roughly)
 
-grep -c '| 202[56]' 2026-reading.md
+recent=$(grep -c '| 202[56]' 2026-reading.md)
+echo "$recent ($((recent * 100 / books))%)"
 
 ## Countries
 
-tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
-  sed 's/ *$//'| sort| uniq -c| sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
+  sort| uniq -c| sort -n
 
-tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
-  sed 's/ *$//'| sort| uniq -c| grep -v " 1 "| sort -nr| head
-
-tail -n +8 2026-graphic-novels.md| cut -d \| -f 5| sed 's/, /\n/g'|
-  sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| sort -n
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
+  sort| uniq -c| grep -v " 1 "| sort -nr| head
 
 tail -n +8 2026-graphic-novels.md| cut -d \| -f 5| sed 's/, /\n/g'|
-  sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c| grep -v " 1 "| sort -nr|
+  sed 's/^ *//; s/ *$//'| sort| uniq -c| sort -n
+
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 5| sed 's/, /\n/g'|
+  sed 's/^ *//; s/ *$//'| sort| uniq -c| grep -v " 1 "| sort -nr|
   head
 
 cut -d \| -f 5 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
-  sed 's/, /\n/g'| sed 's/^ *//'| sed 's/ *$//'| sort| uniq -c|
-  grep -v " 1 "| sort -nr| head
+  sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'| sort| uniq -c| grep -v " 1 "| sort -nr| head
 
 ### Show ten most populous countries from which I haven’t yet read a book
 grep '\[ ]' countries-read.md| head| sed 's/- \[ ] \([^:]*\).*/\1/'
 
 ### Filter out the major English-native countries.
 
-tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
-  sed 's/ *$//'| grep -v "U\."| grep -v Canada| grep -v Australia| sort -u
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
+  grep -v "U\."| grep -v Canada| grep -v Australia| sort -u
 
-tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//'|
-  sed 's/ *$//'| grep -v "U\."| grep -v Canada| grep -v Australia| sort|
+tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
+  grep -v "U\."| grep -v Canada| grep -v Australia| sort|
   uniq -c| sort -nr| head
 
 ### Count of non-U.S/U.K./Canada/Australia work
@@ -78,15 +78,19 @@ tail -n +8 2026-reading.md| grep -v Canada| grep -v Australia| grep -vc "U\.[SK]
 
 ### Fiction count
 
-tail -n +8 2026-reading.md| grep -vc "nonfiction"
+fiction=$(tail -n +8 2026-reading.md| grep -vc "nonfiction")
+echo "$fiction ($((fiction * 100 / books))%)"
 
-tail -n +8 2026-graphic-novels.md| grep -vc "nonfiction"
+gn_fiction=$(tail -n +8 2026-graphic-novels.md| grep -vc "nonfiction")
+echo "$gn_fiction ($((gn_fiction * 100 / gn_total))%)"
 
 ### Nonfiction count
 
-tail -n +8 2026-reading.md| grep -c "nonfiction"
+nonfiction=$(tail -n +8 2026-reading.md| grep -c "nonfiction")
+echo "$nonfiction ($((nonfiction * 100 / books))%)"
 
-tail -n +8 2026-graphic-novels.md| grep -c "nonfiction"
+gn_nonfiction=$(tail -n +8 2026-graphic-novels.md| grep -c "nonfiction")
+echo "$gn_nonfiction ($((gn_nonfiction * 100 / gn_total))%)"
 
 ### Genre full list
 
@@ -116,9 +120,11 @@ cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md
 
 ## Formats
 
-tail -n +8 2026-reading.md| cut -d \| -f 7| sort| uniq -c
+tail -n +8 2026-reading.md| cut -d \| -f 7| sort| uniq -c|
+  awk -v total="$books" '{printf "%4d %s (%d%%)\n", $1, $2, $1*100/total}'
 
-tail -n +8 2026-graphic-novels.md| cut -d \| -f 7| sort| uniq -c
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 7| sort| uniq -c|
+  awk -v total="$gn_total" '{printf "%4d %s (%d%%)\n", $1, $2, $1*100/total}'
 
 ## Ratings
 
@@ -161,7 +167,7 @@ tail -n +8 2026-reading.md| sort -t\| -k 8 -n
 
 ## What Awards Have Not Yet Been Awarded this Year
 
-grep -F -v -f <(grep -l `date +%Y` *.md) <(ls *{award,medal,prize}*.md)
+grep -F -v -f <(grep -l "$(date +%Y)" *.md) <(ls *{award,medal,prize}*.md)
 
 ## Hugo Books (i.e., skip movies and series watched)
 
@@ -191,7 +197,7 @@ for award in akutagawa-prize.md andrew-carnegie-medal-for-excellence.md \
   womens-prize.md world-fantasy-award.md; do
   head -1 "${award}"
   rg "^Count" "${award}"
-  rg '\[x\]' "${award}"| sort| uniq -c| wc -l
+  rg -c '\[x\]' "${award}"
 done
 
 ### What Percentage of Award Books Have I Read?
