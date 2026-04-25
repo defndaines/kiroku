@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Woman at Point Zero | Nawal El Saadawi | 1975 | Egypt | 4.75 | audio | 108 | classics, literary, feminism |
 | Not “A Nation of Immigrants”: Settler Colonialism, White Supremacy, and a History of Erasure and Exclusion | Roxanne Dunbar-Ortiz | 2021 | U.S. | 5.0 | audio | 392 | nonfiction, history, politics, race, social justice, indigenous |
 | Hexes of the Deadwood Forest | Agnieszka Szpila | 2021 | Poland | 4.0 | audio | 368 | literary, fantasy, contemporary, feminism |
 | Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy | Julia Ioffe | 2025 | Soviet Union, Russia | 3.5 | audio | 512 | nonfiction, history, memoir, politics, feminism |
