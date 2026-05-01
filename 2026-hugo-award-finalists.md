@@ -5,9 +5,9 @@ World Science Fiction Convention.
 
 ## Best Novel
 
-- [ ] _Death of the Author_ Nnedi Okorafor
 - [ ] _The Everlasting_ Alix E. Harrow
 - [x] _Shroud_ Adrian Tchaikovsky
+- [x] _Death of the Author_ Nnedi Okorafor
 - [x] _The Incandescent_ Emily Tesh
 - [x] _The Raven Scholar_ Antonia Hodgson
 - [x] _A Drop of Corruption_ Robert Jackson Bennett

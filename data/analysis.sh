@@ -234,6 +234,21 @@ done
 
 git diff 355bef7 countries-read.md
 
+### Just the new countries
+git diff 355bef7 countries-read.md | awk '
+/^-- \[ \]/ {
+  s = substr($0, 8); sub(/:.*$/, "", s); unchecked[s] = 1
+}
+/^\+- \[x\]/ {
+  s = substr($0, 8); sub(/:.*$/, "", s); checked[s] = 1
+}
+END {
+  for (c in checked)
+    if (c in unchecked)
+      print c
+    }
+'| sort
+
 for f in [a-z]*.md; do
   head -1 "$f"
   git diff 355bef7 "$f"| grep "^[-+]Count:"

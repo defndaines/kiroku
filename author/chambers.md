@@ -1,11 +1,12 @@
 # Becky Chambers
 
-I’d like to read more of Becky Chambers’ work.
+I’d like to read all of Becky Chambers’ work.
 
 ## Novels
 - [ ] The Vela, co-written with Yoon Ha Lee, S. L. Huang, and Rivers Solomon (2019)
+- [ ] As You Wake, Break the Shell (2026)
 
-### Wayfarers series
+### Wayfarers Series
 - [x] The Long Way to a Small, Angry Planet (2014)
 - [ ] A Closed and Common Orbit (2016)
 - [ ] Record of a Spaceborn Few (2018)
@@ -14,11 +15,11 @@ I’d like to read more of Becky Chambers’ work.
 ## Novellas
 - [x] To Be Taught, if Fortunate (2019)
 
-### Monk & Robot series
+### Monk & Robot Series
 - [x] A Psalm for the Wild-Built (2021) [Hugo]
 - [x] A Prayer for the Crown-Shy (2022) [Locus]
 
-## Short stories
+## Short Stories
 - [ ] “Chrysalis”, Jurassic London’s Stocking Stuffer, 2014
 - [ ] “The Deckhand, The Nova Blade, and the Thrice-Sung Texts”, Cosmic Powers: The Saga Anthology of Far-Away Galaxies, 2017
 - [ ] “Last Contact”, 2001: An Odyssey In Words, 2018
