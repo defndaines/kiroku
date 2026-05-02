@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Ghalen: A Romance in Black | Walter Mosley | 2026 | U.S. | 4.0 | print | 360 | family saga, disability |
 | The Jakarta Method: Washington’s Anticommunist Crusade and the Mass Murder Program that Shaped Our World | Vincent Bevins | 2020 | U.S. | 4.5 | audio | 320 | nonfiction, history, politics, war |
 | Death of the Author | Nnedi Okorafor | 2025 | U.S., Nigeria | 4.5 | audio | 448 | literary, sci-fi, contemporary, NAACP Image Award, She Reads Best of Award, Hugo Award Finalist |
 | Woman at Point Zero | Nawal El Saadawi | 1975 | Egypt | 4.75 | audio | 108 | classics, literary, feminism |

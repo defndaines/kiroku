@@ -65,7 +65,7 @@
 - [ ] The Further Tales of Tempest Landry (2015)
 - [ ] John Woman (2018)
 - [ ] The Awkward Black Man (2020)
-- [ ] Ghalen: A Romance in Black (2026)
+- [x] Ghalen: A Romance in Black (2026)
 
 ## Crosstown to Oblivion series:
 - [ ] The Gift of Fire / On the Head of a Pin, Tor Books, 2012
