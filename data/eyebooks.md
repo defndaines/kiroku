@@ -161,6 +161,7 @@
 | War Trash | Ha Jin | 2004 | China, U.S. | 368 | literary, historical, war, ebook, Chinese POWs Korean War | 3.81 | 4262 | [14729](https://www.goodreads.com/book/show/14729.War_Trash) |
 | The Glamour | Christopher Priest | 1984 | U.K. | 235 | literary, fantasy, sci-fi, mystery, horror, speculative, contemporary, ebook, Kurd-Laßwitz-Preis, SciFiScavenger-rec | 3.81 | 1425 | [106924](https://www.goodreads.com/book/show/106924.The_Glamour) |
 | How Kyoto Breaks Your Heart | Florentyna Leow | 2023 | Malaysia, Japan | 96 | nonfiction, essays, memoir, travel, ebook | 3.81 | 927 | [73347377](https://www.goodreads.com/book/show/73347377-how-kyoto-breaks-your-heart) |
+| Electric Shamans at the Festival of the Sun | Mónica Ojeda | 2024 | Ecuador | 256 | literary, horror, fantasy, magical realism | 3.81 | 4244 | [247752438](https://www.goodreads.com/book/show/247752438-electric-shamans-at-the-festival-of-the-sun) |
 | The Thorn Puller | Hiromi Itō | 2007 | Japan | 300 | poetry, literary, contemporary, ebook | 3.80 | 366 | [58906519](https://www.goodreads.com/book/show/58906519-the-thorn-puller) |
 | The Rarest Fruit | Gaëlle Bélem | 2025 | France, Réunion | 192 | historical, nature, ebook, Dua-rec, [hoopla](https://www.hoopladigital.com/title/18363504) | 3.80 | 585 | [219091401](https://www.goodreads.com/book/show/219091401-the-rarest-fruit) |
 | The Last Day | Owain Owain | 1976 | Wales | 136 | sci-fi, dystopian, translated from Welsh, ebook | 3.80 | 94 | [204478558](https://www.goodreads.com/book/show/204478558-the-last-day) |

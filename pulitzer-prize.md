@@ -9,7 +9,7 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 27
+Count: 28
 
 ## Fiction (20)
 
@@ -112,9 +112,10 @@ Count: 27
 - [ ] 2023: Barbara Kingsolver, _Demon Copperhead_
 - [x] 2024: Jayne Anne Phillips, _Night Watch_
 - [x] 2025: Percival Everett, _James_
+- [ ] 2026: Daniel Kraus, _Angel Down_
 <!-- Fiction -->
 
-## Nonfiction (4)
+## Nonfiction (5)
 
 - [ ] 1980: Douglas R. Hofstadter, _Gödel, Escher, Bach: An Eternal Golden Braid_
 - [ ] 1981: Carl E. Schorske, _Fin-de-Siècle Vienna: Politics and Culture_
@@ -164,6 +165,7 @@ Count: 27
 - [ ] 2023: Robert Samuels and Toluse Olorunnipa, _His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice_
 - [ ] 2024: Nathan Thrall, _A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy_
 - [ ] 2025: Benjamin Nathans, _To the Success of Our Hopeless Cause: The Many Lives of the Soviet Dissident Movement_
+- [x] 2026: Brian Goldstone, _There Is No Place for Us: Working and Homeless in America_
 <!-- Nonfiction -->
 
 ## History (3)
@@ -215,4 +217,5 @@ Count: 27
 - [x] 2024: Jacqueline Jones, _No Right to an Honest Living: The Struggles of Boston’s Black Workers in the Civil War Era_
 - [x] 2025: Edda L. Fields-Black, _Combee: Harriet Tubman, the Combahee River Raid, and Black Freedom During the Civil War_
 - [x] 2025: Kathleen DuVal, _Native Nations: A Millennium in North America_
+- [ ] 2026: Jill Lepore, _We the People: A History of the U.S. Constitution_
 <!-- History -->
