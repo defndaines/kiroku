@@ -34,10 +34,10 @@ World Science Fiction Convention.
 
 - [ ] “10 Visions of the Future; or, Self-Care for the End of Days” Samantha Mills
 - [ ] “In My Country” Thomas Ha
-- [ ] “Laser Eyes Ain’t Everything” Effie Seiberg
 - [ ] “Six People to Revise You” J.R. Dawson
 - [x] “Wire Mother” Isabel J. Kim
 - [x] “Missing Helen” Tia Tashiro
+- [x] “Laser Eyes Ain’t Everything” Effie Seiberg
 
 ## Best Series
 
