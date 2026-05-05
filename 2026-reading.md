@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| If We Cannot Go at the Speed of Light | Kim Cho-yeop | 2019 | South Korea | 4.5 | audio | 192 | short stories, sci-fi, fantasy, contemporary |
 | Laser Eyes Ain’t Everything | Effie Seiberg | 2025 | U.S. | 4.5 | eboook | 11 | short story, sci-fi, disability, superhero, Hugo Award Finalist |
 | Ghalen: A Romance in Black | Walter Mosley | 2026 | U.S. | 4.0 | print | 360 | family saga, disability |
 | The Jakarta Method: Washington’s Anticommunist Crusade and the Mass Murder Program that Shaped Our World | Vincent Bevins | 2020 | U.S. | 4.5 | audio | 320 | nonfiction, history, politics, war |
