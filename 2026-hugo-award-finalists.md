@@ -16,10 +16,10 @@ World Science Fiction Convention.
 
 - [ ] _Cinder House_ Freya Marske
 - [ ] _Murder by Memory_ Olivia Waite
-- [ ] _The River Has Roots_ Amal El-Mohtar
 - [ ] _The Summer War_ Naomi Novik
 - [ ] _What Stalks the Deep_ T. Kingfisher
 - [x] _Automatic Noodle_ Annalee Newitz
+- [x] _The River Has Roots_ Amal El-Mohtar
 
 ## Best Novelette
 
