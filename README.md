@@ -105,3 +105,11 @@ I have a wishlist at
 [Bookshop.org](https://bookshop.org/wishlists/e95d485f4528665e47e9a95cf22e759f741ae69d).
 I track more obscure and hard-to-find books on
 [Amazon](https://www.amazon.com/hz/wishlist/ls/2B071NDZWAZPX).
+
+## Film
+
+I also keep track of related awards for film and television, as well as a list
+of [countries](film/countries-watched.md) I’ve seen movies from.
+
+* [Hugo Award](film/hugo-award.md)
+* [Nebula Award](film/nebula-award.md)

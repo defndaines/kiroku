@@ -36,6 +36,7 @@
 | Disnaeland | D.D. Johnston | 2022 | Scotland | 373 | sci-fi, in Scots, [own] | 4.31 | 72 | [60859321](https://www.goodreads.com/book/show/60859321-disnaeland) |
 | Marx at the Margins: On Nationalism, Ethnicity, and Non-Western Societies | Kevin B. Anderson | 2010 | U.S. | 336 | nonfiction, history, politics, economics, sociology, philosophy, ebook | 4.30 | 169 | [7619408](https://www.goodreads.com/book/show/7619408-marx-at-the-margins) |
 | Carla Rising | Topper Sherwood | 2015 | U.S. | 294 | historical | 4.30 | 20 | [25278563](https://www.goodreads.com/book/show/25278563-carla-rising) |
+| The Sandinista Revolution: A Global Latin American History | Mateo Jarquín | 2024 | Nicaragua | 336 | nonfiction, history | 4.29 | 24 | [199634752](https://www.goodreads.com/book/show/199634752-the-sandinista-revolution) |
 | The Prison Industry: How It Works and Who Profits | Bianca Tylek, Worth Rises | 2025 | U.S. | 260 | nonfiction, politics, [own] | 4.29 | 34 | [207453290](https://www.goodreads.com/book/show/207453290-the-prison-industry) |
 | The First Civil Right: How Liberals Built Prison America | Naomi Murakawa | 2014 | U.S. | 280 | nonfiction, history, politics, race, social justice, ebook | 4.29 | 161 | [19502115](https://www.goodreads.com/book/show/19502115-the-first-civil-right) |
 | Pilgrimage: The Book of the People | Zenna Henderson | 1961 | U.S. | 255 | short stories, classics, sci-fi, fantasy, speculative | 4.29 | 1524 | [491889](https://www.goodreads.com/book/show/491889.Pilgrimage) |

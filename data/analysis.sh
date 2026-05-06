@@ -169,13 +169,13 @@ tail -n +8 2026-reading.md| sort -t\| -k 8 -n
 
 grep -F -v -f <(grep -l "$(date +%Y)" *.md) <(ls *{award,medal,prize}*.md)
 
-## Hugo Books (i.e., skip movies and series watched)
+## Hugo Books
 
-grep "^Count" hugo-award.md && sed -n '1,/## Dramatic/p' hugo-award.md| grep -c '\[x\]'
+grep "^Count" hugo-award.md| grep -c '\[x\]'
 
 ## Nebula Books (i.e., skip movies and series watched)
 
-grep "^Count" nebula-award.md && sed -n '1,/## Ray Bradbury Award/p' nebula-award.md| grep -c '\[x\]'
+grep "^Count" nebula-award.md| grep -c '\[x\]'
 
 ## Other awards (for loop audits)
 
@@ -187,14 +187,15 @@ for award in *{award,medal,prize}*.md; do
   grep 2025 "${award}"
 done
 
-### Audit Count Values (skips Hugo and Nebula, which include films and scripts)
+### Audit Count Values
 for award in akutagawa-prize.md andrew-carnegie-medal-for-excellence.md \
   arthur-c-clarke-award.md booker-prize.md british-fantasy-award.md \
-  dublin-literary-award.md golden-poppy-book-award.md ignyte-award.md \
-  kirkus-prize.md locus-award.md mythopoeic-award.md national-book-award.md \
-  nobel-prize-in-literature.md nommo-award.md ohioana-book-award.md \
-  pulitzer-prize.md ursula-k-le-guin-prize.md walter-scott-prize.md \
-  womens-prize.md world-fantasy-award.md; do
+  dublin-literary-award.md golden-poppy-book-award.md hugo-award.md \
+  ignyte-award.md kirkus-prize.md locus-award.md mythopoeic-award.md \
+  national-book-award.md nebula-award.md nobel-prize-in-literature.md \
+  nommo-award.md ohioana-book-award.md pulitzer-prize.md \
+  ursula-k-le-guin-prize.md walter-scott-prize.md  womens-prize.md \
+  world-fantasy-award.md; do
   head -1 "${award}"
   rg "^Count" "${award}"
   rg -c '\[x\]' "${award}"
