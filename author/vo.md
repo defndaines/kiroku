@@ -9,6 +9,7 @@ Given that I’ve read the Singing Hills Cycle, tracking all of her works here.
 - [x] Mammoths at the Gates (2023)
 - [x] The Brides of High Hill (2024)
 - [x] A Mouthful of Dust (2025)
+- [ ] A Long and Speaking Silence (2026)
 
 ## Novels
 - [ ] The Chosen and the Beautiful (2021)
