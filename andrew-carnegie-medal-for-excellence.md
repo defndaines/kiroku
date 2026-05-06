@@ -10,7 +10,7 @@ February.
 
 https://www.ala.org/carnegie-medals/about
 
-Count: 6
+Count: 7
 
 ## Fiction (4)
 
@@ -30,7 +30,7 @@ Count: 6
 - [x] 2025: Percival Everett _James_
 - [ ] 2026: Megha Majumdar _A Guardian and a Thief_
 
-## Nonfiction (2)
+## Nonfiction (3)
 
 - [ ] 2012: Robert K. Massie _Catherine the Great: Portrait of a Woman_
 - [ ] 2013: Timothy Egan _Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis_
@@ -45,4 +45,4 @@ Count: 6
 - [ ] 2023: Ed Yong _An Immense World: How Animal Senses Reveal the Hidden Realms Around Us_
 - [ ] 2024: Roxanna Asgarian _We Were Once a Family: A Story of Love, Death, and Child Removal in America_
 - [ ] 2025: Kevin Fedarko _A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon_
-- [ ] 2026: Yiyun Li _Things in Nature Merely Grow_
+- [x] 2026: Yiyun Li _Things in Nature Merely Grow_

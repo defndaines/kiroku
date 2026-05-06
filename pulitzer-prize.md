@@ -9,7 +9,7 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 28
+Count: 29
 
 ## Fiction (20)
 
@@ -219,3 +219,11 @@ Count: 28
 - [x] 2025: Kathleen DuVal, _Native Nations: A Millennium in North America_
 - [ ] 2026: Jill Lepore, _We the People: A History of the U.S. Constitution_
 <!-- History -->
+
+## Memoir or Autobiography (1)
+
+- [ ] 2023: Hua Hsu, _Stay True_
+- [ ] 2024: Cristina Rivera Garza _Liliana’s Invincible Summer: A Sister’s Search for Justice_
+- [ ] 2025: Tessa Hulls _Feeding Ghosts: A Graphic Memoir_
+- [x] 2026: Yiyun Li _Things in Nature Merely Grow_
+<!-- Memoir -->
