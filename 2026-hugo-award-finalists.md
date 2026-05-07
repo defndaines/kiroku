@@ -32,8 +32,8 @@ World Science Fiction Convention.
 
 ## Best Short Story
 
-- [ ] “In My Country” Thomas Ha
 - [ ] “Six People to Revise You” J.R. Dawson
+- [x] “In My Country” Thomas Ha
 - [x] “Wire Mother” Isabel J. Kim
 - [x] “Missing Helen” Tia Tashiro
 - [x] “Laser Eyes Ain’t Everything” Effie Seiberg
