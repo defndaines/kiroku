@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Saga, Volume 12 | Brian K. Vaughan | 2025 | U.S. | 4.0 | ebook | 148 | graphic novel, fantasy, sci-fi |
 | Shadows of the Sea | Cathy Malkasian | 2025 | U.S. | 4.0 | ebook | 161 | fantasy |
 | The Last Session, Volume 1: Roll for Initiative | Jasmine Walls | 2022 | U.S. | 5.0 | ebook | 136 | fantasy, LGBT, YA, contemporary, queer |
 | Overgeared, Volume 1 | Monohumbug, Park Saenal | 2023 | South Korea | 3.5 | ebook | 285 | fantasy, manhwa |

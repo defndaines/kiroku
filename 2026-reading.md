@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Long and Speaking Silence | Nghi Vo | 2026 | U.S. | 4.5 | audio | 144 | novella, fantasy, LGBT, queer |
 | In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Hugo Award Finalist |
 | Things in Nature Merely Grow | Yiyun Li | 2025 | China | 4.5 | audio | 192 | nonfiction, memoir, mental health, Pulitzer Prize, Andrew Carnegie Medal |
 | The River Has Roots | Amal El-Mohtar | 2025 | Canada, U.K. | 4.0 | audio | 133 | novella, fantasy, romance, Hugo Award Finalist |
