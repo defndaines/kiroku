@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Up the Line | Robert Silverberg | 1969 | U.S. | 3.5 | audio | 320 | sci-fi, fantasy, historical, time travel, reread |
 | A Long and Speaking Silence | Nghi Vo | 2026 | U.S. | 4.5 | audio | 144 | novella, fantasy, LGBT, queer |
 | In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Hugo Award Finalist |
 | Things in Nature Merely Grow | Yiyun Li | 2025 | China | 4.5 | audio | 192 | nonfiction, memoir, mental health, Pulitzer Prize, Andrew Carnegie Medal |

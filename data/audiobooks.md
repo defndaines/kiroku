@@ -611,7 +611,6 @@
 | Our Wives Under the Sea | Julia Armfield | 2022 | U.K. | 240 | 06:07 | horror, LGBT, contemporary, queer, lesbian, Sunny-Lu-disappointed | 3.68 | 136754 | [58659343](https://www.goodreads.com/book/show/58659343-our-wives-under-the-sea) |
 | Mobility | Lydia Kiesling | 2023 | Azerbaijan | 352 | 07:05 | literary, historical, contemporary, politics, coming of age, unread country | 3.68 | 2361 | [85323183](https://www.goodreads.com/book/show/85323183-mobility) |
 | A Time of Changes | Robert Silverberg | 1971 | U.S. | 205 | 07:38 | classics, sci-fi, fantasy, speculative, Nebula Award | 3.68 | 3754 | [1706646](https://www.goodreads.com/book/show/1706646.A_Time_of_Changes) |
-| Up the Line | Robert Silverberg | 1969 | U.S. | 320 | 08:11 | sci-fi, fantasy, historical, time travel, speculative, reread | 3.67 | 2131 | [449343](https://www.goodreads.com/book/show/449343.Up_the_Line) |
 | The President’s Brain is Missing | John Scalzi | 2010 | U.S. | 29 | 00:48 | short stories, sci-fi, mystery, humor, [own] | 3.67 | 3147 | [10365532](https://www.goodreads.com/book/show/10365532-the-president-s-brain-is-missing) |
 | The Initial Insult | Mindy McGinnis | 2021 | U.S. | 372 | 07:30 | mystery, thriller, horror, YA, retelling, contemporary, the-initial-insult-1 | 3.67 | 7024 | [53487133](https://www.goodreads.com/book/show/53487133-the-initial-insult) |
 | The Children of Men | P.D. James | 1992 | U.K. | 241 | 09:34 | sci-fi, mystery, thriller, dystopian, post-apocalyptic | 3.67 | 53168 | [406161](https://www.goodreads.com/book/show/406161.The_Children_of_Men) |
