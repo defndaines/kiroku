@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Akira, Volume 4 | Katsuhiro Otomo | 1986 | Japan | 3.5 | print | 394 | manga, sci-fi, dystopian, cyberpunk |
 | Akira, Volume 3 | Katsuhiro Otomo | 1986 | Japan | 4.5 | print | 282 | manga, sci-fi, dystopian, cyberpunk |
 | Saga, Volume 12 | Brian K. Vaughan | 2025 | U.S. | 4.0 | ebook | 148 | fantasy, sci-fi |
 | Shadows of the Sea | Cathy Malkasian | 2025 | U.S. | 4.0 | ebook | 161 | fantasy |
