@@ -5,13 +5,14 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 4.5 | print | 128 | short stories, literary, contemporary |
 | Up the Line | Robert Silverberg | 1969 | U.S. | 3.5 | audio | 320 | sci-fi, fantasy, historical, time travel, reread |
 | A Long and Speaking Silence | Nghi Vo | 2026 | U.S. | 4.5 | audio | 144 | novella, fantasy, LGBT, queer |
 | In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Hugo Award Finalist |
 | Things in Nature Merely Grow | Yiyun Li | 2025 | China, U.S. | 4.5 | audio | 192 | nonfiction, memoir, mental health, Pulitzer Prize, Andrew Carnegie Medal |
 | The River Has Roots | Amal El-Mohtar | 2025 | Canada, U.K. | 4.0 | audio | 133 | novella, fantasy, romance, Hugo Award Finalist |
 | If We Cannot Go at the Speed of Light | Kim Cho-yeop | 2019 | South Korea | 4.5 | audio | 192 | short stories, sci-fi, fantasy, contemporary |
-| Laser Eyes Ain’t Everything | Effie Seiberg | 2025 | U.S. | 4.5 | eboook | 11 | short story, sci-fi, disability, superhero, Hugo Award Finalist |
+| Laser Eyes Ain’t Everything | Effie Seiberg | 2025 | U.S. | 4.5 | ebook | 11 | short story, sci-fi, disability, superhero, Hugo Award Finalist |
 | Ghalen: A Romance in Black | Walter Mosley | 2026 | U.S. | 4.0 | print | 360 | family saga, disability |
 | The Jakarta Method: Washington’s Anticommunist Crusade and the Mass Murder Program that Shaped Our World | Vincent Bevins | 2020 | U.S. | 4.5 | audio | 320 | nonfiction, history, politics, war |
 | Death of the Author | Nnedi Okorafor | 2025 | U.S., Nigeria | 4.5 | audio | 448 | literary, sci-fi, contemporary, NAACP Image Award, She Reads Best of Award, Hugo Award Finalist |
@@ -40,7 +41,7 @@ fiction otherwise). The most recently finished book is on top.
 | Kaiju Agonistes | Scott Lynch | 2025 | U.S. | 4.0 | ebook | 30 | novelette, sci-fi, historical, kaijū, humor |
 | The Works of Vermin | Hiron Ennes | 2025 | U.S. | 2.5 | audio | 68 | DNF, fantasy, horror, thriller, sci-fi, LGBT, queer |
 | We Survived the Night | Julian Brave NoiseCat | 2025 | Secwépemc, U.S., Canada | 4.5 | audio | 432 | nonfiction, memoir, history, Native American, indigenous, race |
-| Abolish Rent: How Tenants Can End the Housing Crisis | Tracy Rosenthal, Leonardo Vilchis | 2024 | U.S. | 5.0 | print | 148 | nonfiction, history, politics, economics, social justice | 4.42 | 513 | [205900042](https://www.goodreads.com/book/show/205900042-abolish-rent) |
+| Abolish Rent: How Tenants Can End the Housing Crisis | Tracy Rosenthal, Leonardo Vilchis | 2024 | U.S. | 5.0 | print | 148 | nonfiction, history, politics, economics, social justice |
 | Wire Mother | Isabel J. Kim | 2025 | U.S. | 5.0 | ebook | 13 | short story, sci-fi, horror |
 | Things You Learn as a Werewolf (That Will Come in Handy Later) | Morgan Wilson | 2025 | U.K. | 5.0 | ebook | 4 | short story, fantasy, supernatural, werewolves |
 | Pages from a Young Girl’s Journal | Robert Aickman | 1975 | U.K., Italy | 3.5 | print | 27 | short story, fantasy, supernatural, World Fantasy Award |
