@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lindsey Cheng Dates a White Boy!!! | Asia Miller | 2024 | U.S. | 3.5 | ebook | 197 | contemporary, romance, queer |
 | Akira, Volume 4 | Katsuhiro Otomo | 1986 | Japan | 3.5 | print | 394 | manga, sci-fi, dystopian, cyberpunk |
 | Akira, Volume 3 | Katsuhiro Otomo | 1986 | Japan | 4.5 | print | 282 | manga, sci-fi, dystopian, cyberpunk |
 | Saga, Volume 12 | Brian K. Vaughan | 2025 | U.S. | 4.0 | ebook | 148 | fantasy, sci-fi |
