@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Brawler | Lauren Groff | 2026 | U.S. | 4.5 | audio | 288 | short stories, literary, contemporary |
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 4.5 | print | 128 | short stories, literary, contemporary |
 | Up the Line | Robert Silverberg | 1969 | U.S. | 3.5 | audio | 320 | sci-fi, fantasy, historical, time travel, reread |
 | A Long and Speaking Silence | Nghi Vo | 2026 | U.S. | 4.5 | audio | 144 | novella, fantasy, LGBT, queer |
