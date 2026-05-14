@@ -18,6 +18,7 @@ makes me curious.
 - [ ] Embassytown (2011) [Locus]
 - [ ] Railsea (2012) [Locus]
 - [x] The Book of Elsewhere (2024), with Keanu Reeves
+- [ ] The Rouse (2026)
 
 ### Novellas
 - [ ] The Tain (2002)
