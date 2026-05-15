@@ -19,7 +19,7 @@
 - [ ] Moonstorm (2024)
 - [ ] Starstrike (2025)
 
-### Standalone novels
+### Standalone Novels
 
 - [ ] Phoenix Extravagant (2020)
 
@@ -30,7 +30,11 @@
 - [ ] The Fox’s Tower and Other Tales (2015)
 - [ ] Hexarchate Stories (2019)
 
-## Short stories
+## Graphic Novels
+
+- [x] Doom’s Division (2025)
+
+## Short Stories
 
 - [ ] “Bonsai Starships” (2022)
 - [ ] “Lucky Day” (2020)
