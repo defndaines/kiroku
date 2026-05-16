@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Six People to Revise You | J.R. Dawson | 2026 | U.S. | 4.0 | ebook | 19 | short story, sci-fi, LGBT, Hugo Award Finalist |
 | Brawler | Lauren Groff | 2026 | U.S. | 4.5 | audio | 288 | short stories, literary, contemporary |
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 4.5 | print | 128 | short stories, literary, contemporary |
 | Up the Line | Robert Silverberg | 1969 | U.S. | 3.5 | audio | 320 | sci-fi, fantasy, historical, time travel, reread |
