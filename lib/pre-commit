@@ -1,0 +1,239 @@
+#!/usr/bin/env bash
+
+errors=0
+
+check_file() {
+  local file="$1"
+  local has_errors=0
+
+  # Check overall Count against distinct [x] entries.
+  # Deduplication: strip the "- [x] " prefix so identical lines (same book in
+  # two categories) are collapsed by sort -u.
+  if grep -q "^Count:" "$file"; then
+    local declared_count actual_count
+    declared_count=$(grep "^Count:" "$file" | sed 's/^Count: *//' | tr -d '[:space:]')
+    actual_count=$(grep '^- \[x\]' "$file" | sed 's/^- \[x\] //' | sort -u | wc -l | tr -d '[:space:]')
+
+    if [[ "$declared_count" != "$actual_count" ]]; then
+      echo "  Count: declared $declared_count, actual $actual_count distinct books read"
+      has_errors=1
+    fi
+  fi
+
+  # Check per-category counts for ## headings that contain (N).
+  if grep -q "^## " "$file"; then
+    local total_lines
+    total_lines=$(wc -l < "$file")
+
+    while IFS= read -r raw_line; do
+      local line_num heading paren_count next_line end actual_section_count section_name
+      line_num=$(echo "$raw_line" | cut -d: -f1)
+      heading=$(echo "$raw_line" | cut -d: -f2-)
+
+      # Use the last (N) in the heading as the declared count; skip if absent.
+      paren_count=$(echo "$heading" | grep -o '([0-9][0-9]*)' | tail -1 | tr -d '()')
+      [[ -z "$paren_count" ]] && continue
+
+      next_line=$(awk -v start="$line_num" 'NR > start && /^## / { print NR; exit }' "$file")
+      end=${next_line:-$((total_lines + 1))}
+
+      actual_section_count=$(sed -n "${line_num},$((end - 1))p" "$file" | grep -c '^- \[x\]')
+
+      if [[ "$paren_count" != "$actual_section_count" ]]; then
+        section_name=$(echo "$heading" | sed 's/^## //' | sed 's/ *([0-9][0-9]*) *$//')
+        echo "  Section '$section_name': declared $paren_count, actual $actual_section_count"
+        has_errors=1
+      fi
+    done < <(grep -n "^## " "$file")
+  fi
+
+  return $has_errors
+}
+
+validate_table_file() {
+  local file="$1"
+  local file_type="$2"  # "reading" or "data"
+  local has_errors=0
+  local header_parsed=0
+  local col_count=0
+  local line_num=0
+  local header_cols=()
+  local cells=()
+  local parts_arr=()
+  local j is_sep v ci col_name col_val col_lower
+  local int_part decimal frac mins
+  local re_year_bce='^[0-9]+ BCE$'
+  local re_rating_reading='^[0-9]+\.[0-9]+$'
+  local re_rating_data='^[0-9]+\.[0-9]{2}$'
+  local re_hours='^[0-9]{2}:[0-9]{2}$'
+  local re_goodreads='^\[[0-9]+\]\(https://www\.goodreads\.com/book/show/.+\)$'
+
+  while IFS= read -r line; do
+    line_num=$((line_num + 1))
+    [[ "$line" != *"|"* ]] && continue
+
+    cells=()
+    IFS='|' read -ra parts_arr <<< "$line"
+    for ((j=1; j<${#parts_arr[@]}-1; j++)); do
+      v="${parts_arr[$j]}"
+      v="${v#"${v%%[![:space:]]*}"}"
+      v="${v%"${v##*[![:space:]]}"}"
+      cells+=("$v")
+    done
+
+    # Detect and skip separator rows (--- | :---: | etc.)
+    is_sep=1
+    for v in "${cells[@]}"; do
+      [[ "$v" =~ ^:?-+:?$ ]] || { is_sep=0; break; }
+    done
+    [[ $is_sep -eq 1 ]] && continue
+
+    # First non-separator row is the header
+    if [[ $header_parsed -eq 0 ]]; then
+      header_cols=("${cells[@]}")
+      col_count=${#cells[@]}
+      header_parsed=1
+      continue
+    fi
+
+    if [[ ${#cells[@]} -ne $col_count ]]; then
+      echo "  Line $line_num: expected $col_count columns, got ${#cells[@]}"
+      has_errors=1
+      continue
+    fi
+
+    for ((ci=0; ci<${#cells[@]}; ci++)); do
+      col_name="${header_cols[$ci]}"
+      col_val="${cells[$ci]}"
+      col_lower="${col_name,,}"
+
+      if [[ -z "$col_val" ]]; then
+        echo "  Line $line_num: column '$col_name' is empty"
+        has_errors=1
+        continue
+      fi
+
+      case "$col_lower" in
+        year)
+          if ! [[ "$col_val" =~ ^[0-9]{3,4}$ ]] && ! [[ "$col_val" =~ $re_year_bce ]]; then
+            echo "  Line $line_num: '$col_name' '$col_val' must be a 3-4 digit year or 'N BCE'"
+            has_errors=1
+          fi
+          ;;
+        rating)
+          if [[ "$file_type" == "reading" ]]; then
+            if ! [[ "$col_val" =~ $re_rating_reading ]]; then
+              echo "  Line $line_num: '$col_name' '$col_val' must be in #.# format"
+              has_errors=1
+            else
+              decimal="${col_val#*.}"
+              int_part="${col_val%.*}"
+              if [[ "$decimal" != "0" && "$decimal" != "25" && "$decimal" != "5" && "$decimal" != "75" ]]; then
+                echo "  Line $line_num: '$col_name' '$col_val' decimal must be .0, .25, .5, or .75"
+                has_errors=1
+              elif (( int_part > 5 )) || { (( int_part == 5 )) && [[ "$decimal" != "0" ]]; }; then
+                echo "  Line $line_num: '$col_name' '$col_val' must be between 0.0 and 5.0"
+                has_errors=1
+              fi
+            fi
+          else
+            if ! [[ "$col_val" =~ $re_rating_data ]]; then
+              echo "  Line $line_num: '$col_name' '$col_val' must have exactly two decimal places"
+              has_errors=1
+            else
+              int_part="${col_val%.*}"
+              frac="${col_val#*.}"
+              if (( int_part > 5 )) || { (( int_part == 5 )) && (( 10#$frac > 0 )); }; then
+                echo "  Line $line_num: '$col_name' '$col_val' must be between 0.00 and 5.00"
+                has_errors=1
+              fi
+            fi
+          fi
+          ;;
+        pages)
+          if ! [[ "$col_val" =~ ^[0-9]+$ ]] || (( col_val <= 0 )); then
+            echo "  Line $line_num: '$col_name' '$col_val' must be a positive integer"
+            has_errors=1
+          fi
+          ;;
+        format)
+          if [[ "$col_val" != "print" && "$col_val" != "ebook" && "$col_val" != "audio" ]]; then
+            echo "  Line $line_num: '$col_name' '$col_val' must be 'print', 'ebook', or 'audio'"
+            has_errors=1
+          fi
+          ;;
+        hours)
+          if ! [[ "$col_val" =~ $re_hours ]]; then
+            echo "  Line $line_num: '$col_name' '$col_val' must be in ##:## format (e.g., 04:48)"
+            has_errors=1
+          else
+            mins="${col_val#*:}"
+            if (( 10#$mins > 59 )); then
+              echo "  Line $line_num: '$col_name' '$col_val' minutes must be 00-59"
+              has_errors=1
+            fi
+          fi
+          ;;
+        "# ratings")
+          if ! [[ "$col_val" =~ ^[0-9]+$ ]] || (( col_val <= 0 )); then
+            echo "  Line $line_num: '$col_name' '$col_val' must be a positive integer"
+            has_errors=1
+          fi
+          ;;
+        goodreads)
+          if ! [[ "$col_val" =~ $re_goodreads ]]; then
+            echo "  Line $line_num: '$col_name' must be '[ID](https://www.goodreads.com/book/show/...)'"
+            has_errors=1
+          fi
+          ;;
+      esac
+    done
+  done < "$file"
+
+  return $has_errors
+}
+
+while IFS= read -r file; do
+  basename="${file##*/}"
+
+  if [[ "$basename" == *award*.md || "$basename" == *medal*.md || \
+        "$basename" == *prize*.md || "$basename" == "great-american-novels.md" || \
+        "$basename" == "nyt-100-best-21st-century.md" ]]; then
+    [[ -f "$file" ]] || continue
+    if output=$(check_file "$file" 2>&1); then
+      :
+    else
+      echo "FAIL: $file"
+      echo "$output"
+      errors=$((errors + 1))
+    fi
+  fi
+
+  if [[ "$file" != */* ]] && [[ "$file" =~ ^[0-9]{4}-.+\.md$ ]]; then
+    [[ -f "$file" ]] || continue
+    if output=$(validate_table_file "$file" "reading" 2>&1); then
+      :
+    else
+      echo "FAIL: $file"
+      echo "$output"
+      errors=$((errors + 1))
+    fi
+  fi
+
+  if [[ "$file" == "data/audiobooks.md" || "$file" == "data/eyebooks.md" ]]; then
+    [[ -f "$file" ]] || continue
+    if output=$(validate_table_file "$file" "data" 2>&1); then
+      :
+    else
+      echo "FAIL: $file"
+      echo "$output"
+      errors=$((errors + 1))
+    fi
+  fi
+done < <(git diff --cached --name-only --diff-filter=ACM)
+
+if [[ $errors -gt 0 ]]; then
+  echo ""
+  echo "Pre-commit hook: fix the count error(s) above before committing."
+  exit 1
+fi

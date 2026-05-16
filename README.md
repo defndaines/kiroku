@@ -113,3 +113,12 @@ of [countries](film/countries-watched.md) I’ve seen movies from.
 
 * [Hugo Award](film/hugo-award.md)
 * [Nebula Award](film/nebula-award.md)
+
+## Maintenance
+
+The [lib](lib) directory contains scripts, including a git hook for ensuring
+that files are properly formed before pushing.
+```shell
+root=$(pwd)
+ln -sf ${root}/lib/pre-commit ${root}/.git/hooks
+```
