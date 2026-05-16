@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| 10 Visions of the Future; or, Self-Care for the End of Days | Samantha Mills | 2026 | U.S. | 4.5 | ebook | 10 | short story, sci-fi, fantasy, dystopian, reread, Hugo Award Finalist |
 | Six People to Revise You | J.R. Dawson | 2026 | U.S. | 4.0 | ebook | 19 | short story, sci-fi, LGBT, Hugo Award Finalist |
 | Brawler | Lauren Groff | 2026 | U.S. | 4.5 | audio | 288 | short stories, literary, contemporary |
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 4.5 | print | 128 | short stories, literary, contemporary |
