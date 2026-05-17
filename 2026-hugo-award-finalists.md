@@ -25,9 +25,9 @@ World Science Fiction Convention.
 
 - [ ] “Rapport: Friendship, Solidarity, Communion, Empathy” Martha Wells
 - [ ] “The Millay Illusion” Sarah Pinsker
-- [ ] “When He Calls Your Name” Catherynne M. Valente
 - [x] “The Girl That My Mother Is Leaving Me For” Cameron Reed
 - [x] “Never Eaten Vegetables” H.H. Pak
+- [x] “When He Calls Your Name” Catherynne M. Valente
 - [x] “Kaiju Agonistes” Scott Lynch
 
 ## Best Short Story
