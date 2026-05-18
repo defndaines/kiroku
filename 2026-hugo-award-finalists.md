@@ -23,11 +23,11 @@ World Science Fiction Convention.
 
 ## Best Novelette
 
-- [ ] “Rapport: Friendship, Solidarity, Communion, Empathy” Martha Wells
 - [ ] “The Millay Illusion” Sarah Pinsker
 - [x] “The Girl That My Mother Is Leaving Me For” Cameron Reed
 - [x] “Never Eaten Vegetables” H.H. Pak
 - [x] “When He Calls Your Name” Catherynne M. Valente
+- [x] “Rapport: Friendship, Solidarity, Communion, Empathy” Martha Wells
 - [x] “Kaiju Agonistes” Scott Lynch
 
 ## Best Short Story
