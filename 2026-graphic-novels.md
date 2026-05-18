@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Pizza Witch | Sarah Graley, Stef Purenins | 2025 | U.K. | 4.0 | ebook | 283 | fantasy, YA, LGBT, food |
 | Doom’s Division | Yoon Ha Lee | 2025 | U.S., South Korea | 3.0 | print | 120 | superhero, fantasy, sci-fi |
 | Amalgam: An Immigrant, His Labor Union, and His American Family in Brooklyn | Frances Jetter | 2024 | U.S. | 3.5 | ebook | 160 | nonfiction, memoir, biography, labor |
 | Lindsey Cheng Dates a White Boy!!! | Asia Miller | 2024 | U.S. | 3.5 | ebook | 197 | contemporary, romance, queer |
