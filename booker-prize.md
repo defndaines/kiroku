@@ -93,3 +93,4 @@ Count: 13
 - [ ] 2023: Georgi Gospodinov (Bulgaria) _Time Shelter_
 - [ ] 2024: Jenny Erpenbeck (Germany) _Kairos_
 - [ ] 2025: Banu Mushtaq (India) _Heart Lamp_
+- [ ] 2026: Yáng Shuāng-zǐ (Taiwan) _Taiwan Travelogue_
