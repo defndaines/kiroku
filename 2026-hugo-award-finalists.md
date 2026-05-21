@@ -113,12 +113,12 @@ World Science Fiction Convention.
 
 ## Best Professional Artist
 
-- [ ] Lulu Chen
-- [ ] Kelly Chong
-- [ ] Dave Kellett
-- [ ] Tran Nguyen
-- [ ] John Picacio
-- [ ] Tom Roberts
+- [x] Tran Nguyen
+- [x] Dave Kellett
+- [x] Kelly Chong
+- [x] Lulu Chen
+- [x] John Picacio
+- [x] Tom Roberts
 
 ## Best Semiprozine
 
@@ -143,9 +143,9 @@ World Science Fiction Convention.
 - [ ] _A Meal of Thorns_ Jake Casella Brookins
 - [ ] _Eating the Fantastic_ Scott Edelman
 - [ ] _Octothorpe_ John Coxon, Alison Scott, and Liz Batty
-- [ ] _The Coode Street Podcast_ Jonathan Strahan and Gary K. Wolfe
 - [ ] _Worldbuilding for Masochists_ Marshall Ryan Maresca, Cass Morris, and Natania Barron
 - [x] _Hugo, Girl!_ Haley Zapal, Amy Salley, Lori Anderson, and Kevin Anderson
+- [x] _The Coode Street Podcast_ Jonathan Strahan and Gary K. Wolfe
 
 ## Best Fan Writer
 
@@ -158,21 +158,21 @@ World Science Fiction Convention.
 
 ## Best Fan Artist
 
-- [ ] Terri Ash
-- [ ] Geneva Bowers
-- [ ] Sara Felix
-- [ ] Richard Man
-- [ ] España Sheriff
-- [ ] Yuumei
+- [x] Yuumei
+- [x] Geneva Bowers
+- [x] Sara Felix
+- [x] Terri Ash
+- [x] Richard Man
+- [x] España Sheriff
 
 ## Best Poem
 
-- [ ] “Care for Lightning” Mari Ness
-- [ ] “Hex Supply Customer Support Log” Elis Montgomery
-- [ ] “How to Become a Sea Witch” Theodora Goss
-- [ ] “Landing: Seattle” Brandon O’Brien
-- [ ] “The Mourning Robot” Angela Liu
-- [ ] “The World to Come” Jennifer Hudak
+- [x] “Hex Supply Customer Support Log” Elis Montgomery
+- [x] “The Mourning Robot” Angela Liu
+- [x] “Care for Lightning” Mari Ness
+- [x] “How to Become a Sea Witch” Theodora Goss
+- [x] “The World to Come” Jennifer Hudak
+- [x] “Landing: Seattle” Brandon O’Brien
 
 ## Lodestar Award for Best YA Book
 
