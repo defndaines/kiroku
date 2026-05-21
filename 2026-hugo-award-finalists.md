@@ -51,9 +51,9 @@ World Science Fiction Convention.
 ## Best Graphic Story or Comic
 
 - [ ] _A Wizard of Earthsea: A Graphic Novel_, written by Ursula K. Le Guin, adapted and art by Fred Fordham
-- [ ] _The Invisible Parade_ Leigh Bardugo and John Picacio
 - [x] _The Power Fantasy Volume 1: The Superpowers_, written by Kieron Gillen, art by Caspar Wijngaard
 - [x] _Absolute Wonder Woman Vol. 1: The Last Amazon_, written by Kelly Thompson, art by Hayden Sherman and Mattia de Iulis
+- [x] _The Invisible Parade_ Leigh Bardugo and John Picacio
 - [x] _The Space Cat_, written by Nnedi Okorafor, art by Tana Ford
 - [x] _A Girl and Her Fed_, written by KB Spangler, art by Ale Presser
 
