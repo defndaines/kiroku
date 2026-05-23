@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Ancillary Justice | Ann Leckie | 2013 | U.S. | 4.5 | audio | 386 | sci-fi, space opera, The Kitschies, Hugo Award, Nebula Award, Locus Award, Arthur C. Clarke Award, British Science Fiction Association Award, British Fantasy Award, Seiun Award 星雲賞 |
 | The Millay Illusion | Sarah Pinsker | 2026 | U.S. | 3.5 | ebook | 29 | novelette, Hugo Award Finalist |
 | Flashlight | Susan Choi | 2025 | U.S. | 4.0 | audio | 464 | literary, historical, mystery, contemporary |
 | When He Calls Your Name | Catherynne M. Valente | 2025 | U.S. | 4.0 | ebook | 35 | novelette, fantasy, Hugo Award Finalist |

@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 48
+Count: 49
 
 ## Novel (4)
 
@@ -123,7 +123,7 @@ Count: 48
 - [x] 2025: Alexander Boldizar _The Man Who Saw Seconds_
 <!-- Science Fiction Novel -->
 
-## First Novel (3)
+## First Novel (4)
 
 - [ ] 1981: Robert L. Forward _Dragon’s Egg_
 - [ ] 1982: S. P. Somtow _Starship & Haiku_
@@ -158,7 +158,7 @@ Count: 48
 - [ ] 2011: N. K. Jemisin _The Hundred Thousand Kingdoms_
 - [ ] 2012: Erin Morgenstern _The Night Circus_
 - [ ] 2013: Saladin Ahmed _Throne of the Crescent Moon_
-- [ ] 2014: Ann Leckie _Ancillary Justice_
+- [x] 2014: Ann Leckie _Ancillary Justice_
 - [ ] 2015: M. Rickert _The Memory Garden_
 - [ ] 2016: Ken Liu _The Grace of Kings_
 - [x] 2017: Yoon Ha Lee _Ninefox Gambit_

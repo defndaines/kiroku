@@ -10,9 +10,9 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 41
+Count: 42
 
-## Novel (18)
+## Novel (19)
 
 - [x] 1966: Frank Herbert _Dune_
 - [x] 1967: Samuel R. Delany _Babel-17_
@@ -63,7 +63,7 @@ Count: 41
 - [ ] 2011: Connie Willis _Blackout/All Clear_
 - [ ] 2012: Jo Walton _Among Others_
 - [ ] 2013: Kim Stanley Robinson _2312_
-- [ ] 2014: Ann Leckie _Ancillary Justice_
+- [x] 2014: Ann Leckie _Ancillary Justice_
 - [x] 2015: Jeff VanderMeer _Annihilation_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_

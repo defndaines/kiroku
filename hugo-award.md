@@ -11,9 +11,9 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 80
+Count: 81
 
-## Novel (27)
+## Novel (28)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -85,7 +85,7 @@ Count: 80
 - [ ] 2011: Connie Willis _Blackout/All Clear_
 - [ ] 2012: Jo Walton _Among Others_
 - [ ] 2013: John Scalzi _Redshirts_
-- [ ] 2014: Ann Leckie _Ancillary Justice_
+- [x] 2014: Ann Leckie _Ancillary Justice_
 - [x] 2015: Cixin Liu, Ken Liu (translator) _The Three-Body Problem_
 - [x] 2016: N. K. Jemisin _The Fifth Season_
 - [x] 2017: N. K. Jemisin _The Obelisk Gate_

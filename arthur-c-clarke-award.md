@@ -11,7 +11,7 @@ Announced in June.
 
 https://www.clarkeaward.com/
 
-Count: 6
+Count: 7
 
 - [x] 1987: Margaret Atwood _The Handmaid’s Tale_
 - [ ] 1988: George Turner _The Sea and Summer_
@@ -40,7 +40,7 @@ Count: 6
 - [x] 2011: Lauren Beukes _Zoo City_
 - [ ] 2012: Jane Rogers _The Testament of Jessie Lamb_
 - [ ] 2013: Chris Beckett _Dark Eden_
-- [ ] 2014: Ann Leckie _Ancillary Justice_
+- [x] 2014: Ann Leckie _Ancillary Justice_
 - [ ] 2015: Emily St. John Mandel _Station Eleven_
 - [ ] 2016: Adrian Tchaikovsky _Children of Time_
 - [x] 2017: Colson Whitehead _The Underground Railroad_
