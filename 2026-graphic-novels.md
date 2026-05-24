@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #14 | Jim Zub, Matthew John, Joe Pruett | 2026 | U.S. | 4.0 | print | 64 | fantasy, adventure, sword and sorcery |
 | The Invisible Parade | Leigh Bardugo | 2025 | Israel | 4.0 | ebook | 60 | fantasy, Hugo Award Finalist |
 | The Power Fantasy Volume 1: The Superpowers | Kieron Gillen | 2025 | U.S. | 4.5 | ebook | 132 | superhero, sci-fi, politics, Hugo Award Finalist  |
 | Akira, Volume 6 | Katsuhiro Otomo | 1990 | Japan | 4.0 | print | 434 | manga, sci-fi, dystopian, cyberpunk |
