@@ -57,6 +57,7 @@ track of which award-winning books I’ve read in the following files.
 Not awards, but lists I’d like to read more of.
 
 * [The Atlantic’s Great American Novels](great-american-novels.md)
+* [Guardian’s 100 Best Novels of All Time](guardian-100-best-novels-of-all-time.md)
 * [NYT’s Best Books of 21st Century](nyt-100-best-21st-century.md)
 
 ### Around the World

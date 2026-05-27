@@ -202,7 +202,7 @@ for award in akutagawa-prize.md andrew-carnegie-medal-for-excellence.md \
 done
 
 ### What Percentage of Award Books Have I Read?
-for award in *{award,medal,prize}*.md great-american-novels.md nyt-100-best-21st-century.md; do
+for award in *{award,medal,prize}*.md great-american-novels.md nyt-100-best-21st-century.md guardian-100-best-novels-of-all-time.md; do
   head -1 "${award}"
   count=$(rg "^Count:" "${award}"| sed 's/Count: //')
   total=$(rg -c "^- \[" "${award}")

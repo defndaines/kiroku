@@ -1,0 +1,106 @@
+# The 100 Best Novels of All Time
+
+https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time
+
+Count: 34
+
+- [ ] 100: _My Ántonia_ Willa Cather
+- [ ] 99: _The Go-Between_ LP Hartley
+- [x] 98: _The Road_ Cormac McCarthy
+- [x] 97: _Catch-22_ Joseph Heller
+- [ ] 96: _Pedro Páramo_ Juan Rulfo
+- [ ] 95: _The Return of the Native_ Thomas Hardy
+- [ ] 94: _The Known World_ Edward P Jones
+- [ ] 93: _Invisible Cities_ Italo Calvino
+- [ ] 92: _Sentimental Education_ Gustave Flaubert
+- [ ] 91: _Life and Fate_ Vasily Grossman
+- [ ] 90: _Jacob’s Room_ Virginia Woolf
+- [x] 89: _The Left Hand of Darkness_ Ursula K Le Guin
+- [ ] 88: _Ragtime_ EL Doctorow
+- [ ] 87: _The Line of Beauty_ Alan Hollinghurst
+- [ ] 86: _The Turn of the Screw_ Henry James
+- [x] 85: _The Vegetarian_ Han Kang
+- [ ] 84: _The Talented Mr Ripley_ Patricia Highsmith
+- [ ] 83: _A Farewell to Arms_ Ernest Hemingway
+- [ ] 82: _The End of the Affair_ Graham Greene
+- [ ] 81: _Buddenbrooks_ Thomas Mann
+- [x] 80: _Rebecca_ Daphne du Maurier
+- [ ] 79: _Go Tell It on the Mountain_ James Baldwin
+- [ ] 78: _A House for Mr Biswas_ VS Naipaul
+- [ ] 77: _The Rainbow_ DH Lawrence
+- [x] 76: _Dracula_ Bram Stoker
+- [ ] 75: _The Bluest Eye_ Toni Morrison
+- [ ] 74: _Nervous Conditions_ Tsitsi Dangarembga
+- [ ] 73: _Austerlitz_ WG Sebald
+- [ ] 72: _Our Mutual Friend_ Charles Dickens
+- [x] 71: _Kindred_ Octavia E Butler
+- [ ] 70: _Jude the Obscure_ Thomas Hardy
+- [x] 69: _Crime and Punishment_ Fyodor Dostoevsky
+- [x] 68: _Blood Meridian_ Cormac McCarthy
+- [ ] 67: _The Man Without Qualities_ Robert Musil
+- [ ] 66: _The Master and Margarita_ Mikhail Bulgakov
+- [x] 65: _The Color Purple_ Alice Walker
+- [ ] 64: _The Good Soldier_ Ford Madox Ford
+- [ ] 63: _White Teeth_ Zadie Smith
+- [ ] 62: _Half of a Yellow Sun_ Chimamanda Ngozi Adichie
+- [ ] 61: _The Rings of Saturn_ WG Sebald
+- [ ] 60: _Howards End_ EM Forster
+- [x] 59: _Never Let Me Go_ Kazuo Ishiguro
+- [ ] 58: _Disgrace_ JM Coetzee
+- [ ] 57: _The Sound and the Fury_ William Faulkner
+- [ ] 56: _Mansfield Park_ Jane Austen
+- [ ] 55: _The Waves_ Virginia Woolf
+- [x] 54: _Orlando_ Virginia Woolf
+- [ ] 53: _The Transit of Venus_ Shirley Hazzard
+- [ ] 52: _The Golden Bowl_ Henry James
+- [x] 51: _My Brilliant Friend_ Elena Ferrante
+- [ ] 50: _Wide Sargasso Sea_ Jean Rhys
+- [ ] 49: _A Fine Balance_ Rohinton Mistry
+- [x] 48: _The Metamorphosis_ Franz Kafka
+- [ ] 47: _Vanity Fair_ William Makepeace Thackeray
+- [x] 46: _The Leopard_ Giuseppe Tomasi di Lampedusa
+- [ ] 45: _The Golden Notebook_ Doris Lessing
+- [x] 44: _Giovanni’s Room_ James Baldwin
+- [ ] 43: _Housekeeping_ Marilynne Robinson
+- [ ] 42: _The Magic Mountain_ Thomas Mann
+- [x] 41: _Heart of Darkness_ Joseph Conrad
+- [ ] 40: _Song of Solomon_ Toni Morrison
+- [x] 39: _Their Eyes Were Watching God_ Zora Neale Hurston
+- [ ] 38: _The Age of Innocence_ Edith Wharton
+- [x] 37: _Invisible Man_ Ralph Ellison
+- [x] 36: _The Handmaid’s Tale_ Margaret Atwood
+- [x] 35: _Great Expectations_ Charles Dickens
+- [x] 34: _Wolf Hall_ Hilary Mantel
+- [ ] 33: _David Copperfield_ Charles Dickens
+- [ ] 32: _The God of Small Things_ Arundhati Roy
+- [ ] 31: _The Prime of Miss Jean Brodie_ Muriel Spark
+- [x] 30: _Frankenstein_ Mary Shelley
+- [ ] 29: _Pale Fire_ Vladimir Nabokov
+- [ ] 28: _The Brothers Karamazov_ Fyodor Dostoyevsky
+- [x] 27: _The Trial_ Franz Kafka
+- [x] 26: _Don Quixote_ Miguel de Cervantes
+- [ ] 25: _Lolita_ Vladimir Nabokov
+- [x] 24: _The Remains of the Day_ Kazuo Ishiguro
+- [ ] 23: _Midnight’s Children_ Salman Rushdie
+- [x] 22: _Things Fall Apart_ Chinua Achebe
+- [ ] 21: _The Portrait of a Lady_ Henry James
+- [ ] 20: _Wuthering Heights_ Emily Brontë
+- [ ] 19: _The Life and Opinions of Tristram Shandy, Gentleman_ Laurence Sterne
+- [ ] 18: _Persuasion_ Jane Austen
+- [ ] 17: _One Hundred Years of Solitude_ Gabriel García Márquez
+- [x] 16: _Nineteen Eighty-Four_ George Orwell
+- [x] 15: _Moby-Dick_ Herman Melville
+- [ ] 14: _Mrs Dalloway_ Virginia Woolf
+- [x] 13: _Emma_ Jane Austen
+- [ ] 12: _Bleak House_ Charles Dickens
+- [x] 11: _The Great Gatsby_ F Scott Fitzgerald
+- [ ] 10: _Madame Bovary_ Gustave Flaubert
+- [x] 9: _Pride and Prejudice_ Jane Austen
+- [ ] 8: _Jane Eyre_ Charlotte Brontë
+- [ ] 7: _War and Peace_ Leo Tolstoy
+- [ ] 6: _Anna Karenina_ Leo Tolstoy
+- [x] 5: _In Search of Lost Time_ Marcel Proust
+- [ ] 4: _To the Lighthouse_ Virginia Woolf
+- [ ] 3: _Ulysses_ James Joyce
+- [x] 2: _Beloved_ Toni Morrison
+- [ ] 1: _Middlemarch_ George Eliot
