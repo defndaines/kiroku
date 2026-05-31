@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Luminous Fairies and Mothra | Shin'ichirō Nakamura, Takehiko Fukunaga, Yoshie Hotta | 1961 | Japan | 4.0 | print | 120 | novella, classics, fantasy, sci-fi, paranormal |
 | Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis | Jonathan Blitzer | 2024 | U.S. | 4.0 | audio | 544 | nonfiction, history, politics, immigration, social justice, race, sociology |
 | The Lottery | Shirley Jackson | 1948 | U.S. | 4.0 | ebook | 13 | short story, classics, horror, dystopian |
 | Ancillary Justice | Ann Leckie | 2013 | U.S. | 4.5 | audio | 386 | sci-fi, space opera, The Kitschies, Hugo Award, Nebula Award, Locus Award, Arthur C. Clarke Award, British Science Fiction Association Award, British Fantasy Award, Seiun Award 星雲賞 |

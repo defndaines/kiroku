@@ -11,6 +11,6 @@ Begins May 22, 2026 and ends Aug. 31, 2026.
 - [ ] 5. Read a classic you’ve been meaning to read (or revisit)
 - [x] 6. Read a book that takes place during the summer — “The Lottery” Shirley Jackson ... the lottery takes place every year on June 27th.
 - [ ] 7. Read a book in translation
-- [ ] 8. Read a book that’s been adapted for the screen
+- [x] 8. Read a book that’s been adapted for the screen — “The Luminous Fairies and Mothra” Shin'ichirō Nakamura, Takehiko Fukunaga, Yoshie Hotta
 - [ ] 9. Listen to an audiobook
 - [ ] 10. Check out and read a book from your local library. (Bonus points if it’s recommended by a librarian!)
