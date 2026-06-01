@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Takahashi from the Bike Shop, Volume 1 | Arare Matsumushi | 2019 | Japan | 4.0 | ebook | 164 | manga, romance, contemporary |
 | A Wizard of Earthsea: A Graphic Novel | Fred Fordham, Ursula K. Le Guin | 2025 | U.S. | 4.5 | ebook | 270 | classics, fantasy, YA |
 | The Savage Sword of Conan #14 | Jim Zub, Matthew John, Joe Pruett | 2026 | U.S. | 4.0 | print | 64 | fantasy, adventure, sword and sorcery |
 | The Invisible Parade | Leigh Bardugo | 2025 | Israel | 4.0 | ebook | 60 | fantasy, Hugo Award Finalist |
