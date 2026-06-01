@@ -169,14 +169,6 @@ tail -n +8 2026-reading.md| sort -t\| -k 8 -n
 
 grep -F -v -f <(grep -l "$(date +%Y)" *.md) <(ls *{award,medal,prize}*.md)
 
-## Hugo Books
-
-grep "^Count" hugo-award.md| grep -c '\[x\]'
-
-## Nebula Books (i.e., skip movies and series watched)
-
-grep "^Count" nebula-award.md| grep -c '\[x\]'
-
 ## Other awards (for loop audits)
 
 grep "^Count:" *{award,medal,prize}*.md

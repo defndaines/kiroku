@@ -40,3 +40,4 @@ Count: 1
 - [ ] 2023: Katja Oskamp _Marzahn, Mon Amour_
 - [ ] 2024: Mircea Cărtărescu _Solenoid_
 - [ ] 2025: Michael Crummey _The Adversary_
+- [ ] 2026: Ali Smith _Gliff_

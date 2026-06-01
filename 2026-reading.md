@@ -18,14 +18,14 @@ fiction otherwise). The most recently finished book is on top.
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 4.5 | print | 128 | short stories, literary, contemporary |
 | Up the Line | Robert Silverberg | 1969 | U.S. | 3.5 | audio | 320 | sci-fi, fantasy, historical, time travel, reread |
 | A Long and Speaking Silence | Nghi Vo | 2026 | U.S. | 4.5 | audio | 144 | novella, fantasy, LGBT, queer |
-| In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Hugo Award Finalist |
+| In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Locus Award, Hugo Award Finalist |
 | Things in Nature Merely Grow | Yiyun Li | 2025 | China, U.S. | 4.5 | audio | 192 | nonfiction, memoir, mental health, Pulitzer Prize, Andrew Carnegie Medal |
-| The River Has Roots | Amal El-Mohtar | 2025 | Canada, U.K. | 4.0 | audio | 133 | novella, fantasy, romance, Hugo Award Finalist |
+| The River Has Roots | Amal El-Mohtar | 2025 | Canada, U.K. | 4.0 | audio | 133 | novella, fantasy, romance, Locus Award, Hugo Award Finalist |
 | If We Cannot Go at the Speed of Light | Kim Cho-yeop | 2019 | South Korea | 4.5 | audio | 192 | short stories, sci-fi, fantasy, contemporary |
 | Laser Eyes Ain’t Everything | Effie Seiberg | 2025 | U.S. | 4.5 | ebook | 11 | short story, sci-fi, disability, superhero, Hugo Award Finalist |
 | Ghalen: A Romance in Black | Walter Mosley | 2026 | U.S. | 4.0 | print | 360 | family saga, disability |
 | The Jakarta Method: Washington’s Anticommunist Crusade and the Mass Murder Program that Shaped Our World | Vincent Bevins | 2020 | U.S. | 4.5 | audio | 320 | nonfiction, history, politics, war |
-| Death of the Author | Nnedi Okorafor | 2025 | U.S., Nigeria | 4.5 | audio | 448 | literary, sci-fi, contemporary, NAACP Image Award, She Reads Best of Award, Hugo Award Finalist |
+| Death of the Author | Nnedi Okorafor | 2025 | U.S., Nigeria | 4.5 | audio | 448 | literary, sci-fi, contemporary, NAACP Image Award, She Reads Best of Award, Locus Award, Hugo Award Finalist |
 | Woman at Point Zero | Nawal El Saadawi | 1975 | Egypt | 4.75 | audio | 108 | classics, literary, feminism |
 | Not “A Nation of Immigrants”: Settler Colonialism, White Supremacy, and a History of Erasure and Exclusion | Roxanne Dunbar-Ortiz | 2021 | U.S. | 5.0 | audio | 392 | nonfiction, history, politics, race, social justice, indigenous |
 | Hexes of the Deadwood Forest | Agnieszka Szpila | 2021 | Poland | 4.0 | audio | 368 | literary, fantasy, contemporary, feminism |
@@ -92,7 +92,7 @@ fiction otherwise). The most recently finished book is on top.
 | The Empusium: A Health Resort Horror Story | Olga Tokarczuk | 2022 | Poland | 4.0 | audio | 305 | literary, historical, horror, feminism, Nobel Prize, Europese Literatuurprijs, Jerzy Żuławski Literary Award |
 | The Destructors | Graham Greene | 1955 | U.K. | 4.0 | print | 40 | short story, classics, historical |
 | On the Calculation of Volume I | Solvej Balle | 2020 | Denmark | 4.5 | ebook | 176 | literary, sci-fi, magical realism, time travel, Nordic Council Literature Prize |
-| We Will Rise Again: Speculative Stories and Essays on Protest, Resistance, and Hope | Karen Lord (editor), Annalee Newitz (editor), Malka Ann Older (editor) | 2025 | Barbados, Canada, Dominican Republic, Grenada, Guatemala, India, Malaysia, Palestine, Puerto Rico, U.K., U.S., Ukraine | 4.5 | audio | 384 | nonfiction, short stories, essays, speculative, politics, LGBT, social justice |
+| We Will Rise Again: Speculative Stories and Essays on Protest, Resistance, and Hope | Karen Lord (editor), Annalee Newitz (editor), Malka Ann Older (editor) | 2025 | Barbados, Canada, Dominican Republic, Grenada, Guatemala, India, Malaysia, Palestine, Puerto Rico, U.K., U.S., Ukraine | 4.5 | audio | 384 | nonfiction, short stories, essays, speculative, politics, LGBT, social justice, Locus Award |
 | You Can’t Kill a Man Because of the Books He Reads: Angelo Herndon’s Fight for Free Speech | Brad Snyder | 2025 | U.S. | 4.0 | audio | 336 | nonfiction, history, politics, race |
 | Red Star: The First Bolshevik Utopia | Alexander Bogdanov | 1908 | Russia | 4.0 | print | 252 | classics, sci-fi, politics |
 | Between Two Rivers: Ancient Mesopotamia and the Birth of History | Moudhy Al-Rashid | 2025 | Saudi Arabia | 4.0 | audio | 336 | nonfiction, history |

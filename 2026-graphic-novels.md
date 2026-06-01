@@ -11,7 +11,7 @@ on top.
 | The Power Fantasy Volume 1: The Superpowers | Kieron Gillen | 2025 | U.S. | 4.5 | ebook | 132 | superhero, sci-fi, politics, Hugo Award Finalist  |
 | Akira, Volume 6 | Katsuhiro Otomo | 1990 | Japan | 4.0 | print | 434 | manga, sci-fi, dystopian, cyberpunk |
 | Akira, Volume 5 | Katsuhiro Otomo | 1989 | Japan | 4.0 | print | 413 | manga, sci-fi, dystopian, cyberpunk |
-| The Space Cat | Nnedi Okorafor | 2025 | U.S. | 3.5 | ebook | 176 | sci-fi, fantasy, Hugo Award Finalist |
+| The Space Cat | Nnedi Okorafor | 2025 | U.S. | 3.5 | ebook | 176 | sci-fi, fantasy, Locus Award, Hugo Award Finalist |
 | Pizza Witch | Sarah Graley, Stef Purenins | 2025 | U.K. | 4.0 | ebook | 283 | fantasy, YA, LGBT, food |
 | Doom’s Division | Yoon Ha Lee | 2025 | U.S., South Korea | 3.0 | print | 120 | superhero, fantasy, sci-fi |
 | Amalgam: An Immigrant, His Labor Union, and His American Family in Brooklyn | Frances Jetter | 2024 | U.S. | 3.5 | ebook | 160 | nonfiction, memoir, biography, labor |

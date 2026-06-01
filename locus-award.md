@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 49
+Count: 52
 
 ## Novel (4)
 
@@ -71,9 +71,10 @@ Count: 49
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 - [ ] 2024: Martha Wells _Witch King_
 - [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
+- [ ] 2026: Alix E. Harrow _The Everlasting_
 <!-- Fantasy Novel -->
 
-## Science Fiction Novel (5)
+## Science Fiction Novel (6)
 
 - [ ] 1980: John Varley _Titan_
 - [ ] 1981: Joan D. Vinge _The Snow Queen_
@@ -121,6 +122,7 @@ Count: 49
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Martha Wells _System Collapse_
 - [x] 2025: Alexander Boldizar _The Man Who Saw Seconds_
+- [x] 2026: Nnedi Okorafor _Death of the Author_
 <!-- Science Fiction Novel -->
 
 ## First Novel (4)
@@ -170,6 +172,7 @@ Count: 49
 - [ ] 2023: Ray Nayler _The Mountain in the Sea_
 - [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
 - [x] 2025: John Wiswell _Someone You Can Build a Nest In_
+- [ ] 2026: Natalia Theodoridou _Sour Cherry_
 <!-- First Novel -->
 
 ## Young Adult (4)
@@ -197,6 +200,7 @@ Count: 49
 - [ ] 2023: Charlie Jane Anders _Dreams Bigger Than Heartbreak_
 - [ ] 2024: Charlie Jane Anders _Promises Stronger Than Darkness_
 - [ ] 2025: Yoon Ha Lee _Moonstorm_
+- [ ] 2026: Yoon Ha Lee _Starstrike_
 <!-- Young Adult -->
 
 ## Horror (2)
@@ -220,9 +224,14 @@ Count: 49
 - [x] 2023 T. Kingfisher _What Moves the Dead_
 - [ ] 2024 T. Kingfisher _A House with Good Bones_
 - [ ] 2025 Chuck Tingle _Bury Your Gays_
+- [ ] 2026: Stephen Graham Jones _The Buffalo Hunter Hunter_
 <!-- Horror -->
 
-## Novella (7)
+## Translated Novel (0)
+- [ ] 2026: Solvej Balle, tr. Sophia Hersi Smith & Jennifer Russell _On the Calculation of Volume III_
+<!-- Translated Novel -->
+
+## Novella (8)
 
 - [ ] 1973: Frederik Pohl _The Gold at the Starbow’s End_
 - [ ] 1974: Gene Wolfe _The Death of Doctor Island_
@@ -277,6 +286,7 @@ Count: 49
 - [x] 2023: Becky Chambers _A Prayer for the Crown-Shy_
 - [ ] 2024: T. Kingfisher _Thornhedge_
 - [x] 2025: T. Kingfisher _What Feasts at Night_
+- [x] 2026: Amal El-Mohtar _The River Has Roots_
 <!-- Novella -->
 
 ## Novelette (3)
@@ -334,9 +344,10 @@ Count: 49
 - [x] 2023: John Chu “If You Find Yourself Speaking to God, Address God with the Informal You”
 - [ ] 2024: Uchechukwu Nwaka “The Rainbow Bank”
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
+- [ ] 2026: Somto Ihezue “We Begin Where Infinity Ends”
 <!-- Novelette -->
 
-## Short Story (12)
+## Short Story (13)
 
 - [ ] 1971: ~Harlan Ellison “The Region Between”~
 - [ ] 1972: Poul Anderson “The Queen of Air and Darkness”
@@ -393,4 +404,5 @@ Count: 49
 - [x] 2023: Samantha Mills “Rabbit Test”
 - [ ] 2024: P. Djèlí Clark “How to Raise a Kraken in Your Bathtub”
 - [x] 2025: Isabel J. Kim “Why Don’t We Just Kill the Kid In the Omelas Hole”
+- [x] 2026: Thomas Ha “In My Country”
 <!-- Short Story -->
