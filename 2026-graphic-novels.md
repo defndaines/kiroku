@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Home Sick Pilots, Volume 1: Teenage Haunts | Dan Watters | 2020 | U.K. | 4.0 | ebook | 152 | horror, fantasy, YA, paranormal |
 | The Power Fantasy Volume 3: The End of History | Kieron Gillen | 2026 | U.S. | 4.5 | print | 136 | superhero, sci-fi, politics |
 | The Power Fantasy Volume 2: Mutually Reassuring Destruction | Kieron Gillen | 2025 | U.S. | 4.5 | print | 192 | superhero, sci-fi, politics |
 | Takahashi from the Bike Shop, Volume 1 | Arare Matsumushi | 2019 | Japan | 4.0 | ebook | 164 | manga, romance, contemporary |
