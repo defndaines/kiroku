@@ -83,7 +83,7 @@ Count: 104
 - [x] Australia: [_True History of the Kelly Gang_](https://www.goodreads.com/book/show/110090.True_History_of_the_Kelly_Gang) Peter Carey; [_Sabriel_](https://www.goodreads.com/book/show/518848.Sabriel) Garth Nix
 - [x] North Korea: _The Accusation_ Bandi (NOT recommended); Younghill Kang?
 - [ ] Niger:
-- [x] Taiwan: [_The Man with the Compound Eyes_](https://www.goodreads.com/book/show/17614822-the-man-with-the-compound-eyes) Wu Ming-Yi
+- [x] Taiwan: [_The Man with the Compound Eyes_](https://www.goodreads.com/book/show/17614822-the-man-with-the-compound-eyes) Wu Ming-Yi; [_Taiwan Travelogue_](https://www.goodreads.com/book/show/205363984-taiwan-travelogue) Yáng Shuāng-zǐ
 - [x] Syria: [_Their Blood Got Mixed: Revolutionary Rojava and the War on ISIS_](https://www.goodreads.com/book/show/59521653-their-blood-got-mixed) Janet Biehl
 - [ ] Mali:
 - [x] Burkina Faso: [_Women’s Liberation and the African Freedom Struggle_](https://www.goodreads.com/book/show/3039894-women-s-liberation-and-the-african-freedom-struggle) Thomas Sankara

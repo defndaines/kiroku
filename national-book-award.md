@@ -10,7 +10,7 @@ I’m including the pre-1950 books only where I’ve read them.
 
 https://www.nationalbook.org/national-book-awards/
 
-Count: 22
+Count: 23
 
 ## Fiction (10)
 
@@ -196,7 +196,7 @@ Count: 22
 - [ ] 2025: Daniel Nayeri _The Teacher of Nomad Land: A World War II Story_
 <!-- Young People’s Literature -->
 
-## Translated Literature (3)
+## Translated Literature (4)
 
 - [ ] 1967: Gregory Rabassa, Julio Cortázar, _Hopscotch_
 - [ ] 1967: Willard Trask, Casanova, _History of My Life_
@@ -227,6 +227,6 @@ Count: 22
 - [ ] 2021: Aneesa Abbass Higgins, Elisa Shua Dusapin, _Winter in Sokcho_
 - [x] 2022: Megan McDowell, Samanta Schweblin, _Seven Empty Houses_
 - [ ] 2023: Stênio Gardel, Bruna Dantas Lobato, _The Words that Remain_
-- [ ] 2024: Yáng Shuāng-zǐ _Taiwan Travelogue_
+- [x] 2024: Yáng Shuāng-zǐ _Taiwan Travelogue_
 - [ ] 2025: Gabriela Cabezón Cámara _We Are Green and Trembling_
 <!-- Translated Literature -->

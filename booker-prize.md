@@ -9,7 +9,7 @@ five-person panel consisting of authors, publishers and journalists, as well
 as politicians, actors, artists and musicians, is appointed by the Booker
 Prize Foundation each year to choose the winning book.
 
-Count: 13
+Count: 14
 
 ## Booker Prize (9)
 
@@ -75,7 +75,7 @@ Count: 13
 - [x] 2024: Samantha Harvey _Orbital_
 - [x] 2025: David Szalay _Flesh_
 
-## International Booker Prize (4)
+## International Booker Prize (5)
 
 - [ ] 2005: Ismail Kadare (Albania)
 - [x] 2007: Chinua Achebe (Nigeria)
@@ -93,4 +93,4 @@ Count: 13
 - [ ] 2023: Georgi Gospodinov (Bulgaria) _Time Shelter_
 - [ ] 2024: Jenny Erpenbeck (Germany) _Kairos_
 - [ ] 2025: Banu Mushtaq (India) _Heart Lamp_
-- [ ] 2026: Yáng Shuāng-zǐ (Taiwan) _Taiwan Travelogue_
+- [x] 2026: Yáng Shuāng-zǐ (Taiwan) _Taiwan Travelogue_
