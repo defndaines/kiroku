@@ -247,6 +247,10 @@ for f in [a-z]*.md; do
   git diff 355bef7 "$f"| grep "^[-+]Count:"
 done
 
+### Updates to File since a Given Date
+
+git diff $(git rev-list -n 1 --before="2026-05-01" HEAD -- 2026-reading.md)..HEAD -- 2026-reading.md
+
 ## TBR Documents
 
 ### Tags

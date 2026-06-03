@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Home Sick Pilots, Volume 2: I Wanna Be a Walking Weapon | Dan Watters | 2021 | U.K. | 4.5 | ebook | 120 | horror, fantasy, sci-fi, paranormal |
 | Home Sick Pilots, Volume 1: Teenage Haunts | Dan Watters | 2020 | U.K. | 4.0 | ebook | 152 | horror, fantasy, YA, paranormal |
 | The Power Fantasy Volume 3: The End of History | Kieron Gillen | 2026 | U.S. | 4.5 | print | 136 | superhero, sci-fi, politics |
 | The Power Fantasy Volume 2: Mutually Reassuring Destruction | Kieron Gillen | 2025 | U.S. | 4.5 | print | 192 | superhero, sci-fi, politics |
