@@ -26,7 +26,6 @@
 | Arch of Triumph: A Novel of a Man Without a Country | Erich Maria Remarque | 1945 | Germany, France | 464 | 15:51 | classics, literary, historical, romance, war, 1939 refugee in Paris | 4.43 | 33074 | [672948](https://www.goodreads.com/book/show/672948.Arch_of_Triumph) |
 | Where I’m Calling From: New and Selected Stories | Raymond Carver | 1988 | U.S. | 544 | 16:48 | short stories, classics, literary, Ambassador Book Award, O. Henry Award | 4.41 | 22547 | [11437](https://www.goodreads.com/book/show/11437.Where_I_m_Calling_From) |
 | No Shortcuts: Organizing for Power in the New Gilded Age | Jane F. McAlevey | 2016 | U.S. | 272 | 09:46 | nonfiction, history, economics, politics, social justice, labor | 4.41 | 1446 | [29639226](https://www.goodreads.com/book/show/29639226-no-shortcuts) |
-| Magellan | Stefan Zweig | 1938 | Austria | 352 | 10:22 | nonfiction, classics, history, biography, [own] | 4.41 | 6354 | [11250550](https://www.goodreads.com/book/show/11250550-magellan) |
 | Going Postal | Terry Pratchett | 2004 | U.K. | 394 | 11:23 | fantasy, humor, Geffen Award, Margaret A. Edwards Award, discworld-33 | 4.41 | 137795 | [64222](https://www.goodreads.com/book/show/64222.Going_Postal) |
 | Mother Mary Comes to Me | Arundhati Roy | 2025 | India | 331 | 11:29 | nonfiction, memoir, feminism | 4.40 | 26584 | [224004055](https://www.goodreads.com/book/show/224004055-mother-mary-comes-to-me) |
 | Jayber Crow | Wendell Berry | 2000 | U.S. | 363 | 14:05 | classics, historical | 4.40 | 23370 | [57460](https://www.goodreads.com/book/show/57460.Jayber_Crow) |
