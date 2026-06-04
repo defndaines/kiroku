@@ -5,15 +5,16 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Home Sick Pilots, Volume 3: Three Chords and the End of the World | Dan Watters | 2022 | U.K. | 4.5 | ebook | 144 | horror, fantasy, sci-fi, paranormal |
 | Home Sick Pilots, Volume 2: I Wanna Be a Walking Weapon | Dan Watters | 2021 | U.K. | 4.5 | ebook | 120 | horror, fantasy, sci-fi, paranormal |
 | Home Sick Pilots, Volume 1: Teenage Haunts | Dan Watters | 2020 | U.K. | 4.0 | ebook | 152 | horror, fantasy, YA, paranormal |
-| The Power Fantasy Volume 3: The End of History | Kieron Gillen | 2026 | U.S. | 4.5 | print | 136 | superhero, sci-fi, politics |
-| The Power Fantasy Volume 2: Mutually Reassuring Destruction | Kieron Gillen | 2025 | U.S. | 4.5 | print | 192 | superhero, sci-fi, politics |
+| The Power Fantasy, Volume 3: The End of History | Kieron Gillen | 2026 | U.S. | 4.5 | print | 136 | superhero, sci-fi, politics |
+| The Power Fantasy, Volume 2: Mutually Reassuring Destruction | Kieron Gillen | 2025 | U.S. | 4.5 | print | 192 | superhero, sci-fi, politics |
 | Takahashi from the Bike Shop, Volume 1 | Arare Matsumushi | 2019 | Japan | 4.0 | ebook | 164 | manga, romance, contemporary |
 | A Wizard of Earthsea: A Graphic Novel | Fred Fordham, Ursula K. Le Guin | 2025 | U.S. | 4.5 | ebook | 270 | classics, fantasy, YA |
 | The Savage Sword of Conan #14 | Jim Zub, Matthew John, Joe Pruett | 2026 | U.S. | 4.0 | print | 64 | fantasy, adventure, sword and sorcery |
 | The Invisible Parade | Leigh Bardugo | 2025 | Israel | 4.0 | ebook | 60 | fantasy, Hugo Award Finalist |
-| The Power Fantasy Volume 1: The Superpowers | Kieron Gillen | 2025 | U.S. | 4.5 | ebook | 132 | superhero, sci-fi, politics, Hugo Award Finalist |
+| The Power Fantasy, Volume 1: The Superpowers | Kieron Gillen | 2025 | U.S. | 4.5 | ebook | 132 | superhero, sci-fi, politics, Hugo Award Finalist |
 | Akira, Volume 6 | Katsuhiro Otomo | 1990 | Japan | 4.0 | print | 434 | manga, sci-fi, dystopian, cyberpunk |
 | Akira, Volume 5 | Katsuhiro Otomo | 1989 | Japan | 4.0 | print | 413 | manga, sci-fi, dystopian, cyberpunk |
 | The Space Cat | Nnedi Okorafor | 2025 | U.S. | 3.5 | ebook | 176 | sci-fi, fantasy, Locus Award, Hugo Award Finalist |
