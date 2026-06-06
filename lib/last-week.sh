@@ -22,10 +22,17 @@ output_file="${REPO_DIR}/archives/${next_sunday}.txt"
 # Last commit before the cutoff
 base_commit=$(git -C "$REPO_DIR" rev-list -1 --before="${git_since}" HEAD)
 
-# Extract added data rows from a file (strips diff +prefix, excludes header/separator).
+# Extract only new (not modified) data rows from a file. Buffers consecutive +|
+# lines and only emits them when no -| lines appeared in the same block, which
+# distinguishes a new row from a spelling/rating edit (- line paired with + line).
 added_rows() {
   git -C "$REPO_DIR" diff "${base_commit}" HEAD -- "$1" \
-    | grep '^+|' \
+    | awk '
+      /^-\|/ { del++; next }
+      /^\+\|/ { buf[++n] = $0; next }
+      { if (!del) for (i = 1; i <= n; i++) print buf[i]; del = 0; n = 0 }
+      END { if (!del) for (i = 1; i <= n; i++) print buf[i] }
+    ' \
     | grep -v '^+| --- ' \
     | grep -v '^+| Title |' \
     | sed 's/^+//'

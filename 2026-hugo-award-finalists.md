@@ -187,7 +187,7 @@ World Science Fiction Convention.
 
 - [ ] Sophie Burnham
 - [ ] Kamilah Cole
-- [ ] Antonia Hodgson
 - [ ] Molly O’Neill
-- [ ] H.H. Pak
 - [ ] Jared Pechaček
+- [x] Antonia Hodgson
+- [x] H.H. Pak
