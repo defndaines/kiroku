@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| On the Calculation of Volume III | Solvej Balle | 2021 | Denmark | 4.5 | ebook | 175 | literary, sci-fi, magical realism, time travel, Nordic Council Literature Prize, Locus Award |
 | Magellan: A Man and His Deed | Stefan Zweig | 1938 | Austria | 4.5 | audio | 352 | nonfiction, classics, history, biography |
 | Taiwan Travelogue | Yáng Shuāng-zǐ | 2020 | Taiwan | 4.5 | audio | 298 | literary, historical, LGBT, romance, queer, National Book Award, International Booker Prize |
 | The Luminous Fairies and Mothra | Shin'ichirō Nakamura, Takehiko Fukunaga, Yoshie Hotta | 1961 | Japan | 4.0 | print | 120 | novella, classics, fantasy, sci-fi, paranormal |

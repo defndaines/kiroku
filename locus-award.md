@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 52
+Count: 53
 
 ## Novel (4)
 
@@ -227,8 +227,8 @@ Count: 52
 - [ ] 2026: Stephen Graham Jones _The Buffalo Hunter Hunter_
 <!-- Horror -->
 
-## Translated Novel (0)
-- [ ] 2026: Solvej Balle, tr. Sophia Hersi Smith & Jennifer Russell _On the Calculation of Volume III_
+## Translated Novel (1)
+- [x] 2026: Solvej Balle, tr. Sophia Hersi Smith & Jennifer Russell _On the Calculation of Volume III_
 <!-- Translated Novel -->
 
 ## Novella (8)

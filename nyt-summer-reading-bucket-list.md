@@ -13,4 +13,4 @@ Begins May 22, 2026 and ends Aug. 31, 2026.
 - [x] 7. Read a book in translation — “Taiwan Travelogue” Yáng Shuāng-zǐ ... translated from Taiwanese.
 - [x] 8. Read a book that’s been adapted for the screen — “The Luminous Fairies and Mothra” Shin’ichirō Nakamura, Takehiko Fukunaga, Yoshie Hotta ... is the original novella for the Mothra movies.
 - [x] 9. Listen to an audiobook — “Magellan: A Man and His Deed” Stefan Zweig ... also translated, also classic
-- [ ] 10. Check out and read a book from your local library. (Bonus points if it’s recommended by a librarian!)
+- [x] 10. Check out and read a book from your local library. (Bonus points if it’s recommended by a librarian!) — “On the Calculation of Volume III” Solvej Balle ... borrowed as an ebook.
