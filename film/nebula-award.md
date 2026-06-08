@@ -10,9 +10,9 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 25
+Count: 26
 
-## Ray Bradbury Award (12)
+## Ray Bradbury Award (13)
 
 - [x] 1991: _Terminator 2: Judgment Day_ James Cameron, William Wisher Jr.
 - [ ] 1998: _Babylong 5_ J. Michael Straczynski
@@ -34,6 +34,7 @@ Count: 25
 - [x] 2022: _Everything Everywhere All at Once_ Daniel Kwan, Daniel Scheinert
 - [ ] 2023: _Barbie_ Greta Gerwig, Noah Baumbach
 - [x] 2024: _Dune: Part Two_ Jon Spaihts, Denis Villeneuve
+- [x] 2024: _Murderbot: Season One_ Chris Weitz
 <!-- Ray Bradbury Award -->
 
 ## Script (13)

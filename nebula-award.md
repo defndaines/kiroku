@@ -10,74 +10,75 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 42
+Count: 44
 
 ## Novel (19)
 
-- [x] 1966: Frank Herbert _Dune_
-- [x] 1967: Samuel R. Delany _Babel-17_
-- [x] 1967: Daniel Keyes _Flowers for Algernon_
-- [ ] 1968: Samuel R. Delany _The Einstein Intersection_
-- [ ] 1969: Alexei Panshin _Rite of Passage_
-- [x] 1970: Ursula K. Le Guin _The Left Hand of Darkness_
-- [ ] 1971: Larry Niven _Ringworld_
-- [ ] 1972: Robert Silverberg _A Time of Changes_
-- [ ] 1973: Isaac Asimov _The Gods Themselves_
-- [ ] 1974: Arthur C. Clarke _Rendezvous with Rama_
-- [x] 1975: Ursula K. Le Guin _The Dispossessed_
-- [x] 1976: Joe Haldeman _The Forever War_
-- [ ] 1977: Frederik Pohl _Man Plus_
-- [x] 1978: Frederik Pohl _Gateway_
-- [ ] 1979: Vonda N. McIntyre _Dreamsnake_
-- [ ] 1980: Arthur C. Clarke _The Fountains of Paradise_
-- [ ] 1981: Gregory Benford _Timescape_
-- [ ] 1982: Gene Wolfe _The Claw of the Conciliator_
-- [ ] 1983: Michael Bishop _No Enemy But Time_
-- [ ] 1984: David Brin _Startide Rising_
-- [x] 1985: William Gibson _Neuromancer_
-- [x] 1986: Orson Scott Card _Ender’s Game_
-- [x] 1987: Orson Scott Card _Speaker for the Dead_
-- [ ] 1988: Pat Murphy _The Falling Woman_
-- [ ] 1989: Lois McMaster Bujold _Falling Free_
-- [ ] 1990: Elizabeth Ann Scarborough _The Healer’s War_
-- [ ] 1991: Ursula K. Le Guin _Tehanu: The Last Book of Earthsea_
-- [ ] 1992: Michael Swanwick _Stations of the Tide_
-- [ ] 1993: Connie Willis _Doomsday Book_
-- [ ] 1994: Kim Stanley Robinson _Red Mars_
-- [ ] 1995: Greg Bear _Moving Mars_
-- [ ] 1996: Robert J. Sawyer _The Terminal Experiment_
-- [ ] 1997: Nicola Griffith _Slow River_
-- [ ] 1998: Vonda N. McIntyre _The Moon and the Sun_
-- [ ] 1999: Joe Haldeman _Forever Peace_
-- [x] 2000: Octavia E. Butler _Parable of the Talents_
-- [ ] 2001: Greg Bear _Darwin’s Radio_
-- [ ] 2002: Catherine Asaro _The Quantum Rose_
-- [x] 2003: Neil Gaiman _American Gods_
-- [ ] 2004: Elizabeth Moon _The Speed of Dark_
-- [ ] 2005: Lois McMaster Bujold _Paladin of Souls_
-- [ ] 2006: Joe Haldeman _Camouflage_
-- [ ] 2007: Jack McDevitt _Seeker_
-- [ ] 2008: Michael Chabon _The Yiddish Policemen’s Union_
-- [ ] 2009: Ursula K. Le Guin _Powers_
-- [ ] 2010: Paolo Bacigalupi _The Windup Girl_
-- [ ] 2011: Connie Willis _Blackout/All Clear_
-- [ ] 2012: Jo Walton _Among Others_
-- [ ] 2013: Kim Stanley Robinson _2312_
-- [x] 2014: Ann Leckie _Ancillary Justice_
-- [x] 2015: Jeff VanderMeer _Annihilation_
-- [ ] 2016: Naomi Novik _Uprooted_
-- [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
-- [x] 2018: N. K. Jemisin _The Stone Sky_
-- [x] 2019: Mary Robinette Kowal _The Calculating Stars_
-- [ ] 2020: Sarah Pinsker _A Song for a New Day_
-- [x] 2021: Martha Wells _Network Effect_
-- [ ] 2022: P. Djèlí Clark _A Master of Djinn_
-- [x] 2023: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
-- [ ] 2024: Vajra Chandrasekera _The Saint of Bright Doors_
-- [x] 2025: John Wiswell _Someone You Can Build a Nest In_
+- [x] 1965: Frank Herbert _Dune_
+- [x] 1966: Samuel R. Delany _Babel-17_
+- [x] 1966: Daniel Keyes _Flowers for Algernon_
+- [ ] 1967: Samuel R. Delany _The Einstein Intersection_
+- [ ] 1968: Alexei Panshin _Rite of Passage_
+- [x] 1969: Ursula K. Le Guin _The Left Hand of Darkness_
+- [ ] 1970: Larry Niven _Ringworld_
+- [ ] 1971: Robert Silverberg _A Time of Changes_
+- [ ] 1972: Isaac Asimov _The Gods Themselves_
+- [ ] 1973: Arthur C. Clarke _Rendezvous with Rama_
+- [x] 1974: Ursula K. Le Guin _The Dispossessed_
+- [x] 1975: Joe Haldeman _The Forever War_
+- [ ] 1976: Frederik Pohl _Man Plus_
+- [x] 1977: Frederik Pohl _Gateway_
+- [ ] 1978: Vonda N. McIntyre _Dreamsnake_
+- [ ] 1979: Arthur C. Clarke _The Fountains of Paradise_
+- [ ] 1980: Gregory Benford _Timescape_
+- [ ] 1981: Gene Wolfe _The Claw of the Conciliator_
+- [ ] 1982: Michael Bishop _No Enemy But Time_
+- [ ] 1983: David Brin _Startide Rising_
+- [x] 1984: William Gibson _Neuromancer_
+- [x] 1985: Orson Scott Card _Ender’s Game_
+- [x] 1986: Orson Scott Card _Speaker for the Dead_
+- [ ] 1987: Pat Murphy _The Falling Woman_
+- [ ] 1988: Lois McMaster Bujold _Falling Free_
+- [ ] 1989: Elizabeth Ann Scarborough _The Healer’s War_
+- [ ] 1990: Ursula K. Le Guin _Tehanu: The Last Book of Earthsea_
+- [ ] 1991: Michael Swanwick _Stations of the Tide_
+- [ ] 1992: Connie Willis _Doomsday Book_
+- [ ] 1993: Kim Stanley Robinson _Red Mars_
+- [ ] 1994: Greg Bear _Moving Mars_
+- [ ] 1995: Robert J. Sawyer _The Terminal Experiment_
+- [ ] 1996: Nicola Griffith _Slow River_
+- [ ] 1997: Vonda N. McIntyre _The Moon and the Sun_
+- [ ] 1998: Joe Haldeman _Forever Peace_
+- [x] 1999: Octavia E. Butler _Parable of the Talents_
+- [ ] 2000: Greg Bear _Darwin’s Radio_
+- [ ] 2001: Catherine Asaro _The Quantum Rose_
+- [x] 2002: Neil Gaiman _American Gods_
+- [ ] 2003: Elizabeth Moon _The Speed of Dark_
+- [ ] 2004: Lois McMaster Bujold _Paladin of Souls_
+- [ ] 2005: Joe Haldeman _Camouflage_
+- [ ] 2006: Jack McDevitt _Seeker_
+- [ ] 2007: Michael Chabon _The Yiddish Policemen’s Union_
+- [ ] 2008: Ursula K. Le Guin _Powers_
+- [ ] 2009: Paolo Bacigalupi _The Windup Girl_
+- [ ] 2010: Connie Willis _Blackout/All Clear_
+- [ ] 2011: Jo Walton _Among Others_
+- [ ] 2012: Kim Stanley Robinson _2312_
+- [x] 2013: Ann Leckie _Ancillary Justice_
+- [x] 2014: Jeff VanderMeer _Annihilation_
+- [ ] 2015: Naomi Novik _Uprooted_
+- [ ] 2016: Charlie Jane Anders _All the Birds in the Sky_
+- [x] 2017: N. K. Jemisin _The Stone Sky_
+- [x] 2018: Mary Robinette Kowal _The Calculating Stars_
+- [ ] 2019: Sarah Pinsker _A Song for a New Day_
+- [x] 2020: Martha Wells _Network Effect_
+- [ ] 2021: P. Djèlí Clark _A Master of Djinn_
+- [x] 2022: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
+- [ ] 2023: Vajra Chandrasekera _The Saint of Bright Doors_
+- [x] 2024: John Wiswell _Someone You Can Build a Nest In_
+- [ ] 2025: Stephen Graham Jones _The Buffalo Hunter Hunter_
 <!-- Novel -->
 
-## Novella (6)
+## Novella (7)
 
 - [ ] 1965: Brian W. Aldiss “The Saliva Tree”
 - [ ] 1965: Roger Zelazny “He Who Shapes”
@@ -140,6 +141,7 @@ Count: 42
 - [x] 2022: C. L. Polk _Even Though I Knew the End_
 - [ ] 2023: Ai Jiang “Linghun”
 - [ ] 2024: A. D. Sui _The Dragonfly Gambit_
+- [x] 2025: Amal El-Mohtar _The River Has Roots_
 <!-- Novella -->
 
 ## Novelette (4)
@@ -204,9 +206,10 @@ Count: 42
 - [x] 2022: John Chu “If You Find Yourself Speaking to God, Address God with the Informal You”
 - [x] 2023: Naomi Kritzer “The Year Without Sunshine”
 - [x] 2024: A. W. Prihandita “Negative Scholarship on the Fifth State of Being”
+- [ ] 2025: Thomas Ha “Uncertain Sons”
 <!-- Novelette -->
 
-## Short Story (8)
+## Short Story (9)
 
 - [x] 1965: Harlan Ellison “‘Repent, Harlequin!’ Said the Ticktockman”
 - [ ] 1966: Richard McKenna “The Secret Place”
@@ -268,6 +271,7 @@ Count: 42
 - [x] 2022: Samantha Mills “Rabbit Test”
 - [ ] 2023: R. S. A. Garcia “Tantie Merle and the Farmhand 4200”
 - [x] 2024: Isabel J. Kim “Why Don’t We Just Kill the Kid In the Omelas Hole”
+- [x] 2025: Effie Seiberg “Laser Eyes Ain’t Everything”
 <!-- Short Story -->
 
 ## Andre Norton Award (5)
@@ -292,4 +296,9 @@ Count: 42
 - [ ] 2022: K. Tempest Bradford _Ruby Finley vs. the Interstellar Invasion_
 - [x] 2023: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 - [ ] 2024: Vanessa Ricci-Thode _The Young Necromancer’s Guide to Ghosts_
+- [ ] 2025: Michelle Knudsen _Into the Wild Magic_
 <!-- Andre Norton Award -->
+
+## Comic (0)
+
+- [ ] 2025: Jessica Maison _Mary Shelley’s School for Monsters: The Killing Stone_
