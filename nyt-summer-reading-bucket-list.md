@@ -4,7 +4,7 @@ https://www.nytimes.com/2026/05/21/books/summer-reading-sweepstakes-form.html
 
 Begins May 22, 2026 and ends Aug. 31, 2026.
 
-- [ ] 1. Read a book published in the last year
+- [x] 1. Read a book published in the last year — “Positive Obsession: The Life and Times of Octavia E. Butler” Susana M. Morris ... published in 2025.
 - [x] 2. Read a book in a genre you don’t typically read — “Takahashi from the Bike Shop” Arare Matsumushi ... is a romance manga. I mostly read literary, sci-fi, and fantasy.
 - [ ] 3. Read one of The New York Times’s Best Books of the 21st Century
 - [x] 4. Read a really short, or a really long, book — “Everyone Who Is Gone Is Here” Jonathan Blitzer ... 544 pages.

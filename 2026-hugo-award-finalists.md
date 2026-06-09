@@ -62,9 +62,9 @@ World Science Fiction Convention.
 - [ ] _Colourfields: Writing About Writing About Science Fiction_ Paul Kincaid
 - [ ] _Inventing the Renaissance_ Ada Palmer
 - [ ] _Last War in Albion_: “The Cuddled Little Vice (Sandman)” Elizabeth Sandifer
-- [ ] _Positive Obsession: The Life and Times of Octavia E. Butler_ Susana M. Morris
 - [ ] “Ragnarök vs the Long Night” Ashaya and Aziz
 - [ ] _The Hugo Spreadsheet of Doom_, maintained by Renay
+- [x] _Positive Obsession: The Life and Times of Octavia E. Butler_ Susana M. Morris
 
 ## Best Dramatic Presentation, Long Form
 

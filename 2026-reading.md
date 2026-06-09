@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Positive Obsession: The Life and Times of Octavia E. Butler | Susana M. Morris | 2025 | U.S. | 5.0 | audio | 272 | nonfiction, biography, history, Black, Hugo Award Finalist |
 | We Begin Where Infinity Ends | Somto Ihezue | 2025 | Nigeria | 4.0 | ebook | 37 | novelette, sci-fi, LGBT, Locus Award |
 | The Heart of the Nhaga | Yeong-Do Lee | 2003 | South Korea | 4.0 | audio | 448 | fantasy |
 | On the Calculation of Volume III | Solvej Balle | 2021 | Denmark | 4.5 | ebook | 175 | literary, sci-fi, magical realism, time travel, Nordic Council Literature Prize, Locus Award |
