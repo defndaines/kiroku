@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 53
+Count: 54
 
 ## Novel (4)
 
@@ -289,7 +289,7 @@ Count: 53
 - [x] 2026: Amal El-Mohtar _The River Has Roots_
 <!-- Novella -->
 
-## Novelette (3)
+## Novelette (4)
 
 - [ ] 1975: ~Harlan Ellison “Adrift Just Off the Islets of Langerhans: Latitude 38° 54' N, Longitude 77° 00' 13" W”~
 - [ ] 1976: Ursula K. Le Guin “The New Atlantis”
@@ -344,7 +344,7 @@ Count: 53
 - [x] 2023: John Chu “If You Find Yourself Speaking to God, Address God with the Informal You”
 - [ ] 2024: Uchechukwu Nwaka “The Rainbow Bank”
 - [x] 2025: Premee Mohamed “By Salt, By Sea, By Light of Stars”
-- [ ] 2026: Somto Ihezue “We Begin Where Infinity Ends”
+- [x] 2026: Somto Ihezue “We Begin Where Infinity Ends”
 <!-- Novelette -->
 
 ## Short Story (13)
