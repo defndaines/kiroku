@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Transcription | Ben Lerner | 2026 | U.S. | 4.0 | audio | 144 | literary, contemporary |
 | The Name Ziya | Wen-yi Lee | 2025 | Singapore | 4.0 | ebook | 38 | novelette, fantasy, LGBT |
 | Positive Obsession: The Life and Times of Octavia E. Butler | Susana M. Morris | 2025 | U.S. | 5.0 | audio | 272 | nonfiction, biography, history, Black, Hugo Award Finalist |
 | We Begin Where Infinity Ends | Somto Ihezue | 2025 | Nigeria | 4.0 | ebook | 37 | novelette, sci-fi, LGBT, Locus Award |
