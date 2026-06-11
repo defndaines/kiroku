@@ -41,8 +41,10 @@ Count: 3
 - [ ] 2023: Barbara Kingsolver _Demon Copperhead_
 - [ ] 2024: V. V. Ganeshananthan _Brotherless Night_
 - [ ] 2025: Yael van der Wouden _The Safekeep_
+- [ ] 2026: Virginia Evans _The Correspondent_
 
 ## Non-fiction (0)
 
-- [ ] 2024: Naomi Klein _Doppelganger_
-- [ ] 2025: Rachel Clarke _The Story of a Heart_
+- [ ] 2024: Naomi Klein _Doppelganger: A Trip into the Mirror World_
+- [ ] 2025: Rachel Clarke _The Story of a Heart: Two Families, One Heart, and the Medical Miracle That Saved a Child’s Life_
+- [ ] 2026: Lyse Doucet _The Finest Hotel in Kabul: A People’s History of Afghanistan_
