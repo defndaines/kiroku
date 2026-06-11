@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Seasons, Volume 1 | Rick Remender | 2025 | U.S. | 3.5 | ebook | 136 | fantasy, horror, mystery |
 | Home Sick Pilots, Volume 3: Three Chords and the End of the World | Dan Watters | 2022 | U.K. | 4.5 | ebook | 144 | horror, fantasy, sci-fi, paranormal |
 | Home Sick Pilots, Volume 2: I Wanna Be a Walking Weapon | Dan Watters | 2021 | U.K. | 4.5 | ebook | 120 | horror, fantasy, sci-fi, paranormal |
 | Home Sick Pilots, Volume 1: Teenage Haunts | Dan Watters | 2020 | U.K. | 4.0 | ebook | 152 | horror, fantasy, YA, paranormal |
