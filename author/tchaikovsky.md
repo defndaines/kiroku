@@ -114,10 +114,14 @@
 
 - [ ] The Hungry Gods (2025)
 
+### Elder Race
+
+- [x] Elder Race (2021)
+- [ ] Engines of Reason (2026)
+
 ### Stand Alone Novellas
 
 - [ ] Made Things (2019)
-- [x] Elder Race (2021)
 - [ ] The House on the Old Cliff (2021)
 
 ## Short stories
