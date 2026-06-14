@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| In the Halls of the Makeshift King | Tobias S. Buckell | 2025 | Grenada | 4.0 | ebook | 9 | short story, fantasy |
 | Human Voices | Isabel J. Kim | 2025 | U.S. | 4.5 | ebook | 34 | novelette, fantasy, contemporary |
 | Transcription | Ben Lerner | 2026 | U.S. | 4.0 | audio | 144 | literary, contemporary |
 | The Name Ziya | Wen-yi Lee | 2025 | Singapore | 4.0 | ebook | 38 | novelette, fantasy, LGBT |
