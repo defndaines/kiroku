@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 54
+Count: 55
 
 ## Novel (4)
 
@@ -22,7 +22,7 @@ Count: 54
 - [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 
-## Fantasy Novel (8)
+## Fantasy Novel (9)
 
 - [ ] 1978: J. R. R. Tolkien _The Silmarillion_
 - [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
@@ -60,7 +60,7 @@ Count: 54
 - [ ] 2012: George R. R. Martin _A Dance with Dragons_
 - [ ] 2013: Charles Stross _The Apocalypse Codex_
 - [ ] 2014: ~Neil Gaiman _The Ocean at the End of the Lane_~
-- [ ] 2015: Katherine Addison _The Goblin Emperor_
+- [x] 2015: Katherine Addison _The Goblin Emperor_
 - [ ] 2016: Naomi Novik _Uprooted_
 - [ ] 2017: Charlie Jane Anders _All the Birds in the Sky_
 - [x] 2018: N. K. Jemisin _The Stone Sky_
