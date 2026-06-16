@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Unbuild Walls: Why Immigrant Justice Needs Abolition | Silky Shah | 2024 | U.S. | 4.5 | audio | 280 | nonfiction, history, politics, social justice, race, social issues |
 | The Goblin Emperor | Katherine Addison | 2014 | U.S. | 4.5 | audio | 446 | fantasy, YA, steampunk, Locus Award |
 | In the Halls of the Makeshift King | Tobias S. Buckell | 2025 | Grenada | 4.0 | ebook | 9 | short story, fantasy |
 | Human Voices | Isabel J. Kim | 2025 | U.S. | 4.5 | ebook | 34 | novelette, fantasy, contemporary |
