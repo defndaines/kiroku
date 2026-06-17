@@ -198,7 +198,8 @@ while IFS= read -r file; do
 
   if [[ "$basename" == *award*.md || "$basename" == *medal*.md || \
         "$basename" == *prize*.md || "$basename" == "great-american-novels.md" || \
-        "$basename" == "nyt-100-best-21st-century.md" ]]; then
+        "$basename" == "nyt-100-best-21st-century.md" || \
+        "$basename" == "guardian-100-best-novels-of-all-time.md" ]]; then
     [[ -f "$file" ]] || continue
     if output=$(check_file "$file" 2>&1); then
       :

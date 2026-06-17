@@ -115,7 +115,7 @@ tail -n +8 2026-graphic-novels.md| cut -d \| -f 9| sed 's/,/\n/g'|
 
 cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
   sed 's/,/\n/g'| awk '{$1=$1};1'| sort| uniq -c|
-  grep -v -e reread -e novella -e "short stor" -e "Hugo finalist" -e nonfiction|
+  grep -v -e reread -e novel -e "short stor" -e "Hugo Award Finalist" -e nonfiction|
   sort -nr| head
 
 ## Formats

@@ -6,7 +6,7 @@ As voted on by 503 novelists, nonfiction writers, poets, critics and other
 book lovers—with a little help from the staff of _The New York Times Book
 Review_.
 
-Count: 21
+## NYT’s List (22)
 
 - [ ] 100: _Tree of Smoke_ Denis Johnson, 2004
 - [ ] 99: _How to Be Both_ Ali Smith, 2014
@@ -109,7 +109,7 @@ Count: 21
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
 - [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012
 
-## Readers Pick (18)
+## Readers’ Picks (33)
 
 Only listing the ones not in the original list.
 
@@ -125,9 +125,11 @@ Only listing the ones not in the original list.
 - [x] 91: _Project Hail Mary_ Andy Weir
 - [ ] 90: _In the Dream House_ Carmen Maria Machado
 - [ ] 89: _The Glass Castle_ Jeannette Walls
+- [ ] 88: _The Plot Against America_ Philip Roth (65)
 - [ ] 87: _Girl, Woman, Other_ Bernardine Evaristo
 - [ ] 86: _Life of Pi_ Yann Martel
 - [ ] 85: _When Breath Becomes Air_ Paul Kalanithi
+- [ ] 84: _Tenth of December_ George Saunders (54)
 - [ ] 83: _Let the Great World Spin_ Colum McCann
 - [ ] 82: _Tom Lake_ Ann Patchett
 - [ ] 81: _The Immortal Life of Henrietta Lacks_ Rebecca Skloot
@@ -140,17 +142,25 @@ Only listing the ones not in the original list.
 - [ ] 74: _Klara and the Sun_ Kazuo Ishiguro
 - [x] 73: _Harry Potter and the Deathly Hallows_ J.K. Rowling
 - [x] 72: _Crying in H Mart_ Michelle Zauner
+- [x] 71: _Sing, Unburied, Sing_ Jesmyn Ward (30)
 - [ ] 70: _Know My Name_ Chanel Miller
 - [x] 69: _Killers of the Flower Moon_ David Grann
 - [ ] 68: _The Devil in the White City_ Erik Larson
 - [x] 67: _Piranesi_ Susanna Clarke
 - [ ] 66: _Just Kids_ Patti Smith
+- [x] 65: _Evicted_ Matthew Desmond (21)
+- [ ] 64: _2666_ Roberto Bolaño; translated by Natasha Wimmer (6)
+- [x] 63: _The Fifth Season_ N.K. Jemisin (44)
+- [ ] 62: _The Sympathizer_ Viet Thanh Nguyen (90)
 - [ ] 61: _North Woods_ Daniel Mason
 - [ ] 60: _The Dutch House_ Ann Patchett
 - [ ] 59: _Where the Crawdads Sing_ Delia Owens
+- [ ] 58: _White Teeth_ Zadie Smith (31)
+- [x] 57: _Small Things Like These_ Claire Keegan (41)
 - [x] 56: _The Hunger Games_ Suzanne Collins
 - [x] 55: _Braiding Sweetgrass_ Robin Wall Kimmerer
 - [ ] 54: _11/22/63_ Stephen King
+- [ ] 53: _Trust_ Hernan Diaz (50)
 - [ ] 52: _The Nightingale_ Kristin Hannah
 - [x] 51: _Caste_ Isabel Wilkerson
 - [x] 50: _James_ Percival Everett
@@ -160,17 +170,46 @@ Only listing the ones not in the original list.
 - [ ] 46: _The Song of Achilles_ Madeline Miller
 - [x] 45: _There There_ Tommy Orange
 - [x] 44: _The Heaven & Earth Grocery Store_ James McBride
+- [ ] 43: _Between the World and Me_ Ta-Nehisi Coates (36)
+- [ ] 42: _The Brief Wondrous Life of Oscar Wao_ Junot Díaz (11)
+- [ ] 41: _Life After Life_ Kate Atkinson (51)
 - [x] 40: _The Kite Runner_ Khaled Hosseini
+- [ ] 39: _Olive Kitteridge_ Elizabeth Strout (74)
+- [ ] 38: _The Great Believers_ Rebecca Makkai (64)
 - [x] 37: _The Nickel Boys_ Colson Whitehead
+- [ ] 36: _The Year of Magical Thinking_ Joan Didion (12)
 - [ ] 35: _The Covenant of Water_ Abraham Verghese
+- [ ] 34: _Cloud Atlas_ David Mitchell (28)
 - [ ] 33: _The Book Thief_ Markus Zusak
 - [ ] 32: _Cloud Cuckoo Land_ Anthony Doerr
 - [ ] 31: _Circe_ Madeline Miller
+- [ ] 30: _A Visit From the Goon Squad_ Jennifer Egan (39)
+- [ ] 29: _Say Nothing_ Patrick Radden Keefe (19)
 - [ ] 28: _Cutting for Stone_ Abraham Verghese
 - [ ] 27: _Normal People_ Sally Rooney
+- [ ] 26: _The Corrections_ Jonathan Franzen (5)
+- [ ] 25: _Gilead_ Marilynne Robinson (10)
+- [ ] 24: _Bel Canto_ Ann Patchett (98)
+- [x] 23: _The Warmth of Other Suns_ Isabel Wilkerson (2)
 - [ ] 22: _Hamnet_ Maggie O’Farrell
 - [x] 21: _Homegoing_ Yaa Gyasi
+- [x] 20: _The Amazing Adventures of Kavalier & Clay_ Michael Chabon (16)
+- [ ] 19: _Americanah_ Chimamanda Ngozi Adichie (27)
+- [x] 18: _Middlesex_ Jeffrey Eugenides (59)
+- [x] 17: _Atonement_ Ian McEwan (26)
+- [ ] 16: _Lincoln in the Bardo_ George Saunders (18)
+- [x] 15: _The Road_ Cormac McCarthy (13)
+- [x] 14: _Wolf Hall_ Hilary Mantel (3)
+- [x] 13: _The Underground Railroad_ Colson Whitehead (7)
+- [x] 12: _The Overstory_ Richard Powers (24)
 - [ ] 11: _A Little Life_ Hanya Yanagihara
+- [ ] 10: _Station Eleven_ Emily St. John Mandel (93)
+- [x] 9: _Never Let Me Go_ Kazuo Ishiguro (9)
+- [x] 8: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein (1)
+- [ ] 7: _Tomorrow, and Tomorrow, and Tomorrow_ Gabrielle Zevin (76)
 - [ ] 6: _Educated_ Tara Westover
+- [x] 5: _Pachinko_ Min Jin Lee (15)
+- [ ] 4: _The Goldfinch_ Donna Tartt (46)
 - [ ] 3: _A Gentleman in Moscow_ Amor Towles
 - [ ] 2: _All the Light We Cannot See_ Anthony Doerr
+- [ ] 1: _Demon Copperhead_ Barbara Kingsolver (61)

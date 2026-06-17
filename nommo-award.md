@@ -21,6 +21,7 @@ Count: 2
 - [ ] 2021: Akwaeke Emezi _The Death of Vivek Oji_
 - [ ] 2022: T.L. Huchu _The Library of the Dead_
 - [ ] 2024: Wole Talabi _Shigidi and the Brass Head of Obalufon_
+- [ ] 2025: Tlotlo Tsamaase _Womb City_
 
 ## Novella (1)
 
@@ -31,6 +32,7 @@ Count: 2
 - [ ] 2021: Oghenechovwe Donald Ekpeki _Ife-Iyoku: The Tale of Imadeyunuagbon_
 - [ ] 2022: Nnedi Okorafor _Remote Control_
 - [ ] 2024: Stephen Embleton _Undulation_
+- [ ] 2025: Suyi Davies Okungbowa _Lost Ark Dreaming_
 
 ## Short Story (0)
 
@@ -44,6 +46,7 @@ Count: 2
 - [ ] 2021: Tlotlo Tsamaase “Behind Our Irises”
 - [ ] 2022: Pemi Aguda “Masquerade Season”
 - [ ] 2024: Gabrielle Emem Harry “A Name is a Plea and a Prophecy”
+- [ ] 2025: Chisom Umeh “From Across Time”
 
 ## Graphic Novel (1)
 
@@ -54,3 +57,4 @@ Count: 2
 - [ ] 2021: Nana Akosua Hanson & AnimaxFYB _MoonGirls_
 - [x] 2022: Roye Okupe & Godwin Akpan _Iyanu: Child of Wonder, Volume 2_
 - [ ] 2024: Mamode Ogbewele and Chigozie Amadi _Grimm’s Assistant_
+- [ ] 2024: John Uche _Celestial Eyes_

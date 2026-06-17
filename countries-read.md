@@ -210,7 +210,7 @@ Count: 104
 - [ ] Brunei:
 - [ ] Belize:
 - [ ] Bahamas:
-- [x] Iceland: [_The Prose Edda_](https://www.goodreads.com/book/show/24658.The_Prose_Edda) Snorri Sturluson
+- [x] Iceland: [_The Prose Edda_](https://www.goodreads.com/book/show/24658.The_Prose_Edda) Snorri Sturluson; [_Dead Weight_](https://www.goodreads.com/book/show/240019590-dead-weight) Hildur Knútsdóttir
 - [ ] Northern Cyprus:
 - [ ] Maldives:
 - [ ] Transnistria:

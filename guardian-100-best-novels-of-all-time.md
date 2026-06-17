@@ -2,7 +2,7 @@
 
 https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time
 
-Count: 34
+## Guardian’s List (34)
 
 - [ ] 100: _My Ántonia_ Willa Cather
 - [ ] 99: _The Go-Between_ LP Hartley
@@ -104,3 +104,106 @@ Count: 34
 - [ ] 3: _Ulysses_ James Joyce
 - [x] 2: _Beloved_ Toni Morrison
 - [ ] 1: _Middlemarch_ George Eliot
+
+## Readers’ Picks (43)
+
+- [ ] 100: _A Dance to the Music of Time_ Anthony Powell
+- [ ] 93: _A Little Life_ Hanya Yanagihara
+- [ ] 93: _All the Light We Cannot See_ Anthony Doerr
+- [x] 93: _Animal Farm_ George Orwell
+- [ ] 93: _Love in the Time of Cholera_ Gabriel García Márquez
+- [ ] 93: _Mrs Dalloway_ Virginia Woolf
+- [ ] 93: _Of Human Bondage_ William Somerset Maugham
+- [ ] 93: _The Magus_ John Fowles
+- [ ] 80: _Absalom, Absalom!_ William Faulkner
+- [x] 80: _Dune_ Frank Herbert
+- [x] 80: _For Whom the Bell Tolls_ Ernest Hemingway
+- [ ] 80: _Jonathan Strange & Mr Norrell_ Susanna Clarke
+- [ ] 80: _Memoirs of Hadrian_ Marguerite Yourcenar
+- [ ] 80: _Tess of the d’Urbervilles_ Thomas Hardy
+- [ ] 80: _The Life and Opinions of Tristram Shandy, Gentleman_ Laurence Sterne
+- [ ] 80: _The Name of the Rose_ Umberto Eco
+- [x] 80: _The Picture of Dorian Gray_ Oscar Wilde
+- [ ] 80: _The Plague_ Albert Camus
+- [ ] 80: _The Red and the Black_ Stendhal
+- [x] 80: _The Road_ Cormac McCarthy
+- [x] 80: _The Stand_ Stephen King
+- [ ] 75: _Brave New World_ Aldous Huxley
+- [ ] 75: _Brideshead Revisited_ Evelyn Waugh
+- [x] 75: _The Old Man and the Sea_ Ernest Hemingway
+- [ ] 75: _The Sun Also Rises_ Ernest Hemingway
+- [ ] 75: _Tinker Tailor Soldier Spy_ John le Carré
+- [x] 73: _On the Road_ Jack Kerouac
+- [ ] 73: _The Unbearable Lightness of Being_ Milan Kundera
+- [x] 70: _Piranesi_ Susanna Clarke
+- [x] 70: _The Dispossessed_ Ursula K Le Guin
+- [ ] 70: _To the Lighthouse_ Virginia Woolf
+- [ ] 63: _Demon Copperhead_ Barbara Kingsolver
+- [x] 63: _Germinal_ Émile Zola
+- [ ] 63: _Madame Bovary_ Gustave Flaubert
+- [ ] 63: _Neapolitan Quartet_ Elena Ferrante
+- [x] 63: _Rebecca_ Daphne du Maurier
+- [x] 63: _The Outsider_ Albert Camus
+- [ ] 63: _The Tin Drum_ Günter Grass
+- [ ] 62: _Midnight’s Children_ Salman Rushdie
+- [ ] 60: _A Gentleman in Moscow_ Amor Towles
+- [ ] 60: _Possession_ AS Byatt
+- [ ] 57: _2666_ Roberto Bolaño
+- [ ] 57: _Cloud Atlas_ David Mitchell
+- [x] 57: _Never Let Me Go_ Kazuo Ishiguro
+- [ ] 52: _Birdsong_ Sebastian Faulks
+- [x] 52: _Emma_ Jane Austen
+- [ ] 52: _Lonesome Dove_ Larry McMurtry
+- [ ] 52: _The God of Small Things_ Arundhati Roy
+- [ ] 52: _The Magic Mountain_ Thomas Mann
+- [x] 49: _A Tale of Two Cities_ Charles Dickens
+- [x] 49: _Atonement_ Ian McEwan
+- [ ] 49: _David Copperfield_ Charles Dickens
+- [ ] 46: _Lolita_ Vladimir Nabokov
+- [x] 46: _The Hitchhiker’s Guide to the Galaxy_ Douglas Adams
+- [ ] 46: _Watership Down_ Richard Adams
+- [ ] 41: _A Fine Balance_ Rohinton Mistry
+- [ ] 41: _A Suitable Boy_ Vikram Seth
+- [x] 41: _Heart of Darkness_ Joseph Conrad
+- [x] 41: _The Handmaid’s Tale_ Margaret Atwood
+- [ ] 41: _The Secret History_ Donna Tartt
+- [x] 39: _Frankenstein_ Mary Shelley
+- [x] 39: _Stoner_ John Williams
+- [ ] 37: _A Prayer for Owen Meany_ John Irving
+- [x] 37: _The Catcher in the Rye_ JD Salinger
+- [ ] 36: _The Count of Monte Cristo_ Alexandre Dumas and Auguste Maquet
+- [ ] 35: _A Confederacy of Dunces_ John Kennedy Toole
+- [ ] 31: _Infinite Jest_ David Foster Wallace
+- [ ] 31: _The Master and Margarita_ Mikhail Bulgakov
+- [x] 31: _The Poisonwood Bible_ Barbara Kingsolver
+- [x] 31: _The Remains of the Day_ Kazuo Ishiguro
+- [x] 29: _The Adventures of Huckleberry Finn_ Mark Twain
+- [x] 29: _Great Expectations_ Charles Dickens
+- [x] 28: _Blood Meridian_ Cormac McCarthy
+- [ ] 26: _Bleak House_ Charles Dickens
+- [ ] 26: _Jane Eyre_ Charlotte Brontë
+- [x] 25: _Crime and Punishment_ Fyodor Dostoevsky
+- [ ] 24: _Les Misérables_ Victor Hugo
+- [x] 23: _Don Quixote_ Miguel de Cervantes
+- [x] 21: _Slaughterhouse-Five_ Kurt Vonnegut
+- [ ] 21: _The Brothers Karamazov_ Fyodor Dostoevsky
+- [x] 20: _Beloved_ Toni Morrison
+- [ ] 19: _Gravity’s Rainbow_ Thomas Pynchon
+- [x] 16: _East of Eden_ John Steinbeck
+- [ ] 16: _Persuasion_ Jane Austen
+- [x] 16: _The Great Gatsby_ F Scott Fitzgerald
+- [x] 15: _In Search of Lost Time_ Marcel Proust
+- [x] 14: _Wolf Hall_ Hilary Mantel
+- [ ] 14: _Wuthering Heights_ Emily Brontë
+- [x] 12: _Moby-Dick_ Herman Melville
+- [ ] 11: _Anna Karenina_ Leo Tolstoy
+- [ ] 10: _Ulysses_ James Joyce
+- [x] 8: _Catch-22_ Joseph Heller
+- [ ] 8: _One Hundred Years of Solitude_ Gabriel García Márquez
+- [x] 7: _Nineteen Eighty-Four_ George Orwell
+- [ ] 6: _War and Peace_ Leo Tolstoy
+- [x] 5: _To Kill a Mockingbird_ Harper Lee
+- [x] 4: _The Grapes of Wrath_ John Steinbeck
+- [x] 3: _Pride and Prejudice_ Jane Austen
+- [ ] 2: _Middlemarch_ George Eliot
+- [x] 1: _The Lord of the Rings_ JRR Tolkien
