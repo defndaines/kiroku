@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Seasons, Volume 2 | Rick Remender | 2026 | U.S. | 3.5 | ebook | 98 | fantasy, horror |
 | Gender Queer: The Annotated Edition | Maia Kobabe | 2019 | U.S. | 4.5 | ebook | 255 | nonfiction, memoir, LGBT, queer, ALA Alex Award |
 | Chainsaw Man, Volume 20 | Tatsuki Fujimoto | 2025 | Japan | 4.0 | print | 192 | manga, horror, fantasy |
 | Chainsaw Man, Volume 19 | Tatsuki Fujimoto | 2024 | Japan | 4.0 | print | 184 | manga, horror, fantasy |
