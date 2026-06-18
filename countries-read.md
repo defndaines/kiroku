@@ -93,7 +93,7 @@ Count: 104
 - [ ] Kazakhstan: Baqytgul Sarmekova ?
 - [ ] Zambia:
 - [x] Romania: [_The Fox Was Ever the Hunter_](https://www.goodreads.com/book/show/23847927-the-fox-was-ever-the-hunter) Herta Muller
-- [x] Ecuador: [_La mandíbula del río_](https://www.uncannymagazine.com/article/la-mandibula-del-rio/) Ana Hurtado
+- [x] Ecuador: [_La mandíbula del río_](https://www.uncannymagazine.com/article/la-mandibula-del-rio/) Ana Hurtado; [_All My Bicycles_](https://www.goodreads.com/book/show/200352506-all-my-bicycles)  Powerpaola
 - [x] Senegal: [_God’s Bits of Wood_](https://www.goodreads.com/book/show/123748.God_s_Bits_of_Wood) Ousmane Sembène
 - [ ] Somalia: [_Black Hawk Down_](https://www.goodreads.com/book/show/55403.Black_Hawk_Down) Mark Bowden; Nuruddin Farah ?
 - [x] Netherlands: [_The Diary of a Young Girl_](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) Anne Frank
