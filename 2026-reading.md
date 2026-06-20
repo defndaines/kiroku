@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Potential Side Effects of Roleplay Stimulation Therapy | Claire Jia-Wen | 2026 | U.S. | 3.5 | audio | 21 | short story, sci-fi, LGBT |
 | Dead Weight | Hildur Knútsdóttir, Mary Robinette Kowal (translator) | 2025 | Iceland | 4.0 | audio | 160 | novella, horror, thriller, mystery, contemporary, crime |
 | Unbuild Walls: Why Immigrant Justice Needs Abolition | Silky Shah | 2024 | U.S. | 4.5 | audio | 280 | nonfiction, history, politics, social justice, race, social issues |
 | The Goblin Emperor | Katherine Addison | 2014 | U.S. | 4.5 | audio | 446 | fantasy, YA, steampunk, Locus Award |
