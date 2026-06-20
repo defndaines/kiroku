@@ -10,7 +10,7 @@ vote for winners.
 
 https://www.africansfs.com/
 
-Count: 2
+Count: 3
 
 ## Novel (0)
 
@@ -34,7 +34,7 @@ Count: 2
 - [ ] 2024: Stephen Embleton _Undulation_
 - [ ] 2025: Suyi Davies Okungbowa _Lost Ark Dreaming_
 
-## Short Story (0)
+## Short Story (1)
 
 - [ ] 2017: Lesley Nneka Arimah “Who Will Greet You At Home”
 - [ ] 2017: Tendai Huchu “The Marriage Plot”
@@ -46,7 +46,7 @@ Count: 2
 - [ ] 2021: Tlotlo Tsamaase “Behind Our Irises”
 - [ ] 2022: Pemi Aguda “Masquerade Season”
 - [ ] 2024: Gabrielle Emem Harry “A Name is a Plea and a Prophecy”
-- [ ] 2025: Chisom Umeh “From Across Time”
+- [x] 2025: Chisom Umeh “From Across Time”
 
 ## Graphic Novel (1)
 
