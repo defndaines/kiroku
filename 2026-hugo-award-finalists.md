@@ -68,8 +68,8 @@ World Science Fiction Convention.
 
 ## Best Dramatic Presentation, Long Form
 
-- [ ] _Mickey 17_ screenplay by Bong Joon Ho, directed by Bong Joon Ho
 - [x] _Andor_ (Season 2) written by Tom Bissell, Dan Gilroy, Tony Gilroy, and Beau Willimon, directed by Ariel Kleiman, Janus Metz, Alonso Ruizpalacios
+- [x] _Mickey 17_ screenplay by Bong Joon Ho, directed by Bong Joon Ho
 - [x] _Sinners_ screenplay by Ryan Coogler, directed by Ryan Coogler
 - [x] _Superman_ screenplay by James Gunn, directed by James Gunn
 - [x] _KPop Demon Hunters_ screenplay by Danya Jimenez & Hannah McMechan, Maggie Kang and Chris Appelhans, directed by Maggie Kang and Chris Appelhans
