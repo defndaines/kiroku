@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Akame ga KILL!, Volume 1 | Takahiro | 2010 | Japan | 3.5 | ebook | 241 | manga, fantasy, action, adventure |
 | All My Bicycles | Powerpaola, Andrea Rosenberg (translator) | 2021 | Ecuador | 3.5 | ebook | 100 | nonfiction, memoir |
 | The Seasons, Volume 2 | Rick Remender | 2026 | U.S. | 3.5 | ebook | 98 | fantasy, horror |
 | Gender Queer: The Annotated Edition | Maia Kobabe | 2019 | U.S. | 4.5 | ebook | 255 | nonfiction, memoir, LGBT, queer, ALA Alex Award |
