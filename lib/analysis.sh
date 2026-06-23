@@ -126,6 +126,19 @@ tail -n +8 2026-reading.md| cut -d \| -f 7| sort| uniq -c|
 tail -n +8 2026-graphic-novels.md| cut -d \| -f 7| sort| uniq -c|
   awk -v total="$gn_total" '{printf "%4d %s (%d%%)\n", $1, $2, $1*100/total}'
 
+tail -n +8 2026-reading.md| awk -F'|' -v total="$books" '{
+    t = $9
+    if (t ~ /short stor/) f = "short story"
+    else if (t ~ /novelette/) f = "novelette"
+    else if (t ~ /novella/) f = "novella"
+    else f = "novel"
+    count[f]++
+  }
+  END {
+    for (f in count)
+      printf "%4d %s (%d%%)\n", count[f], f, count[f]*100/total
+  }' | sort -rn
+
 ## Ratings
 
 tail -n +8 2026-reading.md| cut -d \| -f 6| sort -n| uniq -c
