@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 55
+Count: 56
 
 ## Novel (4)
 
@@ -125,7 +125,7 @@ Count: 55
 - [x] 2026: Nnedi Okorafor _Death of the Author_
 <!-- Science Fiction Novel -->
 
-## First Novel (4)
+## First Novel (5)
 
 - [ ] 1981: Robert L. Forward _Dragon’s Egg_
 - [ ] 1982: S. P. Somtow _Starship & Haiku_
@@ -158,7 +158,7 @@ Count: 55
 - [ ] 2009: Paul Melko _Singularity’s Ring_
 - [ ] 2010: Paolo Bacigalupi _The Windup Girl_
 - [ ] 2011: N. K. Jemisin _The Hundred Thousand Kingdoms_
-- [ ] 2012: Erin Morgenstern _The Night Circus_
+- [x] 2012: Erin Morgenstern _The Night Circus_
 - [ ] 2013: Saladin Ahmed _Throne of the Crescent Moon_
 - [x] 2014: Ann Leckie _Ancillary Justice_
 - [ ] 2015: M. Rickert _The Memory Garden_
