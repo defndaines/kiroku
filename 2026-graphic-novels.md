@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Holy Roller | Andy Samberg, Rick Remender, Joe Trohman | 2025 | U.S. | 4.0 | ebook | 242 | humor, crime, superheroes, sports |
 | Adabana, Volume 3 | NoN | 2021 | Japan | 4.5 | ebook | 257 | manga, thriller, mystery, crime |
 | Adabana, Volume 2 | NoN | 2021 | Japan | 4.0 | ebook | 224 | manga, thriller, mystery, horror, crime |
 | Akame ga KILL!, Volume 1 | Takahiro | 2010 | Japan | 3.5 | ebook | 241 | manga, fantasy, action, adventure |
