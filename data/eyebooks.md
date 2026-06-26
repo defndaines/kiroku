@@ -1,5 +1,6 @@
 | title | author | year | country | pages | tags | rating | # ratings | goodreads |
 | --- | --- | :---: | --- | ---: | --- | :---: | ---: | --- |
+| Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems | Martin Kleppmann, Chris Riccomini | 2026 | Germany, U.S. | 670 | nonfiction, programming, computer science, technology, software | 4.71 | 31 | [238227532](https://www.goodreads.com/book/show/238227532-designing-data-intensive-applications) |
 | Ka’m-t’em: A Journey Toward Healing | Kishan Lara-Cooper, Walter J. Lara Sr. | 2019 | U.S., Yurok | 356 | nonfiction, essays, religion, sociology, [own] | 4.70 | 20 | [46120799](https://www.goodreads.com/book/show/46120799-ka-m-t-em) |
 | Reading Blue Devils: A Novel | Jon Bennett | 2018 | U.S. | 296 | contemporary, high school, Ohio | 4.63 | 8 | [36501912](https://www.goodreads.com/book/show/36501912-reading-blue-devils) |
 | Citizen Marx: Republicanism and the Formation of Karl Marx’s Social and Political Thought | Bruno Leipold | 2024 | U.K. | 440 | nonfiction, history, politics, philosophy, ebook | 4.61 | 66 | [205742611](https://www.goodreads.com/book/show/205742611-citizen-marx) |
@@ -29,6 +30,7 @@
 | Indignant Heart, A Black Worker’s Journal | Charles Denby | 1978 | U.S. | 295 | nonfiction, history, politics, labor | 4.35 | 20 | [3890522](https://www.goodreads.com/book/show/3890522-indignant-heart-a-black-worker-s-journal) |
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 214 | classics, literary, historical, Black, race, [own] | 4.34 | 938 | [15346902](https://www.goodreads.com/book/show/15346902-the-stone-face) |
 | The Day Lasts More than a Hundred Years | Chingiz Aitmatov | 1980 | Kyrgyzstan | 368 | classics, sci-fi, historical, ebook, unread country | 4.33 | 8725 | [366889](https://www.goodreads.com/book/show/366889.The_Day_Lasts_More_than_a_Hundred_Years) |
+| The Count of Monte Cristo | Alexandre Dumas, Robin Buss (translator) | 1846 | France | 1276 | classics, historical, (no audiobook for this translation) | 4.33 | 1060859 | [7126](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo) |
 | The Revolution and the Civil War in Spain | Pierre Broué, Émile Temime | 1961 | France | 544 | nonfiction, history, politics, war, [own] | 4.32 | 97 | [5024027](https://www.goodreads.com/book/show/5024027-the-revolution-and-the-civil-war-in-spain) |
 | Disnaeland | D.D. Johnston | 2022 | Scotland | 373 | sci-fi, in Scots, [own] | 4.32 | 73 | [60859321](https://www.goodreads.com/book/show/60859321-disnaeland) |
 | The Prison Industry: How It Works and Who Profits | Bianca Tylek, Worth Rises | 2025 | U.S. | 260 | nonfiction, politics, [own] | 4.31 | 35 | [207453290](https://www.goodreads.com/book/show/207453290-the-prison-industry) |
