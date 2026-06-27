@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Here Where We Live Is Our Country: The Story of the Jewish Bund | Molly Crabapple | 2026 | U.S. | 4.0 | audio | 480 | nonfiction, history, politics, biography |
 | The Night Circus | Erin Morgenstern | 2011 | U.S. | 3.5 | print, audio | 506 | fantasy, historical, romance, magical realism, YA, Locus Award, Alex Award |
 | A Girl Made of Time | Tiffany Chu | 2024 | U.S. | 3.5 | ebook | 39 | novelette, fantasy |
 | Agni | Nibedita Sen | 2024 | India | 5.0 | ebook | 33 | short story, fantasy, religion, feminism |
