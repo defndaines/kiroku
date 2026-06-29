@@ -157,8 +157,18 @@ validate_table_file() {
           fi
           ;;
         format)
-          if [[ "$col_val" != "print" && "$col_val" != "ebook" && "$col_val" != "audio" ]]; then
-            echo "  Line $line_num: '$col_name' '$col_val' must be 'print', 'ebook', or 'audio'"
+          local format_valid=1
+          IFS=',' read -ra format_parts <<< "$col_val"
+          for fmt in "${format_parts[@]}"; do
+            fmt="${fmt#"${fmt%%[![:space:]]*}"}"
+            fmt="${fmt%"${fmt##*[![:space:]]}"}"
+            if [[ "$fmt" != "print" && "$fmt" != "ebook" && "$fmt" != "audio" ]]; then
+              format_valid=0
+              break
+            fi
+          done
+          if [[ $format_valid -eq 0 ]]; then
+            echo "  Line $line_num: '$col_name' '$col_val' must be 'print', 'ebook', or 'audio' (comma-separated)"
             has_errors=1
           fi
           ;;

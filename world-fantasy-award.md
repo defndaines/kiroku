@@ -10,9 +10,9 @@ November.
 
 https://worldfantasy.org/
 
-Count: 8
+Count: 9
 
-## Novel (6)
+## Novel (7)
 
 - [ ] 1975: Patricia A. McKillip _The Forgotten Beasts of Eld_
 - [ ] 1976: Richard Matheson _Bid Time Return_
@@ -57,7 +57,7 @@ Count: 8
 - [x] 2014: Sofia Samatar _A Stranger in Olondria_
 - [ ] 2015: David Mitchell _The Bone Clocks_
 - [x] 2016: Anna Smaill _The Chimes_
-- [ ] 2017: Claire North _The Sudden Appearance of Hope_
+- [x] 2017: Claire North _The Sudden Appearance of Hope_
 - [ ] 2018: Fonda Lee _Jade City_
 - [ ] 2018: Victor LaValle _The Changeling_
 - [ ] 2019: C.L. Polk _Witchmark_

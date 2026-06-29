@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Bride of Ignat, Volume 1 | Moyori Mori | 2024 | Japan | 3.5 | ebook | 208 | manga, fantasy, romance, LGBT, queer |
 | The Holy Roller | Andy Samberg, Rick Remender, Joe Trohman | 2025 | U.S. | 4.0 | ebook | 242 | humor, crime, superheroes, sports |
 | Adabana, Volume 3 | NoN | 2021 | Japan | 4.5 | ebook | 257 | manga, thriller, mystery, crime |
 | Adabana, Volume 2 | NoN | 2021 | Japan | 4.0 | ebook | 224 | manga, thriller, mystery, horror, crime |
