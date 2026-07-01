@@ -19,6 +19,7 @@
 | The Last to Drown | Lorraine Wilson | 2024 | U.K. | 135 | novella, fantasy, British Fantasy Award | 4.44 | 41 | [199024451](https://www.goodreads.com/book/show/199024451-the-last-to-drown) |
 | The Social Basis of the Female Question | Alexandra Kollontai | 2013 | Russia | 400 | nonfiction, politics, economics, feminism, ebook, [own] | 4.43 | 167 | [216526587](https://www.goodreads.com/book/show/216526587-the-social-basis-of-the-female-question) |
 | Red Skin, White Masks: Rejecting the Colonial Politics of Recognition | Glen Sean Coulthard | 2014 | U.S. | 256 | nonfiction, history, politics, indigenous, race, social justice, sociology | 4.42 | 974 | [21944615](https://www.goodreads.com/book/show/21944615-red-skin-white-masks) |
+| One Message Remains | Premee Mohamed | 2025 | Canada | 200 | short stories, fantasy, sci-fi, Le-Guin-Prize-finalist | 4.42 | 64 | [221438512](https://www.goodreads.com/book/show/221438512-one-message-remains) |
 | Song of Arirang: The Story of a Korean Rebel Revolutionary in China | Nym Wales | 1973 | U.S. | 512 | nonfiction, history, biography, politics, [own] | 4.40 | 77 | [38814142](https://www.goodreads.com/book/show/38814142-song-of-arirang) |
 | Ripening: Selected Work, 1927-1980 | Meridel Le Sueur | 1982 | U.S. | 291 | feminism | 4.39 | 49 | [1261244](https://www.goodreads.com/book/show/1261244.Ripening) |
 | Meet Behind Mars | Renee Simms | 2018 | U.S. | 131 | short stories, ebook | 4.39 | 142 | [35926747](https://www.goodreads.com/book/show/35926747-meet-behind-mars) |

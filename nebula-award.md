@@ -10,9 +10,9 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 44
+Count: 45
 
-## Novel (19)
+## Novel (20)
 
 - [x] 1965: Frank Herbert _Dune_
 - [x] 1966: Samuel R. Delany _Babel-17_
@@ -75,7 +75,7 @@ Count: 44
 - [x] 2022: R. F. Kuang _Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution_
 - [ ] 2023: Vajra Chandrasekera _The Saint of Bright Doors_
 - [x] 2024: John Wiswell _Someone You Can Build a Nest In_
-- [ ] 2025: Stephen Graham Jones _The Buffalo Hunter Hunter_
+- [x] 2025: Stephen Graham Jones _The Buffalo Hunter Hunter_
 <!-- Novel -->
 
 ## Novella (7)

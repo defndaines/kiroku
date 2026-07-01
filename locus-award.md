@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 56
+Count: 57
 
 ## Novel (4)
 
@@ -203,7 +203,7 @@ Count: 56
 - [ ] 2026: Yoon Ha Lee _Starstrike_
 <!-- Young Adult -->
 
-## Horror (2)
+## Horror (3)
 
 - [ ] 1989 Barbara Hambly _Those Who Hunt the Night_
 - [ ] 1990 Dan Simmons _Carrion Comfort_
@@ -224,7 +224,7 @@ Count: 56
 - [x] 2023 T. Kingfisher _What Moves the Dead_
 - [ ] 2024 T. Kingfisher _A House with Good Bones_
 - [ ] 2025 Chuck Tingle _Bury Your Gays_
-- [ ] 2026: Stephen Graham Jones _The Buffalo Hunter Hunter_
+- [x] 2026: Stephen Graham Jones _The Buffalo Hunter Hunter_
 <!-- Horror -->
 
 ## Translated Novel (1)

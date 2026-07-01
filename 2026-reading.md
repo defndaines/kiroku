@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Buffalo Hunter Hunter | Stephen Graham Jones | 2025 | U.S., Niitsítpiis-Stahkoli | 4.5 | audio | 448 | horror, historical, fantasy, paranormal, vampires, indigenous, Bram Stoker Award, Nebula Award, Locus Award, Audie Award, Readin’ Award |
 | Here Where We Live Is Our Country: The Story of the Jewish Bund | Molly Crabapple | 2026 | U.S. | 4.0 | audio | 480 | nonfiction, history, politics, biography |
 | The Night Circus | Erin Morgenstern | 2011 | U.S. | 3.5 | print, audio | 506 | fantasy, historical, romance, magical realism, YA, Locus Award, Alex Award |
 | A Girl Made of Time | Tiffany Chu | 2024 | U.S. | 3.5 | ebook | 39 | novelette, fantasy |
