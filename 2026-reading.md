@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Director | Daniel Kehlmann | 2023 | Germany | 4.0 | audio | 352 | literary, historical, film, WWII |
 | The Buffalo Hunter Hunter | Stephen Graham Jones | 2025 | U.S., Niitsítpiis-Stahkoli | 4.5 | audio | 448 | horror, historical, fantasy, paranormal, vampires, indigenous, Bram Stoker Award, Nebula Award, Locus Award, Audie Award, Readin’ Award |
 | Here Where We Live Is Our Country: The Story of the Jewish Bund | Molly Crabapple | 2026 | U.S. | 4.0 | audio | 480 | nonfiction, history, politics, biography |
 | The Night Circus | Erin Morgenstern | 2011 | U.S. | 3.5 | print, audio | 506 | fantasy, historical, romance, magical realism, YA, Locus Award, Alex Award |
