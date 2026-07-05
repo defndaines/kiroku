@@ -14,10 +14,10 @@ World Science Fiction Convention.
 
 ## Best Novella
 
-- [ ] _Cinder House_ Freya Marske
 - [ ] _Murder by Memory_ Olivia Waite
 - [ ] _The Summer War_ Naomi Novik
 - [ ] _What Stalks the Deep_ T. Kingfisher
+- [x] _Cinder House_ Freya Marske
 - [x] _Automatic Noodle_ Annalee Newitz
 - [x] _The River Has Roots_ Amal El-Mohtar
 
@@ -44,9 +44,9 @@ World Science Fiction Convention.
 - [ ] _Emily Wilde_ Heather Fawcett
 - [ ] _October Daye_ Seanan McGuire
 - [ ] _Old Man’s War_ John Scalzi
-- [ ] _The Chronicles of Osreth_ Katherine Addison
 - [ ] _The Craft Wars_ Max Gladstone
 - [ ] _White Space_ Elizabeth Bear
+- [x] _The Chronicles of Osreth_ Katherine Addison — _The Goblin Emperor_
 
 ## Best Graphic Story or Comic
 
@@ -84,15 +84,6 @@ World Science Fiction Convention.
 - [x] _Murderbot_: “All Systems Red”, written by Paul Weitz & Chris Weitz, directed by Roseanne Liang
 - [x] _Murderbot_: “The Perimeter”, written by Chris Weitz & Paul Weitz, directed by Paul Weitz
 
-## Best Game or Interactive Work
-
-- [ ] _Blue Prince_, developed by Dogubomb
-- [ ] _Citizen Sleeper 2: Starward Vector_, developed by Jump Over the Age
-- [ ] _Clair Obscur: Expedition 33_, developed by Sandfall Interactive
-- [ ] _Dispatch_, developed by AdHoc Studio
-- [ ] _Hades II_, developed by Supergiant Games
-- [ ] _Hollow Knight: Silksong_, developed by Team Cherry
-
 ## Best Editor, Short Form
 
 - [ ] Scott H. Andrews
@@ -123,20 +114,11 @@ World Science Fiction Convention.
 ## Best Semiprozine
 
 - [ ] _Escape Pod_
-- [ ] _khōréō magazine_
 - [ ] _On Spec: The Canadian Magazine of the Fantastic_
-- [ ] _Strange Horizons_
 - [ ] _The Deadlands_
-- [ ] _Uncanny Magazine_
-
-## Best Fanzine
-
-- [ ] _Ancillary Review of Books_
-- [ ] _An Unofficial Hugo Book Club Blog_
-- [ ] _Galactic Journey_
-- [ ] _Intergalactic Mixtape_
-- [ ] _Journey Planet_
-- [ ] _nerds of a feather, flock together_
+- [x] _Strange Horizons_
+- [x] _khōréō magazine_
+- [x] _Uncanny Magazine_
 
 ## Best Fancast
 
@@ -146,15 +128,6 @@ World Science Fiction Convention.
 - [ ] _Worldbuilding for Masochists_ Marshall Ryan Maresca, Cass Morris, and Natania Barron
 - [x] _Hugo, Girl!_ Haley Zapal, Amy Salley, Lori Anderson, and Kevin Anderson
 - [x] _The Coode Street Podcast_ Jonathan Strahan and Gary K. Wolfe
-
-## Best Fan Writer
-
-- [ ] Jay Brantner for “Tar Vol”
-- [ ] Alex Brown
-- [ ] James Davis Nicoll
-- [ ] Roseanna Pendlebury
-- [ ] Jason Sanford
-- [ ] Örjan Westin
 
 ## Best Fan Artist
 
