@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Murder by Memory | Olivia Waite | 2025 | U.S. | 3.5 | audio | 103 | novella, mystery, sci-fi, LGBT, queer, Hugo Award Finalist |
 | Cinder House | Freya Marske | 2025 | Australia | 4.5 | audio | 144 | novella, fantasy, romance, retelling, LGBT, queer, gothic, Aurealis Award, Hugo Award Finalist |
 | The Director | Daniel Kehlmann | 2023 | Germany | 4.0 | audio | 352 | literary, historical, film, WWII |
 | The Buffalo Hunter Hunter | Stephen Graham Jones | 2025 | U.S., Niitsítpiis-Stahkoli | 4.5 | audio | 448 | horror, historical, fantasy, paranormal, vampires, indigenous, Bram Stoker Award, Nebula Award, Locus Award, Audie Award, Readin’ Award |
