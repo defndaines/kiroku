@@ -8,7 +8,7 @@ I have marked winners I never plan to read with ~strikethrough~.
 
 https://locusmag.com/category/news/awards/
 
-Count: 57
+Count: 58
 
 ## Novel (4)
 
@@ -22,7 +22,7 @@ Count: 57
 - [x] 1978: Frederik Pohl _Gateway_
 - [ ] 1979: Vonda N. McIntyre _Dreamsnake_
 
-## Fantasy Novel (9)
+## Fantasy Novel (10)
 
 - [ ] 1978: J. R. R. Tolkien _The Silmarillion_
 - [ ] 1980: Patricia A. McKillip _Harpist in the Wind_
@@ -71,7 +71,7 @@ Count: 57
 - [x] 2023: R. F. Kuang _Babel, or the Necessity of Violence_
 - [ ] 2024: Martha Wells _Witch King_
 - [x] 2025: T. Kingfisher _A Sorceress Comes to Call_
-- [ ] 2026: Alix E. Harrow _The Everlasting_
+- [x] 2026: Alix E. Harrow _The Everlasting_
 <!-- Fantasy Novel -->
 
 ## Science Fiction Novel (6)
