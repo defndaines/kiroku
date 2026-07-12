@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Ice, Rock, Empathy | Damián Neri | 2026 | Mexico | 4.0 | audio | 10 | short story, sci-fi, literary |
 | The Everlasting | Alix E. Harrow | 2025 | U.S. | 4.5 | audio | 320 | fantasy, historical, romantasy, time travel, Locus Award, Hugo Award Finalist |
 | Slouching Towards Bethlehem | Joan Didion | 1968 | U.S. | 3.0 | audio | 238 | nonfiction, essays, classics, memoir, history, journalism |
 | Murder by Memory | Olivia Waite | 2025 | U.S. | 3.5 | audio | 103 | novella, mystery, sci-fi, LGBT, queer, Hugo Award Finalist |
