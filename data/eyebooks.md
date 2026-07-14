@@ -237,6 +237,7 @@
 | The Story of Hong Gildong | Unknown | 1600 | Korea | 100 | classics, literary, fantasy, [own] | 3.49 | 1282 | [25810328](https://www.goodreads.com/book/show/25810328-the-story-of-hong-gildong) |
 | The Female Man | Joanna Russ | 1975 | U.S. | 214 | classics, sci-fi, speculative, LGBT, feminism, queer, [own] | 3.46 | 9316 | [908311](https://www.goodreads.com/book/show/908311.The_Female_Man) |
 | Blood and Guts in High School | Kathy Acker | 1984 | U.S. | 165 | classics, feminism, post-punk, ebook | 3.46 | 7389 | [321950](https://www.goodreads.com/book/show/321950.Blood_and_Guts_in_High_School) |
+| Untold Night and Day | Bae Suah | 2013 | South Korea | 160 | literary, magical realism, contemporary | 3.45 | 6028 | [50157589](https://www.goodreads.com/book/show/50157589-untold-night-and-day) |
 | Black Moses | Alain Mabanckou | 2015 | Congo | 208 | historical, ebook, unread country | 3.42 | 2323 | [35419150](https://www.goodreads.com/book/show/35419150-black-moses) |
 | The Road to Woop Woop, and Other Stories | Eugen Bacon | 2020 | Tanzania, Australia | 192 | short stories, fantasy, horror, sci-fi, speculative, ebook | 3.41 | 71 | [53407967](https://www.goodreads.com/book/show/53407967-the-road-to-woop-woop-and-other-stories) |
 | A Palace in the Old Village | Tahar Ben Jelloun | 2009 | Morocco | 192 | literary, contemporary, ebook | 3.41 | 1096 | [8981613](https://www.goodreads.com/book/show/8981613-a-palace-in-the-old-village) |
