@@ -14,11 +14,11 @@ World Science Fiction Convention.
 
 ## Best Novella
 
-- [ ] _The Summer War_ Naomi Novik
 - [x] _Cinder House_ Freya Marske
 - [x] _Automatic Noodle_ Annalee Newitz
 - [x] _The River Has Roots_ Amal El-Mohtar
 - [x] _What Stalks the Deep_ T. Kingfisher
+- [x] _The Summer War_ Naomi Novik
 - [x] _Murder by Memory_ Olivia Waite
 
 ## Best Novelette

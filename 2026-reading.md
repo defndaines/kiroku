@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Summer War | Naomi Novik | 2025 | U.S. | 4.0 | audio | 144 | novella, fantasy, LGBT, Hugo Award Finalist |
 | Joanna’s Bodies | Eugenia Triantafyllou | Greece | 2024 | 4.5 | ebook | 44 | novelette, horror, fantasy |
 | What Stalks the Deep | T. Kingfisher | 2025 | U.S. | 4.0 | audio | 179 | novella, horror, fantasy, historical, LGBT, gothic, queer, Hugo Award Finalist |
 | The Life and Times of the Extraterrestrial Potoo | K. J. Khan | 2026 | U.S. | 4.0 | audio | 17 | short story, sci-fi |
