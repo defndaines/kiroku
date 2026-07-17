@@ -5,8 +5,9 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Honey in the Wound | Jiyoung Han | 2026 | South Korea | 5.0 | audio | 320 | literary, historical, fantasy, magical realism |
 | The Summer War | Naomi Novik | 2025 | U.S. | 4.0 | audio | 144 | novella, fantasy, LGBT, Hugo Award Finalist |
-| Joanna’s Bodies | Eugenia Triantafyllou | Greece | 2024 | 4.5 | ebook | 44 | novelette, horror, fantasy |
+| Joanna’s Bodies | Eugenia Triantafyllou | 2024 | Greece | 4.5 | ebook | 44 | novelette, horror, fantasy |
 | What Stalks the Deep | T. Kingfisher | 2025 | U.S. | 4.0 | audio | 179 | novella, horror, fantasy, historical, LGBT, gothic, queer, Hugo Award Finalist |
 | The Life and Times of the Extraterrestrial Potoo | K. J. Khan | 2026 | U.S. | 4.0 | audio | 17 | short story, sci-fi |
 | Ice, Rock, Empathy | Damián Neri | 2026 | Mexico | 4.0 | audio | 10 | short story, sci-fi, literary |
