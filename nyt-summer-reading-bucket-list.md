@@ -8,7 +8,7 @@ Begins May 22, 2026 and ends Aug. 31, 2026.
 - [x] 2. Read a book in a genre you don’t typically read — “Takahashi from the Bike Shop” Arare Matsumushi ... is a romance manga. I mostly read literary, sci-fi, and fantasy.
 - [ ] 3. Read one of The New York Times’s Best Books of the 21st Century
 - [x] 4. Read a really short, or a really long, book — “Everyone Who Is Gone Is Here” Jonathan Blitzer ... 544 pages.
-- [ ] 5. Read a classic you’ve been meaning to read (or revisit)
+- [x] 5. Read a classic you’ve been meaning to read (or revisit) — “The Iliad” Homer ...about as classic as it gets.
 - [x] 6. Read a book that takes place during the summer — “The Lottery” Shirley Jackson ... the lottery takes place every year on June 27th.
 - [x] 7. Read a book in translation — “Taiwan Travelogue” Yáng Shuāng-zǐ ... translated from Taiwanese.
 - [x] 8. Read a book that’s been adapted for the screen — “The Luminous Fairies and Mothra” Shin’ichirō Nakamura, Takehiko Fukunaga, Yoshie Hotta ... is the original novella for the Mothra movies.
