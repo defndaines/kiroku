@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Kim Jiyoung, Born 1982 | Cho Nam-Joo, Jamie Chang (translator) | 2016 | South Korea | 4.75 | audio | 163 | literary, contemporary, feminism |
 | Honey in the Wound | Jiyoung Han | 2026 | South Korea | 5.0 | audio | 320 | literary, historical, fantasy, magical realism |
 | The Summer War | Naomi Novik | 2025 | U.S. | 4.0 | audio | 144 | novella, fantasy, LGBT, Hugo Award Finalist |
 | Joanna’s Bodies | Eugenia Triantafyllou | 2024 | Greece | 4.5 | ebook | 44 | novelette, horror, fantasy |
