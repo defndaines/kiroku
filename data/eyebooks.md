@@ -66,6 +66,7 @@
 | Speculative Whiteness: Science Fiction and the Alt-Right | Jordan S. Carroll | 2024 | U.S. | 120 | nonfiction, essays, history, politics, social justice, sociology, Hugo Award | 4.22 | 277 | [210244524](https://www.goodreads.com/book/show/210244524-speculative-whiteness) |
 | Socialism and the Irish Rebellion: Writings from James Connolly | James Connolly | 2008 | Ireland | 263 | nonfiction, history, politics, [own] | 4.22 | 68 | [5919343](https://www.goodreads.com/book/show/5919343-socialism-and-the-irish-rebellion) |
 | The Diversity of Life | Edward O. Wilson | 1992 | U.S. | 432 | nonfiction, science, nature | 4.21 | 6275 | [503051](https://www.goodreads.com/book/show/503051.The_Diversity_of_Life) |
+| The High Frontier: Human Colonies in Space | Gerard K. O'Neill | 1977 | U.S. | 184 | nonfiction, history, science, futurism, physics, stem, apogee-books-space-series-12 | 4.20 | 573 | [405001](https://www.goodreads.com/book/show/405001.The_High_Frontier) |
 | Flood Song | Sherwin Bitsui | 2009 | U.S., Diné | 120 | nonfiction, poetry, Native American, indigenous, ebook | 4.20 | 193 | [6450884](https://www.goodreads.com/book/show/6450884-flood-song) |
 | War and Peace | Leo Tolstoy, Anthony Briggs (translator) | 1869 | Russia | 1424 | classics, historical, war, no-audio, [own] | 4.17 | 374917 | [18245](https://www.goodreads.com/book/show/18245.War_and_Peace) |
 | The Wild Iris | Louise Glück | 1992 | U.S. | 65 | poetry, classics, contemporary, nature, ebook, Nobel Prize | 4.17 | 15965 | [76546](https://www.goodreads.com/book/show/76546.The_Wild_Iris) |
@@ -203,6 +204,7 @@
 | Bond of Iron: Master and Slave at Buffalo Forge | Charles B. Dew | 1994 | U.S. | 448 | nonfiction, history, labor, [own] | 3.68 | 41 | [3994083](https://www.goodreads.com/book/show/3994083-bond-of-iron) |
 | To Save the Man | John Sayles | 2025 | U.S. | 331 | historical, Native American, indigenous, Carlisle School, [own] | 3.67 | 313 | [212113438](https://www.goodreads.com/book/show/212113438-to-save-the-man) |
 | The Best of Judith Merril | Judith Merril | 1976 | U.S. | 254 | short stories, sci-fi | 3.67 | 33 | [587609](https://www.goodreads.com/book/show/587609.The_Best_of_Judith_Merril) |
+| Picnic at Hanging Rock | Joan Lindsay | 1967 | Australia | 189 | classics, mystery, historical, horror, gothic, , hanging-rock-1 | 3.66 | 32920 | [791345](https://www.goodreads.com/book/show/791345.Picnic_at_Hanging_Rock) |
 | Familiar Things | Hwang Sok-yong | 2011 | South Korea | 224 | fantasy, contemporary, magical realism, ebook | 3.66 | 1855 | [33148672](https://www.goodreads.com/book/show/33148672-familiar-things) |
 | Broken Glass | Alain Mabanckou | 2005 | Congo | 165 | literary, contemporary, ebook, unread country | 3.65 | 2085 | [7331797](https://www.goodreads.com/book/show/7331797-broken-glass) |
 | Your Hate Mail Will Be Graded | John Scalzi | 2008 | U.S. | 368 | nonfiction, essays, memoir, humor, politics, science, ebook, whatever-1, [own] | 3.64 | 1257 | [3852882](https://www.goodreads.com/book/show/3852882-your-hate-mail-will-be-graded) |
