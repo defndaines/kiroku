@@ -6,7 +6,7 @@ As voted on by 503 novelists, nonfiction writers, poets, critics and other
 book lovers—with a little help from the staff of _The New York Times Book
 Review_.
 
-## NYT’s List (22)
+## NYT’s List (23)
 
 - [ ] 100: _Tree of Smoke_ Denis Johnson, 2004
 - [ ] 99: _How to Be Both_ Ali Smith, 2014
@@ -73,7 +73,7 @@ Review_.
 - [ ] 38: _The Savage Detectives_ Roberto Bolaño; translated by Natasha Wimmer, 1998
 - [ ] 37: _The Years_ Annie Ernaux; translated by Alison L. Strayer, 2008
 - [ ] 36: _Between the World and Me_ Ta-Nehisi Coates, 2015
-- [ ] 35: _Fun Home_ Alison Bechdel, 2006
+- [x] 35: _Fun Home_ Alison Bechdel, 2006
 - [ ] 34: _Citizen_ Claudia Rankine, 2014
 - [ ] 33: _Salvage the Bones_ Jesmyn Ward, 2011
 - [ ] 32: _The Line of Beauty_ Alan Hollinghurst, 2004

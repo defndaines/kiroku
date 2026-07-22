@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Fun Home: A Family Tragicomic | Alison Bechdel | 2006 | U.S. | 4.5 | ebook | 232 | nonfiction, memoir, LGBT, queer, Stonewall Book Award, Lambda Literary Award, Will Eisner Comic Industry Awards, The Publishing Triangle Award |
 | Tank Girl Full Colour Classics #1 | Alan C. Martin, Jamie Hewlett | 1990 | U.K. | 3.0 | ebook | 57 | sci-fi, fantasy, humor, post-apocalyptic |
 | Helen of Wyndhorn | Tom King | 2025 | U.S. | 4.0 | ebook | 162 | fantasy, historical, sword and sorcery |
 | Bride of Ignat, Volume 1 | Moyori Mori | 2024 | Japan | 3.5 | ebook | 208 | manga, fantasy, romance, LGBT, queer |
