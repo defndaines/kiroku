@@ -9,7 +9,7 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 29
+Count: 30
 
 ## Fiction (20)
 
@@ -115,7 +115,7 @@ Count: 29
 - [ ] 2026: Daniel Kraus, _Angel Down_
 <!-- Fiction -->
 
-## Nonfiction (5)
+## Nonfiction (6)
 
 - [ ] 1980: Douglas R. Hofstadter, _Gödel, Escher, Bach: An Eternal Golden Braid_
 - [ ] 1981: Carl E. Schorske, _Fin-de-Siècle Vienna: Politics and Culture_
@@ -147,7 +147,7 @@ Count: 29
 - [ ] 2006: Caroline Elkins, _Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya_
 - [ ] 2007: Lawrence Wright, _The Looming Tower: Al-Qaeda and the Road to 9/11_
 - [ ] 2008: Saul Friedländer, _The Years of Extermination: Nazi Germany and the Jews, 1939–1945_
-- [ ] 2009: Douglas A. Blackmon, _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_
+- [x] 2009: Douglas A. Blackmon, _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_
 - [ ] 2010: David E. Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and Its Dangerous Legacy_
 - [ ] 2011: Siddhartha Mukherjee, _The Emperor of All Maladies: A Biography of Cancer_
 - [ ] 2012: Stephen Greenblatt, _The Swerve: How the World Became Modern_

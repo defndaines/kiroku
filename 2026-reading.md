@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II | Douglas A. Blackmon | 2008 | U.S. | 5.0 | audio | 480 | nonfiction, history, politics, Black, race, social justice, sociology, Pulitzer Prize, American Book Award, Gustavus Myers Outstanding Book Award, Mississippi Institute of Arts and Letters Award |
 | The Iliad | Homer, Emily Wilson (translator) | 701 BCE | Greece | 4.5 | print | 685 | poetry, classics, literary, fantasy, historical, mythology |
 | Kim Jiyoung, Born 1982 | Cho Nam-Joo, Jamie Chang (translator) | 2016 | South Korea | 4.75 | audio | 163 | literary, contemporary, feminism |
 | Honey in the Wound | Jiyoung Han | 2026 | South Korea | 5.0 | audio | 320 | literary, historical, fantasy, magical realism |
