@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Train Dreams | Denis Johnson | 2002 | Germany | 3.5 | audio | 116 | novella, literary, historical, western |
 | Teddy Bears Never Die | Cho Yeeun, Sung Ryu (translator) | 2026 | South Korea | 4.0 | audio | 304 | horror, fantasy, thriller, sci-fi, romance, paranormal |
 | Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II | Douglas A. Blackmon | 2008 | U.S. | 5.0 | audio | 480 | nonfiction, history, politics, Black, race, social justice, sociology, Pulitzer Prize, American Book Award, Gustavus Myers Outstanding Book Award, Mississippi Institute of Arts and Letters Award |
 | The Iliad | Homer, Emily Wilson (translator) | 701 BCE | Greece | 4.5 | print | 685 | poetry, classics, literary, fantasy, historical, mythology |

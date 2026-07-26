@@ -6,7 +6,7 @@ As voted on by 503 novelists, nonfiction writers, poets, critics and other
 book lovers—with a little help from the staff of _The New York Times Book
 Review_.
 
-## NYT’s List (23)
+## NYT’s List (24)
 
 - [ ] 100: _Tree of Smoke_ Denis Johnson, 2004
 - [ ] 99: _How to Be Both_ Ali Smith, 2014
@@ -56,7 +56,7 @@ Review_.
 - [ ] 55: _The Looming Tower_ Lawrence Wright, 2006
 - [ ] 54: _Tenth of December_ George Saunders, 2013
 - [ ] 53: _Runaway_ Alice Munro, 2004
-- [ ] 52: _Train Dreams_ Denis Johnson, 2011
+- [x] 52: _Train Dreams_ Denis Johnson, 2011
 - [ ] 51: _Life After Life_ Kate Atkinson, 2013
 - [ ] 50: _Trust_ Hernan Diaz, 2022
 - [x] 49: _The Vegetarian_ Han Kang; translated by Deborah Smith, 2016
