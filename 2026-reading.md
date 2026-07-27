@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Dominion | Addie E. Citchens | 2025 | U.S. | 4.0 | audio | 240 | literary, historical, contemporary, Black |
 | On the Calculation of Volume IV | Solvej Balle, Sophia Hersi Smith (translator), Jennifer Russell (translator) | 2022 | Denmark | 4.5 | ebook | 176 | literary, sci-fi, time travel, contemporary, magical realism |
 | Train Dreams | Denis Johnson | 2002 | Germany | 3.5 | audio | 116 | novella, literary, historical, western |
 | Teddy Bears Never Die | Cho Yeeun, Sung Ryu (translator) | 2026 | South Korea | 4.0 | audio | 304 | horror, fantasy, thriller, sci-fi, romance, paranormal |
