@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| ¡Sangronas! Un Lista de Terror | M. M. Olivas | 2024 | U.S. | 4.5 | ebook | 88 | novelette, horror |
 | Martyr! | Kaveh Akbar | 2024 | Iran, U.S. | 4.5 | audio | 331 | poetry, literary, contemporary, LGBT, queer, Dayton Literary Peace Prize, Brooklyn Public Library Literary Prize |
 | Emplumada | Lorna Dee Cervantes | 1981 | U.S. | 4.5 | print | 80 | nonfiction, poetry, indigenous, American Book Award |
 | Dominion | Addie E. Citchens | 2025 | U.S. | 4.0 | audio | 240 | literary, historical, contemporary, Black |
