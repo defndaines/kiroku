@@ -10,7 +10,7 @@ November.
 
 https://worldfantasy.org/
 
-Count: 9
+Count: 10
 
 ## Novel (7)
 
@@ -120,7 +120,7 @@ Count: 9
 - [ ] 2025: R.B. Lemberg _Yoke of Stars_
 <!-- Novella -->
 
-## Short Fiction (2)
+## Short Fiction (3)
 
 - [x] 1975: Robert Aickman “Pages from a Young Girl’s Journal”
 - [ ] 1976: Fritz Leiber “Belsen Express”
@@ -169,7 +169,7 @@ Count: 9
 - [ ] 2019: Emma Törzs “Like a River Loves the Sky”
 - [ ] 2019: Mel Kassel “Ten Deals with the Indigo Snake”
 - [ ] 2020: Maria Dahvana Headley “Read After Burning”
-- [ ] 2021: Celeste Rita Baker “Glass Bottle Dancer”
+- [x] 2021: Celeste Rita Baker “Glass Bottle Dancer”
 - [ ] 2022: Lauren Ring “(emet)”
 - [ ] 2023: Tananarive Due “Incident at Bear Creek Lodge”
 - [ ] 2024: Nghi Vo “Silk and Cotton and Linen and Blood”

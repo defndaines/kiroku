@@ -231,6 +231,7 @@ Count: 104
 - [ ] Seychelles:
 - [ ] Tonga: Epeli Hauʻofa ?
 - [ ] Andorra:
+- [x] Virgin Islands: [_Glass Bottle Dancer_](https://www.lightspeedmagazine.com/fiction/glass-bottle-dancer/) Celeste Rita Baker
 - [ ] Dominica:
 - [ ] South Ossetia:
 - [ ] Saint Kitts and Nevis:

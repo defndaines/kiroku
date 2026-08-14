@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Glass Bottle Dancer | Celeste Rita Baker | 2020 | Virgin Islands | 4.0 | ebook | 21 | short story, fantasy, magical realism, World Fantasy Award |
 | Understudies | Greg Egan | 2025 | Australia | 3.0 | ebook | 68 | novelette, sci-fi |
 | A Shaky Bridge | Marissa Lingen | 2025 | U.S. | 4.0 | ebook | 12 | short story, sci-fi, dystopian |
 | Tomorrow’s Beautiful Dream | Ju Chu, Carmen Yiling Yan (translator) | 2024 | China | 4.5 | ebook | 26 | short story, sci-fi, dystopian |
