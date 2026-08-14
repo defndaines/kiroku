@@ -14,7 +14,7 @@ Given that I’ve read the Singing Hills Cycle, tracking all of her works here.
 ## Novels
 - [ ] The Chosen and the Beautiful (2021)
 - [ ] Siren Queen (2022)
-- [ ] The City in Glass (2024)
+- [x] The City in Glass (2024)
 
 ## Novellas
 - [ ] Don’t Sleep with the Dead (2025)
