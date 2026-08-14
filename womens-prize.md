@@ -7,9 +7,9 @@ in United Kingdom in the preceding year.
 https://www.womensprize.com/prizes/womens-prize-for-fiction/
 https://www.womensprize.com/prizes/womens-prize-for-non-fiction/
 
-Count: 3
+Count: 4
 
-## Fiction (3)
+## Fiction (4)
 
 - [ ] 1996: Helen Dunmore _A Spell of Winter_
 - [ ] 1997: Anne Michaels _Fugitive Pieces_
@@ -27,7 +27,7 @@ Count: 3
 - [ ] 2009: Marilynne Robinson _Home_
 - [x] 2010: Barbara Kingsolver _The Lacuna_
 - [ ] 2011: Téa Obreht _The Tiger’s Wife_
-- [ ] 2012: Madeline Miller _The Song of Achilles_
+- [x] 2012: Madeline Miller _The Song of Achilles_
 - [ ] 2013: A. M. Homes _May We Be Forgiven_
 - [ ] 2014: Eimear McBride _A Girl Is a Half-formed Thing_
 - [ ] 2015: Ali Smith _How to Be Both_

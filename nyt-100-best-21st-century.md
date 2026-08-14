@@ -109,7 +109,7 @@ Review_.
 - [x] 2: _The Warmth of Other Suns_ Isabel Wilkerson, 2010
 - [x] 1: _My Brilliant Friend_ Elena Ferrante; translated by Ann Goldstein, 2012
 
-## Readers’ Picks (33)
+## Readers’ Picks (34)
 
 Only listing the ones not in the original list.
 
@@ -167,7 +167,7 @@ Only listing the ones not in the original list.
 - [x] 49: _Gone Girl_ Gillian Flynn
 - [x] 48: _On Earth We’re Briefly Gorgeous_ Ocean Vuong
 - [ ] 47: _Lessons in Chemistry_ Bonnie Garmus
-- [ ] 46: _The Song of Achilles_ Madeline Miller
+- [x] 46: _The Song of Achilles_ Madeline Miller
 - [x] 45: _There There_ Tommy Orange
 - [x] 44: _The Heaven & Earth Grocery Store_ James McBride
 - [ ] 43: _Between the World and Me_ Ta-Nehisi Coates (36)
