@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Spindle of Necessity | B. Pladek | 2024 | U.S. | 3.5 | ebook | 24 | short story, historical, LGBT, reread |
 | Whale Fall | J.L. Akagi | 2024 | U.S. | 4.0 | ebook | 16 | short story, fantasy, dystopian |
 | The Destruction of Palestine Is the Destruction of the Earth | Andreas Malm | 2025 | Sweden | 4.75 | print | 112 | nonfiction, essays, history, politics, war, climate change |
 | Plastic Inc.: The Secret History and Shocking Future of Big Oil’s Biggest Bet | Beth Gardiner | 2026 | U.S. | 4.5 | audio | 352 | nonfiction, economics, science, nature |
