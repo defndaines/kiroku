@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Future Library | Peng Shepherd | 2021 | U.S., Norway | 4.5 | ebook | 32 | short story, sci-fi, fantasy, dystopian, magical realism, speculative, LGBT, nature, Ignyte Award |
 | The Song of Achilles | Madeline Miller | 2011 | U.S. | 4.5 | audio | 408 | fantasy, historical, mythology, LGBT, romance, queer, Orange Prize (Women’s Prize) |
 | Parthenogenesis | Stephen Graham Jones | 2024 | U.S., Niitsítpiis-Stahkoli | 4.0 | ebook | 23 | short story, horror, fantasy, mystery, indigenous |
 | We Who Will Not Die | Shingai Njeri Kagunda | 2024 | Kenya | 5.0 | ebook | 46 | novelette, sci-fi, Ignyte Award |
