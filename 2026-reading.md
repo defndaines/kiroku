@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| A Shaky Bridge | Marissa Lingen | 2025 | U.S. | 4.0 | ebook | 12 | short story, sci-fi, dystopian |
 | Tomorrow’s Beautiful Dream | Ju Chu, Carmen Yiling Yan (translator) | 2024 | China | 4.5 | ebook | 26 | short story, sci-fi, dystopian |
 | Everyone Keeps Saying Probably | Premee Mohamed | 2025 | Canada | 3.0 | ebook | 6 | short story, sci-fi, dystopian |
 | The Future Library | Peng Shepherd | 2021 | U.S., Norway | 4.5 | ebook | 32 | short story, sci-fi, fantasy, dystopian, magical realism, speculative, LGBT, nature, Ignyte Award |
