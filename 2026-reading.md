@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Parthenogenesis | Stephen Graham Jones | 2024 | U.S., Niitsítpiis-Stahkoli | 4.0 | ebook | 23 | short story, horror, fantasy, mystery, indigenous |
 | We Who Will Not Die | Shingai Njeri Kagunda | 2024 | Kenya | 5.0 | ebook | 46 | novelette, sci-fi, Ignyte Award |
 | A Stranger Knocks | Tananarive Due | 2024 | U.S. | 4.25 | ebook | 29 | novelette, historical, fantasy, horror, reread |
 | The Spindle of Necessity | B. Pladek | 2024 | U.S. | 3.5 | ebook | 24 | short story, historical, LGBT, reread |
