@@ -10,7 +10,7 @@ November.
 
 https://worldfantasy.org/
 
-Count: 11
+Count: 12
 
 ## Novel (7)
 
@@ -120,7 +120,7 @@ Count: 11
 - [ ] 2025: R.B. Lemberg _Yoke of Stars_
 <!-- Novella -->
 
-## Short Fiction (4)
+## Short Fiction (5)
 
 - [x] 1975: Robert Aickman “Pages from a Young Girl’s Journal”
 - [ ] 1976: Fritz Leiber “Belsen Express”
@@ -164,7 +164,7 @@ Count: 11
 - [ ] 2014: Caitlin R. Kiernan “The Prayer of Ninety Cats”
 - [ ] 2015: Scott Nicolay “Do You Like to Look at Monsters?”
 - [ ] 2016: Alyssa Wong “Hungry Daughters of Starving Mothers”
-- [ ] 2017: G.V. Anderson “Das Steingeschöpf”
+- [x] 2017: G.V. Anderson “Das Steingeschöpf”
 - [x] 2018: Natalia Theodoridou “The Birding: A Fairy Tale”
 - [ ] 2019: Emma Törzs “Like a River Loves the Sky”
 - [ ] 2019: Mel Kassel “Ten Deals with the Indigo Snake”

@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Das Steingeschöpf | G. V. Anderson | 2016 | U.K., Germany | 4.25 | ebook | 23 | short story, historical, fantasy, LGBT, World Fantasy Award |
 | The City in Glass | Nghi Vo | 2024 | U.S. | 3.5 | audio | 216 | novella, fantasy, romance, queer |
 | The Birding: A Fairy Tale | Natalia Theodoridou | 2017 | Greece | 4.0 | ebook | 35 | short story, sci-fi, fantasy, dystopian, World Fantasy Award |
 | Glass Bottle Dancer | Celeste Rita Baker | 2020 | Virgin Islands | 4.0 | ebook | 21 | short story, fantasy, magical realism, World Fantasy Award |
