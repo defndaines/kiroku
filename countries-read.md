@@ -54,7 +54,7 @@ Count: 104
 - [x] England\*: [_When the Wind Blows_](https://www.goodreads.com/book/show/489946.When_the_Wind_Blows) Raymond Briggs
 - [x] Myanmar: [_From the Land of Green Ghosts: A Burmese Odyssey_](https://www.goodreads.com/book/show/103148.From_the_Land_of_Green_Ghosts) Pascal Khoo Thwe
 - [x] Colombia: [_Killing Pablo_](https://www.goodreads.com/book/show/419083.Killing_Pablo) Mark Bowden; Gabriel García Márquez ?
-- [x] Kenya: [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber; [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham
+- [x] Kenya: [_The House of Rust_](https://www.goodreads.com/book/show/56269267-the-house-of-rust) Khadija Abdalla Bajaber; [_We Who Will Not Die_](https://psychopomp.com/we-who-will-not-die/) Shingai Njeri Kagunda; [_West with the Night_](https://www.goodreads.com/book/show/1624.West_with_the_Night) Beryl Markham
 - [x] South Korea\*: [_Human Acts_](https://www.goodreads.com/book/show/30091914-human-acts) Han Kang; [_Mater 2–10_](https://www.goodreads.com/book/show/63241868-mater-2-10) Hwang Sok-yong
 - [x] Spain: [_For Whom the Bell Tolls_](https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls) Ernest Hemingway; _Don Quixote_ Miguel de Cervantes Saavedra
 - [x] Argentina: [_Seven Empty Houses_](https://www.goodreads.com/book/show/60206505-seven-empty-houses) Samanta Schweblin
