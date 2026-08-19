@@ -120,10 +120,10 @@ cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md
 
 ## Formats
 
-tail -n +8 2026-reading.md| cut -d \| -f 7| sort| uniq -c|
+tail -n +8 2026-reading.md| cut -d \| -f 7| sed 's/,/\n/g'| awk '{$1=$1};1'| sort| uniq -c|
   awk -v total="$books" '{printf "%4d %s (%d%%)\n", $1, $2, $1*100/total}'
 
-tail -n +8 2026-graphic-novels.md| cut -d \| -f 7| sort| uniq -c|
+tail -n +8 2026-graphic-novels.md| cut -d \| -f 7| sed 's/,/\n/g'| awk '{$1=$1};1'| sort| uniq -c|
   awk -v total="$gn_total" '{printf "%4d %s (%d%%)\n", $1, $2, $1*100/total}'
 
 tail -n +8 2026-reading.md| awk -F'|' -v total="$books" '{
@@ -207,7 +207,7 @@ for award in akutagawa-prize.md andrew-carnegie-medal-for-excellence.md \
 done
 
 ### What Percentage of Award Books Have I Read?
-for award in *{award,medal,prize}*.md great-american-novels.md nyt-100-best-21st-century.md guardian-100-best-novels-of-all-time.md; do
+for award in *{award,medal,prize}*.md great-american-novels.md; do
   head -1 "${award}"
   count=$(rg "^Count:" "${award}"| sed 's/Count: //')
   total=$(rg -c "^- \[" "${award}")
@@ -273,7 +273,7 @@ cut -d \| -f 8 data/audiobooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
 
 cut -d \| -f 8 data/audiobooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
   awk '{$1=$1};1'| grep -v "\-\d\+$"| sort| uniq -c|
-  grep -v -e reread -e novella -e "\[own]" -e Audible| sort -n| tail
+  grep -v -e reread -e novella -e "\[own]" -e hoopla -e Audible| sort -n| tail
 
 cut -d \| -f 7 data/eyebooks.md| sed 's/([^)]*)//g'| sed 's/,/\n/g'|
   awk '{$1=$1};1'| grep -v "\-\d\+$"| sort| uniq -c
@@ -288,7 +288,7 @@ cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md)|
 
 cat <(cut -d \| -f 8 data/audiobooks.md) <(cut -d \| -f 7 data/eyebooks.md)|
   sed 's/([^)]*)//g'| sed 's/,/\n/g'| awk '{$1=$1};1'| grep -v "\-\d\+$"| sort|
-  uniq -c| grep -v -e reread -e novella -e "\[own]" -e ebook -e Audible|
+  uniq -c| grep -v -e reread -e novella -e "\[own]" -e ebook -e hoopla -e Audible|
   sort -n| tail
 
 ### 10 short books
