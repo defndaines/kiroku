@@ -9,9 +9,9 @@ the Pulitzer Prize Board.
 Tracking for fiction and nonfiction. Removed older entries from the list which
 I have no intent of ever reading.
 
-Count: 30
+Count: 31
 
-## Fiction (20)
+## Fiction (21)
 
 - [ ] 1918: Ernest Poole, _His Family_
 - [ ] 1919: Booth Tarkington, _The Magnificent Ambersons_
@@ -112,7 +112,7 @@ Count: 30
 - [ ] 2023: Barbara Kingsolver, _Demon Copperhead_
 - [x] 2024: Jayne Anne Phillips, _Night Watch_
 - [x] 2025: Percival Everett, _James_
-- [ ] 2026: Daniel Kraus, _Angel Down_
+- [x] 2026: Daniel Kraus, _Angel Down_
 <!-- Fiction -->
 
 ## Nonfiction (6)

@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Angel Down | Daniel Kraus | 2025 | U.S. | 4.0 | audio | 283 | literary, historical, fantasy, WWI, Pulitzer Prize |
 | The Nights Are Quiet in Tehran | Shida Bazyar | 2016 | Iran, Germany | 4.0 | audio | 228 | literary, historical, contemporary, Ulla-Hahn-Autorenpreis |
 | A Trade of Blood | Robert Jackson Bennett | 2026 | U.S. | 4.5 | audio | 400 | fantasy, mystery, thriller, sci-fi, LGBT, queer |
 | Das Steingeschöpf | G. V. Anderson | 2016 | U.K., Germany | 4.25 | ebook | 23 | short story, historical, fantasy, LGBT, World Fantasy Award |
