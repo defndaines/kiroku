@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Our Revels Now Are Ended | Thomas Ha | 2026 | U.S. | 4.5 | audio | 18 | short story, sci-fi, dystopian |
 | A Plagued Sea | Kim Bo-young, Sophie Bowman (translator) | 2020 | South Korea | 4.25 | audio | 112 | novella, horror, sci-fi, fantasy, dystopian |
 | Angel Down | Daniel Kraus | 2025 | U.S. | 4.0 | audio | 283 | literary, historical, fantasy, WWI, Pulitzer Prize |
 | The Nights Are Quiet in Tehran | Shida Bazyar | 2016 | Iran, Germany | 4.0 | audio | 228 | literary, historical, contemporary, Ulla-Hahn-Autorenpreis |
