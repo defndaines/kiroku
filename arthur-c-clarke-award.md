@@ -52,3 +52,4 @@ Count: 7
 - [ ] 2023: Ned Beauman _Venomous Lumpsucker_
 - [x] 2024: Martin MacInnes _In Ascension_
 - [ ] 2025: Sierra Greer _Annie Bot_
+- [ ] 2026: E.J. Swift _When There Are Wolves Again_
