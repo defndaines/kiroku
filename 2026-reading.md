@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The End of Eddy | Édouard Louis, Michael Lucey (translator) | 2014 | France | 4.0 | audio | 208 | contemporary, LGBT, coming of age, queer |
 | The Siren | Tomi Adeyemi | 2026 | U.S. | 2.5 | print | 126 | DNF, fantasy, thriller, YA, paranormal, dark academia |
 | Our Revels Now Are Ended | Thomas Ha | 2026 | U.S. | 4.5 | audio | 18 | short story, sci-fi, dystopian |
 | A Plagued Sea | Kim Bo-young, Sophie Bowman (translator) | 2020 | South Korea | 4.25 | audio | 112 | novella, horror, sci-fi, fantasy, dystopian |

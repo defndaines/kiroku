@@ -98,6 +98,7 @@
 | The Meek and the Militant: Religion and Power Across the World | Paul N. Siegel | 1986 | U.S. | 260 | nonfiction, politics, religion, [own] | 4.09 | 55 | [184957](https://www.goodreads.com/book/show/184957.The_Meek_and_the_Militant) |
 | The Complete Fairy Tales of Charles Perrault | Charles Perrault | 1697 | France | 156 | short stories, classics, fantasy, ebook, [own] | 4.09 | 15374 | [577552](https://www.goodreads.com/book/show/577552.The_Complete_Fairy_Tales_of_Charles_Perrault) |
 | Stalin | Leon Trotsky | 1941 | Russia | 840 | nonfiction, biography, politics, [own] | 4.09 | 116 | [49994616](https://www.goodreads.com/book/show/49994616-stalin) |
+| Cécé | Emmelie Prophète, Aidan Rooney (translator) | 2020 | Haiti | 223 | literary, contemporary | 4.09 | 698 | [222926076](https://www.goodreads.com/book/show/222926076-c-c) |
 | After Appomattox: Military Occupation and the Ends of War | Gregory P. Downs | 2015 | U.S. | 352 | nonfiction, history, politics, Civil War and Reconstruction Book Award, [own] | 4.09 | 139 | [23502999](https://www.goodreads.com/book/show/23502999-after-appomattox) |
 | Autoworkers Under the Gun: A Shop-Floor View of the End of the American Dream | Gregg Shotwell | 2012 | U.S. | 200 | nonfiction, politics, labor, [own] | 4.08 | 13 | [13236688](https://www.goodreads.com/book/show/13236688-autoworkers-under-the-gun) |
 | I’m OK, I’m Pig! | Kim Hyesoon | 2014 | South Korea | 160 | poetry, ebook | 4.07 | 56 | [22916618](https://www.goodreads.com/book/show/22916618-i-m-ok-i-m-pig) |
