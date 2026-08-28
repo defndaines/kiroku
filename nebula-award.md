@@ -10,7 +10,7 @@ Awards announced at conference in June.
 
 https://nebulas.sfwa.org/
 
-Count: 45
+Count: 46
 
 ## Novel (20)
 
@@ -209,7 +209,7 @@ Count: 45
 - [ ] 2025: Thomas Ha “Uncertain Sons”
 <!-- Novelette -->
 
-## Short Story (9)
+## Short Story (10)
 
 - [x] 1965: Harlan Ellison “‘Repent, Harlequin!’ Said the Ticktockman”
 - [ ] 1966: Richard McKenna “The Secret Place”
@@ -261,7 +261,7 @@ Count: 45
 - [ ] 2012: Aliette de Bodard “Immersion”
 - [ ] 2013: Rachel Swirsky “If You Were a Dinosaur, My Love”
 - [ ] 2014: Ursula Vernon “Jackalope Wives”
-- [ ] 2015: Alyssa Wong “Hungry Daughters of Starving Mothers”
+- [x] 2015: Alyssa Wong “Hungry Daughters of Starving Mothers”
 - [ ] 2016: Amal El-Mohtar “Seasons of Glass and Iron”
 - [x] 2017: Rebecca Roanhorse “Welcome to Your Authentic Indian Experience™”
 - [x] 2018: Phenderson Djèlí Clark “The Secret Lives of the Nine Negro Teeth of George Washington”
