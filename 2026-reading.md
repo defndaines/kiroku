@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Lost in the Garden | Adam S. Leslie | 2024 | U.K. | 4.0 | audio | 446 | horror, mystery, fantasy, thriller, magical realism, queer, Nero Book Award |
 | Hungry Daughters of Starving Mothers | Alyssa Wong | 2015 | U.S. | 4.5 | ebook | 25 | short story, horror, fantasy, World Fantasy Award, Nebula Award |
 | The End of Eddy | Édouard Louis, Michael Lucey (translator) | 2014 | France | 4.0 | audio | 208 | contemporary, LGBT, coming of age, queer |
 | The Siren | Tomi Adeyemi | 2026 | U.S. | 2.5 | print | 126 | DNF, fantasy, thriller, YA, paranormal, dark academia |
