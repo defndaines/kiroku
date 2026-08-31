@@ -11,9 +11,9 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 63
+Count: 65
 
-## Dramatic Presentation (63)
+## Dramatic Presentation (65)
 
 - [ ] 1939: _The War of the Worlds_ Orson Welles, H.G. Wells
 - [x] 1941: _Fantasia_ Samuel Armstrong et al., Joe Grant, Dick Huemer (Long Form)
@@ -109,6 +109,8 @@ Count: 63
 - [ ] 2023: _The Expanse_: “Babylon’s Ashes” Breck Eisner, Daniel Abraham, Ty Franck, Naren Shankar (Short Form)
 - [x] 2024: _Dungeons & Dragons: Honor Among Thieves_ John Francis Daley, Jonathan Goldstein, Michael Gilio (Long Form)
 - [ ] 2024: _The Last of Us_: “Long, Long Time” Peter Hoar, Craig Mazin, Neil Druckmann (Short Form)
-- [x] 2025: _Star Trek: Lower Decks_: “The New Next Generation,” Mike McMahan, Megan Lloyd
-- [x] 2025: _Dune: Part Two_ Denis Villeneuve, Jon Spaihts
+- [x] 2025: _Star Trek: Lower Decks_: “The New Next Generation,” Mike McMahan, Megan Lloyd (Short Form)
+- [x] 2025: _Dune: Part Two_ Denis Villeneuve, Jon Spaihts (Long Form)
+- [x] 2026: _Murderbot_: “All Systems Red”, Paul Weitz, Chris Weitz, Rosanne Liang (Short Form)
+- [x] 2026: _Sinners_: Ryan Coogler (Long Form)
 <!-- Dramatic Presentation -->

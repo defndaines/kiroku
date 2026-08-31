@@ -11,9 +11,9 @@ Awards announced in August.
 
 https://www.thehugoawards.org/
 
-Count: 81
+Count: 86
 
-## Novel (28)
+## Novel (29)
 
 - [ ] 1939: T.H. White _The Sword in the Stone_
 - [ ] 1941: A.E. van Vogt _Slan_
@@ -97,9 +97,10 @@ Count: 81
 - [x] 2023: T. Kingfisher _Nettle & Bone_
 - [ ] 2024: Emily Tesh _Some Desperate Glory_
 - [x] 2025: Robert Jackson Bennett _The Tainted Cup_
+- [x] 2026: Alix E. Harrow _The Everlasting_
 <!-- Novel -->
 
-## Novella (11)
+## Novella (12)
 
 - [x] 1939: John W. Campbell “Who Goes There?”
 - [ ] 1941: ~Robert A. Heinlein “If This Goes On…”~
@@ -168,9 +169,10 @@ Count: 81
 - [ ] 2023: Seanan McGuire _Where the Drowned Girls Go_
 - [ ] 2024: Ursula Vernon _Thornhedge_
 - [x] 2025: Ray Nayler _The Tusks of Extinction_
+- [x] 2026: Amal El-Mohtar _The River Has Roots_
 <!-- Novella -->
 
-## Novelette (7)
+## Novelette (8)
 
 - [ ] 1939: Clifford D. Simak “Rule 18”
 - [ ] 1941: ~Robert A. Heinlein “The Roads Must Roll”~
@@ -239,9 +241,10 @@ Count: 81
 - [ ] 2023: Hai Ya ”The Space-Time Painter”
 - [x] 2024: Naomi Kritzer “The Year Without Sunshine”
 - [x] 2025: Naomi Kritzer “The Four Sisters Overlooking the Sea”
+- [x] 2026: H.H. Pak “Never Eaten Vegetables”
 <!-- Novelette -->
 
-## Short Story (13)
+## Short Story (14)
 
 - [ ] 1939: Arthur C. Clarke “How We Went to Mars”
 - [ ] 1941: Isaac Asimov “Robbie”
@@ -321,9 +324,10 @@ Count: 81
 - [x] 2023: Samantha Mills “Rabbit Test”
 - [x] 2024: Naomi Kritzer “Better Living Through Algorithms”
 - [x] 2025: Nghi Vo “Stitched to Skin Like Family Is”
+- [x] 2026: Thomas Ha “In My Country”
 <!-- Short Story -->
 
-## Graphic Story (18)
+## Graphic Story (19)
 
 - [x] 1941: _Batman_ #1; Bill Finger, Bob Kane
 - [ ] 1944: _Wonder Woman_ #5: “Battle for Womanhood”; William Moulton Marston, H. G. Peter
@@ -345,6 +349,7 @@ Count: 81
 - [x] 2023: _Cyberpunk 2077: Big City Dreams_ Bartosz Sztybor, Filipe Andrade, Alessio Fioriniello, Roman Titov, Krzysztof Ostrowski
 - [x] 2024: _Saga, Volume 11_ Brian K. Vaughan
 - [x] 2025: _Star Trek: Lower Decks: Warp Your Own Way_ Ryan North, Chris Fenoglio
+- [x] 2026: _A Wizard of Earthsea: A Graphic Novel_ Ursula K. Le Guin, Fred Fordham
 <!-- Graphic Story -->
 
 ## Related Work (1)
@@ -394,7 +399,8 @@ Count: 81
 - [ ] 2022: Charlie Jane Anders _Never Say You Can’t Survive_
 - [ ] 2023: Rob Wilkins _Terry Pratchett: A Life with Footnotes_
 - [ ] 2024: Kelly Weinersmith, Zach Weinersmith _A City on Mars_
-- [ ] 2025: Jordan S. Carroll, _Speculative Whiteness: Science Fiction and the Alt-Right_
+- [ ] 2025: Jordan S. Carroll _Speculative Whiteness: Science Fiction and the Alt-Right_
+- [ ] 2026: Ada Palmer _Inventing the Renaissance: The Myth of a Golden Age_
 <!-- Related Work -->
 
 ## Lodestar Award for Best Young Adult Book (3)
@@ -407,3 +413,4 @@ Count: 81
 - [ ] 2023: Nnedi Okorafor _Akata Woman_
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 - [ ] 2025: Darcie Little Badger _Sheine Lende_
+- [ ] 2026: C.B. Lee _Coffeeship in an Alternate Universe_
