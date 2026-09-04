@@ -413,4 +413,4 @@ Count: 86
 - [ ] 2023: Nnedi Okorafor _Akata Woman_
 - [x] 2024: Moniquill Blackgoose _To Shape a Dragon’s Breath_
 - [ ] 2025: Darcie Little Badger _Sheine Lende_
-- [ ] 2026: C.B. Lee _Coffeeship in an Alternate Universe_
+- [ ] 2026: C.B. Lee _Coffeeshop in an Alternate Universe_

@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Overgrowth | Mira Grant | 2025 | U.S. | 4.25 | audio | 480 | horror, sci-fi, fantasy |
 | Lost in the Garden | Adam S. Leslie | 2024 | U.K. | 4.0 | audio | 446 | horror, mystery, fantasy, thriller, magical realism, queer, Nero Book Award |
 | Hungry Daughters of Starving Mothers | Alyssa Wong | 2015 | U.S. | 4.5 | ebook | 25 | short story, horror, fantasy, World Fantasy Award, Nebula Award |
 | The End of Eddy | Édouard Louis, Michael Lucey (translator) | 2014 | France | 4.0 | audio | 208 | memoir, contemporary, LGBT, coming of age, queer |
