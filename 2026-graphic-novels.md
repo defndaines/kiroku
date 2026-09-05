@@ -5,6 +5,9 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The City Beneath Her Feet, Chapter 3: The Bitch with All the Bombs | James Tynion IV | 2026 | U.S. | 4.0 | print | 48 | thriller |
+| The City Beneath Her Feet, Chapter 2: The Mad Woman in the Big Black Dress | James Tynion IV | 2025 | U.S. | 4.0 | print | 48 | thriller |
+48 |
 | Synthetics, Volume 1 | J. Michael Straczynski | 2025 | U.S. | 2.0 | ebook | 92 | mystery, sci-fi, thriller, dystopian, adventure |
 | Fun Home: A Family Tragicomic | Alison Bechdel | 2006 | U.S. | 4.5 | ebook | 232 | nonfiction, memoir, LGBT, queer, Stonewall Book Award, Lambda Literary Award, Will Eisner Comic Industry Awards, The Publishing Triangle Award |
 | Tank Girl Full Colour Classics #1 | Alan C. Martin, Jamie Hewlett | 1990 | U.K. | 3.0 | ebook | 57 | sci-fi, fantasy, humor, post-apocalyptic |
