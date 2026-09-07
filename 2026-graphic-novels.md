@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Chainsaw Man, Volume 21 | Tatsuki Fujimoto | 2025 | Japan | 3.0 | print | 192 | manga, horror, fantasy |
 | A Mischief of Magpies #1 | Simon Spurrier | 2026 | U.K. | 4.0 | print | 48 | fantasy, coming of age |
 | The City Beneath Her Feet, Chapter 3: The Bitch with All the Bombs | James Tynion IV | 2026 | U.S. | 4.0 | print | 48 | thriller |
 | The City Beneath Her Feet, Chapter 2: The Mad Woman in the Big Black Dress | James Tynion IV | 2025 | U.S. | 4.0 | print | 48 | thriller |
