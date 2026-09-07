@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Savage Sword of Conan #14 | Jimmy Palmiotti, Amanda Conner, Robert E. Howard, Tom Defalco, Ron Frenz | 2026 | U.S. | 3.0 | print | 64 | fantasy, adventure, sword and sorcery |
 | Chainsaw Man, Volume 21 | Tatsuki Fujimoto | 2025 | Japan | 3.0 | print | 192 | manga, horror, fantasy |
 | A Mischief of Magpies #1 | Simon Spurrier | 2026 | U.K. | 4.0 | print | 48 | fantasy, coming of age |
 | The City Beneath Her Feet, Chapter 3: The Bitch with All the Bombs | James Tynion IV | 2026 | U.S. | 4.0 | print | 48 | thriller |
