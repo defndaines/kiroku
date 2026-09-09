@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| 26 Monkeys, Also The Abyss | Kij Johnson | 2008 | U.S. | 4.5 | ebook | 16 | short story, fantasy, magical realism, World Fantasy Award, Asimov’s Readers’ Poll Award |
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 5.0 | print | 207 | classics, literary, historical, Black, race |
 | When You Give a Dokkaebi Taco Tuesday | H.H. Pak | 2026 | U.S. | 4.0 | audio | 13 | short story, fantasy |
 | Overgrowth | Mira Grant | 2025 | U.S. | 4.25 | audio | 480 | horror, sci-fi, fantasy |

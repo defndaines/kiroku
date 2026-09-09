@@ -10,7 +10,7 @@ November.
 
 https://worldfantasy.org/
 
-Count: 13
+Count: 14
 
 ## Novel (7)
 
@@ -120,7 +120,7 @@ Count: 13
 - [ ] 2025: R.B. Lemberg _Yoke of Stars_
 <!-- Novella -->
 
-## Short Fiction (6)
+## Short Fiction (7)
 
 - [x] 1975: Robert Aickman “Pages from a Young Girl’s Journal”
 - [ ] 1976: Fritz Leiber “Belsen Express”
@@ -156,7 +156,7 @@ Count: 13
 - [ ] 2006: George Saunders “CommComm”
 - [ ] 2007: M. Rickert “Journey Into the Kingdom”
 - [ ] 2008: Theodora Goss “Singing of Mount Abora”
-- [ ] 2009: Kij Johnson “26 Monkeys, Also the Abyss”
+- [x] 2009: Kij Johnson “26 Monkeys, Also the Abyss”
 - [ ] 2010: Karen Joy Fowler “The Pelican Bar”
 - [ ] 2011: Joyce Carol Oates “Fossil-Figures”
 - [ ] 2012: Ken Liu “The Paper Menagerie”
