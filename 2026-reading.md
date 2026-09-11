@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Heart, Be at Peace | Donal Ryan | 2024 | Ireland | 4.25 | audio | 208 | short stories, literary, contemporary, Orwell Prize |
 | Sunburn | Chloe Michelle Howarth | 2023 | Ireland | 4.25 | audio | 288 | literary, historical, romance, LGBT, coming of age, queer, lesbian |
 | 26 Monkeys, Also The Abyss | Kij Johnson | 2008 | U.S. | 4.5 | ebook | 16 | short story, fantasy, magical realism, World Fantasy Award, Asimov’s Readers’ Poll Award |
 | The Stone Face | William Gardner Smith | 1963 | U.S. | 5.0 | print | 207 | classics, literary, historical, Black, race |
