@@ -123,7 +123,7 @@ Count: 107
 - [x] Israel: [_Palestine_](https://www.goodreads.com/book/show/769712.Palestine) Joe Sacco
 - [x] Honduras: [_Honduras: The Making of a Banana Republic_](https://www.goodreads.com/book/show/1791543.Honduras) Alison Acker; [_Soldiers and Kings: Survival and Hope in the World of Human Smuggling_](https://www.goodreads.com/book/show/165938555-soldiers-and-kings) Jason De León
 - [ ] Papua New Guinea:
-- [x] Hungary: [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán; [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész
+- [x] Hungary: [_The Bone Fire_](https://www.goodreads.com/book/show/23874519-the-bone-fire) György Dragomán; [_Fatelessness_](https://www.goodreads.com/book/show/318335.Fatelessness) Imre Kertész; [_Satantango_](https://www.goodreads.com/book/show/11455485-satantango) László Krasznahorkai
 - [ ] Cuba:
 - [ ] Sierra Leone:
 - [x] Austria: [_Chess Story_](https://www.goodreads.com/book/show/59151.Chess_Story) Stefan Zweig; [_The Wall_](https://www.goodreads.com/book/show/586852.The_Wall) Marlen Haushofer; Sigmund Freud
