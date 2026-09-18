@@ -17,7 +17,7 @@ on top.
 | Tank Girl Full Colour Classics #1 | Alan C. Martin, Jamie Hewlett | 1990 | U.K. | 3.0 | ebook | 57 | sci-fi, fantasy, humor, post-apocalyptic |
 | Helen of Wyndhorn | Tom King | 2025 | U.S. | 4.0 | ebook | 162 | fantasy, historical, sword and sorcery |
 | Bride of Ignat, Volume 1 | Moyori Mori | 2024 | Japan | 3.5 | ebook | 208 | manga, fantasy, romance, LGBT, queer |
-| The Holy Roller | Andy Samberg, Rick Remender, Joe Trohman | 2025 | U.S. | 4.0 | ebook | 242 | humor, crime, superheroes, sports |
+| The Holy Roller | Andy Samberg, Rick Remender, Joe Trohman | 2025 | U.S. | 4.0 | ebook | 242 | humor, crime, superhero, sports |
 | Adabana, Volume 3 | NoN | 2021 | Japan | 4.5 | ebook | 257 | manga, thriller, mystery, crime |
 | Adabana, Volume 2 | NoN | 2021 | Japan | 4.0 | ebook | 224 | manga, thriller, mystery, horror, crime |
 | Akame ga KILL!, Volume 1 | Takahiro | 2010 | Japan | 3.5 | ebook | 241 | manga, fantasy, action, adventure |
@@ -36,7 +36,7 @@ on top.
 | The Power Fantasy, Volume 3: The End of History | Kieron Gillen | 2026 | U.S. | 4.5 | print | 136 | superhero, sci-fi, politics |
 | The Power Fantasy, Volume 2: Mutually Reassuring Destruction | Kieron Gillen | 2025 | U.S. | 4.5 | print | 192 | superhero, sci-fi, politics |
 | Takahashi from the Bike Shop, Volume 1 | Arare Matsumushi | 2019 | Japan | 4.0 | ebook | 164 | manga, romance, contemporary |
-| A Wizard of Earthsea: A Graphic Novel | Fred Fordham, Ursula K. Le Guin | 2025 | U.S. | 4.5 | ebook | 270 | classics, fantasy, YA |
+| A Wizard of Earthsea: A Graphic Novel | Fred Fordham, Ursula K. Le Guin | 2025 | U.S. | 4.5 | ebook | 270 | classics, fantasy, YA, Hugo Award |
 | The Savage Sword of Conan #14 | Jim Zub, Matthew John, Joe Pruett | 2026 | U.S. | 4.0 | print | 64 | fantasy, adventure, sword and sorcery |
 | The Invisible Parade | Leigh Bardugo | 2025 | Israel | 4.0 | ebook | 60 | fantasy, Hugo Award Finalist |
 | The Power Fantasy, Volume 1: The Superpowers | Kieron Gillen | 2025 | U.S. | 4.5 | ebook | 132 | superhero, sci-fi, politics, Hugo Award Finalist |

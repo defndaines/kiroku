@@ -103,6 +103,17 @@ tail -n +8 2026-graphic-novels.md| cut -d \| -f 9| sed 's/,/\n/g'|
 cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
   sed 's/,/\n/g'| awk '{$1=$1};1'| sort| uniq -c
 
+cut -d \| -f 9 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+  sed 's/,/\n/g'| awk '{$1=$1} !/^[A-Z]/'| sort| uniq -c
+
+### Average rating by tag (threshold defaults to 3 books; -x excludes graphic novels)
+
+lib/average-rating-by-tag.sh
+
+lib/average-rating-by-tag.sh -t 1
+
+lib/average-rating-by-tag.sh -x
+
 ### Most common genres
 
 tail -n +8 2026-reading.md| cut -d \| -f 9| sed 's/,/\n/g'|
@@ -208,12 +219,12 @@ done
 
 ### What Percentage of Award Books Have I Read?
 for award in *{award,medal,prize}*.md great-american-novels.md; do
-  head -1 "${award}"
+  name=$(rg -m1 '^#' "${award}"| sed 's/^# //')
   count=$(rg "^Count:" "${award}"| sed 's/Count: //')
   total=$(rg -c "^- \[" "${award}")
   pct=$((count * 100 / total))
-  echo " ${count} (${pct}%)"
-done
+  printf "%3d%% (%d/%d) %s\n" "$pct" "$count" "$total" "$name"
+done| sort -rn
 
 ### Analysis of individual awards when there are different categories.
 for award in *{award,medal,prize}*.md; do
@@ -254,6 +265,8 @@ END {
       print c
     }
 '| sort
+
+### Award Counts Changes
 
 for f in [a-z]*.md; do
   head -1 "$f"

@@ -54,7 +54,7 @@ fiction otherwise). The most recently finished book is on top.
 | What Stalks the Deep | T. Kingfisher | 2025 | U.S. | 4.0 | audio | 179 | novella, horror, fantasy, historical, LGBT, gothic, queer, Hugo Award Finalist |
 | The Life and Times of the Extraterrestrial Potoo | K. J. Khan | 2026 | U.S. | 4.0 | audio | 17 | short story, sci-fi |
 | Ice, Rock, Empathy | Damián Neri | 2026 | Mexico | 4.0 | audio | 10 | short story, sci-fi, literary |
-| The Everlasting | Alix E. Harrow | 2025 | U.S. | 4.5 | audio | 320 | fantasy, historical, romantasy, time travel, Locus Award, Hugo Award Finalist |
+| The Everlasting | Alix E. Harrow | 2025 | U.S. | 4.5 | audio | 320 | fantasy, historical, romantasy, time travel, Locus Award, Hugo Award |
 | Slouching Towards Bethlehem | Joan Didion | 1968 | U.S. | 3.0 | audio | 238 | nonfiction, essays, classics, memoir, history, journalism |
 | Murder by Memory | Olivia Waite | 2025 | U.S. | 3.5 | audio | 103 | novella, mystery, sci-fi, LGBT, queer, Hugo Award Finalist |
 | Cinder House | Freya Marske | 2025 | Australia | 4.5 | audio | 144 | novella, fantasy, romance, retelling, LGBT, queer, gothic, Aurealis Award, Hugo Award Finalist |
@@ -92,9 +92,9 @@ fiction otherwise). The most recently finished book is on top.
 | So Late in the Day: Stories of Women and Men | Claire Keegan | 2022 | Ireland | 4.5 | print | 128 | short stories, literary, contemporary |
 | Up the Line | Robert Silverberg | 1969 | U.S. | 3.5 | audio | 320 | sci-fi, fantasy, historical, time travel, reread |
 | A Long and Speaking Silence | Nghi Vo | 2026 | U.S. | 4.5 | audio | 144 | novella, fantasy, LGBT, queer |
-| In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Locus Award, Hugo Award Finalist |
+| In My Country | Thomas Ha | 2025 | U.S. | 5.0 | ebook | 24 | short story, sci-fi, literary, dystopian, Locus Award, Hugo Award |
 | Things in Nature Merely Grow | Yiyun Li | 2025 | China, U.S. | 4.5 | audio | 192 | nonfiction, memoir, mental health, Pulitzer Prize, Andrew Carnegie Medal |
-| The River Has Roots | Amal El-Mohtar | 2025 | Canada, U.K. | 4.0 | audio | 133 | novella, fantasy, romance, Locus Award, Hugo Award Finalist |
+| The River Has Roots | Amal El-Mohtar | 2025 | Canada, U.K. | 4.0 | audio | 133 | novella, fantasy, romance, Locus Award, Hugo Award |
 | If We Cannot Go at the Speed of Light | Kim Cho-yeop | 2019 | South Korea | 4.5 | audio | 192 | short stories, sci-fi, fantasy, contemporary |
 | Laser Eyes Ain’t Everything | Effie Seiberg | 2025 | U.S. | 4.5 | ebook | 11 | short story, sci-fi, disability, superhero, Hugo Award Finalist |
 | Ghalen: A Romance in Black | Walter Mosley | 2026 | U.S. | 4.0 | print | 360 | family saga, disability |
@@ -138,13 +138,13 @@ fiction otherwise). The most recently finished book is on top.
 | The Day Before the Revolution | Ursula K. Le Guin | 1974 | U.S. | 4.0 | print | 20 | short story, classics, sci-fi, fantasy, speculative, politics, utopia, Nebula Award, Locus Award |
 | Sympathy for the Devil | Kent Anderson | 1987 | U.S. | 4.5 | audio | 399 | historical, mystery, thriller, war, noir |
 | The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces | Seth Harp | 2025 | U.S. | 4.5 | audio | 357 | nonfiction, history, crime, politics, war |
-| Never Eaten Vegetables | H.H. Pak | 2025 | U.S. | 4.0 | ebook | 33 | novelette, sci-fi |
+| Never Eaten Vegetables | H.H. Pak | 2025 | U.S. | 4.0 | ebook | 33 | novelette, sci-fi, Hugo Award |
 | A Forbidden Alchemy | Stacey McEwan | 2025 | Australia | 3.5 | audio | 480 | fantasy, romantasy, enemies to lovers, slow burn |
 | Imago | Octavia E. Butler | 1989 | U.S. | 5.0 | audio | 220 | sci-fi, fantasy, speculative, dystopian, Black, post-apocalyptic |
 | The Truth About Owls | Amal El-Mohtar | 2014 | Canada | 3.5 | ebook | 10 | short story, YA, Locus Award |
 | Adulthood Rites | Octavia E. Butler | 1988 | U.S. | 5.0 | audio | 277 | sci-fi, fantasy, speculative, dystopian, post-apocalyptic |
 | The True True Story of Raja the Gullible (and His Mother) | Rabih Alameddine | 2025 | Jordan | 4.5 | audio | 336 | literary, historical, LGBT, contemporary, queer, National Book Award |
-| The Son of Man | Jean-Baptiste Del Amo | 2021 | France | 4.5 | audio | 240 | literary, contemporary, dark |
+| The Son of Man | Jean-Baptiste Del Amo | 2021 | France | 4.5 | audio | 240 | literary, contemporary |
 | The Orchard Village Catalog | Parker Peevyhouse | 2025 | U.S. | 2.5 | audio | 8 | short story, sci-fi |
 | Simple Sabotage Field Manual | U.S. Office of Strategic Services | 1944 | U.S. | 4.0 | audio | 38 | nonfiction, history, politics, management, WWII |
 | Dawn | Octavia E. Butler | 1987 | U.S. | 4.5 | audio | 320 | sci-fi, fantasy, horror, dystopian, post-apocalyptic, feminism |
