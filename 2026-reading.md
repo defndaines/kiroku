@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Hello Baby | Kim Eui-kyung, Sora Kim-Russell (translator) | 2023 | South Korea | 5.0 | audio | 176 | literary, contemporary, feminism |
 | The Pacific Circuit: A Globalized Account of the Battle for the Soul of an American City | Alexis Madrigal | 2025 | U.S. | 4.5 | audio | 384 | nonfiction, history, politics, economics |
 | Satantango | László Krasznahorkai, George Szirtes (translator) | 1985 | Hungary | 3.0 | audio | 274 | classics, literary, dystopian, Nobel Prize, BTBA Best Translated Book Award |
 | Heart, Be at Peace | Donal Ryan | 2024 | Ireland | 4.25 | audio | 208 | short stories, literary, contemporary, Orwell Prize |
