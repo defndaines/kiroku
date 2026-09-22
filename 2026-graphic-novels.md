@@ -5,6 +5,7 @@ on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Legend of Korra: Kya and the Secret of the Sand | Kiku Hughes | 2026 | U.S. | 4.25 | ebook | 76 | fantasy, YA |
 | Mary Shelley’s School for Monsters: La Llorona in the Machine, Volume 1 | Jessica Maison | 2025 | U.S. | 4.0 | ebook | 114 | horror, YA |
 | The Savage Sword of Conan #14 | Jimmy Palmiotti, Amanda Conner, Robert E. Howard, Tom Defalco, Ron Frenz | 2026 | U.S. | 3.0 | print | 64 | fantasy, adventure, sword and sorcery |
 | Chainsaw Man, Volume 21 | Tatsuki Fujimoto | 2025 | Japan | 3.0 | print | 192 | manga, horror, fantasy |
