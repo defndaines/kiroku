@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Teo’s Durumi | Elaine U. Cho | 2025 | U.S., South Korea | 3.75 | audio | 352 | sci-fi, space opera, LGBT, queer |
 | Hello Baby | Kim Eui-kyung, Sora Kim-Russell (translator) | 2023 | South Korea | 5.0 | audio | 176 | literary, contemporary, feminism |
 | The Pacific Circuit: A Globalized Account of the Battle for the Soul of an American City | Alexis Madrigal | 2025 | U.S. | 4.5 | audio | 384 | nonfiction, history, politics, economics |
 | Satantango | László Krasznahorkai, George Szirtes (translator) | 1985 | Hungary | 3.0 | audio | 274 | classics, literary, dystopian, Nobel Prize, BTBA Best Translated Book Award |
