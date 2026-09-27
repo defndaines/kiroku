@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Not Too Late: Changing the Climate Story from Despair to Possibility | Rebecca Solnit (editor), Thelma Young Lutunatabua (editor) | 2023 | U.S. | 3.5 | audio | 200 | nonfiction, essays, politics, climate change, nature, science |
 | Teo’s Durumi | Elaine U. Cho | 2025 | U.S., South Korea | 3.75 | audio | 352 | sci-fi, space opera, LGBT, queer |
 | Hello Baby | Kim Eui-kyung, Sora Kim-Russell (translator) | 2023 | South Korea | 5.0 | audio | 176 | literary, contemporary, feminism |
 | The Pacific Circuit: A Globalized Account of the Battle for the Soul of an American City | Alexis Madrigal | 2025 | U.S. | 4.5 | audio | 384 | nonfiction, history, politics, economics |
