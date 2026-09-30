@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Racist by Design: Two Centuries of U.S. Immigration Control | Kelly Lytle Hernández | 2026 | U.S. | 5.0 | audio | 304 | nonfiction, history, immigration, race, politics |
 | The Sort | Thomas Ha | 2024 | U.S. | 4.5 | ebook | 29 | short story, sci-fi |
 | People Shoot People | Brie Atienza | 2026 | Singapore | 4.5 | ebook | 27 | short story, sci-fi |
 | The Hunger of Those Who Built It | Wendy Waring | 2026 | Canada | 4.25 | print | 412 | sci-fi, climate change, apocalyptic |
