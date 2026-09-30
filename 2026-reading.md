@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| People Shoot People | Brie Atienza | 2026 | Singapore | 4.5 | ebook | 27 | short story, sci-fi |
 | The Hunger of Those Who Built It | Wendy Waring | 2026 | Canada | 4.25 | print | 412 | sci-fi, climate change, apocalyptic |
 | Not Too Late: Changing the Climate Story from Despair to Possibility | Rebecca Solnit (editor), Thelma Young Lutunatabua (editor) | 2023 | U.S. | 3.5 | audio | 200 | nonfiction, essays, politics, climate change, nature, science |
 | Teo’s Durumi | Elaine U. Cho | 2025 | U.S., South Korea | 3.75 | audio | 352 | sci-fi, space opera, LGBT, queer |
