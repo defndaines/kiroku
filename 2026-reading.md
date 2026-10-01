@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| That Summer at Aunt Jackie’s Alpaca Farm | Wen Wen Yang | 2026 | U.S. | 4.5 | ebook | 10 | short story, fantasy, romance |
 | Scion | Thomas Ha | 2026 | U.S. | 3.5 | ebook | 91 | novella, sci-fi |
 | To Walk this Distant Shore with You | A.D. Sui | 2026 | Ukraine | 3.5 | ebook | 14 | short story, sci-fi |
 | Racist by Design: Two Centuries of U.S. Immigration Control | Kelly Lytle Hernández | 2026 | U.S. | 5.0 | audio | 304 | nonfiction, history, immigration, race, politics |
