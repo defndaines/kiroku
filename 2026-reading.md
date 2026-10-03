@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| And So I Open My Fists | Rachel Sobel | 2026 | U.S. | 2.5 | audio | 22 | novelette, sci-fi |
 | The Samurai and the Prisoner | Honobu Yonezawa, Giuseppe Di Martino (translator) | 2021 | Japan | 5.0 | audio | 432 | historical, mystery, 山田風太郎賞, Naoki Prize 直木三十五賞, Honkaku Mystery Award |
 | Lu’s Laundry and Other Services | Wen Wen Yang | 2026 | U.S. | 5.0 | ebook | 8 | short story, historical, horror, fantasy |
 | That Summer at Aunt Jackie’s Alpaca Farm | Wen Wen Yang | 2026 | U.S. | 4.5 | ebook | 10 | short story, fantasy, romance |
