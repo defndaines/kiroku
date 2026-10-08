@@ -7,7 +7,7 @@ alternatives to how we live now”.
 
 The recipient of each year’s prize is chosen by a selection panel of authors.
 
-Award is announced in October.
+Award is announced on 21 October (Le Guin’s birthday).
 
 https://www.ursulakleguin.com/prize-overview
 

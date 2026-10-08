@@ -22,6 +22,7 @@ Count: 8
 - [x] 2023: James McBride _The Heaven & Earth Grocery Store_
 - [x] 2024: Percival Everett _James_
 - [x] 2025: Lucas Schaefer _The Slip_
+- [ ] 2026: Tayari Jones _Kin_
 
 ## Nonfiction (0)
 
@@ -37,6 +38,7 @@ Count: 8
 - [ ] 2023: Héctor Tobar _Our Migrant Souls: A Meditation on the Meanings and Myths of “Latino”_
 - [ ] 2024: Adam Higginbotham _Challenger_
 - [ ] 2025: Scott Anderson _King of Kings: The Iranian Revolution: A Story of Hubris, Delusion and Catastrophic Miscalculation_
+- [ ] 2026: Pamela Colloff _Catch the Devil: A True Story of Murder, Deception, and Injustice on the Gulf Coast_
 
 ## Young Readers’ Literature (3)
 
@@ -51,3 +53,5 @@ Count: 8
 - [x] 2022: Harmony Becker _Himawari House_
 - [ ] 2023: Ariel Aberg-Riger _America Redux: Visual Stories From Our Dynamic History_
 - [ ] 2024: Kenneth M. Cadow _Gather_
+- [ ] 2025: Thao Lam _Everybelly_
+- [ ] 2026: Elizabeth Acevedo _Anger Is Only a Shadow_

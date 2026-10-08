@@ -9,9 +9,9 @@ Awards are announced in October.
 
 https://www.ohioana.org/programs/ohio-book-awards/
 
-Count: 6
+Count: 7
 
-## Fiction (2)
+## Fiction (3)
 
 - [ ] 1943: Martin Joseph Freeman _Bitter Honey_
 - [ ] 1944: Ann Steward _Take Nothing for Your Journey_
@@ -99,6 +99,7 @@ Count: 6
 - [ ] 2023: Celeste Ng _Our Missing Hearts_
 - [x] 2024: James McBride _The Heaven and Earth Grocery Store_
 - [ ] 2025: Christopher Bollen _Havoc_
+- [x] 2026: Patrick Ryan _Buckeye_
 <!-- Fiction -->
 
 ## Nonfiction (1)
@@ -214,6 +215,7 @@ Count: 6
 - [ ] 2023: Ross Gay _Inciting Joy_
 - [ ] 2024: Sarah Lohman _Endangered Eating: America’s Vanishing Foods_
 - [ ] 2025: Timothy Snyder _On Freedom_
+- [ ] 2026: John Green _Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection_
 <!-- Nonfiction -->
 
 ## About Ohio (2)
@@ -302,6 +304,7 @@ Count: 6
 - [ ] 2023: Kelcey Ervick _The Keeper: Soccer, Me, and the Law That Changed Women’s Lives_
 - [ ] 2024: Laura Meckler _Dream Town: Shaker Heights and the Quest for Racial Equity_
 - [ ] 2025: Keith O’Brien _Charlie Hustle: The Rise and Fall of Pete Rose, and the Last Glory Days of Baseball_
+- [ ] 2026: John U. Bacon _The Gales of November: The Untold Story of the Edmund Fitzgerald_
 <!-- About Ohio -->
 
 ## Reader’s Choice Award (1)
@@ -315,5 +318,6 @@ Count: 6
 - [ ] 2022: Manuel Iris _The Parting Present / Lo que se irá_
 - [ ] 2023: John Scalzi _The Kaiju Preservation Society_
 - [ ] 2024: Sarah Lohman _Endangered Eating: America’s Vanishing Foods_
-- [ ] 2025: Amanda Flower _To Slip the Bonds of Earth (A Katharine Wright Mystery)_
+- [ ] 2025: Amanda Flower _To Slip the Bonds of Earth_
+- [ ] 2026: Marty Ross-Dolen _Always There, Always Gone: A Daughter’s Search for Truth_
 <!-- Reader’s Choice Award -->
