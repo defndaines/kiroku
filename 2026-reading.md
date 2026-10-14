@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Disappearers | Marlon James | 2026 | Jamaica | 4.25 | audio | 640 | literary, historical, LGBT, queer |
 | The Cancellation of Michael Z | Tendai Huchu | 2026 | Zimbabwe | 4.25 | ebook | 23 | short story, sci-fi |
 | A Heap of Petrified Gods | Adelehin Ijasan | 2025 | Nigeria | 4.75 | ebook | 7 | short story, literary, sci-fi |
 | The Curse of Hester Gardens | Tamika Thompson | 2026 | U.S. | 4.75 | audio | 448 | horror, thriller, fantasy, paranormal |
