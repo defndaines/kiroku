@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Cancellation of Michael Z | Tendai Huchu | 2026 | Zimbabwe | 4.25 | ebook | 23 | short story, sci-fi |
 | A Heap of Petrified Gods | Adelehin Ijasan | 2025 | Nigeria | 4.75 | ebook | 7 | short story, literary, sci-fi |
 | The Curse of Hester Gardens | Tamika Thompson | 2026 | U.S. | 4.75 | audio | 448 | horror, thriller, fantasy, paranormal |
 | In This Exchange of Names, I Say Please | Wen Wen Yang | 2026 | U.S. | 4.5 | ebook | 3 | short story, literary, race |
@@ -76,7 +77,7 @@ fiction otherwise). The most recently finished book is on top.
 | Murder by Memory | Olivia Waite | 2025 | U.S. | 3.5 | audio | 103 | novella, mystery, sci-fi, LGBT, queer, Hugo Award Finalist |
 | Cinder House | Freya Marske | 2025 | Australia | 4.5 | audio | 144 | novella, fantasy, romance, retelling, LGBT, queer, gothic, Aurealis Award, Hugo Award Finalist |
 | The Director | Daniel Kehlmann | 2023 | Germany | 4.0 | audio | 352 | literary, historical, film, WWII |
-| The Buffalo Hunter Hunter | Stephen Graham Jones | 2025 | U.S., Niitsítpiis-Stahkoli | 4.5 | audio | 448 | horror, historical, fantasy, paranormal, vampires, indigenous, Bram Stoker Award, Nebula Award, Locus Award, Audie Award, Readin’ Award |
+| The Buffalo Hunter Hunter | Stephen Graham Jones | 2025 | U.S., Niitsítpiis-Stahkoli | 4.5 | audio | 448 | horror, historical, fantasy, paranormal, vampires, indigenous, Bram Stoker Award, Nebula Award, Locus Award, Audie Award, Readin’ Award, British Fantasy Award, Ignyte Award |
 | Here Where We Live Is Our Country: The Story of the Jewish Bund | Molly Crabapple | 2026 | U.S. | 4.0 | audio | 480 | nonfiction, history, politics, biography |
 | The Night Circus | Erin Morgenstern | 2011 | U.S. | 3.5 | print, audio | 506 | fantasy, historical, romance, magical realism, YA, Locus Award, Alex Award |
 | A Girl Made of Time | Tiffany Chu | 2024 | U.S. | 3.5 | ebook | 39 | novelette, fantasy |

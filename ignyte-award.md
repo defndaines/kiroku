@@ -11,9 +11,9 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 14
+Count: 17
 
-## Novel (1)
+## Novel (2)
 
 - [ ] 2020: _Gods of Jade and Shadow_ Silvia Moreno-Garcia
 - [x] 2021: _Black Sun_ Rebecca Roanhorse
@@ -21,6 +21,7 @@ Count: 14
 - [ ] 2023: _The Blood Trials_ N. E. Davenport
 - [ ] 2024: _The Saint of Bright Doors_ Vajra Chandrasekera
 - [ ] 2025: _The Sentence_ Gautam Bhatia
+- [x] 2026: _The Buffalo Hunter Hunter_ Stephen Graham Jones
 
 ## Novel: Young Adult (1)
 
@@ -30,8 +31,9 @@ Count: 14
 - [ ] 2023: _Bloodmarked_ Tracy Deonn
 - [ ] 2024: _I Feed Her to the Beast and the Beast Is Me_ Jamison Shae
 - [ ] 2025: _Heir_ Sabaa Tahir
+- [ ] 2026: _They Bloom at Night_ Trang Thanh Tran
 
-## Novella (2)
+## Novella (3)
 
 - [x] 2020: _This is How You Lose the Time War_ Max Gladstone & Amal El-Mohtar
 - [ ] 2021: _Riot Baby_ Tochi Onyebuchi
@@ -39,8 +41,9 @@ Count: 14
 - [x] 2023: _Into the Riverlands_ Nghi Vo
 - [ ] 2024: _The Lies of the Ajungo_ Moses Ose Utomi
 - [ ] 2025: _Lost Ark Dreaming_ Suyi Okungbowa Davies
+- [x] 2026: _The River Has Roots_ Amal El-Mohtar
 
-## Novelette (5)
+## Novelette (6)
 
 - [x] 2020: _Emergency Skin_ N. K. Jemisin
 - [x] 2021: _The Inaccessibility of Heaven_ Aliette de Bodard
@@ -48,6 +51,7 @@ Count: 14
 - [x] 2023: _If You Find Yourself Speaking to God, Address God with the Informal You_ John Chu
 - [ ] 2024: _Spell for Grief and Longing_ Eboni J. Dunbar
 - [x] 2025: _We Who Will Not Die_ Shingai Njeri Kagunda
+- [x] 2026: _We Begin Where Infinity Ends_ Somto Ihezue
 
 ## Short Story (5)
 
@@ -57,3 +61,4 @@ Count: 14
 - [x] 2023: _The Lady of the Yellow-Painted Library_ Tobi Ogundiran
 - [x] 2024: _A Witch’s Transition in the City of Ghosts_ Oluwatomiwa Ajeigbe
 - [x] 2025: _We Will Teach You How to Read | We Will Teach You How to Read_ Caroline M. Yoachim
+- [ ] 2026: _Commensalism, Or the Labyrinth’s Vessels_ Albert Nkereuwem

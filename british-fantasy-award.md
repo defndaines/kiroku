@@ -10,7 +10,7 @@ Awards announced in October or early November.
 
 https://britishfantasysociety.org/about-the-bfs/the-british-fantasy-awards/
 
-Count: 13
+Count: 15
 
 ## Novel (1)
 
@@ -71,9 +71,10 @@ Count: 13
 - [x] 2023: _The Spear Cuts Through Water_, Simon Jimenez
 - [ ] 2024: _Talonsister_, Jen Williams
 - [ ] 2025: _Masquerade_, O.O. Sangoyomi
+- [ ] 2026: _Upon a Starlit Tide_, Kell Woods
 <!-- Fantasy Novel -->
 
-## Horror Novel (August Derleth Award) (0)
+## Horror Novel (August Derleth Award) (1)
 
 - [ ] 2012: _The Ritual_, Adam Nevill
 - [ ] 2013: _Last Days_, Adam Nevill
@@ -89,9 +90,10 @@ Count: 13
 - [ ] 2023: _Just Like Home_, Sarah Gailey
 - [ ] 2024: _Don’t Fear the Reaper_, Stephen Graham Jones
 - [ ] 2025: _My Darling Dreadful Thing_, Johanna van Veen
+- [x] 2026: _The Buffalo Hunter Hunter_, Stephen Graham Jones
 <!-- Horror Novel -->
 
-## Novella (2)
+## Novella (3)
 
 - [ ] 2005: _Breathe_, Christopher Fowler
 - [ ] 2006: _The Mask Behind the Face_, Stuart Young
@@ -114,6 +116,7 @@ Count: 13
 - [ ] 2023: _The Queen of the High Fields_, Rhiannon A. Grist
 - [ ] 2024: _The Last Dragoners of Bowbazar_, Indra Das
 - [ ] 2025: _The Last to Drown_, Lorraine Wilson
+- [x] 2026: _The River Has Roots_, Amal El-Mohtar
 <!-- Novella -->
 
 ## Short Fiction (1)
@@ -171,6 +174,7 @@ Count: 13
 - [ ] 2023: _Morta_, James Bennett
 - [ ] 2024: _The Brazen Head of Westinghouse_, Tim Major, (IZ Digital)
 - [x] 2025: _Loneliness Universe_, Eugenia Triantafyllou
+- [ ] 2026: _Shadow Jack_, CL Hellisen
 <!-- Short Fiction -->
 
 ## Comic / Graphic Novel (5)
@@ -216,21 +220,24 @@ Count: 13
 - [ ] 2023: _An Earnest Blackness_, Eugen Bacon
 - [ ] 2024: _Writing the Future_, eds. Dan Coxon & Richard V. Hirst
 - [ ] 2025: _Queer as Folklore: The Hidden Queer History of Myths and Monsters_, Sacha Coward
+- [ ] 2026: _Nigerian Speculative Fiction: Evolution_, Chukwunonso Ezeiyoke
 <!-- Non-Fiction -->
 
 ## Newcomer (Sydney J. Bounds Award) (1)
 
-- [ ] 2018: Jeannette Ng, for _Under the Pendulum Sun_
-- [ ] 2019: Tasha Suri, for _Empire of Sand_
-- [ ] 2020: Ta-Nehisi Coates, for _The Water Dancer_
-- [ ] 2021: Kathleen Jennings, for _Flyaway_
-- [x] 2022: Shelley Parker-Chan, for _She Who Became the Sun_
-- [ ] 2023: Hiron Ennes, for _Leech_
-- [ ] 2024: Teika Marija Smits, for “Umbilical” & “Waterlore”
-- [ ] 2025: Frances White, for _Voyage of the Damned_
+- [ ] 2018: Jeannette Ng, _Under the Pendulum Sun_
+- [ ] 2019: Tasha Suri, _Empire of Sand_
+- [ ] 2020: Ta-Nehisi Coates, _The Water Dancer_
+- [ ] 2021: Kathleen Jennings, _Flyaway_
+- [x] 2022: Shelley Parker-Chan, _She Who Became the Sun_
+- [ ] 2023: Hiron Ennes, _Leech_
+- [ ] 2024: Teika Marija Smits, “Umbilical” & “Waterlore”
+- [ ] 2025: Frances White, _Voyage of the Damned_
+- [ ] 2026: Annabel Campbell, _The Outcast Mage_
 <!-- Newcomer -->
 
 ## Aldiss Award (0)
 
-- [ ] 2025: Rogba Payne, for _The Dance of Shadows_
+- [ ] 2025: Rogba Payne, _The Dance of Shadows_
+- [ ] 2026: Tasha Suri, _The Isle in the Silver Sea_
 <!-- Aldiss -->
