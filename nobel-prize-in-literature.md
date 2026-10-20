@@ -99,7 +99,7 @@ Count: 35
 - [ ] 1990: Octavio Paz [Mexico]:
 - [ ] 1991: Nadine Gordimer [South Africa]:
 - [ ] 1992: Derek Walcott [Saint Lucia]:
-- [x] 1993: Toni Morrison [U.S.]: _Beloved_, _The Source of Self-Regard_
+- [x] 1993: Toni Morrison [U.S.]: _Beloved_, _The Source of Self-Regard_, _Song of Solomon_
 - [x] 1994: Kenzaburo Oe [Japan]: _A Personal Matter_
 - [x] 1995: Seamus Heaney [Ireland]: _Beowulf_
 - [ ] 1996: Wislawa Szymborska [Poland]:

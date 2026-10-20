@@ -6,7 +6,7 @@ Novels](https://www.theatlantic.com/books/archive/2024/03/best-books-american-fi
 I’m interesting in reading a significant portion of these, so figured it was
 worth keeping track.
 
-Count: 39
+Count: 40
 
 - [x] F. Scott Fitzgerald _The Great Gatsby_ (1925)
 - [ ] Theodore Dreiser _An American Tragedy_ (1925)
@@ -72,7 +72,7 @@ Count: 39
 - [ ] Gayl Jones _Corregidora_ (1975)
 - [ ] Renata Adler _Speedboat_ (1976)
 - [ ] Leslie Marmon Silko _Ceremony_ (1977)
-- [ ] Toni Morrison _Song of Solomon_ (1977)
+- [x] Toni Morrison _Song of Solomon_ (1977)
 - [ ] Will Eisner _A Contract With God_ (1978)
 - [ ] Andrew Holleran _Dancer From the Dance_ (1978)
 - [x] Stephen King _The Stand_ (1978)

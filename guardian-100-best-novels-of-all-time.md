@@ -2,7 +2,7 @@
 
 https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time
 
-## Guardian’s List (34)
+## Guardian’s List (35)
 
 - [ ] 100: _My Ántonia_ Willa Cather
 - [ ] 99: _The Go-Between_ LP Hartley
@@ -64,7 +64,7 @@ https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels
 - [ ] 43: _Housekeeping_ Marilynne Robinson
 - [ ] 42: _The Magic Mountain_ Thomas Mann
 - [x] 41: _Heart of Darkness_ Joseph Conrad
-- [ ] 40: _Song of Solomon_ Toni Morrison
+- [x] 40: _Song of Solomon_ Toni Morrison
 - [x] 39: _Their Eyes Were Watching God_ Zora Neale Hurston
 - [ ] 38: _The Age of Innocence_ Edith Wharton
 - [x] 37: _Invisible Man_ Ralph Ellison
