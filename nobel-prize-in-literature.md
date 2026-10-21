@@ -8,7 +8,7 @@ Academy decides and announces the name of the laureate in early October.
 List of Nobel Prize winners, identified by whether I’ve read them (or seen
 them in the case of plays).
 
-Count: 35
+Count: 36
 
 - [ ] 1901: Sully Prudhomme [France]:
 - [ ] 1902: Theodor Mommsen [Germany]:
@@ -131,5 +131,5 @@ Count: 35
 - [x] 2022: Annie Ernaux [France]: _Happening_, _A Woman’s Story_, _La place_
 - [x] 2023: Jon Fosse [Norway]: _The Other Name_
 - [x] 2024: Han Kang [South Korea]: _Human Acts_, _We Do Not Part_, _The Vegetarian_, _Greek Lessons_, _The White Book_
-- [x] 2025: László Krasznahorkai [Hungary]:
-- [ ] 2026: Anne Carson [Canada]:
+- [x] 2025: László Krasznahorkai [Hungary]: _Satantango_
+- [x] 2026: Anne Carson [Canada]: _Autobiography of Red_
