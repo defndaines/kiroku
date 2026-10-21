@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Fifth Season | N.K. Jemisin | 2015 | U.S. | 5.0 | print | 465 | fantasy, sci-fi, dystopian, queer, Hugo Award, reread |
 | Autobiography of Red | Anne Carson | 1998 | Canada | 3.0 | audio | 149 | poetry, classics, literary, fantasy, mythology, LGBT, retelling, queer, Nobel Prize |
 | Commensalism, Or the Labyrinth’s Vessels | Albert Nkereuwem | 2025 | Nigeria | 4.0 | ebook | 14 | short story, sci-fi, Ignyte Award |
 | Song of Solomon | Toni Morrison | 1977 | U.S. | 4.5 | audio | 338 | classics, literary, historical, magical realism, Black, Nobel Prize, Janet Heidinger Kafka Prize, National Book Critics Circle Award |
