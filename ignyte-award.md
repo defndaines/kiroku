@@ -11,7 +11,7 @@ Voting concludes in August.
 
 https://ignyteawards.fiyahlitmag.com/
 
-Count: 17
+Count: 18
 
 ## Novel (2)
 
@@ -53,7 +53,7 @@ Count: 17
 - [x] 2025: _We Who Will Not Die_ Shingai Njeri Kagunda
 - [x] 2026: _We Begin Where Infinity Ends_ Somto Ihezue
 
-## Short Story (5)
+## Short Story (6)
 
 - [ ] 2020: _A Brief Lesson in Native American Astronomy_ Rebecca Roanhorse
 - [x] 2021: _You Perfect, Broken Thing_ C. L. Clark
@@ -61,4 +61,4 @@ Count: 17
 - [x] 2023: _The Lady of the Yellow-Painted Library_ Tobi Ogundiran
 - [x] 2024: _A Witch’s Transition in the City of Ghosts_ Oluwatomiwa Ajeigbe
 - [x] 2025: _We Will Teach You How to Read | We Will Teach You How to Read_ Caroline M. Yoachim
-- [ ] 2026: _Commensalism, Or the Labyrinth’s Vessels_ Albert Nkereuwem
+- [x] 2026: _Commensalism, Or the Labyrinth’s Vessels_ Albert Nkereuwem
