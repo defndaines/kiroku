@@ -2,7 +2,6 @@
 | --- | --- | :---: | --- | ---: | --- | :---: | ---: | --- |
 | The Smallest Ones: Two Sisters’ Escape from DRC Rebels and Their Pursuit of Freedom | Popina Khumanda | 2025 | Democratic Republic of the Congo | 244 | nonfiction | 4.82 | 38 | [231766755](https://www.goodreads.com/book/show/231766755-the-smallest-ones) |
 | Ka’m-t’em: A Journey Toward Healing | Kishan Lara-Cooper, Walter J. Lara Sr. | 2019 | U.S., Yurok | 356 | nonfiction, essays, religion, sociology, [own] | 4.70 | 20 | [46120799](https://www.goodreads.com/book/show/46120799-ka-m-t-em) |
-| Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems | Martin Kleppmann, Chris Riccomini | 2026 | Germany, U.S. | 670 | nonfiction, computer science, technology, no-audio | 4.69 | 11349 | [238227532](https://www.goodreads.com/book/show/238227532-designing-data-intensive-applications) |
 | A History of Disappearance | Sarah Lubala | 2022 | Democratic Republic of the Congo | 58 | poetry | 4.60 | 10 | [62713771](https://www.goodreads.com/book/show/62713771-a-history-of-disappearance) |
 | This Bell Still Rings: My Life of Defiance and Song | Barbara Dane | 2022 | U.S. | 488 | nonfiction, memoir, music, ebook | 4.57 | 7 | [60199572](https://www.goodreads.com/book/show/60199572-this-bell-still-rings) |
 | Reading Blue Devils: A Novel | Jon Bennett | 2018 | U.S. | 296 | contemporary, high school, Ohio | 4.56 | 9 | [36501912](https://www.goodreads.com/book/show/36501912-reading-blue-devils) |

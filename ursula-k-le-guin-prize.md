@@ -17,3 +17,4 @@ Count: 3
 - [ ] 2023: Rebecca Campbell _Arboreality_
 - [x] 2024: Anne de Marcken _It Lasts Forever and Then It’s Over_
 - [x] 2025: Vajra Chandrasekera _Rakesfall_
+- [ ] 2026: Pip Adam _Audition_
