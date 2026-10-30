@@ -69,12 +69,14 @@ Count: 6
 - [ ] 2023: Sacha Lamb _When the Angels Left the Old Country_
 - [ ] 2024: Emma Törzs _Ink, Blood, Sister, Scribe_
 - [ ] 2025: Minsoo Kang _The Melancholy of Untold History_
+- [ ] 2026: T. Kingfisher _Snake-Eater_
 <!-- Adult Literature -->
 
 ## Young Adult Literature (0)
 
 - [ ] 2024: Frances Hardinge _Unraveller_
 - [ ] 2025: Amie Kaufman _The Isles of the Gods_
+- [ ] 2026: K. Ancrum _The Corruption of Hollis Brown_
 
 ## Children’s Literature (4)
 
@@ -112,4 +114,5 @@ Count: 6
 - [ ] 2023: Kelly Barnhill _The Ogress and the Orphans_
 - [ ] 2024: K. O’Neill _The Moth Keeper_
 - [ ] 2025: Frances Hardinge _Island of Whispers_
+- [ ] 2026: Aubrey Hartman _The Undead Fox of Deadwood Forest_
 <!-- Children’s Literature -->

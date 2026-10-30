@@ -67,6 +67,7 @@ Count: 14
 - [ ] 2023: C.S.E. Cooney _Saint Death’s Daughter_
 - [x] 2024: Tananarive Due _The Reformatory_
 - [x] 2025: Robert Jackson Bennett _The Tainted Cup_
+- [ ] 2026: M.R. Carey _Once Was Willem_
 <!-- Novel -->
 
 ## Novella (0)
@@ -118,6 +119,7 @@ Count: 14
 - [ ] 2023: Priya Sharma _Pomegranates_
 - [ ] 2024: Josh Malerman _Half the House Is Haunted_
 - [ ] 2025: R.B. Lemberg _Yoke of Stars_
+- [ ] 2026: Eden Royce _Psychopomp & Circumstance_
 <!-- Novella -->
 
 ## Short Fiction (7)
@@ -174,4 +176,5 @@ Count: 14
 - [ ] 2023: Tananarive Due “Incident at Bear Creek Lodge”
 - [ ] 2024: Nghi Vo “Silk and Cotton and Linen and Blood”
 - [ ] 2025: Maura McHugh “Raptor”
+- [ ] 2026: Renan Bernardo “The Hungry Mouth at the Edge of Space and the Goddess Knitting at Home”
 <!-- Short Fiction -->

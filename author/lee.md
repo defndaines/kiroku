@@ -22,6 +22,7 @@
 ### Standalone Novels
 
 - [ ] Phoenix Extravagant (2020)
+- [ ] Code and Codex (2026)
 
 ## Collections
 

@@ -1,3 +1,5 @@
+# shellcheck shell=bash
+
 # 2026 Reading
 
 ## Total Book Count
@@ -16,10 +18,10 @@ tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//; s/ *$
 tail -n +8 2026-reading.md| cut -d \| -f 3| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
   sort| uniq -c| sort -n| grep -v " 1 "
 
-cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+{ tail -n +8 2026-reading.md; tail -n +8 2026-graphic-novels.md; }| cut -d \| -f 3|
   sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'| sort| uniq -c| sort -n
 
-cut -d \| -f 3 <(tail -n +8 2026-reading.md) <(tail -n +8 2026-graphic-novels.md)|
+{ tail -n +8 2026-reading.md; tail -n +8 2026-graphic-novels.md; }| cut -d \| -f 3|
   sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'| sort| uniq -c| sort -n| grep -v " 1 "
 
 for author in author/*.md; do
@@ -191,11 +193,11 @@ tail -n +8 2026-reading.md| sort -t\| -k 8 -n
 
 ## What Awards Have Not Yet Been Awarded this Year
 
-grep -F -v -f <(grep -l "$(date +%Y)" *.md) <(ls *{award,medal,prize}*.md)
+grep -F -v -f <(grep -l "$(date +%Y)" -- *.md; grep -l "$(($(date +%Y)-1))" nebula-award.md) <(ls -- *{award,medal,prize}*.md)
 
 ## Other awards (for loop audits)
 
-grep "^Count:" *{award,medal,prize}*.md
+grep "^Count:" ./*{award,medal,prize}*.md
 
 ### Awards by Year
 for award in *{award,medal,prize}*.md; do
@@ -230,6 +232,7 @@ done| sort -rn
 for award in *{award,medal,prize}*.md; do
   if grep -q "##" "${award}"; then
     head -1 "${award}"
+    # shellcheck disable=SC2207
     lines=($(grep -n "^## " "${award}"| sed 's/:.*//'))
     for i in $(seq ${#lines[@]}); do
       if [[ $i -eq "${#lines[@]}" ]]; then
@@ -275,7 +278,7 @@ done
 
 ### Updates to File since a Given Date
 
-git diff $(git rev-list -n 1 --before="2026-05-01" HEAD -- 2026-reading.md)..HEAD -- 2026-reading.md
+git diff "$(git rev-list -n 1 --before="2026-05-01" HEAD -- 2026-reading.md)"..HEAD -- 2026-reading.md
 
 ## TBR Documents
 
