@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Rouse | China Miéville | 2026 | U.K. | 3.5 | audio | 1246 | literary, fantasy, horror, sci-fi, mystery, speculative |
 | Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems | Martin Kleppmann, Chris Riccomini | 2026 | Germany, U.S. | 4.75 | print | 602 | nonfiction, computer science, technology |
 | The Fifth Season | N.K. Jemisin | 2015 | U.S. | 5.0 | print | 465 | fantasy, sci-fi, dystopian, queer, Hugo Award, reread |
 | Autobiography of Red | Anne Carson | 1998 | Canada | 3.0 | audio | 149 | poetry, classics, literary, fantasy, mythology, LGBT, retelling, queer, Nobel Prize |
