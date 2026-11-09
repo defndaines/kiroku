@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| No Such Thing as Monday | Siân Hughes | 2026 | U.K. | 4.5 | audio | 224 | literary, contemporary |
 | Crime Fictions: How Racist Lies Built a System of Mass Wrongful Conviction | Nicole Gonzalez Van Cleve | 2026 | U.S. | 5.0 | audio | 336 | nonfiction, history, race |
 | The Rouse | China Miéville | 2026 | U.K. | 3.5 | audio | 1246 | literary, fantasy, horror, sci-fi, mystery, speculative |
 | Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems | Martin Kleppmann, Chris Riccomini | 2026 | Germany, U.S. | 4.75 | print | 602 | nonfiction, computer science, technology |
