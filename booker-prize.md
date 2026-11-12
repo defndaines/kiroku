@@ -74,6 +74,7 @@ Count: 14
 - [x] 2023: Paul Lynch _Prophet Song_
 - [x] 2024: Samantha Harvey _Orbital_
 - [x] 2025: David Szalay _Flesh_
+- [ ] 2026: M. John Harrison _The End of Everything_
 
 ## International Booker Prize (5)
 

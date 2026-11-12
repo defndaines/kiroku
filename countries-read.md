@@ -110,7 +110,7 @@ Count: 107
 - [x] Tunisia: [_Tunis to Sydney_](https://www.goodreads.com/book/show/202454816-tunis-to-sydney) Meriam Carnouche, Christian Carnouche
 - [x] Jordan: [_The True True Story of Raja the Gullible (and His Mother)_](https://www.goodreads.com/book/show/228110355-the-true-true-story-of-raja-the-gullible) Rabih Alameddine
 - [x] Belgium: [_King Leopold’s Ghost_](https://www.goodreads.com/book/show/40961621-king-leopold-s-ghost) Adam Hochschild; [_I Who Have Never Known Men_](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men) Jacqueline Harpman
-- [x] Haiti: [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James; [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi
+- [x] Haiti: [_The Black Jacobins_](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) C.L.R. James; [_American Street_](https://www.goodreads.com/book/show/30256109-american-street) Ibi Zoboi; [_Dèy_](https://www.goodreads.com/book/show/244445035) Edwidge Danticat
 - [x] Portugal: [_Blindness_](https://www.goodreads.com/book/show/40495148-blindness) José Saramago
 - [x] Bolivia: [_Let Me Speak!_](https://www.goodreads.com/book/show/56397.Let_Me_Speak_Testimony_of_Domitila_a_Woman_of_the_Bolivian_Mines) Moema Viezzer, Domitila B. De Chungara; [_Women Talking_](https://www.goodreads.com/book/show/40046077-women-talking) Miriam Toews
 - [ ] United Arab Emirates:

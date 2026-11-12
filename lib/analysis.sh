@@ -69,12 +69,12 @@ tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//; s/ *$
   grep -v "U\."| grep -v Canada| grep -v Australia| sort -u
 
 tail -n +8 2026-reading.md| cut -d \| -f 5| sed 's/, /\n/g'| sed 's/^ *//; s/ *$//'|
-  grep -v "U\."| grep -v Canada| grep -v Australia| sort|
+  grep -v "U\."| grep -v Canada| grep -v Australia| grep -v Ireland| sort|
   uniq -c| sort -nr| head
 
 ### Count of non-U.S/U.K./Canada/Australia work
 
-tail -n +8 2026-reading.md| grep -v Canada| grep -v Australia| grep -vc "U\.[SK]\."
+tail -n +8 2026-reading.md| grep -v Canada| grep -v Australia| grep -v Ireland| grep -vc "U\.[SK]\."
 
 ## Genres
 
