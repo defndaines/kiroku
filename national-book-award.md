@@ -99,6 +99,7 @@ Count: 23
 - [ ] 2023: Justin Torres _Blackouts_
 - [x] 2024: Percival Everett _James_
 - [x] 2025: Rabih Alameddine _The True True Story of Raja the Gullible (and His Mother)_
+- [ ] 2026: Hannah Lillith Assadi _Paradiso 17_
 <!-- Fiction -->
 
 ## Most Original Book (1)
@@ -160,6 +161,7 @@ Count: 23
 - [x] 2023: Ned Blackhawk _The Rediscovery of America: Native Peoples and the Unmaking of U.S. History_
 - [x] 2024: Jason De León _Soldiers and Kings: Survival and Hope in the World of Human Smuggling_
 - [x] 2025: Omar El Akkad _One Day, Everyone Will Have Always Been Against This_
+- [ ] 2026: Abdelrahman ElGendy _Huna: A Memoir of Revolution, Prison, and Becoming_
 <!-- Nonfiction -->
 
 ## Young People’s Literature (3)
@@ -194,6 +196,7 @@ Count: 23
 - [ ] 2023: Dan Santat _A First Time for Everything_
 - [ ] 2024: Shifa Saltagi Safadi _Kareem Between_
 - [ ] 2025: Daniel Nayeri _The Teacher of Nomad Land: A World War II Story_
+- [ ] 2026: David Levithan, Gabriel Duckels _he Fight of Our Lives: AIDS in America_
 <!-- Young People’s Literature -->
 
 ## Translated Literature (4)
@@ -229,4 +232,5 @@ Count: 23
 - [ ] 2023: Stênio Gardel, Bruna Dantas Lobato, _The Words that Remain_
 - [x] 2024: Yáng Shuāng-zǐ _Taiwan Travelogue_
 - [ ] 2025: Gabriela Cabezón Cámara _We Are Green and Trembling_
+- [ ] 2026: Vicente Luis Mora, Rahul Bery (translator) _Centroeuropa_
 <!-- Translated Literature -->

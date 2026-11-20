@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Obsolete: The AI Industry’s Trillion Dollar Race to Replace Us―and How to Stop It | Garrison Lovely | 2026 | U.S. | 4.25 | audio | 384 | nonfiction, history, politics, economics, artificial intelligence, technology, science |
 | Walkable City: How Downtown Can Save America, One Step at a Time | Jeff Speck | 2012 | U.S. | 4.0 | audio | 312 | nonfiction, urban planning, urbanism, architecture |
 | The Prison Industry: How It Works and Who Profits | Bianca Tylek, Worth Rises | 2025 | U.S. | 4.5 | print | 200 | nonfiction, politics, law |
 | Dèy | Edwidge Danticat | 2026 | Haiti | 4.75 | audio | 256 | literary, contemporary, family drama |
