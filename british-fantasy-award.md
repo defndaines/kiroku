@@ -10,7 +10,7 @@ Awards announced in October or early November.
 
 https://britishfantasysociety.org/about-the-bfs/the-british-fantasy-awards/
 
-Count: 15
+Count: 16
 
 ## Novel (1)
 
@@ -119,7 +119,7 @@ Count: 15
 - [x] 2026: _The River Has Roots_, Amal El-Mohtar
 <!-- Novella -->
 
-## Short Fiction (1)
+## Short Fiction (2)
 
 - [ ] 1973: _The Fallible Fiend_, L Sprague de Camp
 - [ ] 1974: _The Jade Man’s Eyes_, Michael Moorcock
@@ -174,7 +174,7 @@ Count: 15
 - [ ] 2023: _Morta_, James Bennett
 - [ ] 2024: _The Brazen Head of Westinghouse_, Tim Major, (IZ Digital)
 - [x] 2025: _Loneliness Universe_, Eugenia Triantafyllou
-- [ ] 2026: _Shadow Jack_, CL Hellisen
+- [x] 2026: _Shadow Jack_, CL Hellisen
 <!-- Short Fiction -->
 
 ## Comic / Graphic Novel (5)

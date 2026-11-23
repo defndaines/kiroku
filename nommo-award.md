@@ -10,7 +10,7 @@ vote for winners.
 
 https://www.africansfs.com/
 
-Count: 3
+Count: 4
 
 ## Novel (0)
 
@@ -22,6 +22,7 @@ Count: 3
 - [ ] 2022: T.L. Huchu _The Library of the Dead_
 - [ ] 2024: Wole Talabi _Shigidi and the Brass Head of Obalufon_
 - [ ] 2025: Tlotlo Tsamaase _Womb City_
+- [ ] 2026: Nkereuwem Albert _The Bone River_
 
 ## Novella (1)
 
@@ -33,8 +34,10 @@ Count: 3
 - [ ] 2022: Nnedi Okorafor _Remote Control_
 - [ ] 2024: Stephen Embleton _Undulation_
 - [ ] 2025: Suyi Davies Okungbowa _Lost Ark Dreaming_
+- [ ] 2026: Nnedi Okorafor _One Way Witch_
+- [ ] 2026: Tobi Ogundiran _At the Fount of Creation_
 
-## Short Story (1)
+## Short Story (2)
 
 - [ ] 2017: Lesley Nneka Arimah “Who Will Greet You At Home”
 - [ ] 2017: Tendai Huchu “The Marriage Plot”
@@ -47,6 +50,8 @@ Count: 3
 - [ ] 2022: Pemi Aguda “Masquerade Season”
 - [ ] 2024: Gabrielle Emem Harry “A Name is a Plea and a Prophecy”
 - [x] 2025: Chisom Umeh “From Across Time”
+- [x] 2026: Somto Ihezue “We Begin Where Infinity Ends”
+
 
 ## Graphic Novel (1)
 
@@ -57,4 +62,5 @@ Count: 3
 - [ ] 2021: Nana Akosua Hanson & AnimaxFYB _MoonGirls_
 - [x] 2022: Roye Okupe & Godwin Akpan _Iyanu: Child of Wonder, Volume 2_
 - [ ] 2024: Mamode Ogbewele and Chigozie Amadi _Grimm’s Assistant_
-- [ ] 2024: John Uche _Celestial Eyes_
+- [ ] 2025: John Uche _Celestial Eyes_
+- [ ] 2026: John Uche _Celestial Eyes Vol. 2: The Second Cycle_
