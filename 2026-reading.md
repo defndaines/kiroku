@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| Roams the Planet of Our Grief | Natalia Theodoridou | 2026 | Greece | 4.0 | audio | 11 | short story, literary, sci-fi, LGBT |
 | The Job | Elizabeth Bear | 2026 | U.S. | 4.5 | audio | 52 | novella, literary, sci-fi |
 | How Does One Person Kill a Mountain? | Shi Heiyao, Andy Dudak (translator) | 2026 | China, Malawi | 3.0 | audio | 24 | novelette, sci-fi, literary |
 | Shadow Jack | C.L. Hellisen | 2025 | South Africa | 3.0 | ebook | 51 | novelette, fantasy, horror, British Fantasy Award |
