@@ -5,6 +5,7 @@ fiction otherwise). The most recently finished book is on top.
 
 | Title | Author | Year | Country | Rating | Format | Pages | Tags |
 | --- | --- | :---: | --- | :---: | --- | ---: | --- |
+| The Obelisk Gate | N.K. Jemisin | 2016 | U.S. | 5.0 | print | 391 | fantasy, sci-fi, dystopian, speculative, post-apocalyptic, Hugo Award, reread |
 | The Rice Paper Bleed | Tia Tashiro | 2026 | U.S. | 4.0 | audio | 10 | short story, horror |
 | Roams the Planet of Our Grief | Natalia Theodoridou | 2026 | Greece | 4.0 | audio | 11 | short story, literary, sci-fi, LGBT |
 | The Job | Elizabeth Bear | 2026 | U.S. | 4.5 | audio | 52 | novella, literary, sci-fi |
